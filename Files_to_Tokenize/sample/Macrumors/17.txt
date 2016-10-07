@@ -1,0 +1,2123 @@
+<article>
+	<pid>17</pid>
+	<title>Next-Generation iPhone Parts Caught on Video? - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/05/next-generation-iphone-parts-caught-on-video/</url>
+	<date>Wednesday January 5, 2011 9:51 am PST</date>
+	<author>Eric Slivka</author>
+	<text>Boy Genius Reportpointsto aYouTube videofrom smartphone parts firmGlobal Direct Partsclaiming to show a comparison between parts from the iPhone 4 and an unreleased iPhone model that the company suggests may either be the CDMA iPhone 4 rumored for release in the near future or a fifth-generation iPhone.  Due to the presence of a SIM-card slot, which is not required for CDMA phones, it would appear more likely that the device in question is a fifth-generation iPhone if it is indeed legitimate.  It is of course possible that the part is either from a well-done fake iPhone 4 or perhaps an alternate design for the iPhone 4 that was ultimately not used.The video highlights a number of similarities and a few differences from the current iPhone when it comes to interior parts and cables.  A look at the"middle plate"that contains the stainless steel band that wraps around the edge of the device and provides the device's antennas that have been the cause of such controversy on the iPhone 4 reveals a few differences between the two devices : the break points in the frame between the two antennas have been moved to different locations, indicating that the antenna design has been tweaked despite a very similar overall appearance for the new iPhone.  The shift in antenna design has also necessitated a slight adjustment in the location of several other physical features, most significantly the mute switch.Comparison of claimed next-generation iPhone (left) and iPhone 4 (right) showing differences in antenna break pointsThe video concludes with a teaser claiming that more information on LCDs and motherboards is coming on the company's site, with additional information to be released next week.Update: The YouTube video showing the comparison has been removed, citing a copyright complaint from Apple.  Global Direct Parts has also removed its parts listings for the device.</text>
+	<score>302</score>
+</article>
+<comment>
+	<cid>11669301</cid>
+	<date>Jan 5, 2011, 01:18 PM</date>
+	<author>gorjan</author>
+	<text>Hurry, start stealing phones in pubs in the San Francisco area!!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669302</cid>
+	<date>Jan 5, 2011, 01:18 PM</date>
+	<author>mrblack927</author>
+	<text>This is just getting embarrassing</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669306</cid>
+	<date>Jan 5, 2011, 01:19 PM</date>
+	<author>kirky29</author>
+	<text>Some real Apple/MacRumors coming out today!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669315</cid>
+	<date>Jan 5, 2011, 01:20 PM</date>
+	<author>Small White Car</author>
+	<text>I like how he's like &quot;this could fix the antena issue.&quot;Yeah, or it's an older version that's even worse and they added the separators to make it better!I mean, I have no idea, but neither does he. We have no idea of knowing what this is.</text>
+	<score>-1</score>
+</comment>
+<comment>
+	<cid>11669321</cid>
+	<date>Jan 5, 2011, 01:21 PM</date>
+	<author>dissdnt</author>
+	<text>2 legit 2 quit.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669335</cid>
+	<date>Jan 5, 2011, 01:23 PM</date>
+	<author>kryptonitejesus</author>
+	<text>Incoming storm of Verizon rumors.I mean, I feel pretty confident the Verizon iPhone is on the horizon, but I like most other people are getting tired of hearing about everyone speculating on when it's coming, and I for one will just enjoy it when it actually arrives.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669337</cid>
+	<date>Jan 5, 2011, 01:23 PM</date>
+	<author>iPhaithful</author>
+	<text>Oh boy....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669338</cid>
+	<date>Jan 5, 2011, 01:23 PM</date>
+	<author>Mal</author>
+	<text>There's too much detail and similarities showing Apple's construction for this not to be real.  Whether it's an iPhone 5 or just a different version of the iPhone 4 that didn't make it as the final design, though, is anyone's guess.  I think there's a decent chance it could really be the iPhone 5, but sure wouldn't guarantee it.EDIT: It is, however, safe to say it's probably not the Verizon iPhone, unless they do a dual-mode design that can do both CDMA and GSM.  Verizon's iPhone wouldn't need a SIM card slot.jW</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669341</cid>
+	<date>Jan 5, 2011, 01:24 PM</date>
+	<author>Dragonforce</author>
+	<text>And it begins... again.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669348</cid>
+	<date>Jan 5, 2011, 01:25 PM</date>
+	<author>kenzbud</author>
+	<text>Wirelessly posted (Apple iPhone 3G 16GB White: Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)This looks very believable.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669356</cid>
+	<date>Jan 5, 2011, 01:26 PM</date>
+	<author>noodlelegs</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Iphone 5 has no front facing camera hole? How do they explain that one?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669369</cid>
+	<date>Jan 5, 2011, 01:28 PM</date>
+	<author>stewart715</author>
+	<text>Not saying that this is a Verizion/CDMA iPhone but just because there's a sim card slot doesn't mean that it isn't (if it was a CDMA/GSM Global Phone like the Blackberrys run on Verizon).But who the hell knows, it's probably iPhone 5 exclusively for Cingular (I bet they change the name back). Kidding, obviously.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669380</cid>
+	<date>Jan 5, 2011, 01:29 PM</date>
+	<author>mrblack927</author>
+	<text>Okay I'll be the one to say it.FAKE! Apple would never design something with SEAMS like that! China fake and a bad one at that!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669382</cid>
+	<date>Jan 5, 2011, 01:29 PM</date>
+	<author>jmmo20</author>
+	<text>Quote:Originally Posted bynoodlelegsWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Iphone 5 has no front facing camera hole? How do they explain that one?that the front camera for hte iphone 5 is smaller and no longer needs a whole in the middle plate to make room for the cam chip?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669384</cid>
+	<date>Jan 5, 2011, 01:29 PM</date>
+	<author>Time Less</author>
+	<text>Quote:Originally Posted bynoodlelegsWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Iphone 5 has no front facing camera hole? How do they explain that one?yeah i'm thinking it's an early prototype.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669385</cid>
+	<date>Jan 5, 2011, 01:30 PM</date>
+	<author>rritterson</author>
+	<text>I like stewart715's take, but I would go one farther: It's a CDMA/GSM phone that will be for sale at both verizon and AT&amp;T.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669386</cid>
+	<date>Jan 5, 2011, 01:31 PM</date>
+	<author>Strobe</author>
+	<text>Quote:Originally Posted bynoodlelegsWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Iphone 5 has no front facing camera hole? How do they explain that one?I thought it was missing the rear camera hole, guess I missed something. I was wandering where the main camera hole is. I was thinking maybe this is a &quot;business&quot; version without a camera like some of the BB's.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669393</cid>
+	<date>Jan 5, 2011, 01:31 PM</date>
+	<author>Merthyrboy</author>
+	<text>Maybe it's just an iPhone 4 prototype?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669400</cid>
+	<date>Jan 5, 2011, 01:32 PM</date>
+	<author>BornAgainMac</author>
+	<text>Quote:Originally Posted bymrblack927Okay I'll be the one to say it.FAKE! Apple would never design something with SEAMS like that! China fake and a bad one at that!Or brilliant marketing by Apple to make this leak possible to get the buzz out for free.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669405</cid>
+	<date>Jan 5, 2011, 01:33 PM</date>
+	<author>Prof.</author>
+	<text>Holy hell his voice annoying!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669413</cid>
+	<date>Jan 5, 2011, 01:33 PM</date>
+	<author>Mliii</author>
+	<text>Quote:Originally Posted byDragonforceAnd it begins... again.Yep! Let the madness begin anew!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669418</cid>
+	<date>Jan 5, 2011, 01:34 PM</date>
+	<author>mrial</author>
+	<text>I was wondering if the camera hole cut-out was removed in the shield to address the light bleed-though issue with the white iPhone?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669425</cid>
+	<date>Jan 5, 2011, 01:35 PM</date>
+	<author>jclardy</author>
+	<text>I bet this is a Verizon iPhone or the iPhone &quot;4.5&quot;The extra plastic separators are probably their to prevent the &quot;death grip&quot;. Right now the wifi and 3G antennas are right next to each other. By separating them they can be on both sides meaning it would only affect anything if you put a metal case on it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669440</cid>
+	<date>Jan 5, 2011, 01:36 PM</date>
+	<author>Chase R</author>
+	<text>Very cool. But I think I can manage with my current iPhone 4 until a true LTE one comes out. I figured out how to hold mine</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669448</cid>
+	<date>Jan 5, 2011, 01:38 PM</date>
+	<author>drnen</author>
+	<text>Look very closely at the fully constructed &quot;iphone5&quot;You can tell that the holder never completely reveals the side where the volume buttons are where the notch is supposed to have changed. Look when its facing completely forward- you can just barely make out the notch still on the top in the same place where it is on iphone4. The 2 completely constructed phones are just 2 iphone4's.  I dunno whats going on when they're taken down, but when hes showing them totally put together, they are just 2 iphone 4's. Trickery!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669449</cid>
+	<date>Jan 5, 2011, 01:38 PM</date>
+	<author>Warbrain</author>
+	<text>Regardless of if this is a prototype of an old or new device...someone is in trouble.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669452</cid>
+	<date>Jan 5, 2011, 01:38 PM</date>
+	<author>goobot</author>
+	<text>i think it is a 4 prototype. if not defiantly a 5 prototype</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669453</cid>
+	<date>Jan 5, 2011, 01:38 PM</date>
+	<author>Diode</author>
+	<text>Quote:Originally Posted bymrblack927This is just getting embarrassingHow is this embarrassing?  When your on the verge of producing millions of units with dozens of different vendors, it's a lot tougher to keep things under wraps.For a June/July launch date they will need to begin producing within the next few months.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669461</cid>
+	<date>Jan 5, 2011, 01:39 PM</date>
+	<author>mrblack927</author>
+	<text>Quote:Originally Posted byBornAgainMacOr brilliant marketing by Apple to make this leak possible to get the buzz out for free.Ah, deja vu. We should do this every year.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669462</cid>
+	<date>Jan 5, 2011, 01:39 PM</date>
+	<author>swarmster</author>
+	<text>Yep, probably the Verizon iPhone. Apple wouldn't half-ass it with CDMA-only. I'm sure they'd like their customers who travel to be able to continue using their phones outside of the US.Didn't MacRumors even report on Qualcomm's CDMA/GSM hybrid chip? The antenna bands are probably retuned for it also, hence the new notches.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669478</cid>
+	<date>Jan 5, 2011, 01:42 PM</date>
+	<author>alywa</author>
+	<text>Quote:Originally Posted byrrittersonI like stewart715's take, but I would go one farther: It's a CDMA/GSM phone that will be for sale at both verizon and AT&amp;T.That's my guess too... it is the iPhone 4.5G, coming in black and white, for CDMA and GSM carriers.  The Droid Pro has been out for a couple of months... no reason the iP4.5 couldn't use similar chipsets.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669496</cid>
+	<date>Jan 5, 2011, 01:44 PM</date>
+	<author>RolandVet</author>
+	<text>No one considering that, if this is real, it might be for iPodT instead of iPhone? to keep the looks alike. The lack of camera makes me think its an iPod, not an iPhone.Who's with me?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669502</cid>
+	<date>Jan 5, 2011, 01:45 PM</date>
+	<author>themadrussian</author>
+	<text>Looks like this is the white iPhone 4 or the Verizon iPhone 4 (with dual-mode CDMA/GSM) or this is the iPhone 5. Or both. Or neither.Regardless, I don't see how moving the antenna break point from next to the headphone jack down to the area above the mute switch and adding another break point on the top right side of the phone can make any difference with the &quot;death grip&quot; issue:The &quot;death grip&quot; issue occurs most significantly when one bridges the UMTS/GSM antenna and the Bluetooth/WiFi/GPS antenna. Cell-phone manufacturers are, for regulatory and SAR reasons, not allowed to place the bulk of the cellphone antenna at the top of the phone (part closest to the brain), and so unless Apple has shortened the antennas and left a gap along the bottom (which doesn't make much sense), I can't see how this would change the death grip issue at all. Plus, one of the iPhone 4 &quot;gaps&quot; is cosmetic anyway, so who knows.Therefore, could it make sense that this new phone has three antennas, rather than two? The extra break point might be there to separate the CDMA antenna from the UMTS/GSM antenna and the Bluetooth/WiFi/GPS antenna. The bottom section and the right section of the phone could be for GSM, the left section for CDMA, and the top section for Bluetooth/WiFi/GPS. Since the CDMA and GSM antennas will never be on at the same time, there would be no death grip issue when bridging the two with your hand, and since you could never really bridge the gap on the top right corner of the phone, there would be no death grip issue from GSM/WiFi? The only thing of which I am not sure is whether the signal attenuation occurs because you're bridging two active antennas or whether you're just bridging two antennas together (i.e. does bridging an inactive antenna with an active one cause signal degradation or not, or is it marginal).Just my thoughts on that. Maybe it makes sense. Perhaps someone more knowledgeable about antenna hardware could chime in.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669503</cid>
+	<date>Jan 5, 2011, 01:45 PM</date>
+	<author>JoJoCal19</author>
+	<text>This changes everything. Again.Just a thought, that sim slot could be for LTE. Not likely, but still.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669505</cid>
+	<date>Jan 5, 2011, 01:45 PM</date>
+	<author>GCardoso</author>
+	<text>This changes everything... again.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669507</cid>
+	<date>Jan 5, 2011, 01:46 PM</date>
+	<author>Compile 'em all</author>
+	<text>Video looks legit and actually very informative. I wonder how many hits that video will get within the next few hours.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669508</cid>
+	<date>Jan 5, 2011, 01:46 PM</date>
+	<author>RoboCop001</author>
+	<text>Are some people saying there's a missing camera? They're both pretty visible, it's just that the internal holes are a bit different.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669509</cid>
+	<date>Jan 5, 2011, 01:46 PM</date>
+	<author>yayitsezekiel</author>
+	<text>Quote:Originally Posted byswarmsterYep, probably the Verizon iPhone. Apple wouldn't half-**** it with CDMA-only. I'm sure they'd like their customers who travel to be able to continue using their phones outside of the US.Didn't MacRumors even report on Qualcomm's CDMA/GSM hybrid chip? The antenna bands are probably retuned for it also, hence the new notches.Also Verizon announced that their 4G would be using SIM cards. I'm not saying anything, but it could be a possibility.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669512</cid>
+	<date>Jan 5, 2011, 01:47 PM</date>
+	<author>Donz0r</author>
+	<text>I bet the antenna have moved so that just the top part and the bottom part are the antennas (hence the new black strip locations)Also a SIM slot does not rule out CDMA, There's no way Apple's going to sell 2 versions one for verizon and one for AT&amp;T.  It will be one phone that works on both with the hybrid cdma/gsm chip</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669514</cid>
+	<date>Jan 5, 2011, 01:47 PM</date>
+	<author>0815</author>
+	<text>This is probably an early prototype of the iPhone4 ... would be surprised if the iPhone5 is already in a stage where they have the final parts (or decent looking development parts)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669517</cid>
+	<date>Jan 5, 2011, 01:48 PM</date>
+	<author>Buschmaster</author>
+	<text>Quote:Originally Posted byTime Lessyeah i'm thinking it's an early prototype.Exactly. It was close to the late version of the iPhone 4 but that this is actually from BEFORE the iPhone 4.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669527</cid>
+	<date>Jan 5, 2011, 01:49 PM</date>
+	<author>dpierre</author>
+	<text>That's funny, I thought a antenna problem didn't exist...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669535</cid>
+	<date>Jan 5, 2011, 01:51 PM</date>
+	<author>DrRadon</author>
+	<text>Quote:Originally Posted bymrblack927This is just getting embarrassingThey got me at a point at wich i see this as viral marketing to keep the geeks entertained. It´s like Lost just with a plan and therfore a much better conclusion. :-)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669539</cid>
+	<date>Jan 5, 2011, 01:52 PM</date>
+	<author>Diode</author>
+	<text>Quote:Originally Posted bythemadrussianLooks like this is the white iPhone 4 or the Verizon iPhone 4 (with dual-mode CDMA/GSM) or this is the iPhone 5. Or both. Or neither.Regardless, I don't see how moving the antenna break point from next to the headphone jack down to the area above the mute switch and adding another break point on the top right side of the phone can make any difference with the &quot;death grip&quot; issue:The &quot;death grip&quot; issue occurs most significantly when one bridges the UMTS/GSM antenna and the Bluetooth/WiFi/GPS antenna. Cell-phone manufacturers are, for regulatory and SAR reasons, not allowed to place the bulk of the cellphone antenna at the top of the phone (part closest to the brain), and so unless Apple has shortened the antennas and left a gap along the bottom (which doesn't make much sense), I can't see how this would change the death grip issue at all. Plus, one of the iPhone 4 &quot;gaps&quot; is cosmetic anyway, so who knows.Therefore, could it make sense that this new phone has three antennas, rather than two? The extra break point might be there to separate the CDMA antenna from the UMTS/GSM antenna and the Bluetooth/WiFi/GPS antenna. The bottom section and the right section of the phone could be for GSM, the left section for CDMA, and the top section for Bluetooth/WiFi/GPS. Since the CDMA and GSM antennas will never be on at the same time, there would be no death grip issue when bridging the two with your hand, and since you could never really bridge the gap on the top right corner of the phone, there would be no death grip issue from GSM/WiFi? The only thing of which I am not sure is whether the signal attenuation occurs because you're bridging two active antennas or whether you're just bridging two antennas together (i.e. does bridging an inactive antenna with an active one cause signal degradation or not, or is it marginal).Just my thoughts on that. Maybe it makes sense. Perhaps someone more knowledgeable about antenna hardware could chime in.On the supposed &quot;iphone 5&quot; there are now three pieces.  If one of those pieces is dead space (IE not a antenna) then I could see this fixing the issue as you couldn't bridge the 2 antennas any more.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669546</cid>
+	<date>Jan 5, 2011, 01:54 PM</date>
+	<author>ChazUK</author>
+	<text>Wirelessly posted (Mozilla/5.0 (Linux; U; Android 2.3.1; en-gb; Nexus S Build/GRH78) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Fake parts or not, that was a very interesting video.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669549</cid>
+	<date>Jan 5, 2011, 01:54 PM</date>
+	<author>Pablo90</author>
+	<text>I don't get this: no front-camera hole? WTF? It means they're gonna put a thinner camera that doesn't need an hole in the frame?And what about the other missing hole at the bottom? What was it for?And most importantly, did they really need to move the volume-control buttons? Do you guys realize what a mess it will be with the bumpers and other cases?Unbelievable..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669552</cid>
+	<date>Jan 5, 2011, 01:54 PM</date>
+	<author>patsfan83</author>
+	<text>Man that headphone jack is going to have to go if we want the iPhone to get any thinner.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669553</cid>
+	<date>Jan 5, 2011, 01:54 PM</date>
+	<author>vincentchan</author>
+	<text>Quote:Originally Posted bydrnenLook very closely at the fully constructed &quot;iphone5&quot;You can tell that the holder never completely reveals the side where the volume buttons are where the notch is supposed to have changed. Look when its facing completely forward- you can just barely make out the notch still on the top in the same place where it is on iphone4. The 2 completely constructed phones are just 2 iphone4's.  I dunno whats going on when they're taken down, but when hes showing them totally put together, they are just 2 iphone 4's. Trickery!Yeah I see it too (at around 0:25 when he's only holding the &quot;iPhone 5?&quot;). But how to you explain the two different middle plates? Chinese KIRF?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669554</cid>
+	<date>Jan 5, 2011, 01:54 PM</date>
+	<author>maturola</author>
+	<text>OH Great!!!.  Here we go iPhone5 Rummors start!!! Sweet!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669556</cid>
+	<date>Jan 5, 2011, 01:55 PM</date>
+	<author>mrblack927</author>
+	<text>Quote:Originally Posted byDrRadonIt´s like Lost just with a plan and therfore a much better conclusion. :-)Haha I like that.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669563</cid>
+	<date>Jan 5, 2011, 01:56 PM</date>
+	<author>SilentLoner</author>
+	<text>I dont know why I think this but I am gonna call ******** on this one. It just doesnt seem much and I dont like how the fella is speculating with factual stuff. this is probably to improve video chat... ok mate</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669581</cid>
+	<date>Jan 5, 2011, 01:58 PM</date>
+	<author>darkplanets</author>
+	<text>I'm calling this as a prior generation/unreleased device.The SIM card slot + missing camera holes are definitely fishy.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669583</cid>
+	<date>Jan 5, 2011, 01:58 PM</date>
+	<author>ipedro</author>
+	<text>The new phone band has an additional section. The top part is now separated by a seam on both the left and right, rather than a single seam on the top. This may be for an additional antenna -- for CDMA.I don't think Apple will sell separate versions for CDMA and GSM. I imagine that they've tweaked iPhone4 like they did for the 3GS: Improvements to speed, more memory, refined antenna system to prevent the death grip, different camera hardware to allow for white (or multiple colours) plates and overall improved/smaller components.I don't expect to see an entirely new phone (iPhone 5) this year, just an improved version of iPhone4, marketed as such.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669590</cid>
+	<date>Jan 5, 2011, 01:59 PM</date>
+	<author>sweex</author>
+	<text>To me it looks like an old iPhone 4 prototype.It seems to me that all the parts of the iPhone 4 are better/cheaper/smaller:The port flex ribbon is larger, audio flex ribbon is a lot bigger.The &quot;new&quot; middleplate is made of one more part, this seems complexer and so more expensive to me. The lacking of a back camera hole could mean two things: they reduced the size of the camera wile keeping the same quality (Steve made a big point of the fact that there sensors are big and have a lot of MP so I don't think he's gonna lower the quality of those) or it was a prototype which didn't had a camera yet.I really don't think that a little extra metal band will address signal issues...3 extra screws (4 if you count the one at the missing camera hole) means more costs, and it is very possible that Apple decided that the structure was rigid enough without those.This is just the line of thoughts of my critic mind, I'm not saying that it couldn't be the new iPhone 5 but I really think you can look at it in many different ways.Besides it like a neat way to track down a leak and so this looks more probable to me.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669599</cid>
+	<date>Jan 5, 2011, 02:00 PM</date>
+	<author>themadrussian</author>
+	<text>Quote:Originally Posted byDiodeOn the supposed &quot;iphone 5&quot; there are now three pieces.  If one of those pieces is dead space (IE not a antenna) then I could see this fixing the issue as you couldn't bridge the 2 antennas any more.You would need four pieces to create true dead space between both antennas, because with three there will always be a spot at which they meet. That spot could be somewhere you are unlikely to touch (the top of the phone) Still, it's interesting to theorize.This seems like it could be an early prototype iPhone 4, as the lack of hole for the camera and extra symmetrical seam (moving the top seam down and adding the seam on the right side) seems like an earlier plan that was scrapped because the extra seam was deemed unnecessary and the seam above the mute switch was deemed unsightly. But again, who knows?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669600</cid>
+	<date>Jan 5, 2011, 02:00 PM</date>
+	<author>josh8711</author>
+	<text>Quote:Originally Posted byDragonforceAnd it begins... again.oh. my. god. you are right.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669605</cid>
+	<date>Jan 5, 2011, 02:01 PM</date>
+	<author>segfaultdotorg</author>
+	<text>Based on history, I would imagine that the mid-2011 iPhone will probably be a mildly refreshed version of the current model, and will come in 32 and 64 GB sizes.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669609</cid>
+	<date>Jan 5, 2011, 02:02 PM</date>
+	<author>josh8711</author>
+	<text>Quote:Originally Posted byWarbrainRegardless of if this is a prototype of an old or new device...someone is in trouble.I bet that guy already has a new door on order :P</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669610</cid>
+	<date>Jan 5, 2011, 02:02 PM</date>
+	<author>UCPonch</author>
+	<text>So this is the iPhone 4S</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669612</cid>
+	<date>Jan 5, 2011, 02:02 PM</date>
+	<author>ivladster</author>
+	<text>I think the antennas might be switched now. Small, top part is now WIFI, Bluetooth and GPS and the rest of the metal is for reception, a 30% increase of space. In this case the two bottom black lines are just cosmetic, making the death grip less likely.Unless someone holds their phone by the whole top part.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669613</cid>
+	<date>Jan 5, 2011, 02:02 PM</date>
+	<author>Xtremehkr</author>
+	<text>I was hoping that the next iPhone was going to be made from liquid metal so that the metal would not permanently dent when the phone is dropped. It sounds like Apple is going to use the liquid metal in new battery technology though.http://hothardware.com/News/Phones-C...dized-In-2011/According to that link, the US is also getting universal charge ports this year as well. The port on the iPhone 5 appears to be a 9 pin like the current one is. That doesn't mean that Apple doesn't plan on using a dongle or something.People are going to learn to hate that dongle eventually though because it would be a real pain in the butt if you managed to lose it.I'm not convinced that it is the iPhone 5. There are often many variants of prototypes made and there is really nothing to differentiate these parts from a future product or a recent prototype.Every time a company does this they sure do get a lot of attention though. Probably not anymore business from Apple but definitely a lot of free publicity.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669619</cid>
+	<date>Jan 5, 2011, 02:04 PM</date>
+	<author>fishmoose</author>
+	<text>I'm more inclined to believe this is an iPhone 4 prototype rather than an iPhone 5 prototype. How many people can actually have access to prototypes of the iPhone 5 at this point? I bet its not many.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669658</cid>
+	<date>Jan 5, 2011, 02:10 PM</date>
+	<author>BryanLyle</author>
+	<text>So, by slightly moving the position of the mute switch lower, none of the current iPhone 4 bumpers will fit.To me, this proves that this is 100% legit.  That's EXACTLY something Apple would do.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669667</cid>
+	<date>Jan 5, 2011, 02:10 PM</date>
+	<author>Michaelgtrusa</author>
+	<text>LOLOLOL! I don't know here.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669670</cid>
+	<date>Jan 5, 2011, 02:11 PM</date>
+	<author>LegendKillerUK</author>
+	<text>Quote:Originally Posted byfishmooseI'm more inclined to believe this is an iPhone 4 prototype rather than an iPhone 5 prototype. How many people can actually have access to prototypes of the iPhone 5 at this point? I bet its not many.True, but Apple started work on the iPhone 4 only six months after releasing the iPhone 3G so it's not like this is 'early' in the development cycle.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669689</cid>
+	<date>Jan 5, 2011, 02:13 PM</date>
+	<author>Xeperu</author>
+	<text>Quote:Originally Posted by0815This is probably an early prototype of the iPhone4 ... would be surprised if the iPhone5 is already in a stage where they have the final parts (or decent looking development parts)Honestly,I would not be surprised if early prototype i5's are already in the wild with i6 prototypes/components in the labs and i7's in the early stages of dev. Same with iPad3 and 4.I work in an industry where we also do high-tech consumer products, our projects start 3 years before start of production.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669704</cid>
+	<date>Jan 5, 2011, 02:15 PM</date>
+	<author>orangebluedevil</author>
+	<text>Quote:Originally Posted byDiodeOn the supposed &quot;iphone 5&quot; there are now three pieces.  If one of those pieces is dead space (IE not a antenna) then I could see this fixing the issue as you couldn't bridge the 2 antennas any more.Grip your iPhone 4 (or pretend), and notice that your hand touches the right side, right bottom, and left side usually.  Thus even with 4 pieces you are still bridging the left and right.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669720</cid>
+	<date>Jan 5, 2011, 02:18 PM</date>
+	<author>Full of Win</author>
+	<text>That was quite the editing job, felt like 1999.Quote:Originally Posted byjosh8711I bet that guy already has a new door on order :PAnd a bulletproof vest</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669732</cid>
+	<date>Jan 5, 2011, 02:19 PM</date>
+	<author>reticulate</author>
+	<text>I'm agreeing with the people here saying the next iPhone will most likely just be a minor refresh, and this info seems to bear that out.It makes sense from a manufacturing perspective to use a mature design with high yields. It also gives another 12 months for that per-unit cost to keep dropping (if it's a June release).  And we all know Apple likes to have a decent margin.As to CDMA, I honestly can't see them running two concurrent lines.  Especially considering outside the US CDMA is not huge.  It doesn't really make sense to have a Verizon-only model, even with the number of users on that network.  It's messy, and we're running towards the end of 3G over the next couple of years.The big deal would be, I guess, the LTE model that comes out next year.  That gives the networks a chance to build infrastructure and Apple enough time to get the hardware sorted.  I'd also assume a dual-core A4 (A5?) part by that time - this year's revision will likely just run at a higher clock and would probably see release first in the iPad 2.  Not that we'd know anyway, since PA Semi are now part of the Apple 'Cone of Silence'.Of course, this is Apple, so who knows.  I'm just making conservative guesses :P</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669737</cid>
+	<date>Jan 5, 2011, 02:19 PM</date>
+	<author>e-coli</author>
+	<text>Quote:Originally Posted byDonz0rI bet the antenna have moved so that just the top part and the bottom part are the antennasThe antenna has to be at the bottom of the phone per FCC mandate to reduce signal radiation exposure.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669743</cid>
+	<date>Jan 5, 2011, 02:20 PM</date>
+	<author>3goldens</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7)People got to be high if they think Apple would make the same mistake twice.This is just a bunch of horse manure, designed to yank peoples chains.A sucker is born every nano second these days and anyone who believes this crap should be taken out back and shot straight thru the head!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669747</cid>
+	<date>Jan 5, 2011, 02:21 PM</date>
+	<author>elgrecomac</author>
+	<text>With this set of earth shaking set of revelations I will not be able to sleep tonight.  1cm difference on a connector, ribbon cables of different lengths, antenna gaps in different locations! I believe this is a conspiracy set forth by APPLE to stir the masses.I NEED ONE IMMEDIATELY!!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669774</cid>
+	<date>Jan 5, 2011, 02:25 PM</date>
+	<author>Xtremehkr</author>
+	<text>Quote:Originally Posted byBryanLyleSo, by slightly moving the position of the mute switch lower, none of the current iPhone 4 bumpers will fit.To me, this proves that this is 100% legit.  That's EXACTLY something Apple would do.Only they didn't with the last two iPhones. Apparently they did between the 2 and 3G. Still, not as often as every generation, they could be worse.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669777</cid>
+	<date>Jan 5, 2011, 02:25 PM</date>
+	<author>ArcAngel66</author>
+	<text>Quote:Originally Posted byPablo90I don't get this: no front-camera hole? WTF? It means they're gonna put a thinner camera that doesn't need an hole in the frame?And what about the other missing hole at the bottom? What was it for?And most importantly, did they really need to move the volume-control buttons?Do you guys realize what a mess it will be with the bumpers and other cases?Unbelievable..... That's the point.Why do you think Apple manages to slightly tweak the form factor in almost every release of a new product? It forces you to buy a new $30 case and a new $30 dock.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669782</cid>
+	<date>Jan 5, 2011, 02:25 PM</date>
+	<author>paulyras</author>
+	<text>Quote:Originally Posted bye-coliThe antenna has to be at the bottom of the phone per FCC mandate to reduce signal radiation exposure.Well then the FCC is going to have something to say about the iphone 4.  See the image in the post above.Unless perhaps this is a new mandate, but I don't remember anything...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669789</cid>
+	<date>Jan 5, 2011, 02:26 PM</date>
+	<author>Bilvox</author>
+	<text>A friend told me he saw the new iphone while doing work with some factory in China, he said the new iphone is skinnier and different in many ways... this must be the verizon ready phone.my best,bv</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669790</cid>
+	<date>Jan 5, 2011, 02:26 PM</date>
+	<author>applefanDrew</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)If the phone is facing you, the left side could be the wifi, the right side cellular, and top and bottom nothing except structure. Then all 4 slits can be touched without causing a problem.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669796</cid>
+	<date>Jan 5, 2011, 02:27 PM</date>
+	<author>elhungarian</author>
+	<text>Wirelessly posted (Opera/9.80 (BlackBerry; Opera Mini/5.1.21052/22.414; U; en) Presto/2.5.25 Version/10.54)Why. Would apple release a cdma iphone 4 with iphone 5 a few months away?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669799</cid>
+	<date>Jan 5, 2011, 02:27 PM</date>
+	<author>Btrthnezr3</author>
+	<text>If this the new iPhone, the small tweaks may irritate some case makers--they probably want the next generation to stay the same--the volume and toggle switch change means a new case needs to be made.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669806</cid>
+	<date>Jan 5, 2011, 02:29 PM</date>
+	<author>dethmaShine</author>
+	<text>Well, if anyone noticed, this was FCC approved. Looks genuine in my opinion.Some one correct me if I'm wrong.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669807</cid>
+	<date>Jan 5, 2011, 02:29 PM</date>
+	<author>alupo790</author>
+	<text>i dont understand why so many people are saying it makes no sense for apple to have an iphone for verizon and att.  why doesnt it make sense for them to release an iphone for verizon this month or next that is a world phone like the bb bold, droid pro, droid 2, bb storm, etc and release the same refresh for att in june, then next year have the lte 4g iphone come out compatible with both carriers?  it makes no sense for apple to have 2 products but makes sense for htc, motorola, samsung and the like to have 30 phones out at any time for various carriers?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669808</cid>
+	<date>Jan 5, 2011, 02:29 PM</date>
+	<author>decimortis</author>
+	<text>Quote:Originally Posted byMichaelTheGeek2LOLOLOL! I don't know here.Here no. You can not has.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669815</cid>
+	<date>Jan 5, 2011, 02:29 PM</date>
+	<author>Mal</author>
+	<text>Quote:Originally Posted byBtrthnezr3If this the new iPhone, the small tweaks may irritate some case makers--they probably want the next generation to stay the same--the volume and toggle switch change means a new case needs to be made.Nope, case manufacturers will be happy to see a new design, because it means more people that will be buying cases (because any iPhone 4 owners that upgrade will need a new case).jW</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669818</cid>
+	<date>Jan 5, 2011, 02:30 PM</date>
+	<author>Geckotek</author>
+	<text>Quote:Originally Posted bySmall White CarI like how he's like &quot;this could fix the antena issue.&quot;Yeah, or it's an older version that's even worse and they added the separators to make it better!I mean, I have no idea, but neither does he. We have no idea of knowing what this is.Quote:Originally Posted byTime Lessyeah i'm thinking it's an early prototype.Why would an older version suddenly show up?  Extremely unlikely.  More likely is that Apple had all prototype parts destroyed.Also, you don't have loose parts of prototypes laying around like this.  This video is just like the video SmartPhoneMedic released earlier this year of similar iPhone 4 parts.  I'd bet it's a similar situation where a parts vendor somehow got their hands on some of the parts through a relationship with a Chinese OEM.Quote:Originally Posted byrrittersonI like stewart715's take, but I would go one farther: It's a CDMA/GSM phone that will be for sale at both verizon and AT&amp;T.Quote:Originally Posted bythemadrussian&lt;snip&gt; Therefore, could it make sense that this new phone has three antennas, rather than two? The extra break point might be there to separate the CDMA antenna from the UMTS/GSM antenna and the Bluetooth/WiFi/GPS antenna. The bottom section and the right section of the phone could be for GSM, the left section for CDMA, and the top section for Bluetooth/WiFi/GPS. Since the CDMA and GSM antennas will never be on at the same time, there would be no death grip issue when bridging the two with your hand, and since you could never really bridge the gap on the top right corner of the phone, there would be no death grip issue from GSM/WiFi? The only thing of which I am not sure is whether the signal attenuation occurs because you're bridging two active antennas or whether you're just bridging two antennas together (i.e. does bridging an inactive antenna with an active one cause signal degradation or not, or is it marginal).Just my thoughts on that. Maybe it makes sense. Perhaps someone more knowledgeable about antenna hardware could chime in.This is exactly what I'm thinking.  We need to realize that when the length of an antenna is changed, so is the tuning.  Unless they cut it in specific fractions, the antenna is no longer tuned for GSM/UMTS.  My guess is we have a CDMA/LTE antenna or CDMA and blank.  OR, the cut the UMTS antenna in half and we have CDMA and UMTS.But here's a question for the antenna experts, if the frequency is the same, could CDMA and UMTS share an antenna?Quote:Originally Posted byJoJoCal19This changes everything. Again.Just a thought, that sim slot could be for LTE. Not likely, but still.I've been blowing off the possibility of an LTE iPhone this year, but I'm willing to consider it as a possiblity after seeing this as well as the antenna changes.Quote:Originally Posted byPablo90And most importantly, did they really need to move the volume-control buttons? Do you guys realize what a mess it will be with the bumpers and other cases?Unbelievable..This explains those leaks of Verizon specific cases.  This alone brings some of the rumors together into some very strong anecdotal evidence.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669821</cid>
+	<date>Jan 5, 2011, 02:30 PM</date>
+	<author>abbstrack</author>
+	<text>terrible that these suppliers are constantly leaking images of prototype/unfinished devices. While not a fan of more than a few of apple's business decisions, i do empathize with them for being angry whenever leaks like this occur.On the other hand, they could build the phone here in the US, (although at a much more significant cost) while at the same time helping to stimulate the economy by creating jobs..so maybe i'm not so empathetic after all.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669833</cid>
+	<date>Jan 5, 2011, 02:32 PM</date>
+	<author>slicecom</author>
+	<text>The lack of a camera hole leads me to believe this is an old iPhone 4 prototype.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669835</cid>
+	<date>Jan 5, 2011, 02:33 PM</date>
+	<author>gloss</author>
+	<text>Quote:Originally Posted byXtremehkrOnly they didn't with the first three iPhones.They didn't between the 3G and 3GS. But they did between 2G and 3G and 3G/S and 4.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669839</cid>
+	<date>Jan 5, 2011, 02:33 PM</date>
+	<author>milamber</author>
+	<text>I thought there wasn't an antenna problem?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669858</cid>
+	<date>Jan 5, 2011, 02:36 PM</date>
+	<author>mKTank</author>
+	<text>Oh so instead of fixing it, they just moved the seam somewhere else?Sigh. Well now I'm glad I didn't wait for it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669887</cid>
+	<date>Jan 5, 2011, 02:41 PM</date>
+	<author>Geckotek</author>
+	<text>Quote:Originally Posted byfishmooseI'm more inclined to believe this is an iPhone 4 prototype rather than an iPhone 5 prototype. How many people can actually have access to prototypes of the iPhone 5 at this point? I bet its not many.Probably more people than have access to iPhone 4 prototypes since they are most likely recalled/destroyed upon the release of the final product.Quote:Originally Posted byreticulateI'm agreeing with the people here saying the next iPhone will most likely just be a minor refresh, and this info seems to bear that out.It makes sense from a manufacturing perspective to use a mature design with high yields. It also gives another 12 months for that per-unit cost to keep dropping (if it's a June release).  And we all know Apple likes to have a decent margin.As to CDMA, I honestly can't see them running two concurrent lines.  Especially considering outside the US CDMA is not huge.  It doesn't really make sense to have a Verizon-only model, even with the number of users on that network.  It's messy, and we're running towards the end of 3G over the next couple of years.The big deal would be, I guess, the LTE model that comes out next year.  That gives the networks a chance to build infrastructure and Apple enough time to get the hardware sorted.  I'd also assume a dual-core A4 (A5?) part by that time - this year's revision will likely just run at a higher clock and would probably see release first in the iPad 2.  Not that we'd know anyway, since PA Semi are now part of the Apple 'Cone of Silence'.Of course, this is Apple, so who knows.  I'm just making conservative guesses :PYou're completely ignoring 85M CDMA users in China that would also like a CDMA iPhone.  And no, 3G won't end in 2 years.  The 3G networks will most likely be up as long as a decade accoring to the carriers.Quote:Originally Posted by3goldensWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7)People got to be high if they think Apple would make the same mistake twice.This is just a bunch of horse manure, designed to yank peoples chains.A sucker is born every nano second these days and anyone who believes this crap should be taken out back and shot straight thru the head!When it turns out to be true, can we take you out back and shoot you straight thru the head?Quote:Originally Posted byXtremehkrOnly they didn't with the first three iPhones.Actually, they did on the first 2.Quote:Originally Posted byBilvoxA friend told me he saw the new iphone while doing work with some factory in China, he said the new iphone is skinnier and different in many ways... this must be the verizon ready phone.my best,bv+1Quote:Originally Posted byelhungarianWirelessly posted (Opera/9.80 (BlackBerry; Opera Mini/5.1.21052/22.414; U; en) Presto/2.5.25 Version/10.54)Why. Would apple release a cdma iphone 4 with iphone 5 a few months away?Because the iPhone 5 would still be GSM and the 2 products will be marketed to 2 different customer bases (with some overlap obviously).Quote:Originally Posted byBtrthnezr3If this the new iPhone, the small tweaks may irritate some case makers--they probably want the next generation to stay the same--the volume and toggle switch change means a new case needs to be made.Exactly, this validates the leaked Verizon iPhone cases.Quote:Originally Posted bydethmaShineWell, if anyone noticed, this was FCC approved. Looks genuine in my opinion.Some one correct me if I'm wrong.Where?  I think you saw the iPhone 4 FCC approval.  At the first part of the video it appears we are looking at 2 iPhone 4's.  At the very least, when he takes one away the remaining phone is definately an iPhone 4.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669910</cid>
+	<date>Jan 5, 2011, 02:47 PM</date>
+	<author>JaSuS</author>
+	<text>Quote:Originally Posted by3goldensWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7)People got to be high if they think Apple would make the same mistake twice.This is just a bunch of horse manure, designed to yank peoples chains.A sucker is born every nano second these days and anyone who believes this crap should be taken out back and shot straight thru the head!I love this guy...LOL!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669924</cid>
+	<date>Jan 5, 2011, 02:48 PM</date>
+	<author>adnoh</author>
+	<text>iP5 has no hole for a camera on the front. Fuh reel?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669928</cid>
+	<date>Jan 5, 2011, 02:49 PM</date>
+	<author>orangebluedevil</author>
+	<text>Quote:Originally Posted byapplefanDrewWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)If the phone is facing you, the left side could be the wifi, the right side cellular, and top and bottom nothing except structure. Then all 4 slits can be touched without causing a problem.No, your hand still wraps around the back and touches both left and right at the same time, also known as &quot;bridging&quot;</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669936</cid>
+	<date>Jan 5, 2011, 02:50 PM</date>
+	<author>Aatos.1</author>
+	<text>Quote:Originally Posted byChazUKWirelessly posted (Mozilla/5.0 (Linux; U; Android 2.3.1; en-gb; Nexus S Build/GRH78) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Fake parts or not, that was a very interesting video.I agree. Once again proving the marketing expertise of Apple. Too bad they can't, or won't design a good phone.As a hand held computer the iP4 and upcoming models are great. It's the phone that sucks and that's something that Apple just doesn't care about. It's all too easy for them to blame it on AT&amp;T as they have with great success.You've got to hand it to Apple, they can sell anything.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669938</cid>
+	<date>Jan 5, 2011, 02:50 PM</date>
+	<author>Geckotek</author>
+	<text>Quote:Originally Posted byadnohiP5 has no hole for a camera on the front. Fuh reel?I think that hole was there, not for the camera to poke through, but to allow for the depth of the module.  One could assume that the module is thinner and perhaps no longer needs the hole.At least this is what I gathered after reading comments in this thread.  By no means do I know what I'm talking about.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669943</cid>
+	<date>Jan 5, 2011, 02:51 PM</date>
+	<author>Sebct</author>
+	<text>You can clearly see that the &quot;iPhone 5&quot; in the video at the beginning is actually an iPhone 4 since it has the plastic band next to the audio jack.Yet later on in the video, the &quot;iPhone 5&quot; does not?Somethings up.....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669946</cid>
+	<date>Jan 5, 2011, 02:52 PM</date>
+	<author>applefanDrew</author>
+	<text>Quote:Originally Posted byorangebluedevilNo, your hand still wraps around the back and touches both left and right at the same time, also known as &quot;bridging&quot;Yea but if you touch both at the same time now there's no problem. Only when you cover the lower left slit. I hold it so that I touch both antennae and there is no problem. Its only if you connect them directly.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669960</cid>
+	<date>Jan 5, 2011, 02:54 PM</date>
+	<author>axual</author>
+	<text>This is reaching for straws ... and unfortunately, it's mostly a big ad for Global Direct Parts more than anything else.  The presenter does not provide a shred of evidence of where he obtained the parts from or when.I'm guessing Apple Legal will contacting someone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670001</cid>
+	<date>Jan 5, 2011, 03:01 PM</date>
+	<author>AntonisCy</author>
+	<text>no camera?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670021</cid>
+	<date>Jan 5, 2011, 03:05 PM</date>
+	<author>-=XX=-Nephilim</author>
+	<text>Can't care less about iPhone and if they fixed crap antenna (and other) issues...Here are the REAL news instead - live as well:http://www.droid-life.com/2011/01/05...dia-ces-event/</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670022</cid>
+	<date>Jan 5, 2011, 03:05 PM</date>
+	<author>ajohnson253</author>
+	<text>Quote:Originally Posted bydissdnt2 legit 2 quit.Haha</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670026</cid>
+	<date>Jan 5, 2011, 03:06 PM</date>
+	<author>alent1234</author>
+	<text>not that i'll buy it, but LG just announced the thinnest cell phone everSJ must be foaming at the mouth</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670043</cid>
+	<date>Jan 5, 2011, 03:09 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byelhungarianWirelessly posted (Opera/9.80 (BlackBerry; Opera Mini/5.1.21052/22.414; U; en) Presto/2.5.25 Version/10.54)Why. Would apple release a cdma iphone 4 with iphone 5 a few months away?Who said there's going to be a major change in the next iPhone? It could just be some minor structural changes, faster processor and new iOS features? If they fix the reception issue then the current iPhone is a good design... what else would you add? Change to liquid metal back? More cameras? Washer and dryer hook-up? More buttons to look like a Motorola phone?I think the CMDA phone is important to Apple to get at more market share and they want it out ASAP. I personally don't think we'll see a major form factor change for a while. Better of what's there for sure... but major change... not yet.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670044</cid>
+	<date>Jan 5, 2011, 03:10 PM</date>
+	<author>troop231</author>
+	<text>Quote:Originally Posted byalent1234not that i'll buy it, but LG just announced the thinnest cell phone everSJ must be foaming at the mouthLol, bfd About LG's thin phone, the thinner it is, the less space there is for the battery.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670047</cid>
+	<date>Jan 5, 2011, 03:10 PM</date>
+	<author>eah2119</author>
+	<text>So what's the story behind this one? Let me guess, it was left in a bar. lolThis is exciting. I wish I was the one who found this. I could sell it for big bucks, but I really wouldn't want to make Apple look bad and spoil the surprise for everyone.Hopefully it's a Verizon iPhone 5!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670048</cid>
+	<date>Jan 5, 2011, 03:10 PM</date>
+	<author>Lostanddamned</author>
+	<text>Quote:Originally Posted by-=XX=-NephilimCan't care less about iPhone and if they fixed crap antenna (and other) issues...Here are the REAL news instead - live as well:http://www.droid-life.com/2011/01/05...dia-ces-event/Then an apple centric website possibly isn't for you?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670051</cid>
+	<date>Jan 5, 2011, 03:11 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byalent1234not that i'll buy it, but LG just announced the thinnest cell phone everSJ must be foaming at the mouthWith laughter I'm sure... LG phones? OMG... my girl friend has an LG smart phone... it's the worst one by far I've ever touched. The touch screen is pathetic. There'd have to be some big changes for LG to be a serious threat from what I've seen.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670065</cid>
+	<date>Jan 5, 2011, 03:13 PM</date>
+	<author>Btrthnezr3</author>
+	<text>Quote:Originally Posted byMalNope, case manufacturers will be happy to see a new design, because it means more people that will be buying cases (because any iPhone 4 owners that upgrade will need a new case).jWAhh...gotcha. Good catch.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670075</cid>
+	<date>Jan 5, 2011, 03:15 PM</date>
+	<author>pullfocus</author>
+	<text>Is anyone else getting deja vu here?This could be a number of things.  An early iPhone 4 prototype, a Verizon specific (which would be odd for Apple to do) design of the iPhone 4, an early look at the iPhone 5 or 4S or whatever tweak, or it could just be a piece of a knockoff.The cycle begins again.  Again.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670084</cid>
+	<date>Jan 5, 2011, 03:17 PM</date>
+	<author>vincenz</author>
+	<text>This is stupid. I was watching closely until the guy pointed out the lack of a hole for the rear camera. iPhone without a camera in the back? Yeh right.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670086</cid>
+	<date>Jan 5, 2011, 03:17 PM</date>
+	<author>graham.bargeron</author>
+	<text>Wikileaks - iPhone style.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670091</cid>
+	<date>Jan 5, 2011, 03:20 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted bypullfocusIs anyone else getting deja vu here?Yeah... it's like tossing a school of young stock brokers insider tips.... Speculation feeding frenzy!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670111</cid>
+	<date>Jan 5, 2011, 03:24 PM</date>
+	<author>-=XX=-Nephilim</author>
+	<text>Quote:Originally Posted byLostanddamnedThen an apple centric website possibly isn't for you?Oh it is since I am Mac userBut please excuse my disgust towards iToys...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670121</cid>
+	<date>Jan 5, 2011, 03:26 PM</date>
+	<author>jacollins</author>
+	<text>How big does a CDMA antenna have to be?  Is the new bit the CDMA antenna, or could they be reusing one of the &quot;previous&quot; antennas?   How about LTE?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670128</cid>
+	<date>Jan 5, 2011, 03:26 PM</date>
+	<author>Pink&#8710;Floyd</author>
+	<text>It's legit, a source I know very well told me so, anybody else heard something about this?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670131</cid>
+	<date>Jan 5, 2011, 03:27 PM</date>
+	<author>Tastic Bycrom</author>
+	<text>Quote:Originally Posted by-=XX=-NephilimOh it is since I am Mac userBut please excuse my disgust towards iToys...You're excused, but I'm not sure why you bothered to post on this thread if you're so disgusted.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670151</cid>
+	<date>Jan 5, 2011, 03:30 PM</date>
+	<author>VSMacOne</author>
+	<text>Quote:Originally Posted byTastic BycromYou're excused, but I'm not sure why you bothered to post on this thread if you're so disgusted.Don't feed the troll...In regard to the original post here, not really sure what Apple is doing these days. who REALLY knows?I find it very hard to believe that they don't already have the iphone5 all ready to go. But will it be totally different or just improvement?Does it make sense for them to change the iPhone release schedule bec of the Verizon iphon?This is gonna be a busy first half of the year... iOS update, iPad 2, iPhone(S), MacBook pro refresh, new iPad magazines, etc. PHEW!!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670154</cid>
+	<date>Jan 5, 2011, 03:31 PM</date>
+	<author>alupo790</author>
+	<text>Quote:Originally Posted byiphone3gs16gbIt's legit, a source I know very well told me so, anybody else heard something about this?legit meaning &quot;iphone 5&quot; or cdma iphone, youve been quite a hater on teh cdma iphone talk in the past</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670155</cid>
+	<date>Jan 5, 2011, 03:31 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted by-=XX=-NephilimOh it is since I am Mac userBut please excuse my disgust towards iToys...Personally... why so disgusted at iToys? Just curious and trying to understand why some people seem so passionate about things.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670160</cid>
+	<date>Jan 5, 2011, 03:31 PM</date>
+	<author>Mattsasa</author>
+	<text>there is NO Way this is the iphone 5!and highly unlikely that it is a cdma iphone!could be an iphone 4 clone, or another unreleased prototype!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670179</cid>
+	<date>Jan 5, 2011, 03:34 PM</date>
+	<author>supmango</author>
+	<text>If it was anything more than an old prototype, or a fake, Apple would be screaming already to get it down.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670186</cid>
+	<date>Jan 5, 2011, 03:34 PM</date>
+	<author>bergmef</author>
+	<text>Quote:Originally Posted bykryptonitejesusIncoming storm of Verizon rumors.I mean, I feel pretty confident the Verizon iPhone is on the horizon, but I like most other people are getting tired of hearing about everyone speculating on when it's coming, and I for one will just enjoy it when it actually arrives.You should have been here during the G5 powerbook days.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670193</cid>
+	<date>Jan 5, 2011, 03:35 PM</date>
+	<author>Mattsasa</author>
+	<text>Quote:Originally Posted bysupmangoIf it was anything more than an old prototype, or a fake, Apple would be screaming already to get it down.yep, some old prototype.time to move on and worry about CES and mac app store</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670201</cid>
+	<date>Jan 5, 2011, 03:37 PM</date>
+	<author>joskewarez</author>
+	<text>omg, i'm soooooo excited about that!!!!i saw a ribbon cable and a iphone case..who ********** cares about electronic parts of a crappy phone</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670233</cid>
+	<date>Jan 5, 2011, 03:42 PM</date>
+	<author>HelveticaNeue</author>
+	<text>Quote:Originally Posted byvincenzThis is stupid. I was watching closely until the guy pointed out the lack of a hole for the rear camera. iPhone without a camera in the back? Yeh right.Wasn't he pointing out that the phone lacked a hole in the piece of internal steel, not the back plate, thus implying that the internal structure was merely different and not that it was lacking a camera?  Just like the screw holes were relocated and a couple screws added, and some cables lengthened, etc.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670251</cid>
+	<date>Jan 5, 2011, 03:45 PM</date>
+	<author>Mattsasa</author>
+	<text>Quote:Originally Posted byjoskewarezomg, i'm soooooo excited about that!!!!i saw a ribbon cable and a iphone case..who ********** cares about electronic parts of a crappy phoneI can't believe you just said that.Umm, I don't know electronic/computer/smartphone enthusiasts and hobbyists... THE KIND OF PEOPLE ON THIS FORUM!and the phone is not a crappy phone, it is tip top high end smartphone specs. And was the best hardware when launched, but others are catching up now</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670261</cid>
+	<date>Jan 5, 2011, 03:46 PM</date>
+	<author>rainmanbk</author>
+	<text>Quote:Originally Posted byreticulateI'm agreeing with the people here saying the next iPhone will most likely just be a minor refresh, and this info seems to bear that out.It makes sense from a manufacturing perspective to use a mature design with high yields. It also gives another 12 months for that per-unit cost to keep dropping (if it's a June release).  And we all know Apple likes to have a decent margin.As to CDMA, I honestly can't see them running two concurrent lines.  Especially considering outside the US CDMA is not huge.  It doesn't really make sense to have a Verizon-only model, even with the number of users on that network.  It's messy, and we're running towards the end of 3G over the next couple of years.The big deal would be, I guess, the LTE model that comes out next year.  That gives the networks a chance to build infrastructure and Apple enough time to get the hardware sorted.  I'd also assume a dual-core A4 (A5?) part by that time - this year's revision will likely just run at a higher clock and would probably see release first in the iPad 2.  Not that we'd know anyway, since PA Semi are now part of the Apple 'Cone of Silence'.Of course, this is Apple, so who knows.  I'm just making conservative guesses :PI like all of what's been said here.  It also got me thinking maybe Apple is going to shift the release timeline of iPhone and maybe even iPod to a date closer to the iPad refresh timeline?  If they release a hypothetical 'iPhone 4S' we'll call it, in a few months, that is more in line with iPad refreshing around April?  This way they can then release the LTE model either that next year around the supposed LTE launching timeframe or after?  Like reticulate says I agree Apple may see this roadmap opportunity of the LTE tech maturing in order to maximize margins.  The iPhone 4S would be a combination GSM / CDMA tech device, as two separate devices would be uncharacteristic of Apple, and also would create more cost in maintaining, not to mention the fact that CDMA doesn't really have much going for it anywhere other than the US.  Interesting all of this is, to say the least.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670292</cid>
+	<date>Jan 5, 2011, 03:52 PM</date>
+	<author>paradox00</author>
+	<text>Quote:Originally Posted byalent1234not that i'll buy it, but LG just announced the thinnest cell phone everSJ must be foaming at the mouthShipping in the first half of 2011.... just like the iPhone 5. Being thinner than the iPhone 4 is hardly relevant unless the product is shipping now.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670303</cid>
+	<date>Jan 5, 2011, 03:54 PM</date>
+	<author>Pink&#8710;Floyd</author>
+	<text>Quote:Originally Posted byalupo790legit meaning &quot;iphone 5&quot; or cdma iphone, youve been quite a hater on teh cdma iphone talk in the pastLegit meaning that these are legit next gen iPhone parts for the iPhone 4G for AT&amp;T's HSPA+ network</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670309</cid>
+	<date>Jan 5, 2011, 03:55 PM</date>
+	<author>hackum</author>
+	<text>So apparently it was not a non-issue?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670315</cid>
+	<date>Jan 5, 2011, 03:56 PM</date>
+	<author>mogzieee</author>
+	<text>This is probably just a prototype frame from when the iPhone 4 was being designed. I doubt what with the hassle they had last year, Apple would be letting parts like this leak...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670319</cid>
+	<date>Jan 5, 2011, 03:57 PM</date>
+	<author>Mattsasa</author>
+	<text>I guarantee that this is not an iphone 5 or a cdma iphone!there will be a cdma iphone shortly, not this though. And iphone 5 will not be a minor refresh!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670345</cid>
+	<date>Jan 5, 2011, 04:02 PM</date>
+	<author>Pink&#8710;Floyd</author>
+	<text>Quote:Originally Posted bymogzieeeThis is probably just a prototype frame from when the iPhone 4 was being designed. I doubt what with the hassle they had last year, Apple would be letting parts like this leak...Really? Knowing how secretive Apple is? You think they would've just leaked the parts?Quote:Originally Posted byMattsasaI guarantee that this is not an iphone 5 or a cdma iphone!there will be a cdma iphone shortly, not this though. And iphone 5 will not be a minor refresh!This is just the iPhone 4G, since it will work on AT&amp;T's version of &quot;4G&quot; HSPA+I think he just called the iPhone 5 for the sake of calling it something...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670359</cid>
+	<date>Jan 5, 2011, 04:04 PM</date>
+	<author>Geckotek</author>
+	<text>Quote:Originally Posted byaxualThis is reaching for straws ... and unfortunately, it's mostly a big ad for Global Direct Parts more than anything else.  The presenter does not provide a shred of evidence of where he obtained the parts from or when.I'm guessing Apple Legal will contacting someone.Just like SmartPhoneMedic did earlier this year?  And they seem to still be around...Apple didn't sue them out of existence.Quote:Originally Posted bysupmangoIf it was anything more than an old prototype, or a fake, Apple would be screaming already to get it down.Nope, same thing happened with the iPhone 4 and those videos are still up.Quote:Originally Posted byMattsasaI guarantee that this is not an iphone 5 or a cdma iphone!there will be a cdma iphone shortly, not this though. And iphone 5 will not be a minor refresh!Oh really?  Tell us more.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670361</cid>
+	<date>Jan 5, 2011, 04:04 PM</date>
+	<author>powaking</author>
+	<text>I'm more inclined to think its an iPhone 4 prototype.  Why would the iPhone 5 have parts that have longer ribbons and larger parts than its previous version?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670363</cid>
+	<date>Jan 5, 2011, 04:05 PM</date>
+	<author>Mattsasa</author>
+	<text>Quote:Originally Posted byiphone3gs16gbThis is just the iPhone 4G, since it will work on AT&amp;T's version of &quot;4G&quot; HSPA+I think he just called the iPhone 5 for the sake of calling it something...I understand! I mean this is not a next-gen iphone! and I highly doubt that next-gen iphone will be 4g</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670365</cid>
+	<date>Jan 5, 2011, 04:05 PM</date>
+	<author>Pez555</author>
+	<text>Quote:Originally Posted byvincenzThis is stupid. I was watching closely until the guy pointed out the lack of a hole for the rear camera. iPhone without a camera in the back? Yeh right.sigh.This is not the case AT ALL.you do realise we were looking at the BACK of the phone when he did the teardown. The fact that there was no hole for the rear camera is IRRELEVANT because the hole that we see on the iPhone 4 is on the front side of the phone. The rear camera would just sit on the metal plate bit where there is no hole. Im willing to bet the new camera is smaller, so there is no need for the hole for it to 'sit in'.Not sure why people are saying there is no hole for the front facing camera either to be honest.My thoughts? yea this is either a prototype iPhone 5 or the real deal.Remember when people were playing down the iPhone 4 last year when we saw the prototype models - people wouldnt believe it so would throw around stupid reasons as to why it couldnt possibly be the iPhone 4.RESERVE YOUR JUDGEMENT, dont just dismiss it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670371</cid>
+	<date>Jan 5, 2011, 04:06 PM</date>
+	<author>-SD-</author>
+	<text>Introducing the new iPhone 4 S, now available in white.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670381</cid>
+	<date>Jan 5, 2011, 04:08 PM</date>
+	<author>Mattsasa</author>
+	<text>Quote:Originally Posted byGeckotekOh really?  Tell us more.There is no way Apple's beloved treasure, the iphone,will get a minor update, the internal Aluminum would have been changed way more</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670419</cid>
+	<date>Jan 5, 2011, 04:13 PM</date>
+	<author>sjo</author>
+	<text>Just last week we were surprised here when the antennagate was ranked among top tech fails of 2010Quote:Originally Posted byMacRumorsIn what may be a bit of a surprise considering how little we've heard about it over the last several months,CNNranked theiPhone 4's antenna issues, known informally as &quot;Antennagate&quot;, as the top tech fail of the year.And now the discussion about the antenna is here again. Maybe CNN was right after all?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670456</cid>
+	<date>Jan 5, 2011, 04:17 PM</date>
+	<author>Skoal</author>
+	<text>Changing antenna location is admitting a flaw.  Can we all just agree that there is a flaw and move on now?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670463</cid>
+	<date>Jan 5, 2011, 04:18 PM</date>
+	<author>ogee</author>
+	<text>I think its the next Nokia iPhone lookalike</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670471</cid>
+	<date>Jan 5, 2011, 04:19 PM</date>
+	<author>Mattsasa</author>
+	<text>actually this is a prototype powerbook G5</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670486</cid>
+	<date>Jan 5, 2011, 04:22 PM</date>
+	<author>centauratlas</author>
+	<text>My thoughts:1. If it is real, we'll probably see (a) YouTube take down notices shortly (whether they'll comply, who knows), and (b) a 'polite' letter from Apple attorney's to Global (they are in Texas) trying to prevent them from doing more, and (c) a letter wanting the parts back like the prototype last year.2. If information does indeed come out next week, seeing more of the motherboard, cpu etc will tell a ton about whether it is new (e.g. iPhone 4.5 or iPhone 5 etc) or an old iPhone 4 prototype.One would believe that Global knows the internals but can't repeat them yet (for some reason), that would indicate to me that IF Global is legit, it is a next generation phone.  Otherwise, they would know that the parts are old parts and would not have put it out there as something new.  Sure they might get a temporary bump this week, but once it came out as fake, it would not be beneficial.What happens next will tell a lot about whether it is real or fake.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670503</cid>
+	<date>Jan 5, 2011, 04:24 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted bySkoalChanging antenna location is admitting a flaw.  Can we all just agree that there is a flaw and move on now?We did move on... long ago... where have you been?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670545</cid>
+	<date>Jan 5, 2011, 04:31 PM</date>
+	<author>mogzieee</author>
+	<text>Quote:Originally Posted byiphone3gs16gbReally? Knowing how secretive Apple is? You think they would've just leaked the parts?As in, this year round they'll be extra cautious not to allow any leaks - given their huge cock up last year. I reckon this part is just another leaked design from last year.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670564</cid>
+	<date>Jan 5, 2011, 04:34 PM</date>
+	<author>centauratlas</author>
+	<text>Yes, they are holding two iPhone 4's at the start.  Definitely not the outside of the one they disassembled.The black separator is present at the top of the one he is left holding and the disassembly shows it is not there.I think they are holding back the rest for their next update - or that was all they had and had to make the intro look good.  ;-)Quote:Originally Posted bySebctYou can clearly see that the &quot;iPhone 5&quot; in the video at the beginning is actually an iPhone 4 since it has the plastic band next to the audio jack.Yet later on in the video, the &quot;iPhone 5&quot; does not?Somethings up.....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670599</cid>
+	<date>Jan 5, 2011, 04:40 PM</date>
+	<author>ThisIsNotMe</author>
+	<text>Bring on the 4GS!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670600</cid>
+	<date>Jan 5, 2011, 04:40 PM</date>
+	<author>Full of Win</author>
+	<text>Its so obvious what this isIts the Verizon iPhone and what appears to be a SIM slot is really a UICC (Universal Integrated Circuit Card) slot.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670662</cid>
+	<date>Jan 5, 2011, 04:50 PM</date>
+	<author>Cod3rror</author>
+	<text>Quote:Originally Posted byslicecomThe lack of a camera hole leads me to believe this is an old iPhone 4 prototype.Doubt it, we've seen early prototypes of iPhone 4, the ones without screws on the bottom.I doubt they'd leave out the camera hole, even in the earliest prototypes, camera is just such a fundamental part of the design, you don't leave it out.I love symmetric seams, and no seam on top.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670693</cid>
+	<date>Jan 5, 2011, 04:56 PM</date>
+	<author>ThisIsNotMe</author>
+	<text>Quote:Originally Posted byPez555you do realise we were looking at the BACK of the phone when he did the teardown. The fact that there was no hole for the rear camera is IRRELEVANT because the hole that we see on the iPhone 4 is on the front side of the phone. The rear camera would just sit on the metal plate bit where there is no hole. Im willing to bet the new camera is smaller, so there is no need for the hole for it to 'sit in'.Maybe Apple is further along on their &quot;screen camera&quot; patent than first thought.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670709</cid>
+	<date>Jan 5, 2011, 04:58 PM</date>
+	<author>Pez555</author>
+	<text>Quote:Originally Posted byptysellMaybe Apple is further along on their &quot;screen camera&quot; patent than first thought.who knows.but its irrelevant whether there is a hole in the metal chassis or not.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670717</cid>
+	<date>Jan 5, 2011, 05:00 PM</date>
+	<author>Geckotek</author>
+	<text>Quote:Originally Posted bycentauratlasMy thoughts:1. If it is real, we'll probably see (a) YouTube take down notices shortly (whether they'll comply, who knows), and (b) a 'polite' letter from Apple attorney's to Global (they are in Texas) trying to prevent them from doing more, and (c) a letter wanting the parts back like the prototype last year.Not true, an almost identical iPhone 4 leak by SmartPhoneMedic is still up on YouTube at this moment.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670725</cid>
+	<date>Jan 5, 2011, 05:01 PM</date>
+	<author>ivladster</author>
+	<text>Quote:Originally Posted by-=XX=-NephilimCan't care less about iPhone and if they fixed crap antenna (and other) issues...Here are the REAL news instead - live as well:http://www.droid-life.com/2011/01/05...dia-ces-event/And how exactly are you boycotting it? You know if you post something on apple sites it's not called boycotting.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670769</cid>
+	<date>Jan 5, 2011, 05:09 PM</date>
+	<author>Roofy.</author>
+	<text>Noone noticed that the metal bands are different shades of silver?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670883</cid>
+	<date>Jan 5, 2011, 05:33 PM</date>
+	<author>Drag'nGT</author>
+	<text>&lt;---- called it as soon as the i4 issues showed up.  Just move the seems to the top, done.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670886</cid>
+	<date>Jan 5, 2011, 05:34 PM</date>
+	<author>reticulate</author>
+	<text>Quote:Originally Posted byGeckotekYou're completely ignoring 85M CDMA users in China that would also like a CDMA iPhone.  And no, 3G won't end in 2 years.  The 3G networks will most likely be up as long as a decade accoring to the carriers.I should probably clarify.I don't think Apple will do a CDMA-only device.  It makes far more sense to have a dual-mode 'world phone' from a manufacturing and sales perspective (I say 'world phone' much like 'world car' - such as the Toyota Corolla or the BMW 3 - a single identical model that's sold in many different countries).  While there is plenty of people using CDMA, it isn't interoperable with UTMS/GSM and has appreciably less carriers in the developed world.  That's an important point if you're trying to build a single premium device that can be sold in as many countries as possible.  Dual-mode fixes that problem.As to 3G ending 'in two years', I mean the high-capacity smartphone network of choice is going to be shifting over to LTE/WiMax.  3G is going to be around for a while, but in the smartphone segment I can see manufacturers and carriers wanting users on the higher-bandwidth, faster connection.  Same goes for mobile broadband in general.  Apple aren't going to jump on that particular bandwagon until the networks are mature and widespread enough anyway.(And this isn't to say I have any problem with CDMA, though I do think SIM-based devices are far more consumer friendly from a carrier portability perspective.)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670895</cid>
+	<date>Jan 5, 2011, 05:36 PM</date>
+	<author>handywipes</author>
+	<text>Quote:Originally Posted byRoofy.Noone noticed that the metal bands are different shades of silver?Yeah super different quality. and the flex cable that long from one so short? not apple at all.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670904</cid>
+	<date>Jan 5, 2011, 05:38 PM</date>
+	<author>Louie123</author>
+	<text>I think this company is just trying to drum up business.. lol</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670913</cid>
+	<date>Jan 5, 2011, 05:39 PM</date>
+	<author>louis Fashion</author>
+	<text>Quote:Originally Posted bykryptonitejesusIncoming storm of Verizon rumors.I mean, I feel pretty confident the Verizon iPhone is on the horizon, but I like most other people are getting tired of hearing about everyone speculating on when it's coming, and I for one will just enjoy it when it actually arrives.I refuse to buy a Verizon Phone until they offer it in Red.......</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670961</cid>
+	<date>Jan 5, 2011, 05:49 PM</date>
+	<author>Thex1138</author>
+	<text>The parts he's showing off are for an Android clone...Like they just showed off at CES the Lenovo ideaPad... an iPad form factor... hovering over the laptop that uses the MBP form factor...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671013</cid>
+	<date>Jan 5, 2011, 06:00 PM</date>
+	<author>Piggie</author>
+	<text>Hang on a moment.If as Apple was publicly saying the problem did not exist and it was exactly the same in this respect, signal loss when held, as all other phones.Why are they changing the position of the antenna breaks in the band?Why not keep them in the same place if, as they say, it was nothing to do with this?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671026</cid>
+	<date>Jan 5, 2011, 06:02 PM</date>
+	<author>applefanDrew</author>
+	<text>Quote:Originally Posted byPiggieHang on a moment.If as Apple was publicly saying the problem did not exist and it was exactly the same in this respect, signal loss when held, as all other phones.Why are they changing the position of the antenna breaks in the band?Why not keep them in the same place if, as they say, it was nothing to do with this?B/c the way to continue to grow and evolve your technology is to change. Saying this design is better Is not saying the last was bad.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671080</cid>
+	<date>Jan 5, 2011, 06:14 PM</date>
+	<author>Kwill</author>
+	<text>It's a believable prototype. Adjusting the seams and bridging the bottom section with a metal strip is a logical solution to the so-called death grip. Also, the white iPhone had opacity issues that could be the result of light leaks through the larger holes not existing on the &quot;iPhone 5?&quot; prototype. Overall, it appears subtle refinements are being tested.The real question is how Apple intends to boost speed again using 3G for the third time.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671085</cid>
+	<date>Jan 5, 2011, 06:15 PM</date>
+	<author>AZREOSpecialist</author>
+	<text>By virtue of the simple fact that the mute button has moved by over 1 cm and the volume buttons also appear to have moved oh so very slightly spells death for all existing cases and bumpers. I doubt very much that Apple would do that if they were staying with the same design.Thinking about how Apple behaves, I don't think they are going to create different iPhone exteriors for different carriers, especially ones that have such subtle differences to cause extreme marketplace confusion with cases. That doesn't make sense from a design, manufacturing or branding standpoint. I believe that whatever iPhones we see this year will all share the same look. It makes the most sense for Apple to release a new iPhone 5 that would run on both Verizon and AT&amp;T. One phone design, multiple carriers, massive production runs to maximize margin. That sounds more like Apple.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671088</cid>
+	<date>Jan 5, 2011, 06:16 PM</date>
+	<author>farmboy</author>
+	<text>Quote:Originally Posted byPiggieHang on a moment.If as Apple was publicly saying the problem did not exist and it was exactly the same in this respect, signal loss when held, as all other phones.Why are they changing the position of the antenna breaks in the band?Why not keep them in the same place if, as they say, it was nothing to do with this?Apple did not say the problem did not exist.They change things because they always change things (Mac Pros excepted, apparently)--that's what they do.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671114</cid>
+	<date>Jan 5, 2011, 06:21 PM</date>
+	<author>applefan69</author>
+	<text>now everyones downplaying the attenna thing by saying things like &quot;ahh i learned how to hold mine&quot;  -.-isnt that what we all chastised steve for saying in the first place?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671122</cid>
+	<date>Jan 5, 2011, 06:22 PM</date>
+	<author>viewfly</author>
+	<text>Quote:Originally Posted bythemadrussianLooks like this is the white iPhone 4 or the Verizon iPhone 4 (with dual-mode CDMA/GSM) or this is the iPhone 5. Or both. Or neither.Regardless, I don't see how moving the antenna break point from next to the headphone jack down to the area above the mute switch and adding another break point on the top right side of the phone can make any difference with the &quot;death grip&quot; issue:The &quot;death grip&quot; issue occurs most significantly when one bridges the UMTS/GSM antenna and the Bluetooth/WiFi/GPS antenna. Cell-phone manufacturers are, for regulatory and SAR reasons, not allowed to place the bulk of the cellphone antenna at the top of the phone (part closest to the brain), and so unless Apple has shortened the antennas and left a gap along the bottom (which doesn't make much sense), I can't see how this would change the death grip issue at all. Plus, one of the iPhone 4 &quot;gaps&quot; is cosmetic anyway, so who knows.Therefore, could it make sense that this new phone has three antennas, rather than two? The extra break point might be there to separate the CDMA antenna from the UMTS/GSM antenna and the Bluetooth/WiFi/GPS antenna. The bottom section and the right section of the phone could be for GSM, the left section for CDMA, and the top section for Bluetooth/WiFi/GPS. Since the CDMA and GSM antennas will never be on at the same time, there would be no death grip issue when bridging the two with your hand, and since you could never really bridge the gap on the top right corner of the phone, there would be no death grip issue from GSM/WiFi? The only thing of which I am not sure is whether the signal attenuation occurs because you're bridging two active antennas or whether you're just bridging two antennas together (i.e. does bridging an inactive antenna with an active one cause signal degradation or not, or is it marginal).Just my thoughts on that. Maybe it makes sense. Perhaps someone more knowledgeable about antenna hardware could chime in.I don't know if this a real phone or not...BUT the location of the iPhone antenna breaks could make sense to me.First, the iP4 already has the GSM/UTMS antenna at the top (see your photo), as do other brand phones (that was clear when Apple showed the  death grip with other phones). Some were on the bottom, some on the top.Secondly, moving that hot spot seam to just above the mute switch really places it out of reach of almost everyone.  It seems to me from the video that the top band is the Wi-Fi antenna and the U from above the mute switch, around the bottom and along the right side to the top is the GSM/UTMS antenna.So this may be the solution...placing the 'detuning' spot in an unlikely place for one to  touch it.  They may have done other things internally as well.Assuming this is real..P.S. IMO Bridging the two antenna is not the cause...it is just touching that seam.  For example, place your thumb and forefinger of one hand above and below the gap, i.e. bridging the two antennas...no loss of signal...as compared to placing a finger on the gap directly.  Secondly, bridging the gap by the earphone jack has no effect either...yet it is bridging the same antennas.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671134</cid>
+	<date>Jan 5, 2011, 06:26 PM</date>
+	<author>viewfly</author>
+	<text>Quote:Originally Posted byalent1234not that i'll buy it, but LG just announced the thinnest cell phone everSJ must be foaming at the mouthHa! that LG phone is 0.01 inch thinner!  1/10,000 of an inch thinner than the IPhone 4.That is about how much foam SJ might produce on this one.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671222</cid>
+	<date>Jan 5, 2011, 06:47 PM</date>
+	<author>Yamcha</author>
+	<text>I'm watching CES 2011 live, so far I'm not impressed, I think iPhone still remains the best smartphone around.. I don't know why they release so many different phones, all it does is make it even more confusing choosing what phone to get =P..So far I like Windows Phone 7 &amp; iPhone.. From the Tablet market I was pretty impressed with the Blackberry playbook..Although it is good that we are seeing dual core tablets and smartphones..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671231</cid>
+	<date>Jan 5, 2011, 06:49 PM</date>
+	<author>black743</author>
+	<text>At this point I don't think some of you will believe a Verizon iPhone even if Steve Jobs does announce it.And if the buttons are slightly moved on the sides, that would tie into some of the case design rumors we've seen recently wouldn't it?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671244</cid>
+	<date>Jan 5, 2011, 06:52 PM</date>
+	<author>troop231</author>
+	<text>Quote:Originally Posted byapplefan69now everyones downplaying the attenna thing by saying things like &quot;ahh i learned how to hold mine&quot;  -.-isnt that what we all chastised steve for saying in the first place?They're just joking dude..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671262</cid>
+	<date>Jan 5, 2011, 06:56 PM</date>
+	<author>Thex1138</author>
+	<text>Shameless SlamSlungLooks like the boozers at Samsung are sucking up too much Apple juice lately... Samsung TV Remote.http://www.engadget.com/2011/01/05/s...touts-three-i/Per Engadget image...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671294</cid>
+	<date>Jan 5, 2011, 07:04 PM</date>
+	<author>orangebluedevil</author>
+	<text>Quote:Originally Posted byviewflyI don't know if this a real phone or not...BUT the location of the iPhone antenna breaks could make sense to me.First, the iP4 already has the GSM/UTMS antenna at the top (see your photo), as do other brand phones (that was clear when Apple showed the  death grip with other phones). Some were on the bottom, some on the top.Secondly, moving that hot spot seam to just above the mute switch really places it out of reach of almost everyone.  It seems to me from the video that the top band is the Wi-Fi antenna and the U from above the mute switch, around the bottom and along the right side to the top is the GSM/UTMS antenna.So this may be the solution...placing the 'detuning' spot in an unlikely place for one to  touch it.  They may have done other things internally as well.Assuming this is real..P.S. IMO Bridging the two antenna is not the cause...it is just touching that seam.  For example, place your thumb and forefinger of one hand above and below the gap, i.e. bridging the two antennas...no loss of signal...as compared to placing a finger on the gap directly.  Secondly, bridging the gap by the earphone jack has no effect either...yet it is bridging the same antennas.Hmm, you are right.  Verrrry interesting.  I think you just nailed it.The ribbon they showed for the i5 that is longer is so that the contact points between the ribbon and external antenna band are separated by the max distance possible.  In contrast, the i4 ribbon was short, meaning that the contact points were both in the bottom left corner of the i4.  This is why bridging the gap in only that corner kills the signal on the i4 - because the ribbon connects directly under your skin to the antenna band.Thus, for the i5 you distance the contact points (of the ribbon to the antenna band) as much as possible, as shown by the longer ribbon. Just for insurance, you put 1 piece of antenna band in between the two that is not part of either antenna and thus its impossible to directly bridge the gap between the two contact points (of the ribbon and antenna band).Tada?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671346</cid>
+	<date>Jan 5, 2011, 07:18 PM</date>
+	<author>Chase R</author>
+	<text>Imagine how cool the iPhone would look without any of the black separator bars?And how much stronger it would be. It would be nice if Apple could figure out an alternative antenna design that would allow this.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671350</cid>
+	<date>Jan 5, 2011, 07:20 PM</date>
+	<author>mtnDewFTW</author>
+	<text>I think that if Apple were to redesign the iPhone, they would try to improve it. Not just add a few more lines and take out a few screws. This looks more like a old iPhone 4 prototype than anything.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671385</cid>
+	<date>Jan 5, 2011, 07:27 PM</date>
+	<author>ssbearsfan</author>
+	<text>Video is no longer available. That didn't take long!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671386</cid>
+	<date>Jan 5, 2011, 07:27 PM</date>
+	<author>Eso</author>
+	<text>Quote:Originally Posted byviewflyHa! that LG phone is 0.01 inch thinner!  1/10,000 of an inch thinner than the IPhone 4.That is about how much foam SJ might produce on this one.Um... what?  That's 1/100 of an inch bro.Additionally, the video has been removed</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671393</cid>
+	<date>Jan 5, 2011, 07:30 PM</date>
+	<author>andrew086</author>
+	<text>Looks like the video is already down. Is this a confirmation?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671403</cid>
+	<date>Jan 5, 2011, 07:32 PM</date>
+	<author>124151155</author>
+	<text>Words cannot express just how good it is to hear an American using metric measurementsI reckon it is either the CDMA iPhone, sold as a &quot;World Phone&quot; (CDMA out of USA can require a SIM) which will probably run on CDMA and GSM,or it is just a prototype iPhone 4.Either way I doubt they will call it the iPhone 5 unless it comes with other improvements.I'm thinking it is likely to be released at Apple's next big event and it will be available in white (and therefore I will buy it!)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671408</cid>
+	<date>Jan 5, 2011, 07:33 PM</date>
+	<author>124151155</author>
+	<text>Seems like I pressed play the moment before it was pulled. I'll try to capture the video and re-up or something.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671410</cid>
+	<date>Jan 5, 2011, 07:34 PM</date>
+	<author>Glideslope</author>
+	<text>Quote:Originally Posted byandrew086Looks like the video is already down. Is this a confirmation?Yes.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671413</cid>
+	<date>Jan 5, 2011, 07:34 PM</date>
+	<author>sparky672</author>
+	<text>Quote:Originally Posted byviewflyHa! that LG phone is 0.01 inch thinner!  1/10,000 of an inch thinner than the IPhone 4.0.010 is not 1/10,000... I think you meant ten thousandths (10/1000), or like the other poster said, same as 1/100.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671415</cid>
+	<date>Jan 5, 2011, 07:35 PM</date>
+	<author>andrew086</author>
+	<text>Quote:Originally Posted by124151155Seems like I pressed play the moment before it was pulled. I'll try to capture the video and re-up or something.I saw this coming so I already downloaded it to my computer</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671424</cid>
+	<date>Jan 5, 2011, 07:36 PM</date>
+	<author>bedifferent</author>
+	<text>Already? I feel as though I just bought it lol. Oh well, can't stifle technology.I didn't read the comments, based on the snippet it seems this is a GSM phone and not a possible CDMA iPhone for Verizon. Isn't Qualcomm manufacturing dual GSM/CDMA chipsets that would allow for a Verizon capable iPhone?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671428</cid>
+	<date>Jan 5, 2011, 07:37 PM</date>
+	<author>Glideslope</author>
+	<text>Quote:Originally Posted byandrew086I saw this coming so I already downloaded it to my computerWise this one is, yes.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671436</cid>
+	<date>Jan 5, 2011, 07:39 PM</date>
+	<author>black743</author>
+	<text>&quot;This video is no longer available due to a copyright claim by Apple, Inc.. &quot;Gee does that say something?  Especially since the older videos are still up and running.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671457</cid>
+	<date>Jan 5, 2011, 07:43 PM</date>
+	<author>124151155</author>
+	<text>Quote:Originally Posted byandrew086I saw this coming so I already downloaded it to my computerYou planning on uploading it?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671463</cid>
+	<date>Jan 5, 2011, 07:44 PM</date>
+	<author>black743</author>
+	<text>http://www.youtube.com/watch?v=jvUUwMuUktkIts been uploaded a second time.  Not sure how long this one will last.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671466</cid>
+	<date>Jan 5, 2011, 07:44 PM</date>
+	<author>devilcm3</author>
+	<text>apple wouldn't take down the video if its just a random mockup of chinese soPhone ... so this confirms it</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671508</cid>
+	<date>Jan 5, 2011, 07:52 PM</date>
+	<author>viewfly</author>
+	<text>Quote:Originally Posted bysparky6720.010 is not 1/10,000... I think you meant ten thousandths (10/1000), or like the other poster said, same as 1/100.Whoops, my  bad. You both are right. I meant ten thousandths, which is how one says 0.010&quot;.Thanks, good catch.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671514</cid>
+	<date>Jan 5, 2011, 07:53 PM</date>
+	<author>Dinø</author>
+	<text>I've done numerous &quot;death grip&quot; tests with my iPhone 4 using Speedtest.net app.  If I turn the phone upside-down, but still using the death grip, the download and upload speeds both improve.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671524</cid>
+	<date>Jan 5, 2011, 07:54 PM</date>
+	<author>MarximusMG</author>
+	<text>Quote:Originally Posted byipedroThe new phone band has an additional section. The top part is now separated by a seam on both the left and right, rather than a single seam on the top. This may be for an additional antenna -- for CDMA.I don't think Apple will sell separate versions for CDMA and GSM. I imagine that they've tweaked iPhone4 like they did for the 3GS: Improvements to speed, more memory, refined antenna system to prevent the death grip, different camera hardware to allow for white (or multiple colours) plates and overall improved/smaller components.I don't expect to see an entirely new phone (iPhone 5) this year, just an improved version of iPhone4, marketed as such.I can actually see this happening. Possibly slightly updated specs, but nothing major, (except for the inclusion of CDMA, or separate CDMA model).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671545</cid>
+	<date>Jan 5, 2011, 07:59 PM</date>
+	<author>kmiahali</author>
+	<text>Quote:Originally Posted bymrblack927Okay I'll be the one to say it.FAKE! Apple would never design something with SEAMS like that! China fake and a bad one at that!hmm, this comment seems really really familiar, did you write this June 2010? *sarcasm*</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671567</cid>
+	<date>Jan 5, 2011, 08:03 PM</date>
+	<author>viewfly</author>
+	<text>Quote:Originally Posted byorangebluedevilHmm, you are right.  Verrrry interesting.  I think you just nailed it.The ribbon they showed for the i5 that is longer is so that the contact points between the ribbon and external antenna band are separated by the max distance possible.  In contrast, the i4 ribbon was short, meaning that the contact points were both in the bottom left corner of the i4.  This is why bridging the gap in only that corner kills the signal on the i4 - because the ribbon connects directly under your skin to the antenna band.Thus, for the i5 you distance the contact points (of the ribbon to the antenna band) as much as possible, as shown by the longer ribbon. Just for insurance, you put 1 piece of antenna band in between the two that is not part of either antenna and thus its impossible to directly bridge the gap between the two contact points (of the ribbon and antenna band).Tada?Yes, 'Tada'.   I see that the video is now removed and it says, 'removed because of a complaint of a copyright violation by Apple, inc.'</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671592</cid>
+	<date>Jan 5, 2011, 08:07 PM</date>
+	<author>E.Lizardo</author>
+	<text>Quote:Originally Posted bymrblack927Okay I'll be the one to say it.FAKE! Apple would never design something with SEAMS like that! China fake and a bad one at that!Yes it's totally un-Apple.Jonny Ive wouldn't be caught dead with that thing.And don't get me started on those EXPOSED SCREWS!!!!!LOL</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671664</cid>
+	<date>Jan 5, 2011, 08:22 PM</date>
+	<author>Pooki</author>
+	<text>Quote:Originally Posted byalent1234not that i'll buy it, but LG just announced the thinnest cell phone everSJ must be foaming at the mouthThat just means they used less/thinner crappy parts..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671666</cid>
+	<date>Jan 5, 2011, 08:23 PM</date>
+	<author>Pooki</author>
+	<text>Quote:Originally Posted byblack743http://www.youtube.com/watch?v=jvUUwMuUktkIts been uploaded a second time.  Not sure how long this one will last.It's gone again! =(</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671674</cid>
+	<date>Jan 5, 2011, 08:26 PM</date>
+	<author>Kwill</author>
+	<text>It's refreshing to see Apple hard at work solving the (perceived) antenna issue after initially denying the problem existed, then saying it's fixed, then posting video to show everybody else has the same problem. That's like saying, &quot;Sure it sucks but so does Microsoft.&quot; Apple is known for setting higher standards. Here's hoping for an even better iPhone 5.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671699</cid>
+	<date>Jan 5, 2011, 08:32 PM</date>
+	<author>Jake381</author>
+	<text>http://www.youtube.com/watch?v=LbhL6-7obOYPosted again.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671729</cid>
+	<date>Jan 5, 2011, 08:40 PM</date>
+	<author>black743</author>
+	<text>Obviously Apple is trying to silence this video and working hard at it since they are only up for a very short time before taken down or forced down.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671731</cid>
+	<date>Jan 5, 2011, 08:41 PM</date>
+	<author>madmeatballs</author>
+	<text>I don't think thats an iPhone 5. maybe thats just an old video? and the suspected iphone 5 is just the prototype of the iphone 4</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671736</cid>
+	<date>Jan 5, 2011, 08:42 PM</date>
+	<author>Thex1138</author>
+	<text>Quote:Originally Posted byPookiIt's gone again! =(Apple have people watching all the forums as they said last year...And when a Tube link is posted, Apple request the You-Tubesters to remove it...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671749</cid>
+	<date>Jan 5, 2011, 08:46 PM</date>
+	<author>black743</author>
+	<text>Quote:Originally Posted byThex1138Apple have people watching all the forums as they said last year...And when a Tube link is posted, Apple request the You-Tubesters to remove it...Yet the other videos remain, one for the iPhone 4 and another for 3gs, and have been up for a long while.  Why are they so insistent on taking this one down, unless there's some validity?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671779</cid>
+	<date>Jan 5, 2011, 08:54 PM</date>
+	<author>Thex1138</author>
+	<text>Quote:Originally Posted byblack743Yet the other videos remain, one for the iPhone 4 and another for 3gs, and have been up for a long while.  Why are they so insistent on taking this one down, unless there's some validity?Easy... Ask Apple.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671826</cid>
+	<date>Jan 5, 2011, 09:06 PM</date>
+	<author>black743</author>
+	<text>Quote:Originally Posted byThex1138Easy... Ask Apple.Or, easy....Verizon iPhone/dual mode phone, etc...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671851</cid>
+	<date>Jan 5, 2011, 09:11 PM</date>
+	<author>MarximusMG</author>
+	<text>Quote:Originally Posted byblack743Or, easy....Verizon iPhone/dual mode phone, etc...Exactly. One of the main things that is different in this leaked version is the antenna. I think that's a little more than coincidence.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671945</cid>
+	<date>Jan 5, 2011, 09:37 PM</date>
+	<author>black743</author>
+	<text>Quote:Originally Posted byMarximusMGExactly. One of the main things that is different in this leaked version is the antenna. I think that's a little more than coincidence.So do I...but I also wonder how many of these &quot;leaks&quot; are done by Apple?  Leak a video, then have it removed &quot;by Apple Inc.&quot;  The fact that they had it removed adds more to it than if it just sat up there, then everyone would start to think it was fake.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671970</cid>
+	<date>Jan 5, 2011, 09:45 PM</date>
+	<author>AdamSubach</author>
+	<text>I bet most you guys follow Gizmodo!  But isn't funny that Gizmodo hasn't eaten this up yet?  Maybe because of the past Apple and Gizmodo went though?  Very suspicious...Do you guys agree?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671973</cid>
+	<date>Jan 5, 2011, 09:46 PM</date>
+	<author>Geckotek</author>
+	<text>Quote:Originally Posted bymadmeatballsI don't think thats an iPhone 5. maybe thats just an old video? and the suspected iphone 5 is just the prototype of the iphone 4Oh yeah, cuz Apple is SO concerned about video's of iPhone 4 spare parts making it to the net.  FAILQuote:Originally Posted byblack743Yet the other videos remain, one for the iPhone 4 and another for 3gs, and have been up for a long while.  Why are they so insistent on taking this one down, unless there's some validity?This is what's got me perplexed.  Definately adds something to the story.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671978</cid>
+	<date>Jan 5, 2011, 09:47 PM</date>
+	<author>cocky jeremy</author>
+	<text>Call me crazy, but i think this is an early iPhone 4 prototype, not an iPhone 5 casing. Notice how they mention in the video (If it's the same video i saw on another site) that there is no camera hole? Seems to me like that makes it more likely to be an early iPhone 4 prototype before they added a camera to it. Of course, they could be right. We'll see in June.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672011</cid>
+	<date>Jan 5, 2011, 09:56 PM</date>
+	<author>black743</author>
+	<text>Quote:Originally Posted byGeckotekThis is what's got me perplexed.  Definately adds something to the story.This also makes more sense of the &quot;leaked&quot; Verizon iPhone cases from a few days ago.  These pictures show the mute button slightly shifted....hmmm.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672030</cid>
+	<date>Jan 5, 2011, 10:01 PM</date>
+	<author>ssdeg7</author>
+	<text>I think the next iPhone won't have mayor upgrades, just a few like going from 3G to 3GS.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672034</cid>
+	<date>Jan 5, 2011, 10:01 PM</date>
+	<author>Geckotek</author>
+	<text>Quote:Originally Posted bycocky jeremyCall me crazy, but i think this is an early iPhone 4 prototype, not an iPhone 5 casing. Notice how they mention in the video (If it's the same video i saw on another site) that there is no camera hole? Seems to me like that makes it more likely to be an early iPhone 4 prototype before they added a camera to it. Of course, they could be right. We'll see in June.A) Why pull down the video of a prototype?B) Most likely prototype parts have been recalled/destroyed long agoC) Camera hole only means camera is thinner, doesn't mean it's gone (this is the middle metal bracket, not an external part that requires a &quot;view&quot;)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672038</cid>
+	<date>Jan 5, 2011, 10:02 PM</date>
+	<author>ssdeg7</author>
+	<text>Quote:Originally Posted bycocky jeremyCall me crazy, but i think this is an early iPhone 4 prototype, not an iPhone 5 casing. Notice how they mention in the video (If it's the same video i saw on another site) that there is no camera hole? Seems to me like that makes it more likely to be an early iPhone 4 prototype before they added a camera to it. Of course, they could be right. We'll see in June.Could be, we'll have to see what comes up in June.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672045</cid>
+	<date>Jan 5, 2011, 10:03 PM</date>
+	<author>black743</author>
+	<text>Quote:Originally Posted byGeckotekA) Why pull down the video of a prototype?B) Most likely prototype parts have been recalled/destroyed long agoC) Camera hole only means camera is thinner, doesn't mean it's gone (this is the middle metal bracket, not an external part that requires a &quot;view&quot;)Plus, don't forget the video of the iPhone 4 teardown is still up, and has been for quite some time.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672097</cid>
+	<date>Jan 5, 2011, 10:18 PM</date>
+	<author>icyfire</author>
+	<text>videos being pulled down is a definite confirmation that this is the real deal.  Whether or not it's CDMA, I think we'll be seeing its unveiling very shortly because Apple usually doesn't start mass production until right before release (and many past leaks seemed to happen very close to release date).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672105</cid>
+	<date>Jan 5, 2011, 10:20 PM</date>
+	<author>yayitsezekiel</author>
+	<text>Quote:Originally Posted byblack743http://www.youtube.com/watch?v=jvUUwMuUktkIts been uploaded a second time.  Not sure how long this one will last.that one is already downbring on verizon iphone!&#63743;</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672107</cid>
+	<date>Jan 5, 2011, 10:21 PM</date>
+	<author>possumwater</author>
+	<text>I've been thinking long and hard on this.  Since the sound is a voice over, It could very well be an old part that they are showing for whatever reason, with someone putting the voice to it.  As in it could be a video from a while back right?Another reason the videos could be getting pulled is so that Verizon can protect their products.  The more talk about the iP&quot;V' the less phones they sell until it releases.  Just some random thoughts.  I'm hoping it is in fact the iPhone 4s for both carriers.  I'm dying to get my hands on one!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672162</cid>
+	<date>Jan 5, 2011, 10:35 PM</date>
+	<author>mbrannon47</author>
+	<text>Quote:Originally Posted bythemadrussianTherefore, could it make sense that this new phone has three antennas, rather than two?No. CDMA and GSM would never be used simultaneously, so a hybrid phone would tie both bands to the same antenna hardware. No need to waste space for two antenna structures. Even more importantly, how would Apple explain the decreased signal due to the fact that they chopped each of these antennas in half? They wouldn't.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672164</cid>
+	<date>Jan 5, 2011, 10:35 PM</date>
+	<author>madmeatballs</author>
+	<text>Quote:Originally Posted byssdeg7I think the next iPhone won't have mayor upgrades, just a few like going from 3G to 3GS.More like iPhone 4S maybe</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672223</cid>
+	<date>Jan 5, 2011, 10:51 PM</date>
+	<author>TuffLuffJimmy</author>
+	<text>Quote:Originally Posted bypossumwaterlong and hard onHa!Quote:Since the sound is a voice over, It could very well be an old part that they are showing for whatever reason, with someone putting the voice to it.And even if the voice were in a live recording it could have been from a while back.Quote:As in it could be a video from a while back right?Incredibly unlikely. Occom's razer: the simplest answer is probably right.Quote:Another reason the videos could be getting pulled is so that Verizon can protect their products.  The more talk about the iP&quot;V' the less phones they sell until it releases.  Just some random thoughts.  I'm hoping it is in fact the iPhone 4s for both carriers.  I'm dying to get my hands on one!Equally unlikely. They may sell less phones now, but when the phone finally comes they'll be selling phones with DATA PLANS like hot cakes.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672247</cid>
+	<date>Jan 5, 2011, 10:58 PM</date>
+	<author>MarximusMG</author>
+	<text>Quote:Originally Posted byblack743This also makes more sense of the &quot;leaked&quot; Verizon iPhone cases from a few days ago.  These pictures show the mute button slightly shifted....hmmm.Didn't even think of that! Makes sense, though. The more I look at this video, the more I'm convinced that I'll have my Verizon iPhone in hand in no time...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672250</cid>
+	<date>Jan 5, 2011, 10:59 PM</date>
+	<author>alex.sebenski</author>
+	<text>Someone mentioned this and I think it's important because it probably proves they dont have any &quot;further information&quot; as they say at the end.At the beginning they act like theres an iPhone 4 and an iPhone 5 and then they're going to disassemble the iPhone 5 and show us the parts. It's just two iPhone 4s. There is no seem above the mute switch and the mute switch is still very high compared to the new case shown.I think they only got these parts and there's nothing more to be seen from these guys.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672252</cid>
+	<date>Jan 5, 2011, 10:59 PM</date>
+	<author>kas23</author>
+	<text>Wait, if Antennagate was so overblown and a product of overzealous media, why is Apple choosing to change their antenna? Geez, I don't want to re-learn how to properly hold a cellphone again. Once was hard enough. Maybe this next one will come with illustrated directions.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672267</cid>
+	<date>Jan 5, 2011, 11:03 PM</date>
+	<author>nojustwar</author>
+	<text>Sure, It could be a Verizon Iphone, or even the design for the Iphone 5 (or 6) for ATT.I think it's the White Iphone though. It could be designed for the CDMA network as well, being both a solution for the White Iphone and the CDMA/Verizon Iphone.This is why:The holes in the panels are now missing. The issues with the white iphone included leaking light. No holes, no light. They have closed up holes in the top and the bottom as well as in the parts.Just saying, we expected a white Iphone and a CDMA Verizon Iphone. This could be both. But I think the changes have everything to do with the leaking of light.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672276</cid>
+	<date>Jan 5, 2011, 11:06 PM</date>
+	<author>black743</author>
+	<text>I don't think Verizon has anything to do with these being pulled.  If Verizon was so concerned about not selling phones, they would have issued responses to all the major news stories concerning the Verizon iPhone (Washington Post, Forbes, Business Week, etc...).  Its interesting that neither Verizon nor Apple has said a single word against these claims....and this has to be hurting sales, as many people (myself included) are holding out before getting an upgrade.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672285</cid>
+	<date>Jan 5, 2011, 11:08 PM</date>
+	<author>LeighAnna Jones</author>
+	<text>Wow. Didn't they just come out with this thing?I'm betting it might be the older model that didn't make it. Just saying.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672290</cid>
+	<date>Jan 5, 2011, 11:10 PM</date>
+	<author>possumwater</author>
+	<text>Quote:Originally Posted byalex.sebenskiSomeone mentioned this and I think it's important because it probably proves they dont have any &quot;further information&quot; as they say at the end.At the beginning they act like theres an iPhone 4 and an iPhone 5 and then they're going to disassemble the iPhone 5 and show us the parts. It's just two iPhone 4s. There is no seem above the mute switch and the mute switch is still very high compared to the new case shown.I think they only got these parts and there's nothing more to be seen from these guys.Would be about right, if they actual phone releases prior to the 2nd showing of the parts... maybe its all they have and they know that it will be released sooner than later and hope it will drop before everyone expects the next update.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672309</cid>
+	<date>Jan 5, 2011, 11:15 PM</date>
+	<author>possumwater</author>
+	<text>Quote:Originally Posted byblack743I don't think Verizon has anything to do with these being pulled.  If Verizon was so concerned about not selling phones, they would have issued responses to all the major news stories concerning the Verizon iPhone (Washington Post, Forbes, Business Week, etc...).  Its interesting that neither Verizon nor Apple has said a single word against these claims....and this has to be hurting sales, as many people (myself included) are holding out before getting an upgrade.I can see it from either angle. I too have been holding out.  I was with a crappy local company due to the fact that ATT has no tower near where I live, so I have been awaiting the Verizon iPhone bc we have awesome service here with them.  I have recently switched back to ATT bc I have not being able to use my iPhone 3GS.  ATT has opted to give me a free minicell for my home.  They will have a tower right next to my place in 6 months too...so I may just stick with them anyhow.  I'm so sick of this waiting game! If something doesn't happen soon, imma sell my 3GS on eBay and get an iP4 via ATT and be done with it...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672329</cid>
+	<date>Jan 5, 2011, 11:20 PM</date>
+	<author>lPHONE</author>
+	<text>This here is pretty much the smoking gun that tells me it's legitimate:</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672332</cid>
+	<date>Jan 5, 2011, 11:21 PM</date>
+	<author>yayitsezekiel</author>
+	<text>Quote:Originally Posted bypossumwaterI can see it from either angle. I too have been holding out.  I was with a crappy local company due to the fact that ATT has no tower near where I live, so I have been awaiting the Verizon iPhone bc we have awesome service here with them.  I have recently switched back to ATT bc I have not being able to use my iPhone 3GS.  ATT has opted to give me a free minicell for my home.  They will have a tower right next to my place in 6 months too...so I may just stick with them anyhow.  I'm so sick of this waiting game! If something doesn't happen soon, imma sell my 3GS on eBay and get an iP4 via ATT and be done with it...I've been without a cell phone for 2 years waiting for a verizon iphone. There just isn't another phone I feel obligated to spend my money other than an iphone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672336</cid>
+	<date>Jan 5, 2011, 11:22 PM</date>
+	<author>JoEw</author>
+	<text>clearly apple didnt want us to see this cause they had youtube remove the video.This very well could be the iPhone 5 or a new iphone of some kind.Why would apple care if it wasnt a new product being shown in the video?if it was an iphone 4 design that didnt make the cut then why would they care if someone showed it on youtube?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672353</cid>
+	<date>Jan 5, 2011, 11:27 PM</date>
+	<author>yayitsezekiel</author>
+	<text>Quote:Originally Posted byJoEwclearly apple didnt want us to see this cause they had youtube remove the video.This very well could be the iPhone 5 or a new iphone of some kind.Why would apple care if it wasnt a new product being shown in the video?if it was an iphone 4 design that didnt make the cut then why would they care if someone showed it on youtube?and to make it even more interesting...someone else re-uploaded the video and that got taken down too. Also the new mute button positions match the leaked verizon cases from a couple of days ago. I think a verizon launch is imminent.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672370</cid>
+	<date>Jan 5, 2011, 11:31 PM</date>
+	<author>JoEw</author>
+	<text>Quote:Originally Posted byyayitsezekieland to make it even more interesting...someone else re-uploaded the video and that got taken down too. Also the new mute button positions match the leaked verizon cases from a couple of days ago. I think a verizon launch is imminent.agreed.can someone upload the video to another video host so i can watch it?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672378</cid>
+	<date>Jan 5, 2011, 11:32 PM</date>
+	<author>possumwater</author>
+	<text>Quote:Originally Posted byJoEwagreed.can someone upload the video to another video host so i can watch it?I copied it to my MBP720hd</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672390</cid>
+	<date>Jan 5, 2011, 11:35 PM</date>
+	<author>lPHONE</author>
+	<text>Quote:Originally Posted byyayitsezekielI've been without a cell phone for 2 years waiting for a verizon iphone. There just isn't another phone I feel obligated to spend my money other than an iphone.That's some serious dedication, bro. You may consider getting help.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672392</cid>
+	<date>Jan 5, 2011, 11:35 PM</date>
+	<author>inkswamp</author>
+	<text>Quote:Originally Posted bykas23Wait, if Antennagate was so overblown and a product of overzealous media, why is Apple choosing to change their antenna? Geez, I don't want to re-learn how to properly hold a cellphone again. Once was hard enough. Maybe this next one will come with illustrated directions.Why not? Lots of other phones come with illustrations showing how not to hold them too. My wife has an HTC phone, the manual for which shows how certain hand positions will interfere with the reception. As was pointed out exhaustively last summer, this problem is not unique to the iPhone.But, even more interesting to me is how you seem to know definitively that the design differences in this phone were intended to mitigate that so-called problem. Or even better, how you know this isn't a fake to begin with.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672407</cid>
+	<date>Jan 5, 2011, 11:40 PM</date>
+	<author>lPHONE</author>
+	<text>Quote:Originally Posted byLeighAnna JonesWow. Didn't they just come out with this thing?Dude, that was like 5 months ago. The iPhone 4 is practically a dinosaur.Personally, I'm waiting for the iPhone 6. Now, the iPhone 7... Nobody can get pictures of that, but I hear it's charged by the sun, weighs -14.7oz and is made of anti-matter.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672439</cid>
+	<date>Jan 5, 2011, 11:49 PM</date>
+	<author>bretm</author>
+	<text>Quote:Originally Posted bylPHONEDude, that was like 5 months ago. The iPhone 4 is practically a dinosaur.Personally, I'm waiting for the iPhone 6. Now, the iPhone 7... Nobody can get pictures of that, but I hear it's charged by the sun, weighs -14.7oz and is made of anti-matter.It was almost 7 months ago actually.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672448</cid>
+	<date>Jan 5, 2011, 11:53 PM</date>
+	<author>shazzam</author>
+	<text>If a Verizon iPhone is released before June wouldn't that mess up the release cycles? It really needs to have a dual CDMA/GSM chip (like the Droid Pro does) so there don't have to be two different iPhones on the market. Just seems messy to me.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672449</cid>
+	<date>Jan 5, 2011, 11:54 PM</date>
+	<author>Geckotek</author>
+	<text>Quote:Originally Posted byalex.sebenskiSomeone mentioned this and I think it's important because it probably proves they dont have any &quot;further information&quot; as they say at the end.At the beginning they act like theres an iPhone 4 and an iPhone 5 and then they're going to disassemble the iPhone 5 and show us the parts. It's just two iPhone 4s. There is no seem above the mute switch and the mute switch is still very high compared to the new case shown.I think they only got these parts and there's nothing more to be seen from these guys.The last time something like this happened, the had the LCD panel as well, so I'm guessing that's what we'll see next.  I don't think they ever had the actual mainboard, which makes sense that Apple would protect it more.Quote:Originally Posted byshazzamIf a Verizon iPhone is released before June wouldn't that mess up the release cycles? It really needs to have a dual CDMA/GSM chip (like the Droid Pro does) so there don't have to be two different iPhones on the market. Just seems messy to me.Not if they decide to have 2 release cycles.  One for CDMA and one for GSM.  And why is that messy when every other manfacturer is doing it?  I can never understand why so many people find this such a hard concept to understand.Although I'm starting to wonder if the dual-mode rumors are true.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672455</cid>
+	<date>Jan 5, 2011, 11:56 PM</date>
+	<author>MarximusMG</author>
+	<text>Quote:Originally Posted byyayitsezekieland to make it even more interesting...someone else re-uploaded the video and that got taken down too. Also the new mute button positions match the leaked verizon cases from a couple of days ago. I think a verizon launch is imminent.I've got my wallet ready... Here's hoping to Ivan introducing Steve to the stage tomorrow. If only!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672469</cid>
+	<date>Jan 6, 2011, 12:01 AM</date>
+	<author>yayitsezekiel</author>
+	<text>Quote:Originally Posted bylPHONEThat's some serious dedication, bro. You may consider getting help.That post made me laughTrust me, it has driven me insane a few times. But google voice has let me text friends from my ipod touch and computer so that has helped a lot. I am a frugal teenager (i know, i didn't think they existed either) and I don't like wasting my hard-earned money on crap. I have nothing against AT&amp;T, it's just that i've had such a great experience with verizon on the entiere western half of the US (even in the remotest of places I had 3g, like in the middle of nowhere, wyoming), it would be awesome to have the best phone in the world, with the best cellular company in the US. Maybe i should write to steve and see what he says</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672514</cid>
+	<date>Jan 6, 2011, 12:19 AM</date>
+	<author>lPHONE</author>
+	<text>Quote:Originally Posted bybretmIt was almost 7 months ago actually.It was?OK, then I'm waiting for the iPhone 8. I hear it's made out of liquid metal and folds up into your ear...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672619</cid>
+	<date>Jan 6, 2011, 01:07 AM</date>
+	<author>MICK.BUDDY</author>
+	<text>I hear it's made out of liquid metal and folds up into your ear...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672624</cid>
+	<date>Jan 6, 2011, 01:10 AM</date>
+	<author>QuarterSwede</author>
+	<text>Quote:Originally Posted bylPHONEIt was?OK, then I'm waiting for the iPhone 8. I hear it's made out of liquid metal and folds up into your ear...I think you mean in your eye ... with a hammer. I hear they're calling it the EyePhone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672627</cid>
+	<date>Jan 6, 2011, 01:11 AM</date>
+	<author>Full of Win</author>
+	<text>Quote:Originally Posted bylPHONEThis here is pretty much the smoking gun that tells me it's legitimate:Why is Apple so stupid? Once the Genie of out of the bottle, its cannot be put back in. By doing this, they give credence to the video/images and remove all doubt of it being a hoax. In a sense, their actions are more of the story than the video.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672634</cid>
+	<date>Jan 6, 2011, 01:14 AM</date>
+	<author>QuarterSwede</author>
+	<text>Quote:Originally Posted byFull of WinWhy is Apple so stupid? Once the Genie of out of the bottle, its cannot be put back in. By doing this, they give credence to the video/images and remove all doubt of it being a hoax. In a sense, their actions are more of the story than the video.They know this is going to happen from past experience.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672689</cid>
+	<date>Jan 6, 2011, 01:37 AM</date>
+	<author>SeaFox</author>
+	<text>Quote:Originally Posted bynoodlelegsIphone 5 has no front facing camera hole? How do they explain that one?Like this?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672694</cid>
+	<date>Jan 6, 2011, 01:41 AM</date>
+	<author>yayitsezekiel</author>
+	<text>Quote:Originally Posted byQuarterSwedeThey know this is going to happen from past experience.well i say more power to them, because of their actions we know that video is probably legit.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672727</cid>
+	<date>Jan 6, 2011, 02:01 AM</date>
+	<author>iWolf00</author>
+	<text>The video is longer available because of Apple copyright?? Can anyone share the video with me please?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672803</cid>
+	<date>Jan 6, 2011, 02:43 AM</date>
+	<author>Reach9</author>
+	<text>I saw the video earlier today, and now it's been removed by Apple..could this mean that this is actually legit? Then i'm guessing the iPhone 4 to the Next iPhone will be a 3G to a 3GS update.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672835</cid>
+	<date>Jan 6, 2011, 02:53 AM</date>
+	<author>gorjan</author>
+	<text>Quote:Originally Posted bykas23Wait, if Antennagate was so overblown and a product of overzealous media, why is Apple choosing to change their antenna? Geez, I don't want to re-learn how to properly hold a cellphone again. Once was hard enough. Maybe this next one will come with illustrated directions.Hehe, I'm pretty sure there's something wrong with the antenna.I tried holding an iPhone 4 in the store the other day, no death-grip or anything. Whlie in the stand it had 4-5 bars, 30 seconds or so after I picked it up, BAM, 1 bar.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672891</cid>
+	<date>Jan 6, 2011, 03:24 AM</date>
+	<author>crazy4apple</author>
+	<text>Quote:Originally Posted byFull of WinWhy is Apple so stupid? Once the Genie of out of the bottle, its cannot be put back in. By doing this, they give credence to the video/images and remove all doubt of it being a hoax. In a sense, their actions are more of the story than the video.NO!! Apple has full right to do this as this has nothing to do with if the video is a hoax or not but the video contained the parts of the Iphone 4 (the one thats in stores and  in peoples hands now) which Apple have fully legal copyright on. so showing the internal parts and the  materials used is a breach of that copyright so they well in the rights to request youtube to close is down.this proves nothing regarding weather the others parts is the next iphone or not.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672897</cid>
+	<date>Jan 6, 2011, 03:27 AM</date>
+	<author>gorjan</author>
+	<text>Quote:Originally Posted bycrazy4appleNO!! Apple has full right to do this as this has nothing to do with if the video is a hoax or not but the video contained the parts of the Iphone 4 (the one thats in stores and  in peoples hands now) which Apple have fully legal copyright on. so showing the internal parts and the  materials used is a breach of that copyright so they well in the rights to request youtube to close is down.this proves nothing regarding weather the others parts is the next iphone or not.Are you kidding? After the iPhone 4 is released to the public you can record it as much as you like.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672909</cid>
+	<date>Jan 6, 2011, 03:34 AM</date>
+	<author>tullys</author>
+	<text>Not sure if this has been pointed out earlier but the start of the video contained a still from the iphone4 launch (I recall it being a shot of Steve on stage). That still is likely to be from the Apple coverage. Hence Apple has a copyright.Not necessarily anything to do with the bits of metal seen later on.Quote:Originally Posted byblack743&quot;This video is no longer available due to a copyright claim by Apple, Inc.. &quot;Gee does that say something?  Especially since the older videos are still up and running.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672915</cid>
+	<date>Jan 6, 2011, 03:36 AM</date>
+	<author>Full of Win</author>
+	<text>Quote:Originally Posted bycrazy4appleNO!! Apple has full right to do this as this has nothing to do with if the video is a hoax or not but the video contained the parts of the Iphone 4 (the one thats in stores and  in peoples hands now) which Apple have fully legal copyright on. so showing the internal parts and the  materials used is a breach of that copyright so they well in the rights to request youtube to close is down.this proves nothing regarding weather the others parts is the next iphone or not.I never said they had the right to or not to, just that by asking for a pulldown, they are saying it's on their RADAR, and thus there is something to the video.There are plenty of videos showing internal parts of Apple products, and none of these have been the subject of a takedown. That should tell you something right there.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672932</cid>
+	<date>Jan 6, 2011, 03:48 AM</date>
+	<author>wordoflife</author>
+	<text>The video is no longer available to see due to copy right claims by Apple. That's cool. At least I was able to see the video before they pulled it off.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672955</cid>
+	<date>Jan 6, 2011, 03:58 AM</date>
+	<author>Fraaaa</author>
+	<text>Quote:Originally Posted byFull of WinI never said they had the right to or not to, just that by asking for a pulldown, they are saying it's on their RADAR, and thus there is something to the video.There are plenty of videos showing internal parts of Apple products, and none of these have been the subject of a takedown. That should tell you something right there.Whether the iPhone is legit or not, people are not allowed on claiming what Apple is going to put on the market by proving or with pretending evidence, it disrupt their market in terms of stocks, expectation, sales and business partners relation issues.If you have a company you would and need/want secrecy you would be pissed off too if there's a leak or some hard claim on you head too.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673110</cid>
+	<date>Jan 6, 2011, 05:17 AM</date>
+	<author>MR.Raul</author>
+	<text>http://www.youtube.com/watch?v=fslDl442qjo</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673169</cid>
+	<date>Jan 6, 2011, 05:50 AM</date>
+	<author>Full of Win</author>
+	<text>Quote:Originally Posted byFraaaaWhether the iPhone is legit or not, people are not allowed on claiming what Apple is going to put on the market by proving or with pretending evidence, it disrupt their market in terms of stocks, expectation, sales and business partners relation issues.If you have a company you would and need/want secrecy you would be pissed off too if there's a leak or some hard claim on you head too.But my point was by getting a takedown they are paradoxically increasing its size and impact. W/o the intervention, I think the story would have faded pretty soon. However, by getting the takedown notice from Apple, it implies there is a lot more fire than originally thought and will spread coverage of the story.Before Apple, this was a poorly edited video using trite graphics, now its 'the video that Apple wants to keep hidden'</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673226</cid>
+	<date>Jan 6, 2011, 06:12 AM</date>
+	<author>Pez555</author>
+	<text>yea pretty much confirms something about it is legit. iPhone 5 prototype maybe, or the real deal. Although i wouldnt expect something legit this early, we still have 6 months until release.Not sure why people are saying iPhone 4 prototype - we would have seen those months ago.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673265</cid>
+	<date>Jan 6, 2011, 06:24 AM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byPez555yea pretty much confirms something about it is legit. iPhone 5 prototype maybe, or the real deal. Although i wouldnt expect something legit this early, we still have 6 months until release.Not sure why people are saying iPhone 4 prototype - we would have seen those months ago.I'm convinced it's NOT the iPhone 5. It's just the CMDA version (Verizon version) of the iPhone and a minor refresh (probably to eliminate the antenna issue) that will probably slip over to the other model too. This is more like the 3Gs version of the iPhone compared to the 3G version.Also... the video has nothing to do with Copyright, but with NDAs. I'm sure suppliers are under strict NDAs not to disclose anything until after announcement. Including channel partners like this company.Full of Win... I get your point and you're right. Apple having this pulled draws attention to it. But, given they are close to announcement, I'm sure they are just trying like crazy to keep the cat in the bag as long as they can.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673401</cid>
+	<date>Jan 6, 2011, 07:14 AM</date>
+	<author>meatballs</author>
+	<text>Obviously a controlled leak byProbably the parts for the upcoming and much talked about white iPhone 4.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673402</cid>
+	<date>Jan 6, 2011, 07:14 AM</date>
+	<author>nfrs2000</author>
+	<text>Since Verizon cant do voice and data at the same time does that mean that they cant do facetime?  So would that mean that they would have a iPhone without a front facing camera? Maybe that explains the housing with no camera hole</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673417</cid>
+	<date>Jan 6, 2011, 07:19 AM</date>
+	<author>yayitsezekiel</author>
+	<text>Quote:Originally Posted bynfrs2000Since Verizon cant do voice and data at the same time does that mean that they cant do facetime?  So would that mean that they would have a iPhone without a front facing camera? Maybe that explains the housing with no camera holeVerizon came out and said that they are going to update their 3G network to be able to support simultaneous voice and data. Plus, FaceTime is done over VOIP and it's all data. So there would be FaceTime on Verizon regardless.Here's the link to the article talking about Verizon being able to support simultaneous voice and data within the 1st half of 2011.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673422</cid>
+	<date>Jan 6, 2011, 07:21 AM</date>
+	<author>Muscleflex</author>
+	<text>i saw the video last night but didn't finish it. i found it boring</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673434</cid>
+	<date>Jan 6, 2011, 07:27 AM</date>
+	<author>clibinarius</author>
+	<text>Two things; first, its possible they haven't decided how the holes will be in the phone yet; it looks like there's a space for a camera, but they haven't settled on a design.Second, a CDMA iphone will have a camera.  The ipod touch can't do facetime over 3G, but can over wifi.  The fact you can't talk and data is irrelevant to its use.  You can just use the whole thing over data.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673448</cid>
+	<date>Jan 6, 2011, 07:34 AM</date>
+	<author>Geckotek</author>
+	<text>Quote:Originally Posted byclibinariusTwo things; first, its possible they haven't decided how the holes will be in the phone yet; it looks like there's a space for a camera, but they haven't settled on a design.Second, a CDMA iphone will have a camera.  The ipod touch can't do facetime over 3G, but can over wifi.  The fact you can't talk and data is irrelevant to its use.  You can just use the whole thing over data.It's also possible the new camera part doesn't require a hole at all.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673456</cid>
+	<date>Jan 6, 2011, 07:34 AM</date>
+	<author>Geckotek</author>
+	<text>It's also possible the new camera part doesn't require a hole at all.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673458</cid>
+	<date>Jan 6, 2011, 07:35 AM</date>
+	<author>black743</author>
+	<text>Quote:Originally Posted bycrazy4appleNO!! Apple has full right to do this as this has nothing to do with if the video is a hoax or not but the video contained the parts of the Iphone 4 (the one thats in stores and  in peoples hands now) which Apple have fully legal copyright on. so showing the internal parts and the  materials used is a breach of that copyright so they well in the rights to request youtube to close is down.this proves nothing regarding weather the others parts is the next iphone or not.Then tell me why the other two videos were never pulled?  There is an iPhone 4 and iPhone 3gs teardown video that have both been on the site for months.  Why so fast to force removal of one but not care about the others.I'm with a few of the other guys, I think Verizon launch is immanent.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673472</cid>
+	<date>Jan 6, 2011, 07:39 AM</date>
+	<author>grmatt</author>
+	<text></text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673482</cid>
+	<date>Jan 6, 2011, 07:42 AM</date>
+	<author>nylonsteel</author>
+	<text>aapl taking down the video could lend some validity to this rumor</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673522</cid>
+	<date>Jan 6, 2011, 07:53 AM</date>
+	<author>Full of Win</author>
+	<text>Quote:Originally Posted bygrmatthttp://3.bp.blogspot.com/_xODgVRIsPR8/TOLQUj_oo7I/AAAAAAAACdE/a3jzmkskYQ0/s1600/WhiteiPhone4.jpgThe carrier name has been hackable since a few weeks after the first iPhone came out 3.5 years ago. Also, Photoshop has had clone for decades.In other words, it is very easy to fake that shot</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673530</cid>
+	<date>Jan 6, 2011, 07:55 AM</date>
+	<author>grmatt</author>
+	<text>Quote:Originally Posted byFull of WinThe carrier name has been hackable since a few weeks after the first iPhone came out 3.5 years ago. Also, Photoshop has had clone for decades.In other words, it is very easy to fake that shotTrue... but interesting that the seams are gone in both. Also, it is a white iPhone. There's much less chance that someone would have access to a white iPhone to take the original photo. Not saying it's true, just saying &quot;hmmm&quot;...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673541</cid>
+	<date>Jan 6, 2011, 07:57 AM</date>
+	<author>Geckotek</author>
+	<text>I'm a big believer that a Verizon iPhone is coming and with all the latest info, I believe sooner than June.HOWEVER, relations between Apple and AT&amp;T would have to be extremely bad for Apple to announce a whilt iPhone and the pull it purely for the reason of launching it as a Verizon exclusive.  I seriously doubt we'll see a white Verizon iPhone at launch, but if we do I'll bet AT&amp;T gets one at the same time.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673545</cid>
+	<date>Jan 6, 2011, 07:59 AM</date>
+	<author>Full of Win</author>
+	<text>Quote:Originally Posted bygrmattTrue... but interesting that the seams are gone in both. Also, it is a white iPhone. There's much less chance that someone would have access to a white iPhone to take the original photo. Not saying it's true, just saying &quot;hmmm&quot;...White panel retrofit kits have been available for months. This could have began as a black iPhone and then had the white parts added later on.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673549</cid>
+	<date>Jan 6, 2011, 08:01 AM</date>
+	<author>yayitsezekiel</author>
+	<text>Quote:Originally Posted byGeckotekI'm a big believer that a Verizon iPhone is coming and with all the latest info, I believe sooner than June.HOWEVER, relations between Apple and AT&amp;T would have to be extremely bad for Apple to announce a whilt iPhone and the pull it purely for the reason of launching it as a Verizon exclusive.  I seriously doubt we'll see a white Verizon iPhone at launch, but if we do I'll bet AT&amp;T gets one at the same time.Apple says the white iPhone will be delayed til spring. So it is going to happen.http://www.msnbc.msn.com/id/39859761...h_and_gadgets/</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673582</cid>
+	<date>Jan 6, 2011, 08:06 AM</date>
+	<author>Sedrick</author>
+	<text>Hmmm,couldbe Verizon phone.  Looks too well constructed to just be a past proto-type.I don't fault the video for showing two iPhone 4's at the beginning.  Just means they didn't have the whole 'iphone 5', just the innards.  More for effect, really.They could just release it on Verizon in a couple months and have the AT&amp;T version catch up in June.  Then they keep the same release schedule they always have had.  No biggie.  Keeps the buzz going for an AT&amp;T release.Definitelygoing to wait for June to upgrade though.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673779</cid>
+	<date>Jan 6, 2011, 08:38 AM</date>
+	<author>fishmd</author>
+	<text>Quote:Originally Posted bycrazy4appleNO!! Apple has full right to do this as this has nothing to do with if the video is a hoax or not but the video contained the parts of the Iphone 4 (the one thats in stores and  in peoples hands now) which Apple have fully legal copyright on. so showing the internal parts and the  materials used is a breach of that copyright so they well in the rights to request youtube to close is down.this proves nothing regarding weather the others parts is the next iphone or not.Psshhhttt.  You ever hear of the site iFixit.  You know, the one that tears everything apart and posts it all online right after the object is released to the public.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673781</cid>
+	<date>Jan 6, 2011, 08:39 AM</date>
+	<author>Geckotek</author>
+	<text>More than that, SmartPhoneMedic released an almost identical video of iPhone 4 innards BEFORE release, just like this video.  But those videos are still posted on YouTube....ODD.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673782</cid>
+	<date>Jan 6, 2011, 08:39 AM</date>
+	<author>croooow</author>
+	<text>The iPhone 4 is &quot;officially&quot; an old model now, bring on the CDMA iPhone 4 or iPhone 5!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673787</cid>
+	<date>Jan 6, 2011, 08:40 AM</date>
+	<author>yayitsezekiel</author>
+	<text>Quote:Originally Posted byfishmdPsshhhttt.  You ever hear of the site iFixit.  You know, the one that tears everything apart and posts it all online right after the object is released to the public.This. Lol</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673911</cid>
+	<date>Jan 6, 2011, 08:59 AM</date>
+	<author>alupo790</author>
+	<text>Quote:Originally Posted byGeckotekI'm a big believer that a Verizon iPhone is coming and with all the latest info, I believe sooner than June.HOWEVER, relations between Apple and AT&amp;T would have to be extremely bad for Apple to announce a whilt iPhone and the pull it purely for the reason of launching it as a Verizon exclusive.  I seriously doubt we'll see a white Verizon iPhone at launch, but if we do I'll bet AT&amp;T gets one at the same time.i hope so, i want one for verizon badly but the white is fugly, i only want a black iphone</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673958</cid>
+	<date>Jan 6, 2011, 09:05 AM</date>
+	<author>AZREOSpecialist</author>
+	<text>Quote:Originally Posted bytullysNot sure if this has been pointed out earlier but the start of the video contained a still from the iphone4 launch (I recall it being a shot of Steve on stage). That still is likely to be from the Apple coverage. Hence Apple has a copyright.Not necessarily anything to do with the bits of metal seen later on.If that were true, the video could have been re-edited and re-posted. There was no need to remove the video entirely if what you say is correct. I'm pretty sure it's because this is something Apple doesn't want anyone to see.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11674048</cid>
+	<date>Jan 6, 2011, 09:19 AM</date>
+	<author>that user</author>
+	<text>I don't see why Apple wouldn't change the antenna placement for even the Verizon version. It makes sense that they fix it. I hope this is the Verizon phone. I do prefer the current placement of the black lines though.Also, if this is the 5th generation why wouldn't Apple incorporate the microUSB? This phone will &quot;it&quot; until the second half of 2012. Are they really going to wait until the last minute to address that change? I personally cannot wait for Apple make that change because I hate the ginormous hole at the bottom of my iPhone with all the dust in it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11674080</cid>
+	<date>Jan 6, 2011, 09:23 AM</date>
+	<author>Geckotek</author>
+	<text>Quote:Originally Posted bythat userI don't see why Apple wouldn't change the antenna placement for even the Verizon version. It makes sense that they fix it. I hope this is the Verizon phone. I do prefer the current placement of the black lines though.Also, if this is the 5th generation why wouldn't Apple incorporate the microUSB? This phone will &quot;it&quot; until the second half of 2012. Are they really going to wait until the last minute to address that change? I personally cannot wait for Apple make that change because I hate the ginormous hole at the bottom of my iPhone with all the dust in it.Their answer to microUSB is to include a dock cable that terminates with a USB connector.  They will not migrate from the dock to microUSB.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11674470</cid>
+	<date>Jan 6, 2011, 10:15 AM</date>
+	<author>Sedrick</author>
+	<text>Quote:Originally Posted byGeckotekTheir answer to microUSB is to include a dock cable that terminates with a USB connector.  They will not migrate from the dock to microUSB.Yep.  If they changed to USB, every dock on the planet would be junk overnight.  Ain't gonna happen...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11674485</cid>
+	<date>Jan 6, 2011, 10:17 AM</date>
+	<author>Individual</author>
+	<text>Quote:Originally Posted bySmall White CarI like how he's like &quot;this could fix the antena issue.&quot;Yeah, or it's an older version that's even worse and they added the separators to make it better!I mean, I have no idea, but neither does he. We have no idea of knowing what this is.Umm thats why it calls a rumor!! no one knows for sure, people are speculating.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11674745</cid>
+	<date>Jan 6, 2011, 10:49 AM</date>
+	<author>that user</author>
+	<text>edited</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11676715</cid>
+	<date>Jan 6, 2011, 03:20 PM</date>
+	<author>wordoflife</author>
+	<text>It says the the video has been removed by &quot;Apple Inc..&quot;  &lt;------ with two periods. Could easily be a typo error from someone who is pulling our legs; ie, not Apple.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11676878</cid>
+	<date>Jan 6, 2011, 03:46 PM</date>
+	<author>Geckotek</author>
+	<text>Quote:Originally Posted bywordoflifeIt says the the video has been removed by &quot;Apple Inc..&quot;  &lt;------ with two periods. Could easily be a typo error from someone who is pulling our legs; ie, not Apple.Easily explained....the final period is always present when the form is filled out by some YouTube employee for any video removed.  Inc. is an abbreviation that has a trailing '.'.  Combine the 2 and you get Inc..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11679847</cid>
+	<date>Jan 7, 2011, 06:06 AM</date>
+	<author>centauratlas</author>
+	<text>Definitely true.  Since the take-down happened.  QEDThere is a difference between pre-release video that they would have a trade secrets interest in and one that is easily re-created by anyone with an iPhone 4.  There are other legal factors involved too that might have made Apple decide to handle this differently.Quote:Originally Posted byGeckotekNot true, an almost identical iPhone 4 leak by SmartPhoneMedic is still up on YouTube at this moment.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11679872</cid>
+	<date>Jan 7, 2011, 06:17 AM</date>
+	<author>centauratlas</author>
+	<text>And in all likelihood, using a single shot from a video - assuming it came from the video not a still camera at the event - would be what is known as fair use in copyright law.Quote:Originally Posted byAZREOSpecialistIf that were true, the video could have been re-edited and re-posted. There was no need to remove the video entirely if what you say is correct. I'm pretty sure it's because this is something Apple doesn't want anyone to see.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11680333</cid>
+	<date>Jan 7, 2011, 08:28 AM</date>
+	<author>Geckotek</author>
+	<text>Quote:Originally Posted bycentauratlasDefinitely true.  Since the take-down happened.  QEDThere is a difference between pre-release video that they would have a trade secrets interest in and one that is easily re-created by anyone with an iPhone 4.  There are other legal factors involved too that might have made Apple decide to handle this differently.Just to be sure...you know both videos are pre-release, right?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11681557</cid>
+	<date>Jan 7, 2011, 12:03 PM</date>
+	<author>Pink&#8710;Floyd</author>
+	<text>Guys, Apple demanded the video be taken down...this is the real deal...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11684394</cid>
+	<date>Jan 7, 2011, 08:07 PM</date>
+	<author>Chase R</author>
+	<text>Quote:Originally Posted bycroooowThe iPhone 4 is &quot;officially&quot; an old model now, bring on the CDMA iPhone 4 or iPhone 5!As if CDMA isn't old tech... Just sayin'I looking forward to an LTE/HSPA+ iPhone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11684415</cid>
+	<date>Jan 7, 2011, 08:12 PM</date>
+	<author>Geckotek</author>
+	<text>Quote:Originally Posted byChase RAs if CDMA isn't old tech... Just sayin'I looking forward to an LTE/HSPA+ iPhone.And exactly how old is CDMA tech?  GSM?Agreed with second statement, I'm leaning toward an LTE iPhone based on statements by Ivan Seidenberg.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11685184</cid>
+	<date>Jan 8, 2011, 12:15 AM</date>
+	<author>Michaelgtrusa</author>
+	<text>I see Apple had the vid removed.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11685938</cid>
+	<date>Jan 8, 2011, 05:46 AM</date>
+	<author>Cod3rror</author>
+	<text>Quote:Originally Posted bySedrickYep.  If they changed to USB, every dock on the planet would be junk overnight.  Ain't gonna happen...They don't have to change completely to the USB, keep the 30 pin dock connected, just add a mircoUSB port to the side or top of the iPhone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>12222387</cid>
+	<date>Mar 22, 2011, 08:11 AM</date>
+	<author>nukem170</author>
+	<text>NEW LINKhttp://vimeo.com/18483467</text>
+	<score>0</score>
+</comment>

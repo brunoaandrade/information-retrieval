@@ -1,0 +1,1465 @@
+<article>
+	<pid>5</pid>
+	<title>iPhone Alarm Bug Still Causing Issues for Some Users - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/03/iphone-alarm-bug-still-causing-issues-for-some-users/</url>
+	<date>Monday January 3, 2011 12:44 pm PST</date>
+	<author>Eric Slivka</author>
+	<text>Reutershas beenkeeping on topof theiOS alarm clock bugthat has seen users experiencing problems with alarms activating properly in the new year.  Despite reassurances from Apple over the weekend that alarms would begin functioning properly today, a number of users have reportedly continued to experience problems today, the first day of work in 2011 for many people.Some iPhone users across the globe complained of malfunctioning alarms on the first working day of 2011, even after Apple reassured users that its phones' built-in clocks will work from Monday.Bloggers, as well as Facebook and Twitter users, complained they missed flights or were late to arrive at work as the alarm built into Apple's iPhone failed to go off for a third straight day for some users.Apple has yet to offer an updated response to the issue today, and it is unclear why only some users are continuing to experience the bug, which affects non-recurring alarms.The New Year's bug is not the first alarm-related issue to affect Apple's iOS devices.  Last year, an issue related toDaylight Savings Time calculationsaffected recurring alarms beginning in Australia and New Zealand in late September and moving around the world as other countries either began or ended Daylight Savings Time.  Apple addressed that specific bug with the release of iOS 4.2 in late November.</text>
+	<score>208</score>
+</article>
+<comment>
+	<cid>11659343</cid>
+	<date>Jan 3, 2011, 03:57 PM</date>
+	<author>WiiDSmoker</author>
+	<text>$300 billion market cap and can't make a clock app work that any first semester programmer can do.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659349</cid>
+	<date>Jan 3, 2011, 03:57 PM</date>
+	<author>djschief</author>
+	<text>Tried mine about 30 minutes ago and it works fine.  Maybe it just had to be a particular time in order for it to work.  I certainly hope they fix all these damn bugs, its kinda annoying.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659357</cid>
+	<date>Jan 3, 2011, 03:59 PM</date>
+	<author>gri</author>
+	<text>Just tested it for 16:59 (maybe it depends on the format, 12 vs 24 hrs) - and no problem here either...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659359</cid>
+	<date>Jan 3, 2011, 03:59 PM</date>
+	<author>BigTRQ</author>
+	<text>If folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659371</cid>
+	<date>Jan 3, 2011, 04:01 PM</date>
+	<author>lostfan916</author>
+	<text>It's because they created the alarm yesterday. Try testing any alarm created today and it will work. Or maybe quit the clock app. It's not an issue anymore.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659374</cid>
+	<date>Jan 3, 2011, 04:02 PM</date>
+	<author>WiiDSmoker</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.Is this what you've become on trying to defend Apple? Pathetic.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659375</cid>
+	<date>Jan 3, 2011, 04:02 PM</date>
+	<author>blizaine</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Mine wasn't working this morning so I deleted and recreated it. Now it's fine.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659376</cid>
+	<date>Jan 3, 2011, 04:02 PM</date>
+	<author>markm49uk</author>
+	<text>Set a recurring alarm this morning (weekdays) for 06:45 as I was getting picked up by a colleague at 07:30.  Damn thing didn't go off and I was instead awoken by a text from the guy picking me up saying he was sat waiting outside the house!Bloody annoying.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659377</cid>
+	<date>Jan 3, 2011, 04:02 PM</date>
+	<author>Caharin</author>
+	<text>I set mine for 5:45am EST this morning and it did not work properly. I use a regular alarm clock though so I got up just fine (though a bit groggy after a week straight of vacation).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659387</cid>
+	<date>Jan 3, 2011, 04:04 PM</date>
+	<author>DCJ001</author>
+	<text>Quote:Originally Posted bydjschiefTried mine about 30 minutes ago and it works fine.  Maybe it just had to be a particular time in order for it to work.I certainly hope they fix all these damn bugs, its kinda annoying.How many &quot;bugs&quot; are there needing repair?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659388</cid>
+	<date>Jan 3, 2011, 04:04 PM</date>
+	<author>dpierre</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.I guess some people are so blind, that when a product doesn't work as intended they say it's your faultWhy should I waste $10 on an alarm clock if my phone can do it?  Can that alarm clock wake me up if the power is out?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659394</cid>
+	<date>Jan 3, 2011, 04:05 PM</date>
+	<author>ugahairydawgs</author>
+	<text>There's an app for that....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659399</cid>
+	<date>Jan 3, 2011, 04:06 PM</date>
+	<author>Apollo21</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.Do you also carry around a PSP, a wristwatch, a calculator, a portable camera, and an iPod with your iPhone?  ... I didn't think so.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659403</cid>
+	<date>Jan 3, 2011, 04:07 PM</date>
+	<author>akacaj</author>
+	<text>They are simply holding the phone wrong while creating the alarm.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659415</cid>
+	<date>Jan 3, 2011, 04:11 PM</date>
+	<author>TimTheEnchanter</author>
+	<text>Quote:Originally Posted byApollo21Do you also carry around a PSP, a wristwatch, a calculator, a portable camera, and an iPod with your iPhone?  ... I didn't think so.No, I think he's saying people should use a sundail with a rube goldberg machine alarm.  Anything else would be unreasonable and unreliable.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659420</cid>
+	<date>Jan 3, 2011, 04:11 PM</date>
+	<author>goobot</author>
+	<text>A few thoughts.First, who the hell uses a phone as a main alarm clock?Second, wow appleThird, I bet it happens again when the clocks get set the other way later this year.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659421</cid>
+	<date>Jan 3, 2011, 04:11 PM</date>
+	<author>ouimetnick</author>
+	<text>I just find it pathetic that a company like Apple can't even properly program a fricken clock. The issue doesn't hurt me though. I dont use an alarm.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659422</cid>
+	<date>Jan 3, 2011, 04:12 PM</date>
+	<author>nikoneko</author>
+	<text>Mine works fine.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659423</cid>
+	<date>Jan 3, 2011, 04:12 PM</date>
+	<author>PinkyMacGodess</author>
+	<text>So it's only on alarms that are set after 12/31/10? My partner set an alarm on 12/31 for 1/1 and it worked fine... I told her about the issue and actually expected it not to happen, but it did... :-(Weird...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659424</cid>
+	<date>Jan 3, 2011, 04:12 PM</date>
+	<author>awr</author>
+	<text>&quot;Bloggers, as well as Facebook and Twitter users, complained they missed flights or were late to arrive at work as the alarm built into Apple's iPhone failed to go off for a third straight day for some users.&quot;If you've let this alarm screw you for the third day in a row, that's on you.It's a phone, it's not gonna think for you . . . .</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659431</cid>
+	<date>Jan 3, 2011, 04:13 PM</date>
+	<author>PinkyMacGodess</author>
+	<text>Quote:Originally Posted byawrIt's a phone, it's not gonna think for you . . . .Even then their phonemaybe smarter than they are...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659440</cid>
+	<date>Jan 3, 2011, 04:16 PM</date>
+	<author>Stridder44</author>
+	<text>Quote:Originally Posted byWiiDSmoker$300 billion market cap and can't make a clock app work that any first semester programmer can do.Came in here to say this same thing. I mean a bug like this once is pretty lame, but forgivable. But twice? Come on, no excuses there. I could buy a $4 crappy clock from Wal-Mart that would at least work. My $200 &quot;smart&quot;phone can't even play a sound file at a certain time?Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.Because a $200 smartphone should be able, without a doubt, to work as an alarm clock. You let a $200 phone off the hook but tell us to rely on a $10 piece of crap clock? Come on dude, stop drinking the kool aid. I love Apple as much as the next guy but they still deserve criticism.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659443</cid>
+	<date>Jan 3, 2011, 04:17 PM</date>
+	<author>baryon</author>
+	<text>How the clock app is coded (in pseudocode because I can't really code):If (alarmTime == currentTime and currentYear != 2011){activateAlarm()}After some more digging around in the source code, this is what I found:If (girlfriendBirthday == currentDay and random(10)&gt;8){activateReminder()}...and some more:If (importantMeetingDay == currentDay){deleteAllAlarms()currentDay = TomorrowsetNewHour = random(12)setNewMinutes = random(60)trace(&quot;haha you suck!&quot;)}</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659447</cid>
+	<date>Jan 3, 2011, 04:17 PM</date>
+	<author>markm49uk</author>
+	<text>Quote:Originally Posted bygoobotA few thoughts.First, who the hell uses a phone as a main alarm clock?Er quite a few people do these days - I have since my Nokia's in the late 90's.Never had an issue before.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659448</cid>
+	<date>Jan 3, 2011, 04:17 PM</date>
+	<author>GQB</author>
+	<text>Quote:Originally Posted byWiiDSmokerIs this what you've become on trying to defend Apple? Pathetic.More to the point, THIS is the biggest deal that Apple haters can get themselves worked up over? Pathetic.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659451</cid>
+	<date>Jan 3, 2011, 04:18 PM</date>
+	<author>iFanaddic</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.Man.. The iPhone works fine as an alarm clock, and you get to wake up to your premade ringtones instead of the annoying beeping of a cheap alarm clock. As much as I love Apple they goofed up this time, but they can't be perfect all the time.. :PI must admit that I'm gonna have a hard time trusting apple's clock app for the next few days so I'll have to remove the dust off of my old alarm clock and set it has a backup. Or use another app.. But I don't know if that's gonna fix the problem.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659473</cid>
+	<date>Jan 3, 2011, 04:21 PM</date>
+	<author>patsfan83</author>
+	<text>What I don't understand is why they didn't send a free text message to tell EVERYONE that there was a problem. Not everybody checks tech news sites 24/7.Look bugs happen. Programming gets rushed to meet deadlines. Do you want Airplay or an alarm glitch that lasted 3 days?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659490</cid>
+	<date>Jan 3, 2011, 04:24 PM</date>
+	<author>nep61</author>
+	<text>I actually stopped wearing a watch after having the 3G iPhone...However, as much as I've used the alarm for various things at home and on the road, I have actually never used my iPhone as an alarm clock to wake up in the morning...I have an alarm clock on the night stand, and there is usualy one in the hotel where I stay while on the road.I agree, Apple must get their act together on this one...Also, are you people kidding me?  Did I read here that someone missed a flight because the alarm didn't go off ?  I tested my phone when I read about this and it seemed to work fine...Why would some alarms work and some not?  Is everyone running iOS 4.2?And if they are, I wonder how many and which Apps, the people who's alarm didn't go off, have.It could be the OS, and then again, it could be something else.  Curious....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659492</cid>
+	<date>Jan 3, 2011, 04:25 PM</date>
+	<author>ruralguy</author>
+	<text>Quote:Originally Posted byawr&quot;Bloggers, as well as Facebook and Twitter users, complained they missed flights or were late to arrive at work as the alarm built into Apple's iPhone failed to go off for a third straight day for some users.&quot;If you've let this alarm screw you for the third day in a row, that's on you.It's a phone, it's not gonna think for you . . . .Exactly!  Yes, it's pretty poor that the alarm isn't doing it's basic function, but really - if you are the kind of person that relies on an alarm for a flight or whatever, then surely you would be a little cautious after numerous problems!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659495</cid>
+	<date>Jan 3, 2011, 04:25 PM</date>
+	<author>fcpvideoeditor</author>
+	<text>... and it failed me this morning.  No problems with Antennagate or the like, but it didn't go off at 6 AM this morning.I don't think it should come as a surprise that many more people use their smart phones as their main alarm clocks.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659505</cid>
+	<date>Jan 3, 2011, 04:27 PM</date>
+	<author>DavidReeves</author>
+	<text>Ok. That's pretty darn hilarious. Are you sure you're not a coder, though? I've had some people on my team who wouldn't be able to follow your pseudo-code... and they're &quot;developers&quot;.Quote:Originally Posted bybaryonHow the clock app is coded (in pseudocode because I can't really code):If (alarmTime == currentTime and currentYear != 2011){activateAlarm()}After some more digging around in the source code, this is what I found:If (girlfriendBirthday == currentDay and random(10)&gt;8){activateReminder()}...and some more:If (importantMeetingDay == currentDay){deleteAllAlarms()currentDay = TomorrowsetNewHour = random(12)setNewMinutes = random(60)trace(&quot;haha you suck!&quot;)}</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659507</cid>
+	<date>Jan 3, 2011, 04:27 PM</date>
+	<author>thetaylor13</author>
+	<text>I can imagine being a kid and explaining to my mom why I missed school: &quot;Mom! I told you it's not my fault, it's Apples! I set my alarm!&quot;Wonder if that would cause more or less spankings?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659519</cid>
+	<date>Jan 3, 2011, 04:29 PM</date>
+	<author>Apollo21</author>
+	<text>It may be understandable that a crazy bug caused alarms to stop working for some reason, but for them to then scrutinize the code and issue a statement saying that alarms would work today and they didn't isreallyembarrassing!And I agree with that other guy that not sending a text to warn everyone is unforgivable. It really changes my opinion of them. It's such an obvious thing to do for your customers that the only reason they didn't must have been to save money.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659524</cid>
+	<date>Jan 3, 2011, 04:30 PM</date>
+	<author>thechimerical</author>
+	<text>Late on first day of the year, thanks to the iPhone!!! My morning alarms of 6:30 am and 7:00 Am didnt work!!!Seems to work now!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659535</cid>
+	<date>Jan 3, 2011, 04:32 PM</date>
+	<author>bprange</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.lol, this whole thing reminds me of Seinfeld. They can be tricky.../also pretty sad that people miss work or a flight!? over this</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659542</cid>
+	<date>Jan 3, 2011, 04:32 PM</date>
+	<author>Poisednoise</author>
+	<text>To all those saying &quot;who uses their phone as their main time-piece/alarm clock?&quot;:Here in the UK, walk into ANY school, and into any classroom filled with kids under the age of 16. I guarantee you not ONE pupil in that class will have a watch, or any timepiece on them, other than their phone. Not one. I know it may seem unbelievable - I can hardly believe it and I spend my day teaching them - but it's true.As a 42-year old, Idohave a watch,andan alarm clock, but the generation behind me don't. Like it or not, people use their phone more and more as the thing that does everything for them. This is one problem Apple need to get a grip on.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659553</cid>
+	<date>Jan 3, 2011, 04:35 PM</date>
+	<author>justinbaeder</author>
+	<text>My alarm has not gone off so far - I will try creating new alarms.I agree this is inexcusable - while it's not my only alarm, I know a lot of people who use their iPhone as their sole alarm clock, and the stakes for not getting up on time are high.The other bug - that still hasn't been fixed - is that push notifications block the alarm from going off. If I get a text message during the night, my alarm won't go off. Same for push notifications from apps like Twitter for iPhone. When I dismiss the push notification, the alarm goes off.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659554</cid>
+	<date>Jan 3, 2011, 04:35 PM</date>
+	<author>The Tall One</author>
+	<text>I almost missed my flight because of this bug! I could NOT figure out why my alarm didn't go off, and even weirder, my mom's failed to go off as well. She has a 3GS, I have a 4. Now I know. Thanks Apple iPhone bug...Normally my iPhone is NOT my primary alarm, but when I was staying at my mom's house visiting her for New Years, I had no other choice.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659556</cid>
+	<date>Jan 3, 2011, 04:35 PM</date>
+	<author>applefan69</author>
+	<text>Quote:Originally Posted byWiiDSmokerIs this what you've become on trying to defend Apple? Pathetic.he has a valid point though. Im kinda laughing at the morons who continued to use the iPhone as their primary alarm for the third time that it fails.Fool me once, shame on youfool me twice, shame on mefool me three times, dumbass...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659563</cid>
+	<date>Jan 3, 2011, 04:36 PM</date>
+	<author>Rodimus Prime</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.Not a good argument.Let put it this way.  Yet another reason why IT does not trust apple.  They can not get something simple right why should they trust them for something mission critical.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659566</cid>
+	<date>Jan 3, 2011, 04:37 PM</date>
+	<author>mbrannon47</author>
+	<text>Quote:Originally Posted byDCJ001How many &quot;bugs&quot; are there needing repair?Smug response. Here are a valid few.When you open a contact in Contacts, pressing text message doesn't always immediately add the contact to the Messages app. Very sporadic.When you go out of coverage area, the phone will often show NO SERVICE and can't find the network anymore. Sometimes the only fix is to power cycle. No reported solution so far here, LOTS of users reporting this on various forums.When you create and delete an event in Calendar, you still can see remnants of the blank task after you delete it many times.Bluetooth is very, very picky, not to mention it doesn't support over twenty &quot;standard&quot; Bluetooth services. (http://www.iphonebuzz.com/iphones-bl...oth-151188.php)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659572</cid>
+	<date>Jan 3, 2011, 04:39 PM</date>
+	<author>iBookG4user</author>
+	<text>Just tried mine a minute ago and it has now started to function correctly.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659573</cid>
+	<date>Jan 3, 2011, 04:39 PM</date>
+	<author>sjo</author>
+	<text>Quote:Originally Posted bygoobotA few thoughts.First, who the hell uses a phone as a main alarm clock?Who the hell doesn't?- an iDiot.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659579</cid>
+	<date>Jan 3, 2011, 04:41 PM</date>
+	<author>macmyworld</author>
+	<text>Apple has introduced a new case that has a built in eye to detect the date you set your alarm on.  It will autocorrect the problem for you.Jobs said the alarms are not a problem, but the new case will be free anyway.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659595</cid>
+	<date>Jan 3, 2011, 04:44 PM</date>
+	<author>brop52</author>
+	<text>For me, alarm works finally for newly set non-recurring alarms.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659605</cid>
+	<date>Jan 3, 2011, 04:46 PM</date>
+	<author>Apollo21</author>
+	<text>Quote:Originally Posted byapplefan69he has a valid point though. Im kinda laughing at the morons who continued to use the iPhone as their primary alarm for the third time that it fails.Fool me once, shame on youfool me twice, shame on mefool me three times, dumbass...I'm kinda laughing at morons who think everyone set their alarms over the weekend for no reason.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659608</cid>
+	<date>Jan 3, 2011, 04:46 PM</date>
+	<author>Erwin-Br</author>
+	<text>Quote:Originally Posted byGQBMore to the point, THIS is the biggest deal that Apple haters can get themselves worked up over? Pathetic.Since when do Apple haters have an iPhone? Or could it be that, and I'm going out on a limb here, people actually are pissed off it still doesn't work even though Apple communicated that the problem would be remedied on Jan 3?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659612</cid>
+	<date>Jan 3, 2011, 04:47 PM</date>
+	<author>alexhasfun28</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)I don't get it? does it work when it's on repeating? or just on a one time event/moment?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659614</cid>
+	<date>Jan 3, 2011, 04:48 PM</date>
+	<author>tlevier</author>
+	<text>Nevermind the fact that if you add a birthday for a contact that was born prior to 1932, no matter what birthday they have, it will populate in the Calendar app as December 13th.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659615</cid>
+	<date>Jan 3, 2011, 04:48 PM</date>
+	<author>phairphan</author>
+	<text>Hilarious!Quote:Originally Posted bybaryonHow the clock app is coded (in pseudocode because I can't really code):If (alarmTime == currentTime and currentYear != 2011){activateAlarm()}After some more digging around in the source code, this is what I found:If (girlfriendBirthday == currentDay and random(10)&gt;8){activateReminder()}...and some more:If (importantMeetingDay == currentDay){deleteAllAlarms()currentDay = TomorrowsetNewHour = random(12)setNewMinutes = random(60)trace(&quot;haha you suck!&quot;)}Fortunately, I wasn't affected by this and was aware of the problem, but I expect that the vast majority of iPhone users don't hang out on tech sites, particularly over a holiday weekend.  It's shameful that Apple continues to have problems with what should be the most basic application on the phone and one that dumbphones have been getting right for decades.  It's inexcusable they didn't send an email or text message to users, many of whom discovered this bug this morning on their first day back to work and school of the year.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659619</cid>
+	<date>Jan 3, 2011, 04:49 PM</date>
+	<author>urtext</author>
+	<text>Besides all comments about 'you shouldn't use an iPhone as an alarm clock), this is still a serious bug. An iPhone is offering an alarm service in the iOS, so it should work. Like like mail is Mailing and Messages for texting.But this is getting worse in combination with the clock as timekeeper in general! This clockgets off one second a day(iPhone 4, 4.2.1). You can check that with a free app called 'Time' by Emerald. This should be fixed as well, with or without the use of the setting 'Set time Automatically'.So there is some work to do for Clock in general an the Clock App. And yes, it would be nice to see how much time is left before an alarm goes off...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659640</cid>
+	<date>Jan 3, 2011, 04:53 PM</date>
+	<author>chaines</author>
+	<text>Quote:Originally Posted bydpierreI guess some people are so blind, that when a product doesn't work as intended they say it's your faultWhy should I waste $10 on an alarm clock if my phone can do it?  Can that alarm clock wake me up if the power is out?Have you every tried installing a 9v battery into your alarm clock?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659644</cid>
+	<date>Jan 3, 2011, 04:55 PM</date>
+	<author>SBG88</author>
+	<text>Wow, people actually complaining they missed flights or were late for work?? because their iPhone alarms failed to work properly.I feel for them.  I crapped my pants and failed to take my heart medicine on time because of this bug.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659649</cid>
+	<date>Jan 3, 2011, 04:57 PM</date>
+	<author>dpierre</author>
+	<text>Quote:Originally Posted bySBG88Wow, people actually complaining they missed flights or were late for work?? because their iPhone alarms failed to work properly.I feel for them.  I crapped my pants and failed to take my heart medicine on time because of this bug.That made me LOL!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659650</cid>
+	<date>Jan 3, 2011, 04:57 PM</date>
+	<author>jfinke</author>
+	<text>Mine did not go off this morning.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659665</cid>
+	<date>Jan 3, 2011, 05:00 PM</date>
+	<author>manu chao</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.I missed part of my entry exam to university because the battery in my $10 travel clock decided to die that night. So, if something is really important, add some redundancy.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659676</cid>
+	<date>Jan 3, 2011, 05:02 PM</date>
+	<author>Popeye206</author>
+	<text>It's funny how something so goofy as an alarm bug sends out the droves of anti-apple comments. Sad.Yeah, stupid bug. But many bugs are stupid and most obvious after they're found. Anyway, if this was a Nokia phone doing this, it wouldn't even had made the 6pm news in Sweden, but because it's the news magnet iPhone, here we are.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659679</cid>
+	<date>Jan 3, 2011, 05:02 PM</date>
+	<author>Earendil</author>
+	<text>Count me among the people that didn't have their alarm go off on the 3rd. Fortunately I'm a Software Engineer, so the need for me to be at work at any particular time is looseIt helps that I can't really sleep past 8 without waking up a few times</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659691</cid>
+	<date>Jan 3, 2011, 05:05 PM</date>
+	<author>manu chao</author>
+	<text>Quote:Originally Posted byStridder44You let a $600 phone off the hookCorrected that for you.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659703</cid>
+	<date>Jan 3, 2011, 05:08 PM</date>
+	<author>blacktape242</author>
+	<text>Quote:Originally Posted bygoobotA few thoughts.First, who the hell uses a phone as a main alarm clock?I have been for years now......it has never failed....until this morning.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659704</cid>
+	<date>Jan 3, 2011, 05:08 PM</date>
+	<author>simoneves</author>
+	<text>Quote:Originally Posted bytlevierNevermind the fact that if you add a birthday for a contact that was born prior to 1932, no matter what birthday they have, it will populate in the Calendar app as December 13th.Tries it.Confirms it.Laughs.Sighs.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659716</cid>
+	<date>Jan 3, 2011, 05:10 PM</date>
+	<author>bboucher790</author>
+	<text>I think it's humorous people think it's OUTRAGEOUS to use a smartphone as an alarm clock.  I charge my phone every night (which you should be doing too).  If the power happens to go out, I am covered.  I wake up without hassle.What about the alarm clock I used before I got my smartphone?  That fails without power.  I have missed mid-terms because of it.If you're going to mock people for anything, it's them using a &quot;single&quot; alarm to wake them.  To prevent catastrophe, have multiple devices to wake you up.  Problem solved.  Technology isn't perfect, we know this, if it's important to you, have a backup.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659717</cid>
+	<date>Jan 3, 2011, 05:10 PM</date>
+	<author>zim</author>
+	<text>I use my iPod Touch as my primary alarm clock.. prior to that my DS (never had an issue with the DS, maybe Nintendo should talk with Apple about how to make an alarm clock?).. I love not having a visible clock in my bedroom. The iPod failed on the 1st and 2nd.. didn't need to get up so I just took in a few extra hours of sleep till my 3 year old got me up. The iPod worked fine today.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659734</cid>
+	<date>Jan 3, 2011, 05:16 PM</date>
+	<author>bobajoul</author>
+	<text>Now a faulty app is worthy of world wide coverage by news media?  Maybe we have all jumped the shark.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659754</cid>
+	<date>Jan 3, 2011, 05:18 PM</date>
+	<author>akb</author>
+	<text>No one is moronic for trusting a smart phone to wake them up. Provided you're into charging your phone overnight, it's a more sensible choice than a mains-powered alarm clock.Plenty of people, evidently, are moronic for trying to defend Apple over this horrendous bug.It may be the third day in a row that the alarm has failed - but how many people have a weekend alarm? I know I don't. Were it not for this site, today would've been the first I'd heard of it, too.This is utterly unforgivable of Apple. What on earth changed in the clock app to cause these problems? Why was the alarm system rewritten? Most importantly, what the hell happened to Quality Assurance?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659764</cid>
+	<date>Jan 3, 2011, 05:22 PM</date>
+	<author>fedup flyer</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.For some of us that travel alot, we use the iphone as an alarm.Some hotels don't have clocks in the room and wake up call can be sketchy.I spend 200+ nights in hotels and I have been using my iphone as my primary alarm for almost 3 yrs now. I use the iphone as an alarm because I don't want to carry yet another device in my bag, something about limited space and weight. Yes, the iphone failed me this morning because I have a recurring alarm.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659789</cid>
+	<date>Jan 3, 2011, 05:25 PM</date>
+	<author>jayducharme</author>
+	<text>I , my wife and our daughter all use our iPhones as alarm clocks.  As someone else pointed out, one-time alarms set yesterday don't function.  But I just set a test alarm on my iPhone and it does work fine now.Even so, I agree that this is a fairly serious oversight by Apple's team.  If something as simple as the clock is malfunctioning, I'd hate to think what else might end up going wrong.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659799</cid>
+	<date>Jan 3, 2011, 05:27 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byakbNo one is moronic for trusting a smart phone to wake them up. Provided you're into charging your phone overnight, it's a more sensible choice than a mains-powered alarm clock.Plenty of people, evidently, are moronic for trying to defend Apple over this horrendous bug.It may be the third day in a row that the alarm has failed - but how many people have a weekend alarm? I know I don't. Were it not for this site, today would've been the first I'd heard of it, too.This is utterly unforgivable of Apple. What on earth changed in the clock app to cause these problems? Why was the alarm system rewritten? Most importantly, what the hell happened to Quality Assurance?It's obvious.... Apple did this on purpose just so they could have a good laugh at the end of the decade. Or, hummmm.... maybe it's just part of the risk in software engineering? Bugs happen no matter how simple something may seem, one bad assumption can screw many things up.I assume you agree with the first option since if you knew anything about software engineering you'd know that bugs - no matter how simple or complex - happen in software. And I doubt there was a test scheme that said test the code as if it's 2020 either.Sorry... I just cant' stand it when people say things like &quot;utterly unforgivable&quot; for something they don't appear to know anything about.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659820</cid>
+	<date>Jan 3, 2011, 05:31 PM</date>
+	<author>callme</author>
+	<text>Quote:Originally Posted byWiiDSmokerIs this what you've become on trying to defend Apple? Pathetic.What is pathetic are all the people 'claiming' to be affected by this, they have the responsibility to make sure they get up in the morning.   Get real!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659826</cid>
+	<date>Jan 3, 2011, 05:32 PM</date>
+	<author>Megagator</author>
+	<text>Has anyone seen Steve Jobs's latest tweet?&quot;Until Apple issues an official fix for the iPhone alarm glitch, please do not open your iPhone's clock app. Doing so may void your warranty.&quot;WHAT?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659827</cid>
+	<date>Jan 3, 2011, 05:32 PM</date>
+	<author>Bosunsfate</author>
+	<text>For the third day in a row, Apple has screwed me over with this bug.  I was late for work today and that was the last straw.So, I took off after lunch, returned my iPhone at the Apple store, and told the sales guy, Apple sucks...never buying anything from them again.I walked over to the Verizon store and got me a Windows 7 phone.  Now the world is right again.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659845</cid>
+	<date>Jan 3, 2011, 05:35 PM</date>
+	<author>cav23j</author>
+	<text>it was a simple testset it 1 minute ahead and if it goes off your fineif it doesn't use a different alarm clock</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659847</cid>
+	<date>Jan 3, 2011, 05:36 PM</date>
+	<author>Sledneck36</author>
+	<text>My three daughters and myself all have Iphones. Two Iphone 4 and two 3GS. We all had are alarms set and none went off this morning. I don't really need it anymore but just in case I am having a great dream and don't wanna get up.All the alarm times that I have preset in my phone I have used for the last year.  I will clear them all and set new ones to see if that fixes it...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659859</cid>
+	<date>Jan 3, 2011, 05:39 PM</date>
+	<author>callme</author>
+	<text>Quote:Originally Posted byBosunsfateFor the third day in a row, Apple has screwed me over with this bug.  I was late for work today and that was the last straw.So, I took off after lunch, returned my iPhone at the Apple store, and told the sales guy, Apple sucks...never buying anything from them again.I walked over to the Verizon store and got me a Windows 7 phone.  Now the world is right again.MMMMMMMM somehow I think not.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659861</cid>
+	<date>Jan 3, 2011, 05:39 PM</date>
+	<author>roadbloc</author>
+	<text>This is a most irritating bug to say the least. I've moved ontothis 3rd party appanyway. Anyone still complaining about it don't have the brains to find an alternative, which is just like falling in pig **** and then sitting there expecting Apple to help you out of it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659883</cid>
+	<date>Jan 3, 2011, 05:45 PM</date>
+	<author>hfletcher</author>
+	<text>Another reason for over-the-air iOS updates, a bit like the App Store Updater, but for patches to the OS itself, without having to download a whole new firmware file...Mac's and PC's use patches when something like this comes up, so why not smartphones?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659899</cid>
+	<date>Jan 3, 2011, 05:49 PM</date>
+	<author>discofuel</author>
+	<text>iPhone Bug Still Causing Alarm for Some Userswould have been a better title</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659909</cid>
+	<date>Jan 3, 2011, 05:51 PM</date>
+	<author>b1wils1</author>
+	<text>mine didn't go off this morning, but luckily I get up at 6:15 every day, so it didn't really matter. would be a drag for some though.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659915</cid>
+	<date>Jan 3, 2011, 05:52 PM</date>
+	<author>QuarterSwede</author>
+	<text>I've readthat rebooting resets things and the gets the alarm to work again.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659928</cid>
+	<date>Jan 3, 2011, 05:56 PM</date>
+	<author>gdeusthewhizkid</author>
+	<text>Quote:Originally Posted bymarkm49ukSet a recurring alarm this morning (weekdays) for 06:45 as I was getting picked up by a colleague at 07:30.  Damn thing didn't go off and I was instead awoken by a text from the guy picking me up saying he was sat waiting outside the house!Bloody annoying.one of my buddies did the same thing to me today.. thank god..   I wouldve been very late to work this morning..   I had to do my clark kent/superman impersonation</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659945</cid>
+	<date>Jan 3, 2011, 05:59 PM</date>
+	<author>Glideslope</author>
+	<text>Quote:Originally Posted byakacajThey are simply holding the phone wrong while creating the alarm.Beautiful Man, simply beautiful.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659955</cid>
+	<date>Jan 3, 2011, 06:02 PM</date>
+	<author>akb</author>
+	<text>Quote:Originally Posted byPopeye206Sorry... I just cant' stand it when people say things like &quot;utterly unforgivable&quot; for something they don't appear to know anything about.I'm a CS graduate from one of the best universities in England, with 8 years experience in software engineering. So please don't insult my aptitude.It *is* utterly unforgivable. This is an introduced bug in iOS4. If the phone can render the time and date without problem - which it can - then there is absolutely no excuse for the alarm to fail. All it has to do is check that.It's totally basic.It's not even as if this is the first time the alarm system has been shown to be buggy in iOS4. After the daylight savings problems - across the world, with multiple opportunities on multiple dates to issue a fix I might add - we've also had Apple's announcement of a couple of days ago that it was no longer an issue as of 3rd January.Bugs happen, fine - of course they do. Bugs like this should get fixed much quicker by a 300 billion dollar company relying on this OS to drive future growth. Even if only for PR reasons.Quote:Originally Posted byroadblocAnyone still complaining about it don't have the brains to find an alternative, which is just like falling in pig **** and then sitting there expecting Apple to help you out of it.Don't be silly. I've got plenty of brains, and an alternative, but it's sure as hell still worth complaining about.This is one expensive piece of kit - and this is one freakin' basic piece of functionality that should never, ever fail.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659962</cid>
+	<date>Jan 3, 2011, 06:03 PM</date>
+	<author>M2M</author>
+	<text>Alarm for 6:30 worked, Alarm for 7:00 also did.But the 7:30 did not go off.I presume this to be related when the alarms where set. I think I added the 7:30 a long long time before and the 6:30, 7:00 just more recently.Actually I seldom add new alarms, but rather change existing ones (i.e. change one from 7:00 -&gt; 8:00) or something like this. I expect this to work as the function to do it is there.I would also expect this is not an issue (until another BUG date) when you set alarm now, but like i wrote the bug might be related to a strange interference with:+ how 'old' the alarm is (how long before it was created)+ how often it was changed/updated+ is the day 'special' today (DST change, New Year, Steve's Birthday)I have a factory unlocked (from Hongkong) iPhone 4, 32 GB, 4.2.1, non Jailbreaked.So Apple time to role-out 4.2.2 with the Clock App thoroughly tested!I will keep an eye on my 7:30 Alarm and not touch it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659980</cid>
+	<date>Jan 3, 2011, 06:08 PM</date>
+	<author>zunnun</author>
+	<text>Apple should start giving free alarm clock with every iPhone (as they did free bumper case)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659981</cid>
+	<date>Jan 3, 2011, 06:08 PM</date>
+	<author>iSee</author>
+	<text>It worked for me... My wife has a library book due today, and my alarm went off (yes, I enter my wife's library book due dates as events into my phone -- whenever she is late, she sends me to get her next book out and I end up paying her fines).IDK, I hate to doubt the credibility of the internet, but doesn't this strike you as a certain kind of person taking the opportunity to whine and moan.I realize there was a bug, but really, how serious was this in the bigger scheme of things.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659986</cid>
+	<date>Jan 3, 2011, 06:10 PM</date>
+	<author>iSee</author>
+	<text>Quote:Originally Posted byakbIt *is* utterly unforgivable.Breath... let it go... it's just a bug... let it go... breath...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659987</cid>
+	<date>Jan 3, 2011, 06:10 PM</date>
+	<author>Swift</author>
+	<text>I set mine to 10:00 AM, January 5th, 8 BC -- and it didn't work!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660000</cid>
+	<date>Jan 3, 2011, 06:13 PM</date>
+	<author>roadbloc</author>
+	<text>Quote:Originally Posted byakbDon't be silly. I've got plenty of brains, and an alternative, but it's sure as hell still worth complaining about. This is one expensive piece of kit - and this is one freakin' basic piece of functionality that should never, ever fail.Don't be silly. I meant complaining about waking up late due to it. This bug has been around for 3 days now. I agree... it is a pathetic mistake. I hope Steve has had some heads rolling due to it. But anyone going 'I woke up late again!' are just not using their brains!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660004</cid>
+	<date>Jan 3, 2011, 06:13 PM</date>
+	<author>faroZ06</author>
+	<text>Quote:Originally Posted byDCJ001How many &quot;bugs&quot; are there needing repair?Mine works. I have it set to 24 hour time, reoccurring alarms, set before 2011.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660055</cid>
+	<date>Jan 3, 2011, 06:26 PM</date>
+	<author>iChase</author>
+	<text>I think we're seeing a generational gap here between those who can't fathom using their phones as alarms and those who only use their phone as an alarm. Me personally, I use my iPhone as an alarm every day. Being connected to a time server, I never have to worry about it being wrong. (Until now)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660056</cid>
+	<date>Jan 3, 2011, 06:26 PM</date>
+	<author>koobcamuk</author>
+	<text>Quote:Originally Posted byBigTRQWhy people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.Because it's hailed to be the smartest phone ever made, and a 15 year old Nokia still does alarms properly... also wakes for alarms whilst being off.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660076</cid>
+	<date>Jan 3, 2011, 06:29 PM</date>
+	<author>SBG88</author>
+	<text>Quote:Originally Posted bycallmeWhat is pathetic are all the people 'claiming' to be affected by this, they have the responsibility to make sure they get up in the morning.   Get real!It is quite laughable.I'm far from an Apple defender and why would anyone try to defend them.  Their alarm clock has a bug - case closed.But please, I missed a flight because my phone alarm didn't go off is ridiculous.Something important as a flight and your phone was the cause?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660098</cid>
+	<date>Jan 3, 2011, 06:34 PM</date>
+	<author>pixelcruncher</author>
+	<text>Apple should get out of the app business.  They're too big to address users' needs quickly, they're too big to really care.  If this app had a lone developer working on it in his spare time he would have fixed it on his lunch break.  As it stands, Apple will need to roll it into an iOS update because they don't update their core apps like everyone else.  Everyone will have to update whether they use Apple Clock or not.  Total waste of time and effort on everybody's part.  I should be able to delete it, and forget about it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660105</cid>
+	<date>Jan 3, 2011, 06:35 PM</date>
+	<author>macchiato2009</author>
+	<text>considering how many developpers and resources Apple has and how much Apple hardware costs, it is simply ridiculous the impressive amount of bugs that appears all the timeeven when they release a software update, users always experience bad surprises with AppleSteve knows how to make money but not to deliver failure-free products nor please customers...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660108</cid>
+	<date>Jan 3, 2011, 06:36 PM</date>
+	<author>RawBert</author>
+	<text>For all the great things Apple does, a relatively small detail like this can look pretty bad. Especially when we all thought this bug was fixed already.Some programer's head will roll.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660116</cid>
+	<date>Jan 3, 2011, 06:38 PM</date>
+	<author>fleshman03</author>
+	<text>Didn't work on my 3GS today. Actually, it almost had me late for work today.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660174</cid>
+	<date>Jan 3, 2011, 06:53 PM</date>
+	<author>nylonsteel</author>
+	<text>With aapl's cash and market cap - couldnt they hire a crack programmer $20,000 to fix the problem - like right nowStill luv ya aapl</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660175</cid>
+	<date>Jan 3, 2011, 06:53 PM</date>
+	<author>LastZion</author>
+	<text>Yaup my wife was 2 hours late for work today (canada).  Thanks Apple</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660183</cid>
+	<date>Jan 3, 2011, 06:56 PM</date>
+	<author>bruinsrme</author>
+	<text>my alarms on my phone are still not working.but thanks to my handy dandy alarm clock with battery back up I was woken up on time.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660190</cid>
+	<date>Jan 3, 2011, 06:58 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byBosunsfateFor the third day in a row, Apple has screwed me over with this bug.  I was late for work today and that was the last straw.So, I took off after lunch, returned my iPhone at the Apple store, and told the sales guy, Apple sucks...never buying anything from them again.I walked over to the Verizon store and got me a Windows 7 phone.  Now the world is right again.And then the alarm went off on your iPhone ending the nightmare!!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660199</cid>
+	<date>Jan 3, 2011, 07:00 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byhfletcherAnother reason for over-the-air iOS updates, a bit like the App Store Updater, but for patches to the OS itself, without having to download a whole new firmware file...Mac's and PC's use patches when something like this comes up, so why not smartphones?This is the most intelligent thing I've read on this thread! Nice!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660211</cid>
+	<date>Jan 3, 2011, 07:03 PM</date>
+	<author>jboyzh</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; de-de) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Dear Steve,A working alarm clock is neither luxury, nor is it peanuts: it's more often than not the first conscious moment of the day, and one of the last checks before falling asleep at night.The alarm clock on iPhone stopped ticking three times now. Once beginning winter time, once again on January 1st and 2nd, and finally the third time when Apple said all was well on January 3rd.Alarm clocks almost never failed on me. Be it on phones, on watches, or the good old specialized ones. If they did, it was nearly always my fault. Almost never the manufacturers.Alarm clocks just work!Apple products just work!Alarm clocks on Apple products?Apple's definitely got the money, and the IQ, if only there'd be the will, to fix this bug, and communicate accordingly, for I assume it's not supposed to be a feature.One more thing:Clock shuffle. Wake up different, day by day.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660214</cid>
+	<date>Jan 3, 2011, 07:03 PM</date>
+	<author>Rodimus Prime</author>
+	<text>Quote:Originally Posted byRawBertFor all the great things Apple does, a relatively small detail like this can pretty look bad. Especially when we all thought this bug was fixed already.Some programer's head will roll.screwing up an alarm clock I would not call a small detail.  It is pretty embarrassing and speaks volumes.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660227</cid>
+	<date>Jan 3, 2011, 07:07 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byakbI'm a CS graduate from one of the best universities in England, with 8 years experience in software engineering. So please don't insult my aptitude.It *is* utterly unforgivable. This is an introduced bug in iOS4. If the phone can render the time and date without problem - which it can - then there is absolutely no excuse for the alarm to fail. All it has to do is check that.It's totally basic.It's not even as if this is the first time the alarm system has been shown to be buggy in iOS4. After the daylight savings problems - across the world, with multiple opportunities on multiple dates to issue a fix I might add - we've also had Apple's announcement of a couple of days ago that it was no longer an issue as of 3rd January.Bugs happen, fine - of course they do. Bugs like this should get fixed much quicker by a 300 billion dollar company relying on this OS to drive future growth. Even if only for PR reasons.Don't be silly. I've got plenty of brains, and an alternative, but it's sure as hell still worth complaining about.This is one expensive piece of kit - and this is one freakin' basic piece of functionality that should never, ever fail.I hope in your 9th year of experience you learn some reality.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660251</cid>
+	<date>Jan 3, 2011, 07:11 PM</date>
+	<author>RawBert</author>
+	<text>Quote:Originally Posted byRodimus Primescrewing up an alarm clock I would not call a small detail.  It is pretty embarrassing and speaks volumes.Hence: &quot;relatively&quot;</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660286</cid>
+	<date>Jan 3, 2011, 07:20 PM</date>
+	<author>mr.steevo</author>
+	<text>My wife wakes me up.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660287</cid>
+	<date>Jan 3, 2011, 07:20 PM</date>
+	<author>HyperX13</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.I am also depending on an Apple Mac laptop as my primary computer. Am I ok? Or do you think I should get a pad of paper and an abacus?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660322</cid>
+	<date>Jan 3, 2011, 07:28 PM</date>
+	<author>karmaghost</author>
+	<text>This is no small issue.  While a non-/mal-functioning alarm on a cellphone may not seem like a big deal, it clearly is for those who rely on it.  It may be a simple, common function for cellphones to have, but it does not make it any more acceptable when it fails to work properly or at all.What may be the most annoying fallout from this, the second of the iPhone's alarm issues, is that people are not going to be able to trust the alarm anymore.  If the issue was the alarm wasn't going off at all, all the time, under obvious and reproducible circumstances, they could issue a fix and it would be clear whether the bug had been corrected or not.  However, since no one seems to be able to put a finger on who exactly this affects, why this happens and under what circumstances, when Apple issues a fix, there will always be that lingering sense of doubt in people's heads.  There are some people for whom being late to work, for example, is a hugehugedeal that justcannothappen.  For these people (like my wife, who I just &quot;gifted&quot; my old 3G to yesterday and had the alarm fail this morning, allthreeof them), using the iPhone alarm is no longer a reasonable option.To those of you who don't use the alarm function and don't think this is a big deal, that's because it's not... foryou.  As long as you understand that, there's nothing wrong with feeling that way.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660342</cid>
+	<date>Jan 3, 2011, 07:32 PM</date>
+	<author>Some_Big_Spoon</author>
+	<text>The non-reoccuring alarm I set last night didn't go off this morning, so count me as effected as well.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660364</cid>
+	<date>Jan 3, 2011, 07:37 PM</date>
+	<author>andyblila</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.Are you kidding me?  It has worked for the entire year and then quits working and you say it's our fault?  I am a HUGE Apple fan, and I cannot and will not support them with this.  It is inexcusable!  If the alarm wasn't supposed to work it wouldn't be on the phone!  Following your logic, I shouldn't trust a travel alarm clock either, because if I'm late it's just an electronic device.  This the most ridiculous comment I have seen on these forums!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660367</cid>
+	<date>Jan 3, 2011, 07:38 PM</date>
+	<author>Popeye206</author>
+	<text>Out of curiosity, I tried my alarm and it worked. Set the alarm based on an existing alarm.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660374</cid>
+	<date>Jan 3, 2011, 07:40 PM</date>
+	<author>rockosmodurnlif</author>
+	<text>Is this an iOS 4 bug or is this an iPhone 4 bug?  Does this affect previous iPhones?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660388</cid>
+	<date>Jan 3, 2011, 07:45 PM</date>
+	<author>alexhasfun28</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Quote:Originally Posted bybboucher790I think it's humorous people think it's OUTRAGEOUS to use a smartphone as an alarm clock.  I charge my phone every night (which you should be doing too).  If the power happens to go out, I am covered.  I wake up without hassle.What about the alarm clock I used before I got my smartphone?  That fails without power.  I have missed mid-terms because of it.If you're going to mock people for anything, it's them using a &quot;single&quot; alarm to wake them.  To prevent catastrophe, have multiple devices to wake you up.  Problem solved.  Technology isn't perfect, we know this, if it's important to you, have a backup.&quot;I charge my phone every night (which you should be doing too).&quot;what if i don'tdannnnnggg! what now, suckaaaa! :Phaha, happy new year!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660391</cid>
+	<date>Jan 3, 2011, 07:46 PM</date>
+	<author>Robbadore64</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.100% agree!  Sometimes my wife doesn't feel like sex, which is why I have a girlfriend on the side as backup.  With all the other things my wife does I can't expect her sex drive to work 24/7.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660417</cid>
+	<date>Jan 3, 2011, 07:51 PM</date>
+	<author>Kilamite</author>
+	<text>Glad I have two alarm clocks. My iPhone is my primary one, and goes off first.Then on the other side of my room is my &quot;backup&quot; alarm clock (just a radio alarm), which goes off 15 minutes after my iPhone one (I usually snooze 15 mins). That way, if I accidentally disable my iPhone snooze - which happens quite frequently; not most competent when I first wake up - then my backup alarm will get me.If I have flights to catch, then I would never rely on just one alarm. A radio alarm can still fail if there's a power cut (and it doesn't have a battery) etc.I'm not defending Apple - it is ridiculous that they can't get a clock to work properly, especially with the daylight saving issues earlier this year. But people who miss flights because they solely relied on one alarm are just idiots.Reminds me of Jim Furyk (golfer) who's phone battery died during the night so his alarm never went off, and he missed his tee off time and ended up getting disqualified from the tournament. What a numpty.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660458</cid>
+	<date>Jan 3, 2011, 08:00 PM</date>
+	<author>wwchris</author>
+	<text>I have a car with a radio, but I always carry around a battery operated radio, just in  case.I have a computer with ethernet, but I always carry around a spare ethernet card... you know, just in case.My office has an elevator with lights in it, but I always carry around a flashlight... you know...My jacket has pockets in it, but I always carry around a spare bag in case they tear.I'd love to hear all the sample cases... :-)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660465</cid>
+	<date>Jan 3, 2011, 08:02 PM</date>
+	<author>Secruoser</author>
+	<text>My i4's alarm clock failed yesterday, but today it runs again. I don't depend on my alarm clock to wake up (as my girlfriend wakes me up usually) but once in a blue moon my alarm clock saves us both from being late to work when both of us oversleep.The point is not whether people depend on the alarm clock or not, it is that Apple shouldn't have failed to notice such a silly bug in its device.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660467</cid>
+	<date>Jan 3, 2011, 08:02 PM</date>
+	<author>Robbadore64</author>
+	<text>Quote:Originally Posted byKilamiteGlad I have two alarm clocks. My iPhone is my primary one, and goes off first........Reminds me of Jim Furyk (golfer) who's phone battery died during the night so his alarm never went off, and he missed his tee off time and ended up getting disqualified from the tournament. What a numpty.So you've never been five minutes late to work Mr. Obsessive Compulsive?  The Numpty ended up doing quite well winning the $10 million FedEx cup regardless so I doubt he loses any EXTRA sleep over it.And relax, I'm OC and agree.  If something is important to you, be it a flight or what not, take precautions as to not miss the thing.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660480</cid>
+	<date>Jan 3, 2011, 08:05 PM</date>
+	<author>miamialley</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.Just a stupid comment.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660500</cid>
+	<date>Jan 3, 2011, 08:09 PM</date>
+	<author>inlovewithi</author>
+	<text>I wonder how many people have been fired because of this. It would be very interesting to know. Of course the Apple apologist would say it's their own fault for using a smartphone as an alarm.Edit: Hahah, I just read one page, page 5, and there were already a couple of poster blaming the users, not Apple for this. So hilarious. At least if you blame the user, why not also at least admit that Apple messed up. Of course that like saying something bad about your messiah.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660502</cid>
+	<date>Jan 3, 2011, 08:09 PM</date>
+	<author>Aatos.1</author>
+	<text>I never use the alarm on my iPhone 4.Yet I respect those of you who do, &amp; are experiencing this problem. Personally I believe that every feature &amp; function of the phone should work properly.That said, the increasing number of issues we've experienced as compared to the relatively trouble free 3GS is discouraging. I remember when Apples products just worked. We had no legions of Apple Apologists as we do now. They weren't needed.Times change and things change. Today's Apple enthusiast will accept a lower quality standard &amp; make excuses for Apple. Pretty sad.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660512</cid>
+	<date>Jan 3, 2011, 08:12 PM</date>
+	<author>johnnymg</author>
+	<text>Quote:Originally Posted byGQBMore to the point, THIS is the biggest deal that Apple haters can get themselves worked up over? Pathetic.Agreed................   pathetic complainers!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660518</cid>
+	<date>Jan 3, 2011, 08:13 PM</date>
+	<author>Rodimus Prime</author>
+	<text>Quote:Originally Posted byKilamiteGlad I have two alarm clocks. My iPhone is my primary one, and goes off first.Then on the other side of my room is my &quot;backup&quot; alarm clock (just a radio alarm), which goes off 15 minutes after my iPhone one (I usually snooze 15 mins). That way, if I accidentally disable my iPhone snooze - which happens quite frequently; not most competent when I first wake up - then my backup alarm will get me.If I have flights to catch, then I would never rely on just one alarm. A radio alarm can still fail if there's a power cut (and it doesn't have a battery) etc.I'm not defending Apple - it is ridiculous that they can't get a clock to work properly, especially with the daylight saving issues earlier this year. But people who miss flights because they solely relied on one alarm are just idiots.Reminds me of Jim Furyk (golfer) who's phone battery died during the night so his alarm never went off, and he missed his tee off time and ended up getting disqualified from the tournament. What a numpty.When I was working and I was home I had 2 different alarm clocks I used.  One was my phone and the other was the alarm clock.   But when I travel and most people travel they only take their phone with them to use as an alarm clock. It one less thing they should need to pack.  A lot of people were flying on 1st and 2nd and chances are pretty good they only had 1 alarm clock (aka their phone)  It was piss poor programing on Apple part on why this failed.Quote:Originally Posted byakbI'm a CS graduate from one of the best universities in England, with 8 years experience in software engineering. So please don't insult my aptitude.It *is* utterly unforgivable. This is an introduced bug in iOS4. If the phone can render the time and date without problem - which it can - then there is absolutely no excuse for the alarm to fail. All it has to do is check that.It's totally basic.It's not even as if this is the first time the alarm system has been shown to be buggy in iOS4. After the daylight savings problems - across the world, with multiple opportunities on multiple dates to issue a fix I might add - we've also had Apple's announcement of a couple of days ago that it was no longer an issue as of 3rd January.Bugs happen, fine - of course they do. Bugs like this should get fixed much quicker by a 300 billion dollar company relying on this OS to drive future growth. Even if only for PR reasons.Don't be silly. I've got plenty of brains, and an alternative, but it's sure as hell still worth complaining about.This is one expensive piece of kit - and this is one freakin' basic piece of functionality that should never, ever fail.Well the bug could of been in their since iOS 1.0.  Reason being is it was only looking at the 1 spot in the year.  1-0.  0= 10.  So when it hit 2011 to the alarm clock it was 2001.  Piss poor programing and it was basically the year 2000 bug which in todays age no real excuse to try to save memory but cutting 3 numbers.  We have memory to burn and there are better ways to save memory than just cutting 3 numbers.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660541</cid>
+	<date>Jan 3, 2011, 08:17 PM</date>
+	<author>Speedster</author>
+	<text>no wonder i was late to work this morning.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660659</cid>
+	<date>Jan 3, 2011, 08:39 PM</date>
+	<author>Kilamite</author>
+	<text>Quote:Originally Posted byRobbadore64So you've never been five minutes late to work Mr. Obsessive Compulsive?  The Numpty ended up doing quite well winning the $10 million FedEx cup regardless so I doubt he loses any EXTRA sleep over it.And relax, I'm OC and agree.  If something is important to you, be it a flight or what not, take precautions as to not miss the thing.Yeah, but what was his caddie doing I wonder. Or did he sleep in too..Quote:Originally Posted byRodimus PrimeWhen I was working and I was home I had 2 different alarm clocks I used.  One was my phone and the other was the alarm clock.   But when I travel and most people travel they only take their phone with them to use as an alarm clock. It one less thing they should need to pack.  A lot of people were flying on 1st and 2nd and chances are pretty good they only had 1 alarm clock (aka their phone)  It was piss poor programing on Apple part on why this failed.True, never considered travellers who's alarm can only really be a phone.Guess if I ever travel now and I'm worried about missing a flight because of a clock glitch, I'd set the iPhone's countdown timer to coincide with the time I want the alarm to go off. AFAIK the countdown timer isn't affected by this?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660757</cid>
+	<date>Jan 3, 2011, 09:03 PM</date>
+	<author>coder12</author>
+	<text>My palm treo 650's alarm works fine!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660766</cid>
+	<date>Jan 3, 2011, 09:07 PM</date>
+	<author>PinkyMacGodess</author>
+	<text>Hmm...She set the alarm for yesterday and it went off, and today it didn't. It was set at a consistent time to go off and it didn't...So, Steve, why did it work yesterday and not today? Quite a bug...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660781</cid>
+	<date>Jan 3, 2011, 09:12 PM</date>
+	<author>PinkyMacGodess</author>
+	<text>Quote:Originally Posted byKilamiteTrue, never considered travellers who's alarm can only really be a phone.Guess if I ever travel now and I'm worried about missing a flight because of a clock glitch, I'd set the iPhone's countdown timer to coincide with the time I want the alarm to go off. AFAIK the countdown timer isn't affected by this?I ALWAYS use the iPhone alarm clock AND ALWAYS also call for a wake-up call a half hour after I *should be awake*. Except on vacation I always have a backup. I mean, if it's that important to be there, wouldn't you want to get a call during coffee that you should be awake?The problem happened once, on vacation (Thank Ford) when my iPhone died during the night because of EDGE service and a very low battery AND the wake-up call not being placed properly. (They called at 6PM, not AM) I laughed my ass off. I needed the extra sleep...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660801</cid>
+	<date>Jan 3, 2011, 09:18 PM</date>
+	<author>houdinize</author>
+	<text>It's daylightsavingtime, not savings.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660813</cid>
+	<date>Jan 3, 2011, 09:21 PM</date>
+	<author>lilcosco08</author>
+	<text>Good thing I have an alarm clock</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660832</cid>
+	<date>Jan 3, 2011, 09:27 PM</date>
+	<author>azurehi</author>
+	<text>Quote:Originally Posted byhoudinizeIt's daylightsavingtime, not savings.You are Correct Sir!http://en.wikipedia.org/wiki/Daylight_saving_time</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660885</cid>
+	<date>Jan 3, 2011, 09:38 PM</date>
+	<author>PadreQuevedo</author>
+	<text>Just download an Alarm Clock app and you are covered.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660889</cid>
+	<date>Jan 3, 2011, 09:40 PM</date>
+	<author>Mikey7c8</author>
+	<text>Yep, mine didn't go off this morning. Had thought that this only affected alarms set before the new year? Obviously not.Still, not so bothered by it as think it's a result of some terrible practices in cupertino. I'd hate to see what their codebase is like if something as simple as an Alarm app has these sorts of issues.PS, all you folks with your multiple backup alarms are totally insane.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660936</cid>
+	<date>Jan 3, 2011, 09:50 PM</date>
+	<author>vincenz</author>
+	<text>This is getting out of hand. It's also unacceptable for Apple. Ridiculous.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660966</cid>
+	<date>Jan 3, 2011, 09:57 PM</date>
+	<author>twoodcc</author>
+	<text>yeah i woke up 45 min late this morning b/c of this. luckily i was still able to get to work on time though.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11661031</cid>
+	<date>Jan 3, 2011, 10:16 PM</date>
+	<author>The Past</author>
+	<text>I don't think we can blame the people whose alarms did not go off. After all, Apple issued a statement that everything would be fine by today... as if they knew what they were talking about.If a company issues a statement like that after a problem has been reported, I am not sure if people should be blamed for being naive. After all, they are looking through their $500 shiny looking glass at a $300 billion firm.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11661041</cid>
+	<date>Jan 3, 2011, 10:20 PM</date>
+	<author>The Past</author>
+	<text>Quote:Originally Posted byKilamite. AFAIK the countdown timer isn't affected by this?Can't wait for a leap year to find out what happens on this one.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11661184</cid>
+	<date>Jan 3, 2011, 11:00 PM</date>
+	<author>eastercat</author>
+	<text>I always set an extra alarm for work, because crazy things can happen.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11661296</cid>
+	<date>Jan 3, 2011, 11:34 PM</date>
+	<author>beebler</author>
+	<text>Y2K11.Probably not an acceptable excuse for my employer.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11661347</cid>
+	<date>Jan 3, 2011, 11:54 PM</date>
+	<author>Alisstar</author>
+	<text>Quote:Originally Posted bycoder12My palm treo 650's alarm works fine!Yeah, dude, but it's still a Palm Treo 650.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11661429</cid>
+	<date>Jan 4, 2011, 12:36 AM</date>
+	<author>nagromme</author>
+	<text>My non-recurring alarm went off OK on Monday the 3rd. I know this because I awoke before it went off, and then came back into my bedroom to find it shrieking at my poor neighbors through the wall</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11661470</cid>
+	<date>Jan 4, 2011, 12:55 AM</date>
+	<author>bniu</author>
+	<text>Quote:Originally Posted bygoobotFirst, who the hell uses a phone as a main alarm clock?Young People.  Some of us don't even know what alarm clocks are!  Same reason why most of us are eschewing land lines, what use is a land line?  you're physically tethered to a location, you often are not available when calls come in, how do you even operate an answering machine?  I've built two computers and I still can't figure out how to use an answering machine.  Even voicemail is a PITA to use.  It's all about text messaging these days, get with it or get left behind...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11661494</cid>
+	<date>Jan 4, 2011, 01:03 AM</date>
+	<author>res1233</author>
+	<text>I'm going to make one point, and one point only: iOS bugs is news worth reporting. Penny for your thoughts.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11661517</cid>
+	<date>Jan 4, 2011, 01:15 AM</date>
+	<author>Blue Fox</author>
+	<text>Well, I'll be Captain Hindsight here, and mention to people that they should have used backup alarms, ESPECIALLY for things as important as flights/important meetings/etc.And my alarm worked perfectly this morning.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11661576</cid>
+	<date>Jan 4, 2011, 01:52 AM</date>
+	<author>karlth</author>
+	<text>Quote:Originally Posted bygoobotA few thoughts.First, who the hell uses a phone as a main alarm clock?Probably several million people.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11661587</cid>
+	<date>Jan 4, 2011, 01:56 AM</date>
+	<author>karlth</author>
+	<text>Quote:Originally Posted byBlue FoxWell, I'll be Captain Hindsight here, and mention to people that they should have used backup alarms, ESPECIALLY for things as important as flights/important meetings/etc.Why should you need a backup alarm?  My wife and I both have iPhones and our backup for flights has been to set the alarm onbothphones, well not any more.The phone should be able to handle a simple alarm function without messing it up.  After the first bug surfaced last year Apple should have tested the hell out of the alarm but for some reason they failed to do that.  Shame on them.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11661753</cid>
+	<date>Jan 4, 2011, 03:25 AM</date>
+	<author>MadeTheSwitch</author>
+	<text>How hard is it to test things and see this issues come up BEFORE they are a problem for users. This similar issue keeps coming up again and again and I don't understand why. It shouldn't be happening.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662098</cid>
+	<date>Jan 4, 2011, 06:18 AM</date>
+	<author>Dr McKay</author>
+	<text>Nothing like waking up to the monotone beeping of my LOST screensaver, and then trying to enter '4 8 15 16 23 42' at 6AM in a fumbled, dark, confused state.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662177</cid>
+	<date>Jan 4, 2011, 06:46 AM</date>
+	<author>deefnasty</author>
+	<text>My girlfriend and I were woken up late again today.  We both set 3 alarms on our iPhones and only my 2 stock alarm sounds woke us up.  My 'alarm' sound (which was my final alarm) woke us up.  My custom sounds (ringtones) didn't work and strangely enough my girlfriend's stock sounds didn't work either.I'm out of ideas and she's been late to work twice in 2 days.I know the critics will say, &quot;shame on you for using it 2 days in a row&quot; but please...I tested it yesterday with custom sounds and they worked fine.  It's overnight that is causing the issues.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662204</cid>
+	<date>Jan 4, 2011, 06:56 AM</date>
+	<author>Nuvi</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.Or why spend hundreds on a phone that doesn't even have working alarm clock. You never travel? You mean a clock radio can't be trusted? What about a digital watch? Get over it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662260</cid>
+	<date>Jan 4, 2011, 07:17 AM</date>
+	<author>Kariya</author>
+	<text>Worked peachy for me this morning *shrug*</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662269</cid>
+	<date>Jan 4, 2011, 07:18 AM</date>
+	<author>Sportcat</author>
+	<text>Mine worked fine this morning, 04 JAN, on my 3GS.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662332</cid>
+	<date>Jan 4, 2011, 07:34 AM</date>
+	<author>Sofabutt</author>
+	<text>Quote:Originally Posted byWiiDSmokerIs this what you've become on trying to defend Apple? Pathetic.I don't think the idea of relying on 2 alarm clocks is so far out there.  I think the idea of using a phone as a sole means of waking you up is stupid.  Batteries die, people sleep through their first alarm, etc.  Two is one, One is none.I'm not apologizing for Apple either; I think they make some of the dumbest mistakes I have ever heard, but come on?  One alarm clock and it's a cell phone with a short battery life?I think Apple's &quot;fix&quot; is BS and their software developers should be shot for this oversight.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662422</cid>
+	<date>Jan 4, 2011, 08:03 AM</date>
+	<author>kiljoy616</author>
+	<text>Quote:Originally Posted bygriJust tested it for 16:59 (maybe it depends on the format, 12 vs 24 hrs) - and no problem here either...Or someone is full of urban legend. I use 12 here and no problem 4 different alarms at different times and have not seen the issue. Are these phones that are jailed braked or just some phones.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662442</cid>
+	<date>Jan 4, 2011, 08:12 AM</date>
+	<author>kiljoy616</author>
+	<text>Quote:Originally Posted byPinkyMacGodessSo it's only on alarms that are set after 12/31/10? My partner set an alarm on 12/31 for 1/1 and it worked fine... I told her about the issue and actually expected it not to happen, but it did... :-(Weird...I guess the problem is fixed because I just did it with different times and still no problem, urban legend bull.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662444</cid>
+	<date>Jan 4, 2011, 08:14 AM</date>
+	<author>Bubba Satori</author>
+	<text>Apple's new alarm programmer.He's showing you how to hold it right.Stay tuned.One more thing.Magic.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662451</cid>
+	<date>Jan 4, 2011, 08:16 AM</date>
+	<author>kiljoy616</author>
+	<text>Quote:Originally Posted bySofabuttI don't think the idea of relying on 2 alarm clocks is so far out there.  I think the idea of using a phone as a sole means of waking you up is stupid.  Batteries die, people sleep through their first alarm, etc.  Two is one, One is none.I'm not apologizing for Apple either; I think they make some of the dumbest mistakes I have ever heard, but come on?  One alarm clock and it's a cell phone with a short battery life?I think Apple's &quot;fix&quot; is BS and their software developers should be shot for this oversight.I think you should stop trollingand on 2 phones at my house one iphone 4 and an iphone 3G no problems. So question is who exactly is having these problems.Is the IOS perfect no, but this is a no big deal since I say its not happening at all and more of a troll society at large bitching about everything. Same as the antenna no problem at all with hand, yes with metal key but not hand.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662469</cid>
+	<date>Jan 4, 2011, 08:22 AM</date>
+	<author>spacemanspifff</author>
+	<text>First I must confess that I don't use the iPhone alarms at all - I have a battery backed up Sony Cube on the night stand that &quot;just works&quot; and if I go away on business, I always get the hotel to give me a wake up call.That said, I understand that other people DO rely on their phones to do this kinda thing and that it obviously shouldn't fail to work on &quot;specific&quot; days as this could have serious consequences for the user.But what's weird is... why is it happening at all on these &quot;specific&quot; days? The alarm setting doesn't even have a day or date in it unless you repeat it automatically and then its only the day you're setting not the date? Why would the alarm clock need to store the whole date including the year in its alarms?It seems to me that this &quot;bug&quot; has uncovered a more serious issue. Why is Apple making their software more complicated than it needs to be? What could the alarm also be doing so that it needs to know the date it was created or changed...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662549</cid>
+	<date>Jan 4, 2011, 08:42 AM</date>
+	<author>macslayer118</author>
+	<text>Quote:Originally Posted byRodimus PrimeWell the bug could of been in their since iOS 1.0.  Reason being is it was only looking at the 1 spot in the year.  1-0.  0= 10.  So when it hit 2011 to the alarm clock it was 2001.  Piss poor programing and it was basically the year 2000 bug which in todays age no real excuse to try to save memory but cutting 3 numbers.  We have memory to burn and there are better ways to save memory than just cutting 3 numbers.If this was the case how would it fix itself without new code on the 3rd, which it did for me and others.  No clue as to why some users are still affected.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662580</cid>
+	<date>Jan 4, 2011, 08:50 AM</date>
+	<author>macslayer118</author>
+	<text>Quote:Originally Posted byres1233I'm going to make one point, and one point only: iOS bugs is news worth reporting. Penny for your thoughts.Absolutely! Millions of people around the world use iOS, probably more than any other specific mobile OS.Don't forget iPod Touch and iPads.  They have the same clock app.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662732</cid>
+	<date>Jan 4, 2011, 09:25 AM</date>
+	<author>abney317</author>
+	<text>Quote:Originally Posted bymacslayer118Absolutely! Millions of people around the world use iOS, probably more than any other specific mobile OS.Don't forget iPod Touch and iPads.  They have the same clock app.well... not the iPad, which doesn't have the clock app at all</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663032</cid>
+	<date>Jan 4, 2011, 10:22 AM</date>
+	<author>PBG4 Dude</author>
+	<text>Quote:Originally Posted bymacslayer118If this was the case how would it fix itself without new code on the 3rd, which it did for me and others.  No clue as to why some users are still affected.I don't get it either. My wife's &amp; my iPhone alarms didn't activate yesterday (the 3rd), but they worked fine today. Luckily for my wife, her first patient also got bit by the iPhone bug.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663039</cid>
+	<date>Jan 4, 2011, 10:23 AM</date>
+	<author>Vizin</author>
+	<text>I still had problems on the 3rd. (luckily I didn't need my alarm that morning, woke up early) Last night I deleted the alarm and remade it, and it worked this morning.What a ridiculous bug. At least the first and second were on a weekend, otherwise this could have been a lot worse. (still sucks for those who needed to wake up this weekend though)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663105</cid>
+	<date>Jan 4, 2011, 10:35 AM</date>
+	<author>TimTheEnchanter</author>
+	<text>Quote:Originally Posted byBubba SatoriApple's new alarm programmer.He's showing you how to hold it right.Stay tuned.One more thing.Magic.Well played sir, well played!The Humpty Dance would make a alarm!!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663268</cid>
+	<date>Jan 4, 2011, 11:13 AM</date>
+	<author>tbrinkma</author>
+	<text>Quote:Originally Posted byakbI'm a CS graduate from one of the best universities in England, with 8 years experience in software engineering. So please don't insult my aptitude.It *is* utterly unforgivable. This is an introduced bug in iOS4. If the phone can render the time and date without problem - which it can - then there is absolutely no excuse for the alarm to fail. All it has to do is check that.It's totally basic.It's not even as if this is the first time the alarm system has been shown to be buggy in iOS4. After the daylight savings problems - across the world, with multiple opportunities on multiple dates to issue a fix I might add - we've also had Apple's announcement of a couple of days ago that it was no longer an issue as of 3rd January.Bugs happen, fine - of course they do. Bugs like this should get fixed much quicker by a 300 billion dollar company relying on this OS to drive future growth. Even if only for PR reasons.Don't be silly. I've got plenty of brains, and an alternative, but it's sure as hell still worth complaining about.This is one expensive piece of kit - and this is one freakin' basic piece of functionality that should never, ever fail.Strangely, not everyone has been bitten by this bug.  For example, I use my iPhone as my *only* alarm clock, and it has gone off as expected every day.  In fact, I set it without thinking about it over the weekend and had to shut the thing off so I could sleep in.  Obviously, there's something subtle and sporadic going on here.Also, I'll assume that in your 8 years experience, you've probably never had to write a full-featured calendar/alarm application of any sort, so you don't actually know how many edge cases and corner conditions actually have to be handled.  Oddly, I can't think of any off hand that would be triggered by 2011-01-01 through 2011-01-03, but the odd range of the issue speaks toward an odd problem.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663291</cid>
+	<date>Jan 4, 2011, 11:17 AM</date>
+	<author>rudmaz</author>
+	<text>There is a way to avoid the alarm not activating, just set the clock to repeat on several days. For example on monday, saturday and sunday.This way the alarm will go off and does not cause you to be late!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663449</cid>
+	<date>Jan 4, 2011, 11:46 AM</date>
+	<author>lcdbot27</author>
+	<text>Ok, I had a weird alarm experience this morning (1/4).Yesterday, I remade my main alarms after I found out you had to delete the old ones and make new ones for the bug to go away. I have two: One non-recurring one for medication that's generally set for 2am and one recurring one for waking up at 7:30am on weekdays. I had them both activated last night before bed. They were both set to play the default Marimba.I woke up on my own around 2:50am this morning a realized I never was woken up by the alarm tone. I'm a light sleeper so it's not like I could have slept through it. The pop-up notification for the alarm was on the phone when I pressed the home button, but the actual Marimba alarm tone never played. I was a little frustrated as I missed my target time for the medication, but it's not the end of the world.Since it was close to the time, I then adjusted the same alarm for 3:00am to see if it would do the same thing (pop-up, no tone). A few minutes later when 3 rolled around, the alarm functioned 100% normally. Weird.The recurring 7:30am alarm worked just fine.I can't tell if this is the same bug as everyone has been complaining about or something new. The situation seemed unique but I can't tell.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663735</cid>
+	<date>Jan 4, 2011, 12:42 PM</date>
+	<author>cliff clavin</author>
+	<text>Quote:Originally Posted byRobbadore64100% agree!  Sometimes my wife doesn't feel like sex, which is why I have a girlfriend on the side as backup.  With all the other things my wife does I can't expect her sex drive to work 24/7.nice....but what if the girlfriend is busy?.....see Tiger did understand redundancy....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664001</cid>
+	<date>Jan 4, 2011, 01:24 PM</date>
+	<author>Nothlit</author>
+	<text>Quote:Originally Posted byMegagatorHas anyone seen Steve Jobs's latest tweet?&quot;Until Apple issues an official fix for the iPhone alarm glitch, please do not open your iPhone's clock app. Doing so may void your warranty.&quot;WHAT?You know that's a parody Twitter account, right?Quote:Originally Posted byiSeeIt worked for me... My wife has a library book due today, and my alarm went off (yes, I enter my wife's library book due dates as events into my phone -- whenever she is late, she sends me to get her next book out and I end up paying her fines).Calendar events and alarms are not the same thing.Quote:Originally Posted byRodimus PrimeWell the bug could of been in their since iOS 1.0.  Reason being is it was only looking at the 1 spot in the year.  1-0.  0= 10.  So when it hit 2011 to the alarm clock it was 2001.  Piss poor programing and it was basically the year 2000 bug which in todays age no real excuse to try to save memory but cutting 3 numbers.  We have memory to burn and there are better ways to save memory than just cutting 3 numbers.Since the alarm clock doesn't even care what year it is, that seems highly unlikely.  Besides, I'm about 99.999% sure that's not how NSDate works.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664202</cid>
+	<date>Jan 4, 2011, 02:03 PM</date>
+	<author>rcramer</author>
+	<text>I have been using The App Everclock and it worked like a charm.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664240</cid>
+	<date>Jan 4, 2011, 02:10 PM</date>
+	<author>BigTRQ</author>
+	<text>Quote:Originally Posted byBigTRQIf folks only rely on a PHONE for their PRIMARY alarm, and then miss flights/work/etc., that's on them. People should know that an electronic device that does more than be an alarm clock might mess up that feature. Why people don't just spring for a $10 travel clock that works perfectly 100% of the time (save for battery death/changing) is beyond me.Apparently I didn't word this properly. I am not defending Apple. They have a bug, in a simple app. Should never have appeared, period.What I am trying to say is that if one must wake up for something important, then only relying on a device who's primary function is NOT being an alarm clock is ridiculous. I based my previous post on the fact in the article that people mentioned missing flights. I guess I just play it safe when it comes to important stuff like air travel. Yes, I use a cheap, battery-powered alarm clock in these instances. If you want to rely on the iPhone/iPod touch, that's your prerogative.And way to keep the comments about the post classy, post quoters.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665640</cid>
+	<date>Jan 4, 2011, 07:40 PM</date>
+	<author>eshroom</author>
+	<text>Call me a victim of modern society, but I rely on my phone to wake me up in the morning. Given that it is marketed as so much more than a phone, I don't think it is unreasonable for me to rely on it to wake me up in the morn.Twice in as many months it has let me down. Would I be unreasonable to request a nice little alarm clock from Stevo (probably analog, or at least without a date function might be best if coming from Apple)?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665673</cid>
+	<date>Jan 4, 2011, 07:48 PM</date>
+	<author>socco</author>
+	<text>Quote:Originally Posted byBigTRQApparently I didn't word this properly. I am not defending Apple. They have a bug, in a simple app. Should never have appeared, period.What I am trying to say is that if one must wake up for something important, then only relying on a device who's primary function is NOT being an alarm clock is ridiculous. I based my previous post on the fact in the article that people mentioned missing flights. I guess I just play it safe when it comes to important stuff like air travel. Yes, I use a cheap, battery-powered alarm clock in these instances. If you want to rely on the iPhone/iPod touch, that's your prerogative.And way to keep the comments about the post classy, post quoters.I don't think it's unreasonable to expect an iPhone's alarm to work properly. I mean, what scenario would ever cause it not to work? A programming error in the clock app relating to the new year? I think not.Now I use a regular alarm too, just cus. Unfortunately I forgot to set it Sunday night, and woke up the next morning to a text from my boss asking if I was alive.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665683</cid>
+	<date>Jan 4, 2011, 07:52 PM</date>
+	<author>labman</author>
+	<text>I use a backup alarm every day. I have my main Alarm and my iPhone as a backup. I never had to use either as my excuse for being late for work. go to walmart spend $10-$20 and we already have threads about the issue and complant.Pretty sure SJ isnot active on the forum as well. and I saw this joke last night on Twitter.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665807</cid>
+	<date>Jan 4, 2011, 08:27 PM</date>
+	<author>ucfgrad93</author>
+	<text>Quote:Originally Posted byeshroomWould I be unreasonable to request a nice little alarm clock from Stevo (probably analog, or at least without a date function might be best if coming from Apple)?Of course not, as Stevo personally snuck into your house and turned off the alarm.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665809</cid>
+	<date>Jan 4, 2011, 08:29 PM</date>
+	<author>renewed</author>
+	<text>Quote:Originally Posted byucfgrad93Of course not, as Stevo personally snuck into your house and turned off the alarm.In the OPs defense there is a bug that has been giving the alarm quirks as of late. Has happened to me recently.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665815</cid>
+	<date>Jan 4, 2011, 08:30 PM</date>
+	<author>ucfgrad93</author>
+	<text>Quote:Originally Posted byrenewedIn the OPs defense there is a bug that has been giving the alarm quirks as of late. Has happened to me recently.True, but if you know that there is a problem then it is up to you to have a backup plan.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665824</cid>
+	<date>Jan 4, 2011, 08:31 PM</date>
+	<author>renewed</author>
+	<text>Quote:Originally Posted byucfgrad93True, but if you know that there is a problem then it is up to you to have a backup plan.I'm not warranting it happening more than once.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665903</cid>
+	<date>Jan 4, 2011, 08:50 PM</date>
+	<author>lilo777</author>
+	<text>Pau Gasol appeared to be sleep-walking through much of the Lakers' embarrassing loss to the Memphis Grizzlies at the Staples Center on Sunday. It turns out that might not have been too far from the truth.More on the LakersFor more news, notes and analysis of the Lakers, check out the Land O' Lakers blog from the Kamenetzky Brothers. BlogA team official confirmed Tuesday that Gasol missed the team's morning shootaround for that game without permission and later claimed to have overslept.Three Lakers in all said they did not get up on time because the alarm clocks on their iPods malfunctioned that morning, sources said, but Gasol was the only one who didn't show up at all.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665907</cid>
+	<date>Jan 4, 2011, 08:52 PM</date>
+	<author>mtnDewFTW</author>
+	<text>Apple gets away with the weirdest bugs ever.. alarm clocks have been on cell phones before smart phones even hit the market. How does Apple screw this up!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665929</cid>
+	<date>Jan 4, 2011, 08:57 PM</date>
+	<author>macfan881</author>
+	<text>Quote:Originally Posted bymtnDewFTWApple gets away with the weirdest bugs ever.. alarm clocks have been on cell phones before smart phones even hit the market. How does Apple screw this up!and MS gets away with security bugs that have been in there system since 3.1. Just saying.http://www.windows7news.com/2009/05/...-in-windows-7/</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665977</cid>
+	<date>Jan 4, 2011, 09:07 PM</date>
+	<author>Punker</author>
+	<text>Quote:Originally Posted bymacfan881and MS gets away with security bugs that have been in there system since 3.1. Just saying.http://www.windows7news.com/2009/05/...-in-windows-7/We know M$ has bugs.  Thats not the point.... We're comparing two different things here.It shouldn't matter if Windows had 1 or 1 million bugs.  My iPhone that i paid $800 for should be waking me up in the morning, last week it didn't.  It is unacceptable!  I rely on my iPhone, just like i do with my TV, my car and my kitchen table.If the bug were different, let's say something relating SMS:One day, I send an SMS to my gf saying i had a ****** day at work and that my boss is an ***hole.  Bug...  Everyone in my contact list receives it.  Is that still acceptable because M$ has bugs since 3.1 ?Let's not be blind fans here....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666037</cid>
+	<date>Jan 4, 2011, 09:20 PM</date>
+	<author>macfan881</author>
+	<text>Quote:Originally Posted byPunkerWe know M$ has bugs.  Thats not the point.... We're comparing two different things here.It shouldn't matter if Windows had 1 or 1 million bugs.  My iPhone that i paid $800 for should be waking me up in the morning, last week it didn't.  It is unacceptable!  I rely on my iPhone, just like i do with my TV, my car and my kitchen table.If the bug were different, let's say something relating SMS:One day, I send an SMS to my gf saying i had a ****** day at work and that my boss is an ***hole.  Bug...  Everyone in my contact list receives it.  Is that still acceptable because M$ has bugs since 3.1 ?Let's not be blind fans here....How is it diffrent first off its your fault cause if you are a regular user forum visitor you should have known about this bug and if you had to rely on your phone you could have spent 5-10 on a simple alarm clock or there are plenty of other apps on the app store to help with that issue as well .</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666066</cid>
+	<date>Jan 4, 2011, 09:27 PM</date>
+	<author>jessica.</author>
+	<text>I'll buy you an alarm clock as soon as you exhibit some personal responsibility. I mean come on, I gave up my iPhone months ago and even I knew of the issue.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666080</cid>
+	<date>Jan 4, 2011, 09:31 PM</date>
+	<author>synth3tik</author>
+	<text>Dear GM, please buy me a new car. This one ran out of gas.Who is responsible for waking you up? YOU.Is it crappy that there was a bug with the alarm, yes. Is there a way we could have known about the issue before hand, probably not. Is it Apple's fault that the alarm didn't work, yes. Is it Apple's fault you didn't wake up on time? No.The world (Especially the world of tech) is not perfect, we know this. It's time people start becoming responsible for themselves.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666194</cid>
+	<date>Jan 4, 2011, 09:58 PM</date>
+	<author>LapsangSouchong</author>
+	<text>I guess I'm lucky. I've used the iphone alarm to wake me up for a couple of years, and with the exception of the known glitches (new years for example) I've had zero problems with it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666208</cid>
+	<date>Jan 4, 2011, 10:01 PM</date>
+	<author>paperhearts63</author>
+	<text>lol mine didn't go off on Monday and caused to wake up an hour late.  I thought there was something wrong with just my phone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666269</cid>
+	<date>Jan 4, 2011, 10:20 PM</date>
+	<author>Leet Apple</author>
+	<text>it made me late for school on the first day back from christmas break no big deal, abut it worked fine this morning</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666401</cid>
+	<date>Jan 4, 2011, 10:56 PM</date>
+	<author>ctbear</author>
+	<text>I seriously don't understand.If I'm just an average user, why do I have to keep up with techy news just to have a very basic function working? How is it my fault for paying for an expensive phone with &quot;the most advanced mobile OS&quot; and it can't even do what my cheap old Nokia phone could?Come on guys, we understand that bugs are inevitable. But calling the OP irresponsible for Apple's mistake is just wrong.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666458</cid>
+	<date>Jan 4, 2011, 11:14 PM</date>
+	<author>Applejuiced</author>
+	<text>Quote:Originally Posted bymacfan881and MS gets away with security bugs that have been in there system since 3.1. Just saying.http://www.windows7news.com/2009/05/...-in-windows-7/What's Microsoft has to do with this?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666516</cid>
+	<date>Jan 4, 2011, 11:32 PM</date>
+	<author>M2M</author>
+	<text>I still have an alarm entry not going off.My ip4 is not jailbroken - so this is not the issue.I estimate this is happening because the very same alarm entry is very old and was changed alot.I am temped to Jailbreak my iP4 to get the Clock DB and send it to apple - but I wonder if then they will not say it is because i jailbreaked. Devils Circle...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666747</cid>
+	<date>Jan 5, 2011, 12:53 AM</date>
+	<author>QuarterSwede</author>
+	<text>It's the 4th. Supposedly a reboot fixes it. Plus, this isn't the first time an electronic device has had time bug.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666964</cid>
+	<date>Jan 5, 2011, 02:31 AM</date>
+	<author>macsrcool1234</author>
+	<text>Quote:Originally Posted byApplejuicedWhat's Microsoft has to do with this?He's obviously desperate and has absolutely no rebuttal, so he did what all Apple fanboys do when back into a corner - resort to strawman  arguments.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667365</cid>
+	<date>Jan 5, 2011, 06:19 AM</date>
+	<author>Pez555</author>
+	<text>Quote:Originally Posted bymacfan881How is it diffrent first off its your fault cause if you are a regular user forum visitor you should have known about this bug and if you had to rely on your phone you could have spent 5-10 on a simple alarm clock or there are plenty of other apps on the app store to help with that issue as well .I am a regular forum visitor, but over the christmas period i must have logged on here once or twice. I didnt know about the bug until the other day, so its perfectly reasonable for people not to know about this.plus you have to ask yourself, will it happen again?this is entirely Apple's fault, and anyone putting blame on an individual either has no morals or is an Apple fanboy.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667385</cid>
+	<date>Jan 5, 2011, 06:29 AM</date>
+	<author>seajay96</author>
+	<text>Neither bug affected me and I use my iPhone as an alarm every morning.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667399</cid>
+	<date>Jan 5, 2011, 06:35 AM</date>
+	<author>skottichan</author>
+	<text>Quote:Originally Posted byseajay96Neither bug affected me and I use my iPhone as an alarm every morning.Same here, both parents, GF and well, everyone but one person I know, have not had this problem.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667405</cid>
+	<date>Jan 5, 2011, 06:39 AM</date>
+	<author>s15119</author>
+	<text>Quote:Originally Posted byswoloiuJust give up on using your iPhone as an alarm clock,alarm bells for Apple as glitch hits new year wake-up calls for iPhone usersOne of the running jokes about the iPhone is that it&rsquo;s amazing, unless you actually want to use it as a phone. I guess it doesn&rsquo;t make a reliable alarm clock either.iPhoneowners already encountered an alarm problem back in November, when the switch to Daylight Savings Time caused some repeating iPhone alarms to go off an hour later. Apparently the New Year&rsquo;s switch has caused problems as well &mdash; and they were even worse, since the alarms didn&rsquo;t go off at all (rather than just being delayed), and they affected iPhone owners who set their alarms manually (not just the ones who relied on an automatically repeating schedule).You can add me to the list of people affected. My alarm didn&rsquo;t go off yesterday, but luckily there was no pressing reason for me to wake up. This morning it worked just fine &mdash; until I hit the snooze button and overslept anyway.Kerys Bessell, from Basildon, Essex, said: &ldquo;Myself and my boyfriend were late for work this morning due to this fault. We both work for the ambulance service and because of the fault a front line ambulance was unmanned until we got there.&rdquo;While theiPhonealarm problems are getting plenty of coverage, they probably aren&rsquo;t as embarrassing as &ldquo;Antennagate,&rdquo; where Apple decided to offer free iPhone cases to offset reception problems with the iPhone 4. Yet the phones sold like crazy, and Apple couldn&rsquo;t manufacture them quickly enough.snif, snif - is that troll i smell?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667422</cid>
+	<date>Jan 5, 2011, 06:44 AM</date>
+	<author>nick9191</author>
+	<text>http://www.youtube.com/watch?v=iwGFalTRHDA</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667427</cid>
+	<date>Jan 5, 2011, 06:48 AM</date>
+	<author>maflynn</author>
+	<text>Its a problem to be sure, but not a show stopper, and besides, all computers/smartphones/electronic devices have bugs or short comings.Should apple address this sooner then later, absolutely. Should you stop using the phone no, that's ridiculous especially where it seems there's a work around.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667429</cid>
+	<date>Jan 5, 2011, 06:50 AM</date>
+	<author>iPh0ne 0s4</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7)The glitch affected me for the first two days, but after deleting all clocks, and alarms, then respringing, adding back my clocks and alarms, it seemed two work just fine.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667439</cid>
+	<date>Jan 5, 2011, 06:53 AM</date>
+	<author>-aggie-</author>
+	<text>By Jan. 3, this was fixed.  Move along OP (swoloiu).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667531</cid>
+	<date>Jan 5, 2011, 07:32 AM</date>
+	<author>eshroom</author>
+	<text>Quote:Originally Posted byucfgrad93True, but if you know that there is a problem then it is up to you to have a backup plan.I didn't know there was a problem when I padi £599 for my iPhone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668817</cid>
+	<date>Jan 5, 2011, 12:11 PM</date>
+	<author>cav23j</author>
+	<text>it caused 3 lakers to miss or be late to a shootaround before a game&quot;Three Lakers in all said they did not get up on time because the alarm clocks on their iPhones malfunctioned that morning, but Gasol was the only one who didn't show up at all, sources said. Luke Walton was one of the other two Lakers who arrived late. The third Laker was not identified but sources said it was not Kobe Bryant.&quot;http://sports.espn.go.com/los-angele...ory?id=5989522</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672064</cid>
+	<date>Jan 5, 2011, 10:08 PM</date>
+	<author>Benenstein</author>
+	<text>I use my iPhone as my main alarm, why not? If it has the capability why not use it? But i was late for school monday because my alarm did not go off, and i got 2 detentions for &quot;truancy&quot; because not waking up on time for school is not a good enough excuse for my school.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11694339</cid>
+	<date>Jan 9, 2011, 09:15 PM</date>
+	<author>faroZ06</author>
+	<text>Quote:Originally Posted byPopeye206And then the alarm went off on your iPhone ending the nightmare!!!TROLL DETECTED. Who buys a Windows phone especially because of an alarm bug? That is an automatic troll label</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11694350</cid>
+	<date>Jan 9, 2011, 09:19 PM</date>
+	<author>faroZ06</author>
+	<text>Quote:Originally Posted bysynth3tikDear GM, please buy me a new car. This one ran out of gas.Who is responsible for waking you up? YOU.Is it crappy that there was a bug with the alarm, yes. Is there a way we could have known about the issue before hand, probably not. Is it Apple's fault that the alarm didn't work, yes. Is it Apple's fault you didn't wake up on time? No.The world (Especially the world of tech) is not perfect, we know this. It's time people start becoming responsible for themselves.That is stupid. First of all, I doubt this is a real bug. Nobody actually had the issue except for a couple of trolls who claimed that they got a new phone because of it.Secondly, the alarm clock is responsible for waking you up. Would you be mad at your cable company if they stopped service? Or is internet access your job?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11694442</cid>
+	<date>Jan 9, 2011, 09:37 PM</date>
+	<author>Aatos.1</author>
+	<text>To put it into perspective, it's not as annoying as many other bugs in the iP4. The next gen has got to be better than this odd bird.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11694700</cid>
+	<date>Jan 9, 2011, 10:34 PM</date>
+	<author>blackberrypilot</author>
+	<text>No issues for me. I use 2 alarms per day.</text>
+	<score>0</score>
+</comment>

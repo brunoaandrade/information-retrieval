@@ -1,0 +1,17 @@
+<article>
+	<pid>8460</pid>
+	<title>LG GW620 reportedly headed to the UK with Virgin Mobile, T-Mobile | Android Central</title>
+	<url>http://www.androidcentral.com/lg-gw620-reportedly-headed-uk-virgin-mobile-t-mobile</url>
+	<date>   Jan 18 2010  11:36 am   </date>
+	<author>Phil Nickinson</author>
+	<text>
+This isn't the first time we've seen the LG GW620, but it's the first time we've seen it slated for the UK. Virgin Mobile reportedly is giving it away if you sign up for an 18-month contract at at least £22 a month. T-Mobile also should have it for free with a 24-month, £20-a-month contract.A refresher on the specs: A 3-inch touchscreen, Android 1.5, 5MP camera with face recognition, horizontal QWERTY slider, MicroSD, 3.5mm headphone jack, and the usual other bells and whistles.So, it's a bit of meh. But it's also bringing Android to the lower-end market, and that's not so bad, is it? [CNET via Virgin Mobile] </text>
+	<score>1</score>
+</article>
+<comment>
+	<cid>16106</cid>
+	<date>Jan 19 2010  5:28 am</date>
+	<author>buy R4i卡</author>
+	<text>Looks promessing. If it has Xenon flash like the Renoir, I might just buy it.</text>
+	<score>100</score>
+</comment>

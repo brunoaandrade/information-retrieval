@@ -1,0 +1,45 @@
+<article>
+	<pid>32</pid>
+	<title>China's PMI Climbs To 50.3, Beating Expectations And Easing Fears Of A Hard Landing - Business Insider</title>
+	<url>http://www.businessinsider.com//china-manufacturing-index-up-in-december-2012-1</url>
+	<date>Jan.  1, 2012,  7:54 AM</date>
+	<author>AP</author>
+	<text>BEIJING (AP) &mdash; China's manufacturing index rose in December to 50.3 percent, a slight rebound after a greater-than-expected fall in November.The state-affiliated China Federation of Logistics and Purchasing said Sunday that its purchasing managers index, orPMI, rose 1.3 percentage points from 49 percent in November.November's figure had been well below the 50-level that signifies expansion, and marked the first contraction in manufacturing activity since early 2009.Federation analyst Zhang Liqun said the rebound signaled China should not expect to see a big slowdown in economic growth in 2012.A competing Chinese survey released Friday, theHSBCChina Manufacturing PMI &mdash; a seasonally adjusted index designed to measure the performance of the manufacturing economy &mdash; fell for a second month to 48.7 in December due to sluggish global demand.China's export growth declined in November for a third month, falling to 13.8 percent from the 15.9 percent the previous month.The slump in global demand has battered export-driven southern coastal regions, where thousands of small companies have been driven out of business and the survivors have laid off tens of thousands of workers.Smaller private companies were hard hit by bank lending curbs imposed to cool inflation and a boom in housing prices. The government has promised to have state banks lend more to help struggling entrepreneurs but says most of its curbs will remain in place.___China Federation of Logistics and Purchasing (in Chinese): http://www.cflp.org.cn</text>
+	<score>45</score>
+</article>
+<comment>
+	<date>Thu, 12 Jan 2012 16:11:35</date>
+	<author>Tobie Wittner</author>
+	<text>Wow. Your story amazed ... and frightened ... me. Thanks for making us aware of how easily the Harper Gang can stifle Canadians' voices. And how delicate our democracy really is.As a former conservative, I am disgusted. As a Canadian, I am proud to know there are people like Franke James.</text>
+	<score>4</score>
+</comment>
+<comment>
+	<date>Mon, 09 Jan 2012 17:45:15</date>
+	<author>Cornelia Grundmann</author>
+	<text>Hmm Well I was just searching on yahoo and just came across your site, generally I just only visit websites and retrieve my required info but this time the useful info that you posted in this post urged me to post here and appreciate your diligent work. I just bookmarked your site. Thank you again.</text>
+	<score>1</score>
+</comment>
+<comment>
+	<date>Mon, 02 Jan 2012 03:04:51</date>
+	<author>Nathaniel</author>
+	<text>Of course we all know that China would never lie in its official statistics...
+
+/sarcasm off</text>
+	<score>0</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 13:10:14</date>
+	<author>Ah So</author>
+	<text>Would not admit dishonourable disaster anyway</text>
+	<score>6</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 09:44:42</date>
+	<author>black swan</author>
+	<text>Had they led with this survey, the headline would have been completely differnet:
+
+&quot;A competing Chinese survey released Friday, the HSBC China Manufacturing PMI Ñ a seasonally adjusted index designed to measure the performance of the manufacturing economy Ñ fell for a second month to 48.7 in December due to sluggish global demand.&quot;
+
+The AP is no longer delivering news when what passes as news is hyped.</text>
+	<score>5</score>
+</comment>

@@ -1,0 +1,590 @@
+<article>
+	<pid>18</pid>
+	<title>Apple Releases iWork 9.0.5 With iWork.com Improvements - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/05/apple-releases-iwork-9-0-5-with-iwork-com-improvements/</url>
+	<date>Wednesday January 5, 2011 12:28 pm PST</date>
+	<author>Eric Slivka</author>
+	<text>Apple today releasediWork 9.0.5, a maintenance update for the current edition of the company's productivity suite.  In particular, the update expands support foriWork.com, which has remained in public beta for nearly two years now.This update contains bug fixes and improvements, including the following:- Adds support for playback of Keynote presentations on iWork.com public beta, with over 15 animations and effects, when using the latest version of Safari.- Adds support for Keynote Remote 1.2, including high-resolution slides for the Retina display.- Addresses an issue in Keynote with ruler numbers when moving or resizing a shape or scrolling.- Addresses an issue when exporting a Keynote presentation to iTunes/iPod when iTunes 10 is installed.- Improves the readability of ePub documents exported from Pages.- Includes public sharing and private upload document sharing options for iWork.com to Keynote, Pages, and Numbers.Full details on the update, which weighs in at 67.06 MB, are available in asupport documentassociated with the release.As suggested in the update description, Apple has also updated itsKeynote RemoteiOS application [App Store], bringing a number of fixes and improvements to the application for controlling Keynote presentations.What's New in Version 1.2- Optimized for the Retina display, including support for high-resolution slides.- Support for iOS 4 multitasking.- Improved handling of alerts (such as push notifications, text messages) received while controlling a presentation.- Improved handling of loss of connection with Keynote '09- Fixed networking issues, including recognizing a new Wi-Fi network if it was connected after launching Keynote RemoteThere have beenhintsthat Apple may launch a new iWork '11 alongside the Mac App Store tomorrow, and we have heard from several sources that the release may only be available through the Mac App Store and not on physical media, although we have been unable to confirm those reports.</text>
+	<score>83</score>
+</article>
+<comment>
+	<cid>11670265</cid>
+	<date>Jan 5, 2011, 03:46 PM</date>
+	<author>MrWillie</author>
+	<text>How about an update for iPad Numbers and make it more compatible with Excel. You know CELL MERGE...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670279</cid>
+	<date>Jan 5, 2011, 03:49 PM</date>
+	<author>Mattsasa</author>
+	<text>Why release a major update to iWork '09 in 2011!!!!not saying that support should be dropped, but there is iWork '11?! Will we see in tomorrow?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670280</cid>
+	<date>Jan 5, 2011, 03:50 PM</date>
+	<author>blacktape242</author>
+	<text>agreed!also, i know im beating a dead horse buttttt.......  iweb update?????????</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670283</cid>
+	<date>Jan 5, 2011, 03:50 PM</date>
+	<author>plickfu</author>
+	<text>So I go to upload a Keynote presentation to check out the new features, and I get an error saying prerelease software is not compatible with iwork.com. Never had any problems w iwork.com before.  Anyone else finding this?  Curious what could be causing it.Edit: Nevermind.  Redownloaded from Apple Support Page, working fine now.  Well, fine is a relative term.  Turned a 24MB Keynote into a 66MB Keynote before uploaing (which took a good 10 mins).  But it's a neat feature nonetheless.  Hopefully the Keynote Remote update will actually work.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670296</cid>
+	<date>Jan 5, 2011, 03:53 PM</date>
+	<author>archipellago</author>
+	<text>**yawn**they still make iWork.???What a complete and utter waste of time...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670301</cid>
+	<date>Jan 5, 2011, 03:54 PM</date>
+	<author>blacktape242</author>
+	<text>Quote:Originally Posted byarchipellago**yawn**they still make iWork.???What a complete and utter waste of time...i use pages a lot actually.......</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670305</cid>
+	<date>Jan 5, 2011, 03:55 PM</date>
+	<author>MikhailT</author>
+	<text>Quote:Originally Posted byMattsasaWhy release a major update to iWork '09 in 2011!!!!not saying that support should be dropped, but there is iWork '11?! Will we see in tomorrow?It's the last update they'll make for iWork '09 before moving toward iWork '11. IIRC, they do this to many of their applications. They'll release an update before the formal release of new major versions.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670330</cid>
+	<date>Jan 5, 2011, 03:59 PM</date>
+	<author>Small White Car</author>
+	<text>Quote:Originally Posted byMikhailTIt's the last update they'll make for iWork '09 before moving toward iWork '11. IIRC, they do this to many of their applications. They'll release an update before the formal release of new major versions.Yeah, this is actually a good clue that iWork 11 may come out in the Mac App Store tomorrow.&quot;Here's your last update for those of you too cheap to upgrade tomorrow. Enjoy it, you good-for-nothing cheapskates!&quot;Or something like that.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670339</cid>
+	<date>Jan 5, 2011, 04:00 PM</date>
+	<author>Stuipdboy1000</author>
+	<text>That'll be Apple patching up the final bugs in '09 before '11 gets (probably) released tomorrow.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670374</cid>
+	<date>Jan 5, 2011, 04:06 PM</date>
+	<author>Billy Boo Bob</author>
+	<text>Quote:Originally Posted byblacktape242i use pages a lot actually.......And I use Numbers quite often.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670391</cid>
+	<date>Jan 5, 2011, 04:09 PM</date>
+	<author>Small White Car</author>
+	<text>Say what you will, I still love me myTextEdit.Still good for 90% of what I do.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670433</cid>
+	<date>Jan 5, 2011, 04:15 PM</date>
+	<author>Mattsasa</author>
+	<text>Quote:Originally Posted byBilly Boo BobAnd I use Numbers quite often.and keynote and google docs is used a ton at my high school.... not by me though Im too busy wasting my time on this forum</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670435</cid>
+	<date>Jan 5, 2011, 04:15 PM</date>
+	<author>Stuipdboy1000</author>
+	<text>Apple seem to update the icon for Keynote every time a major new release comes out (&quot;Q4 20**) and look what we have in the updated Keynote Remote app:</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670448</cid>
+	<date>Jan 5, 2011, 04:17 PM</date>
+	<author>jayman99</author>
+	<text>At this point especially with this latest software update, it doesn't seem likely they will launch an iWork '11 tomorrow.  It's still a possibility, but I don't think it's going to happen anymore.  Plus, I think Apple would have wanted to show it off and present the new features for the software like they have in the past.  Oh well, time will tell when the App Store launches tomorrow.  I think launching the App Store is the largest focus on Apple right now, not releasing an iWork '11 update.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670451</cid>
+	<date>Jan 5, 2011, 04:17 PM</date>
+	<author>elppa</author>
+	<text>iWork.comIt lives!Imayhavementioneditonceortwice.White iPhone coming tomorrow.XCode 4 out of Beta the day after.Heard it here first.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670465</cid>
+	<date>Jan 5, 2011, 04:18 PM</date>
+	<author>peletrane</author>
+	<text>i actually use Pages and Numbers, the Numbers on my ipad to keep track of my spending on a daily basis.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670492</cid>
+	<date>Jan 5, 2011, 04:23 PM</date>
+	<author>Mochi Hana</author>
+	<text>Quote:Originally Posted byarchipellago**yawn**they still make iWork.???What a complete and utter waste of time...I use Pages, Numbers, and Keynote often. I think it's a useful suite. ;^_^</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670504</cid>
+	<date>Jan 5, 2011, 04:24 PM</date>
+	<author>HLdan</author>
+	<text>There's not a thing on Windows Office that offers better than Pages in terms of creation. I do all my business brochures and flyers on Pages and I've been asked several times what company is creating them. I tell them, &quot;I'll give you a hint&quot;, Windows 7 has nothing to do with it, that's why they look professional.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670512</cid>
+	<date>Jan 5, 2011, 04:26 PM</date>
+	<author>zedsdead</author>
+	<text>Quote:Originally Posted byMochi HanaI use Pages, Numbers, and Keynote often. I think it's a useful suite. ;^_^I love it as well.  Pages is my most used app, followed closely by Keynote.  I have also been using Numbers quite a bit.  I love it far more than Office.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670528</cid>
+	<date>Jan 5, 2011, 04:29 PM</date>
+	<author>Cougarcat</author>
+	<text>Dammit, I wanted Pages '11 with a notetaking mode tomorrow...somehow I don't think that's going to happen.Edit: Apparently Apple released an update to iWork '08 right before '09, so maybe there is hope for tomorrow.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670547</cid>
+	<date>Jan 5, 2011, 04:31 PM</date>
+	<author>MrSmith</author>
+	<text>I've used NeoOffice for years. Any reason to change?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670556</cid>
+	<date>Jan 5, 2011, 04:33 PM</date>
+	<author>ArtOfWarfare</author>
+	<text>Quote:Originally Posted byHLdanThere's not a thing on Windows Office that offers better than Pages in terms of creation. I do all my business brochures and flyers on Pages and I've been asked several times what company is creating them. I tell them, &quot;I'll give you a hint&quot;, Windows 7 has nothing to do with it, that's why they look professional.Same deal with Keynote and slideshows.Even though Numbers (and iWork in general) gets better graphing capabilities with each release, it's still not good enough.Granted, I'm a senior in high school and &quot;Good Enough&quot; for me has been a mcving target. It seems that with each release I've thought &quot;if only I had this last year... But it's not good enough for this year.&quot; (and then I use it anyways and have to find some way to screw around with transparency or add extra shapes on the graph to pretend Numbers was actually able to do what I wanted.)Oh, and it kind of sucks that I had to install a plug-in to get an equation editor... it's not the prettiest thing, and it's behavior is often unmaclike, but it gets the job done at least...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670566</cid>
+	<date>Jan 5, 2011, 04:34 PM</date>
+	<author>mikey.f</author>
+	<text>Well I'm not sure if this is a feature of the new update, or just a fix of a wrong iWork installation, but my apps open up in a snap of a finger now, whereas before it would take a few &quot;jumps&quot; of the icon for the app to start up. Or this might be just a temporary behaviour :-/. We'll see.Mind, it shouldn't have been slow on my 27&quot; i7 iMac... Should it? But it had been.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670606</cid>
+	<date>Jan 5, 2011, 04:41 PM</date>
+	<author>DCJ001</author>
+	<text>Quote:Originally Posted byarchipellago**yawn**they still make iWork.???What a complete and utter waste of time...archipellago still posts here?What a complete and utter waste of his time and ours.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670625</cid>
+	<date>Jan 5, 2011, 04:44 PM</date>
+	<author>Billy Boo Bob</author>
+	<text>Quote:Originally Posted byCougarcatDammit, I wanted Pages '11 with a notetaking mode tomorrow...somehow I don't think that's going to happen.Edit: Apparently Apple released an update to iWork '08 right before '09, so maybe there is hope for tomorrow.You never know... They may have had it ready for some time and are just waiting on the App Store to release it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670658</cid>
+	<date>Jan 5, 2011, 04:50 PM</date>
+	<author>lexusford</author>
+	<text>I use pages and number alot and it works for me.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670685</cid>
+	<date>Jan 5, 2011, 04:55 PM</date>
+	<author>Cougarcat</author>
+	<text>Quote:Originally Posted byBilly Boo BobYou never know... They may have had it ready for some time and are just waiting on the App Store to release it.There was a rumor to that effect...was going to come out along with iLife, and they decided to keep it for the App store.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670705</cid>
+	<date>Jan 5, 2011, 04:58 PM</date>
+	<author>jwhite878</author>
+	<text>Hopin' for 2011 tomorrow!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670720</cid>
+	<date>Jan 5, 2011, 05:01 PM</date>
+	<author>0815</author>
+	<text>should I bother updating? I'm hoping to get iWorks 11 tomorrow through the MacStoreQuote:Originally Posted byMrSmithI've used NeoOffice for years. Any reason to change?Download the free trial and see for yourself ... I was using NeoOffice for too long. NeoOffice is nice, but still doesn't feel like a true native Apple Product. Might be just my personal preference, but I prefer iWorks - everything looks and feels just better, smoother, prettier.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670755</cid>
+	<date>Jan 5, 2011, 05:07 PM</date>
+	<author>roadbloc</author>
+	<text>The trolls on this site get worse and worse....Anyways... do you think this mean my hopes for iWork '11 are over? It seems rather odd of Apple to update an app close to the expected release of a new version.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670767</cid>
+	<date>Jan 5, 2011, 05:09 PM</date>
+	<author>zeemeerman2</author>
+	<text>So we got choice from:- iWork- OpenOffice- NeoOffice- LibreOffice- Microsoft OfficeAnyone noticing that there are four things for lying around the office but only one works? (Pun intended)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670810</cid>
+	<date>Jan 5, 2011, 05:15 PM</date>
+	<author>dubhe</author>
+	<text>Am loving Office '11 for Mac, but would welcome being able to just buy keynote, I'm sorry, pages and numbers, I gave you 2 years of my time, you didn't do it for me...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670894</cid>
+	<date>Jan 5, 2011, 05:36 PM</date>
+	<author>dtpearson</author>
+	<text>I use pages most days, it is easy to make very professional looking work.I get asked all the time who does our design work for us.I don&#8217;t know why people still use office, every document comes out looking like it was produced by the accounts department, with Pages documents come out looking like they were produced by the art department.This is a flyer i made in about 15min using pages for the work christmas party</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670925</cid>
+	<date>Jan 5, 2011, 05:42 PM</date>
+	<author>montycat</author>
+	<text>Quote:Originally Posted byarchipellago**yawn**they still make iWork.???What a complete and utter waste of time...I use Pages and Numbers every single day at work and home. My GF uses iWork on her iPad all day. We are both health care providers and I see iWork being used in the professional world so much more now. Everyone either has a MacBook or an iPad at the hospital. All of our teaching presentations are made using Keynote. iWork is alive and well.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670930</cid>
+	<date>Jan 5, 2011, 05:43 PM</date>
+	<author>Fraaaa</author>
+	<text>Quote:Originally Posted byblacktape242agreed!also, i know im beating a dead horse buttttt.......  iweb update?????????Stop beating this dead horse... seriously.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670940</cid>
+	<date>Jan 5, 2011, 05:45 PM</date>
+	<author>Tower-Union</author>
+	<text>Quote:Originally Posted byfraaaastop beating this dead horse... Seriously.Kick it in the NAADS!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671024</cid>
+	<date>Jan 5, 2011, 06:02 PM</date>
+	<author>lavarae</author>
+	<text>Quote:Originally Posted byblacktape242agreed!also, i know im beating a dead horse buttttt.......  iweb update?????????I think there was a very good reason why there was no iWeb update when the new iLife came out. I think Apple stopped development on that version and have created a new, built from the ground up HTML5 standards version of iWeb. But either through internal timescales or the gerneral lack of browser support for some of the new HTML5 standards, Apple decided to pull it from the iLife lineup until HTML5 becomes more mature and IE catches up.This would explain why there wasn't even a piecemeal update. Apple have been banging on about HTML5 being the future and we should ditch Flash, iWeb creates nasty code and CSS control is poor, not a glowing advert of their beliefs, and it was never going to be fixed. So I predict a new amazing application with the iWeb name next year, and no update to the current version of iWeb until then.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671050</cid>
+	<date>Jan 5, 2011, 06:08 PM</date>
+	<author>powers74</author>
+	<text>Quote:Originally Posted byarchipellago**yawn**they still make iWork.???What a complete and utter waste of time...I like it for keeping track of my family budget, the built in template is perfect. But what do I know? I do know it's not version 9.x tho...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671069</cid>
+	<date>Jan 5, 2011, 06:11 PM</date>
+	<author>Cinch</author>
+	<text>Increasingly, I have been writing, making spreadsheets, and producing presentations using Google Documents.  While I haven't abandon Microsoft Office entirely, I haven't touch it in about a month.  The cloud is where it is at!  iWork is competing with the past.  Office and iWork has no place in the future unless it migrates to the cloud.Beautiful hardware and elegant software in the cloud is where it's at!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671113</cid>
+	<date>Jan 5, 2011, 06:21 PM</date>
+	<author>zeemeerman2</author>
+	<text>But Cinch, are you able to make such a beautiful flyer as dtpearson made (see a few posts above) in the cloudy heaven you describe?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671130</cid>
+	<date>Jan 5, 2011, 06:24 PM</date>
+	<author>dball4</author>
+	<text>My theory is that the App Store will just be the 09 versions. I don't imagine any big changes to the suite tomorrow.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671164</cid>
+	<date>Jan 5, 2011, 06:34 PM</date>
+	<author>garethh</author>
+	<text>Quote:Originally Posted byStuipdboy1000Apple seem to update the icon for Keynote every time a major new release comes out (&quot;Q4 20**) and look what we have in the updated Keynote Remote app:Well spotted!  That is very interesting indeed.  Yes, why would they bother if no update were coming?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671170</cid>
+	<date>Jan 5, 2011, 06:36 PM</date>
+	<author>sladey</author>
+	<text>Quote:Originally Posted byCinchIncreasingly, I have been writing, making spreadsheets, and producing presentations using Google Documents.  &lt;snip&gt;   The cloud is where it is at!  &lt;snip&gt;Beautiful hardware and elegant software in the cloud is where it's at!And when your internet drops out... you're up ****** creek!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671184</cid>
+	<date>Jan 5, 2011, 06:39 PM</date>
+	<author>HLdan</author>
+	<text>Quote:Originally Posted byCinchIncreasingly, I have been writing, making spreadsheets, and producing presentations using Google Documents.  While I haven't abandon Microsoft Office entirely, I haven't touch it in about a month.  The cloud is where it is at!  iWork is competing with the past.  Office and iWork has no place in the future unless it migrates to the cloud.Beautiful hardware and elegant software in the cloud is where it's at!Did you miss the article when it mentioned iWork.com?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671196</cid>
+	<date>Jan 5, 2011, 06:41 PM</date>
+	<author>Cinch</author>
+	<text>Quote:Originally Posted byzeemeerman2But Cinch, are you able to make such a beautiful flyer as dtpearson made (see a few posts above) in the cloudy heaven you describe?but of course...Google Documents has Drawing which works really well for 95% of us.  no need for adobe illustrator or the like.don't get me wrong Google Docs is not quite as sophisticated as Office, but it is almost there. iWork is quaint and paying for it is just unsavvy and ridiculous!Having say all this, I did tried iWork for a month, and it didn't impress me.  Being able to save and access my files anywhere seamlessly is very important to me.  But to all his or her own, I suppose.Imagine Office sales plummeting and MSFT stock likewise!  I can dream can't I?Next up,  moving all my photos to Flickr or Picasa.  Flickr is limited in scope.  I have to check Picasa out.  I think iPhoto is also going the way of the dodo bird.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671221</cid>
+	<date>Jan 5, 2011, 06:46 PM</date>
+	<author>Cinch</author>
+	<text>Quote:Originally Posted byHLdanDid you miss the article when it mentioned iWork.com?Have to read my post?  In case you haven't, here is an excerpt (with syntax edit):  Office and iWork have no place in the future unless they migrate to the cloud.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671251</cid>
+	<date>Jan 5, 2011, 06:54 PM</date>
+	<author>Cinch</author>
+	<text>Quote:Originally Posted bysladeyAnd when your internet drops out... you're up ****** creek!I actually thought long and hard about this issue (longer and deeper than you care to know - I study energy and how it create and shape our complex society).  Of course you can save your work onto your hard drive if you want to.I don't see this as issue at least not in the near future.  When was the last time your internet went out?  If it happened to you, it didn't last long.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671263</cid>
+	<date>Jan 5, 2011, 06:56 PM</date>
+	<author>mdriftmeyer</author>
+	<text>I would love to see Numbers extended with Octave 3.2/3.3, R and Maxima, not to mention hooks for MathCad/Mathematica.I would love to see Pages be extended to offer Services with TeXLive 2010.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671269</cid>
+	<date>Jan 5, 2011, 06:58 PM</date>
+	<author>mygoldens</author>
+	<text>Quote:Originally Posted byblacktape242i use pages a lot actually.......Quote:Originally Posted byarchipellago**yawn**they still make iWork.???What a complete and utter waste of time...I use Pages and Numbers also!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671271</cid>
+	<date>Jan 5, 2011, 06:59 PM</date>
+	<author>mdriftmeyer</author>
+	<text>Quote:Originally Posted byCinchI actually thought long and hard about this issue (longer and deeper than you care to know - I study energy and how it create and shape our complex society).  Of course you can save your work onto your hard drive if you want to.I don't see this as issue at least not in the near future.  When was the last time your internet went out?  If it happened to you, it didn't last long.Set up your own WebDAV presence in your own domain and sync up your git, svn, etc., revision repository to keep your local copy the most current and you don't need to worry about Google.Domains are cheap. Administering your own Mail service, web services and development services only requires your interest and time.I like to own my research.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671280</cid>
+	<date>Jan 5, 2011, 07:00 PM</date>
+	<author>MrSmith</author>
+	<text>Am I correct in thinking iWork.com is only for archiving and sharing your documents while with Google Docs you can create and work on your documents online (with the ability to copy to your computer and work offline if you so desire)? If so, they're like chalk and cheese. iWork would serve no purpose for me while Google Docs would serve all.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671285</cid>
+	<date>Jan 5, 2011, 07:01 PM</date>
+	<author>P-Worm</author>
+	<text>Quote:Originally Posted byCinchHave to read my post?  In case you haven't, here is an excerpt (with syntax edit):  Office and iWork have no place in the future unless they migrate to the cloud.iWork.com already exists...Also, googledocs is not even close to being on par with office.  It might be fine for what you need (writing simple documents) but as a layout suite it pales in comparison.P-Worm</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671313</cid>
+	<date>Jan 5, 2011, 07:09 PM</date>
+	<author>kirky29</author>
+	<text>Quote:Originally Posted byarchipellago**yawn**they still make iWork.???What a complete and utter waste of time...Another Pages user here! I've made some pretty awesome designs on Pages.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671318</cid>
+	<date>Jan 5, 2011, 07:10 PM</date>
+	<author>Cinch</author>
+	<text>Quote:Originally Posted bymdriftmeyerSet up your own WebDAV presence in your own domain and sync up your git, svn, etc., revision repository to keep your local copy the most current and you don't need to worry about Google.Domains are cheap. Administering your own Mail service, web services and development services only requires your interest and time.I like to own my research.I hear you.  My work need not be secretive.  I think in the end you have to weigh the odds and privacy issue.  At this point the probability of a total destruction and hacking of Google is quite low.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671321</cid>
+	<date>Jan 5, 2011, 07:11 PM</date>
+	<author>buckjohnbuck@ya</author>
+	<text>Trouble is that the new version of Pages doesn't actually work with iWork</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671332</cid>
+	<date>Jan 5, 2011, 07:13 PM</date>
+	<author>macswitcha2</author>
+	<text>Everything is snappier!  j/k</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671333</cid>
+	<date>Jan 5, 2011, 07:13 PM</date>
+	<author>Cinch</author>
+	<text>Quote:Originally Posted byP-WormiWork.com already exists...Also, googledocs is not even close to being on par with office.  It might be fine for what you need (writing simple documents) but as a layout suite it pales in comparison.P-WormCorrect me if I'm wrong; you still need to own/buy iWork in order to use iWork.com.?As I said earlier, Google Docs is not yet on par with Office, but for 90% of us, it is more than sufficient.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671342</cid>
+	<date>Jan 5, 2011, 07:17 PM</date>
+	<author>Cinch</author>
+	<text>Quote:Originally Posted byMrSmithAm I correct in thinking iWork.com is only for archiving and sharing your documents while with Google Docs you can create and work on your documents online (with the ability to copy to your computer and work offline if you so desire)? If so, they're like chalk and cheese. iWork would serve no purpose for me while Google Docs would serve all.Everything you said of Google Docs is correct.  I don't know about iWork and iWork.com.  Would someone help MrSmith out, please?The day of buying a word processor or a spreadsheet app is over!  It only took 25 plus years.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671407</cid>
+	<date>Jan 5, 2011, 07:33 PM</date>
+	<author>Razeus</author>
+	<text>WTF?  I just bought iWork '09 along with my iMac less than a week ago?  What can I do?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671419</cid>
+	<date>Jan 5, 2011, 07:36 PM</date>
+	<author>Sacird</author>
+	<text>Seems kind of dumb not to have a retail release.  May lose out on a fair amount of sales.  Good for people that only want 1 or 2 of the three programs though.  Bad for people that want to actually own the media in hands.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671441</cid>
+	<date>Jan 5, 2011, 07:40 PM</date>
+	<author>zeemeerman2</author>
+	<text>Quote:Originally Posted byRazeusWTF?  I just bought iWork '09 along with my iMac less than a week ago?  What can I do?Easy one. Just don't envy others who have a newer version. If iWord '09 does what you need to do, why do you care about people that might have newer stuff? Just use your own.Other than that, if the package isn't opened already, you might be able to bring it back to the store once '11 is in the stores. Not sure, depends on the store...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671452</cid>
+	<date>Jan 5, 2011, 07:42 PM</date>
+	<author>buckjohnbuck@ya</author>
+	<text>Do not Update using the Software Update tool for iWork...there is a problem...Go the Apple Support Page and download from there(http://support.apple.com/kb/DL1097)That works</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671574</cid>
+	<date>Jan 5, 2011, 08:04 PM</date>
+	<author>B. Hunter</author>
+	<text>Pages is a great! Use it to create flyers, ads and other graphic projects.Has made me money. Not complaining.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671799</cid>
+	<date>Jan 5, 2011, 08:59 PM</date>
+	<author>sladey</author>
+	<text>Quote:Originally Posted byCinchI actually thought long and hard about this issue (longer and deeper than you care to know - I study energy and how it create and shape our complex society).  Of course you can save your work onto your hard drive if you want to.Of course... if you do save your work onto your hard drive you can't rely on cloud software to edit it can you? So you need editing software on your computer.Quote:Originally Posted byCinchI don't see this as issue at least not in the near future.  When was the last time your internet went out?  If it happened to you, it didn't last long.You're joking, right? Have you heard of aeroplanes, trains, boats, buses, many hotels, power outages, ISP problems? The list goes on...For any serious work, cloud productivity software is fundamentally flawed. No internet = no work. Go to the pub.So what is the cloud good for? One word: Dropbox.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671817</cid>
+	<date>Jan 5, 2011, 09:04 PM</date>
+	<author>MrSmith</author>
+	<text>Quote:Originally Posted bysladeyNo internet = no work. Go to the pub.No contest, really.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671901</cid>
+	<date>Jan 5, 2011, 09:24 PM</date>
+	<author>S.Jobs</author>
+	<text>iwork will hopefully be released tomorrow and an update for the ipad version too</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671944</cid>
+	<date>Jan 5, 2011, 09:36 PM</date>
+	<author>inlovewithi</author>
+	<text>Quote:Originally Posted byHLdanThere's not a thing on Windows Office that offers better than Pages in terms of creation. I do all my business brochures and flyers on Pages and I've been asked several times what company is creating them. I tell them, &quot;I'll give you a hint&quot;, Windows 7 has nothing to do with it, that's why they look professional.I think it's the Apple logo that makes it such an amazing product.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671967</cid>
+	<date>Jan 5, 2011, 09:45 PM</date>
+	<author>Cinch</author>
+	<text>Quote:Originally Posted byMrSmithNo contest, really.+1,  Amen.@SladeyDependent upon being connect all the time, IMHO is truly a hellish existence.  I cherish a good book/magazine on the plane or on subway much more than being connected.  True there are times when you need to be connect, but at those times you learn to tune in your fear and anxiety - things will be okay.  No worries</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672050</cid>
+	<date>Jan 5, 2011, 10:04 PM</date>
+	<author>cav23j</author>
+	<text>updated...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672188</cid>
+	<date>Jan 5, 2011, 10:42 PM</date>
+	<author>sladey</author>
+	<text>Quote:Originally Posted byCinch+1,  Amen.@SladeyDependent upon being connect all the time, IMHO is truly a hellish existence.  I cherish a good book/magazine on the plane or on subway much more than being connected.  True there are times when you need to be connect, but at those times you learn to tune in your fear and anxiety - things will be okay.  No worriesDude... YOU were the one who said you work in the cloud, so YOU rely on being connected... YOU were talking about productivity apps in the cloud, and suggested everyone was almost always connected. I simply pointed out situations where connection is unavailable.Better still... Now you say that being dependent upon being connected is a truly hellish experience. Thank you. You have just defeated your own argument that cloud software is the only way to go. Truly magnificent!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672194</cid>
+	<date>Jan 5, 2011, 10:43 PM</date>
+	<author>wildpod</author>
+	<text>Quote:Originally Posted byzedsdeadI love it as well.  Pages is my most used app, followed closely by Keynote.  I have also been using Numbers quite a bit.  I love it far more than Office.I use pages a lot to write all my university papers. The only thing I would add, is support for equations, or some kind of equations editor other than MathType. Until now I've been using Latexit, which is great, but some kind of integrated solution would be even better.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672213</cid>
+	<date>Jan 5, 2011, 10:48 PM</date>
+	<author>e-coli</author>
+	<text>Quote:Originally Posted byarchipellago**yawn**they still make iWork.???What a complete and utter waste of time...Yes because I don't need a word processing application that uses almost 2GB of RAM to perform its most basic functions (Word)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672431</cid>
+	<date>Jan 5, 2011, 11:46 PM</date>
+	<author>inlovewithi</author>
+	<text>Quote:Originally Posted bye-coliYes because I don't need a word processing application that uses almost 2GB of RAM to perform its most basic functions (Word)Does it use really use 2gb of ram??? I did not know that. Let me open it up and check.Omg I'm shocked, I opened it up and it's using 10.66Mb. Maybe if I add texts to it. 20 pages and 12,012 words and it only when up to 16.6Mb. I'm so confused.On a serious note, it's funny how people believe their lies and exaggerations. I mean, come on.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672745</cid>
+	<date>Jan 6, 2011, 02:12 AM</date>
+	<author>roadbloc</author>
+	<text>I was excited for this update. Improvements? Nothing but bloody limitations!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672747</cid>
+	<date>Jan 6, 2011, 02:12 AM</date>
+	<author>CmdrLaForge</author>
+	<text>Quote:Originally Posted byCinchEverything you said of Google Docs is correct.  I don't know about iWork and iWork.com.  Would someone help MrSmith out, please?The day of buying a word processor or a spreadsheet app is over!  It only took 25 plus years.You can repeat that mantra in this forum over and over again but it won't become true. Online apps are only interesting for a small number of users. The future might be more diversified.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672770</cid>
+	<date>Jan 6, 2011, 02:24 AM</date>
+	<author>Trakker</author>
+	<text>Quote:Originally Posted byMrWillieHow about an update for iPad Numbers and make it more compatible with Excel. You know CELL MERGE...Because Excel is a bag of *****.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673294</cid>
+	<date>Jan 6, 2011, 06:41 AM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted bysladeyDude... YOU were the one who said you work in the cloud, so YOU rely on being connected... YOU were talking about productivity apps in the cloud, and suggested everyone was almost always connected. I simply pointed out situations where connection is unavailable.Better still... Now you say that being dependent upon being connected is a truly hellish experience. Thank you. You have just defeated your own argument that cloud software is the only way to go. Truly magnificent!I think the best solution to work in the cloud is using dropbox:- You have everything local using your local apps- Everything is automatically synced to all of your machines- Automatic backup of everythingIt no longer matters to me which of my machines I'm using - I always have the latest version of all my documents. If I am some place where I have no internet, I can still work with my files and once I'm connected again, it automatically syncs back to the cloud and all my other machines. This way I have the best of both worlds. If I am on a machine that does not has dropbox (e.g. at a friends house) I can still access everything through the web interface. The only thing I wish they would have is a 'network drive' with my stuff similar to iDisk (but faster and functioning). My whole digital life is in the meantime on dropbox - and it is fast (I can modify a file on my Laptop and by the time I walked to my desktop the update is already there). I can even use it cross platform.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673371</cid>
+	<date>Jan 6, 2011, 07:05 AM</date>
+	<author>MrSmith</author>
+	<text>But it isn't free.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673430</cid>
+	<date>Jan 6, 2011, 07:26 AM</date>
+	<author>genshi</author>
+	<text>Quote:Originally Posted bybuckjohnbuck@yaTrouble is that the new version of Pages doesn't actually work with iWorkQuote:Originally Posted byroadblocI was excited for this update. Improvements? Nothing but bloody limitations!The answer to this was:Quote:Originally Posted bybuckjohnbuck@yaDo not Update using the Software Update tool for iWork...there is a problem...Go the Apple Support Page and download from there(http://support.apple.com/kb/DL1097)That worksI received that same error message until I downloaded it directly from the link provided. Works great now! Also, don't know if this was mentioned already or known, but if you go to iWorks.com on your iPhone and open a document that you have uploaded, it will give you the option to open it [as a PDF] in iBooks as well.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673446</cid>
+	<date>Jan 6, 2011, 07:31 AM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted byCinchThe day of buying a word processor or a spreadsheet app is over!  It only took 25 plus years.Those days might be over for you and a few others out there.I spend way too much time in airplanes and other places without reliable network - 100% cloud is not an option until I can have 100% fast reliable cheap internet everywhere (some airlines started to offer inflight internet, but for prices where I could buy every half our iWorks)Good for those who are always in places where they are 'connected' - unfortunately I'm not one of those.It still amazes me how everybody sees things ONLY from their point of view and thinks the whole world is the same and does not even understand that there are different people with different needs ... sad.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673670</cid>
+	<date>Jan 6, 2011, 08:22 AM</date>
+	<author>0815</author>
+	<text>Too bad, no iWorks 11 ... guess I have to install the iWorks 9 update</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673676</cid>
+	<date>Jan 6, 2011, 08:23 AM</date>
+	<author>e-coli</author>
+	<text>Quote:Originally Posted byinlovewithiDoes it use really use 2gb of ram??? I did not know that. Let me open it up and check.Omg I'm shocked, I opened it up and it's using 10.66Mb. Maybe if I add texts to it. 20 pages and 12,012 words and it only when up to 16.6Mb. I'm so confused.On a serious note, it's funny how people believe their lies and exaggerations. I mean, come on.Look at the VM too. It's over a gig. Promise. At least on my end.EDIT: I just ran the update, since I don't use it anymore, and it looks like they've fixed their memory issue. It's still crazily slow on startup, so I'll still pass, but nice to see the improvement.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11679813</cid>
+	<date>Jan 7, 2011, 05:49 AM</date>
+	<author>jackc</author>
+	<text>Dumb question: Will you be able to show a presentation on a PC with iWork.com? It's unclear from the description. (without exporting to ppt)</text>
+	<score>0</score>
+</comment>

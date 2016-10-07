@@ -1,0 +1,651 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_27_1327255</id>
+	<title>Beginning Python Visualization</title>
+	<author>samzenpus</author>
+	<datestamp>1243447320000</datestamp>
+	<htmltext><a href="http://www.awaretek.com/" rel="nofollow">aceydacey</a> writes <i>"Sometimes a picture is worth a thousand words. <em>Beginning Python Visualization: Creating Visual Transformation Scripts</em>, published in February 2009 by Apress, shows how <a href="http://www.python.org/">Python</a> and its related tools can be used to easily and effectively turn raw data into visual representations that communicate effectively. The author is Shai Vaingast, a professional engineer and engineering manager who needed to train scientists and engineers to do this kind of programming work. He was looking for a tutorial and reference work,  and unable  to find a suitable text, wound up writing his first book. He writes in the easy and clear style of someone comfortable and engaged with the subject matter."</i> Keep reading for the rest of aceydacey's review.</htmltext>
+<tokenext>aceydacey writes " Sometimes a picture is worth a thousand words .
+Beginning Python Visualization : Creating Visual Transformation Scripts , published in February 2009 by Apress , shows how Python and its related tools can be used to easily and effectively turn raw data into visual representations that communicate effectively .
+The author is Shai Vaingast , a professional engineer and engineering manager who needed to train scientists and engineers to do this kind of programming work .
+He was looking for a tutorial and reference work , and unable to find a suitable text , wound up writing his first book .
+He writes in the easy and clear style of someone comfortable and engaged with the subject matter .
+" Keep reading for the rest of aceydacey 's review .</tokentext>
+<sentencetext>aceydacey writes "Sometimes a picture is worth a thousand words.
+Beginning Python Visualization: Creating Visual Transformation Scripts, published in February 2009 by Apress, shows how Python and its related tools can be used to easily and effectively turn raw data into visual representations that communicate effectively.
+The author is Shai Vaingast, a professional engineer and engineering manager who needed to train scientists and engineers to do this kind of programming work.
+He was looking for a tutorial and reference work,  and unable  to find a suitable text, wound up writing his first book.
+He writes in the easy and clear style of someone comfortable and engaged with the subject matter.
+" Keep reading for the rest of aceydacey's review.</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28117159</id>
+	<title>Re:Processing / "Visualizing Data"</title>
+	<author>chartreuse</author>
+	<datestamp>1243428180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Hell yes!  Please do.</htmltext>
+<tokenext>Hell yes !
+Please do .</tokentext>
+<sentencetext>Hell yes!
+Please do.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28115809</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113187</id>
+	<title>Python to visualize in a virtual world</title>
+	<author>rexping</author>
+	<datestamp>1243453260000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext>realXtend open source virtual world platform can be programmed in Python, I made a test to visualize email inbox as a <a href="http://www.maxping.org/technology/platforms/realxtend/neural-network-powered-email-inbox-in-virtual-world.aspx" title="maxping.org" rel="nofollow">terrain</a> [maxping.org].</htmltext>
+<tokenext>realXtend open source virtual world platform can be programmed in Python , I made a test to visualize email inbox as a terrain [ maxping.org ] .</tokentext>
+<sentencetext>realXtend open source virtual world platform can be programmed in Python, I made a test to visualize email inbox as a terrain [maxping.org].</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28119501</id>
+	<title>Re:Processing / "Visualizing Data"</title>
+	<author>karmac0ma</author>
+	<datestamp>1243448460000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext>There's already something very close to Processing using Python, BSD licensed, even though it's OSX only: <b>Nodebox</b> (<a href="http://www.nodebox.net/" title="nodebox.net" rel="nofollow">http://www.nodebox.net/</a> [nodebox.net]).
+<br> <br>
+On the other hand, there's a GPL fork/port of this project that works on GNU/Linux and Windows -- <b>Shoebot</b> (<a href="http://www.tinkerhouse.net/shoebot" title="tinkerhouse.net" rel="nofollow">http://www.tinkerhouse.net/shoebot</a> [tinkerhouse.net]) <i>(Disclosure: i'm one of the authors)</i>
+<br> <br>
+Nodebox uses Cocoa as its graphics back-end, while Shoebot uses Cairo (<a href="http://www.cairographics.org/" title="cairographics.org" rel="nofollow">http://www.cairographics.org/</a> [cairographics.org]); our plans for it are to implement other graphics back-ends including OpenGL (via Pyglet or Pygame), so seeing the parent open-source their Python/OpenGL project would be a godsend to us. Hey, there's common goals and all, so no reason to keep it closed, right?<nobr> <wbr></nobr>;-)
+<br> <br>
+(do pardon me if the links come out wrong, it's my first post over here -- bonjour to all)</htmltext>
+<tokenext>There 's already something very close to Processing using Python , BSD licensed , even though it 's OSX only : Nodebox ( http : //www.nodebox.net/ [ nodebox.net ] ) .
+On the other hand , there 's a GPL fork/port of this project that works on GNU/Linux and Windows -- Shoebot ( http : //www.tinkerhouse.net/shoebot [ tinkerhouse.net ] ) ( Disclosure : i 'm one of the authors ) Nodebox uses Cocoa as its graphics back-end , while Shoebot uses Cairo ( http : //www.cairographics.org/ [ cairographics.org ] ) ; our plans for it are to implement other graphics back-ends including OpenGL ( via Pyglet or Pygame ) , so seeing the parent open-source their Python/OpenGL project would be a godsend to us .
+Hey , there 's common goals and all , so no reason to keep it closed , right ?
+; - ) ( do pardon me if the links come out wrong , it 's my first post over here -- bonjour to all )</tokentext>
+<sentencetext>There's already something very close to Processing using Python, BSD licensed, even though it's OSX only: Nodebox (http://www.nodebox.net/ [nodebox.net]).
+On the other hand, there's a GPL fork/port of this project that works on GNU/Linux and Windows -- Shoebot (http://www.tinkerhouse.net/shoebot [tinkerhouse.net]) (Disclosure: i'm one of the authors)
+ 
+Nodebox uses Cocoa as its graphics back-end, while Shoebot uses Cairo (http://www.cairographics.org/ [cairographics.org]); our plans for it are to implement other graphics back-ends including OpenGL (via Pyglet or Pygame), so seeing the parent open-source their Python/OpenGL project would be a godsend to us.
+Hey, there's common goals and all, so no reason to keep it closed, right?
+;-)
+ 
+(do pardon me if the links come out wrong, it's my first post over here -- bonjour to all)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28115809</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28119817</id>
+	<title>matplotlib</title>
+	<author>Ben1220</author>
+	<datestamp>1243451340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Yes, matplotlib is pretty powerful, but they don't have a version for python 2.6 yet.  You need to install it yourself<nobr> <wbr></nobr>:(
+
+Lazy developers, 2.6 has been out for ages...</htmltext>
+<tokenext>Yes , matplotlib is pretty powerful , but they do n't have a version for python 2.6 yet .
+You need to install it yourself : ( Lazy developers , 2.6 has been out for ages.. .</tokentext>
+<sentencetext>Yes, matplotlib is pretty powerful, but they don't have a version for python 2.6 yet.
+You need to install it yourself :(
+
+Lazy developers, 2.6 has been out for ages...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112665</id>
+	<title>Hmm</title>
+	<author>No2Gates</author>
+	<datestamp>1243451160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Is this like "visualizing whirled peas"?</p></htmltext>
+<tokenext>Is this like " visualizing whirled peas " ?</tokentext>
+<sentencetext>Is this like "visualizing whirled peas"?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113455</id>
+	<title>Viz without interaction?</title>
+	<author>Bejitt</author>
+	<datestamp>1243454340000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext>I've used Python extensively to do (Information) Visualizations, and found the language to be very handy for getting started quickly. I used NumPy a bit, but I mainly offloaded all the heavy display work to OpenGL.
+
+I'm surprised that I don't see anything about using Python to develop interactive Visualization techniques, which should be a top priority in 'most' visualizations. (some can do without, but some are built around interaction) Perhaps that would be a good topic for continuing this series =)</htmltext>
+<tokenext>I 've used Python extensively to do ( Information ) Visualizations , and found the language to be very handy for getting started quickly .
+I used NumPy a bit , but I mainly offloaded all the heavy display work to OpenGL .
+I 'm surprised that I do n't see anything about using Python to develop interactive Visualization techniques , which should be a top priority in 'most ' visualizations .
+( some can do without , but some are built around interaction ) Perhaps that would be a good topic for continuing this series = )</tokentext>
+<sentencetext>I've used Python extensively to do (Information) Visualizations, and found the language to be very handy for getting started quickly.
+I used NumPy a bit, but I mainly offloaded all the heavy display work to OpenGL.
+I'm surprised that I don't see anything about using Python to develop interactive Visualization techniques, which should be a top priority in 'most' visualizations.
+(some can do without, but some are built around interaction) Perhaps that would be a good topic for continuing this series =)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112951</id>
+	<title>DVD</title>
+	<author>valnar</author>
+	<datestamp>1243452300000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>My favorite way to visualize Python is the DVD set.  The Holy Grail is still my favorite, although Life of Brian is a close second.</p></htmltext>
+<tokenext>My favorite way to visualize Python is the DVD set .
+The Holy Grail is still my favorite , although Life of Brian is a close second .</tokentext>
+<sentencetext>My favorite way to visualize Python is the DVD set.
+The Holy Grail is still my favorite, although Life of Brian is a close second.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113107</id>
+	<title>Beginning Python Visualization</title>
+	<author>Aahzimandious</author>
+	<datestamp>1243452960000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext>Graham Chapman, Eric Idle, Terry Gilliam, Terry Jones, John Cleese, Michael Palin ruined the word "Python" for me.  God bless them.<nobr> <wbr></nobr>:)  <br> <br>
+
+I really was wishing more for a book that was going to help me visualize Python in its core essence, to become One with that which is Python.<br> <br>
+
+Oooooommmmmmm...   Relax.  Breath in.  Breath out.   Think Python.  Be Python.  Do Python!<br> <br>
+
+What?  Well, okay... cool.<br> <br>
+
+"Beethoven's gone, but his music lives on, and Mozart don't go shopping no more. You'll never meet Liszt or Brahms again, and Elgar doesn't answer the door...."<br> <br>
+
+"I had to get up in the morning at ten o'clock at night, half an hour before I went to bed, eat a lump of freezing cold poison, work twenty-nine hours a day down mill, and pay mill owner for letting us work there, and when we got home, our Dad would murder us in cold blood, each night, and dance about on our graves singing "Hallelujah." But you try and tell the young people of today that... and they won't believe you."<br> <br><nobr> <wbr></nobr>:)</htmltext>
+<tokenext>Graham Chapman , Eric Idle , Terry Gilliam , Terry Jones , John Cleese , Michael Palin ruined the word " Python " for me .
+God bless them .
+: ) I really was wishing more for a book that was going to help me visualize Python in its core essence , to become One with that which is Python .
+Oooooommmmmmm... Relax .
+Breath in .
+Breath out .
+Think Python .
+Be Python .
+Do Python !
+What ? Well , okay... cool . " Beethoven 's gone , but his music lives on , and Mozart do n't go shopping no more .
+You 'll never meet Liszt or Brahms again , and Elgar does n't answer the door.... " " I had to get up in the morning at ten o'clock at night , half an hour before I went to bed , eat a lump of freezing cold poison , work twenty-nine hours a day down mill , and pay mill owner for letting us work there , and when we got home , our Dad would murder us in cold blood , each night , and dance about on our graves singing " Hallelujah .
+" But you try and tell the young people of today that... and they wo n't believe you .
+" : )</tokentext>
+<sentencetext>Graham Chapman, Eric Idle, Terry Gilliam, Terry Jones, John Cleese, Michael Palin ruined the word "Python" for me.
+God bless them.
+:)   
+
+I really was wishing more for a book that was going to help me visualize Python in its core essence, to become One with that which is Python.
+Oooooommmmmmm...   Relax.
+Breath in.
+Breath out.
+Think Python.
+Be Python.
+Do Python!
+What?  Well, okay... cool. 
+
+"Beethoven's gone, but his music lives on, and Mozart don't go shopping no more.
+You'll never meet Liszt or Brahms again, and Elgar doesn't answer the door...." 
+
+"I had to get up in the morning at ten o'clock at night, half an hour before I went to bed, eat a lump of freezing cold poison, work twenty-nine hours a day down mill, and pay mill owner for letting us work there, and when we got home, our Dad would murder us in cold blood, each night, and dance about on our graves singing "Hallelujah.
+" But you try and tell the young people of today that... and they won't believe you.
+"  :)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28139361</id>
+	<title>matplotlib</title>
+	<author>clint999</author>
+	<datestamp>1243614600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p><div class="quote"><p>in the python csv module you can specify the delimiter (so it can be semicolons, or even tabs). I'm sure you, being so not n00b (what's the opposite of n00b anyway?), could write up a python function to quickly determine the delimiter used in a file.
+csv files are also nice in that they allow to surround text in quotes, thus allowing to include the delimiter as data in the field (i.e. "hello,",goodbye would give you two fields)
+
+Disclaimer: I know the author</p></div></div>
+	</htmltext>
+<tokenext>in the python csv module you can specify the delimiter ( so it can be semicolons , or even tabs ) .
+I 'm sure you , being so not n00b ( what 's the opposite of n00b anyway ?
+) , could write up a python function to quickly determine the delimiter used in a file .
+csv files are also nice in that they allow to surround text in quotes , thus allowing to include the delimiter as data in the field ( i.e .
+" hello , " ,goodbye would give you two fields ) Disclaimer : I know the author</tokentext>
+<sentencetext>in the python csv module you can specify the delimiter (so it can be semicolons, or even tabs).
+I'm sure you, being so not n00b (what's the opposite of n00b anyway?
+), could write up a python function to quickly determine the delimiter used in a file.
+csv files are also nice in that they allow to surround text in quotes, thus allowing to include the delimiter as data in the field (i.e.
+"hello,",goodbye would give you two fields)
+
+Disclaimer: I know the author
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113151</id>
+	<title>Processing / "Visualizing Data"</title>
+	<author>weston</author>
+	<datestamp>1243453140000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Ben Fry's <a href="http://www.amazon.com/Visualizing-Data-Explaining-Processing-Environment/dp/0596514557" title="amazon.com">Visualizing Data</a> [amazon.com] using the <a href="http://processing.org/" title="processing.org">Processing</a> [processing.org] environment seems like it's addressing a similar topic... wonder if Vaingast didn't know about it or if he found something unsuitable about it...</p></htmltext>
+<tokenext>Ben Fry 's Visualizing Data [ amazon.com ] using the Processing [ processing.org ] environment seems like it 's addressing a similar topic... wonder if Vaingast did n't know about it or if he found something unsuitable about it.. .</tokentext>
+<sentencetext>Ben Fry's Visualizing Data [amazon.com] using the Processing [processing.org] environment seems like it's addressing a similar topic... wonder if Vaingast didn't know about it or if he found something unsuitable about it...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113697</id>
+	<title>I like matplotlib, scipy but ...</title>
+	<author>Falstius</author>
+	<datestamp>1243455480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I like matplotlib and scipy but I have lots of problems with memory not being freed when making and closing a lot of plots.  It might be something I'm doing though, so I'm curious if the book discusses this.</htmltext>
+<tokenext>I like matplotlib and scipy but I have lots of problems with memory not being freed when making and closing a lot of plots .
+It might be something I 'm doing though , so I 'm curious if the book discusses this .</tokentext>
+<sentencetext>I like matplotlib and scipy but I have lots of problems with memory not being freed when making and closing a lot of plots.
+It might be something I'm doing though, so I'm curious if the book discusses this.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113817</id>
+	<title>Re:DVD</title>
+	<author>Anonymous</author>
+	<datestamp>1243456080000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>1</modscore>
+	<htmltext>STFU, or I shall say NI to you again.</htmltext>
+<tokenext>STFU , or I shall say NI to you again .</tokentext>
+<sentencetext>STFU, or I shall say NI to you again.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112951</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28115809</id>
+	<title>Re:Processing / "Visualizing Data"</title>
+	<author>Anonymous</author>
+	<datestamp>1243421220000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>In our lab (@ Georgia Tech), we developed an processing port to python that uses pygame + OpenGL as the base.</p><p>We haven't open-sourced it yet, but do think people would find that interesting?</p></htmltext>
+<tokenext>In our lab ( @ Georgia Tech ) , we developed an processing port to python that uses pygame + OpenGL as the base.We have n't open-sourced it yet , but do think people would find that interesting ?</tokentext>
+<sentencetext>In our lab (@ Georgia Tech), we developed an processing port to python that uses pygame + OpenGL as the base.We haven't open-sourced it yet, but do think people would find that interesting?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113151</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28119491</id>
+	<title>Commas Suck</title>
+	<author>whitefox</author>
+	<datestamp>1243448340000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Yes, I know commas are part of the CSV acronym but seriously they suck. A lot of the data I've worked with over the years (names, addresses, etc) was usually bound to have some records with embedded commas in the field values thus generating import exceptions.</p><p>I learned early on to use tabs for any CSV exports I had to create. And Excel has no problem interpreting tab-delimited files.</p></htmltext>
+<tokenext>Yes , I know commas are part of the CSV acronym but seriously they suck .
+A lot of the data I 've worked with over the years ( names , addresses , etc ) was usually bound to have some records with embedded commas in the field values thus generating import exceptions.I learned early on to use tabs for any CSV exports I had to create .
+And Excel has no problem interpreting tab-delimited files .</tokentext>
+<sentencetext>Yes, I know commas are part of the CSV acronym but seriously they suck.
+A lot of the data I've worked with over the years (names, addresses, etc) was usually bound to have some records with embedded commas in the field values thus generating import exceptions.I learned early on to use tabs for any CSV exports I had to create.
+And Excel has no problem interpreting tab-delimited files.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113731</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28116195</id>
+	<title>Re:Processing / "Visualizing Data"</title>
+	<author>Anonymous</author>
+	<datestamp>1243422720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I think the key is that he was looking to use Python. It looks like that book is using Java.</p></htmltext>
+<tokenext>I think the key is that he was looking to use Python .
+It looks like that book is using Java .</tokentext>
+<sentencetext>I think the key is that he was looking to use Python.
+It looks like that book is using Java.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113151</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114707</id>
+	<title>Re:Fail already</title>
+	<author>TopherC</author>
+	<datestamp>1243417620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I was guessing that although there is nothing even remotely new about a<nobr> <wbr></nobr>.csv file, our reviewer mentions this as an example of good style.  You could write data out in any format you invent for each project, and with Python you might be particularly tempted to use some pickle (Python's object serialization) format.  But using CSV whenever it makes any sense seems like it would give you the most long-term flexibility since so very many programs can read these files, even text editors.  The format is never going away because it's too simple.</p><p>The separator you use is a non-issue since almost any program that reads these in can understand most typical separators.  Excel might be a rare exception, I couldn't see an obvious way to specify that but I'm sure someone has a plugin that works.  Tabs are okay too, and gnuplot would like those, but I'd still call it a CSV file just to be boring.</p></htmltext>
+<tokenext>I was guessing that although there is nothing even remotely new about a .csv file , our reviewer mentions this as an example of good style .
+You could write data out in any format you invent for each project , and with Python you might be particularly tempted to use some pickle ( Python 's object serialization ) format .
+But using CSV whenever it makes any sense seems like it would give you the most long-term flexibility since so very many programs can read these files , even text editors .
+The format is never going away because it 's too simple.The separator you use is a non-issue since almost any program that reads these in can understand most typical separators .
+Excel might be a rare exception , I could n't see an obvious way to specify that but I 'm sure someone has a plugin that works .
+Tabs are okay too , and gnuplot would like those , but I 'd still call it a CSV file just to be boring .</tokentext>
+<sentencetext>I was guessing that although there is nothing even remotely new about a .csv file, our reviewer mentions this as an example of good style.
+You could write data out in any format you invent for each project, and with Python you might be particularly tempted to use some pickle (Python's object serialization) format.
+But using CSV whenever it makes any sense seems like it would give you the most long-term flexibility since so very many programs can read these files, even text editors.
+The format is never going away because it's too simple.The separator you use is a non-issue since almost any program that reads these in can understand most typical separators.
+Excel might be a rare exception, I couldn't see an obvious way to specify that but I'm sure someone has a plugin that works.
+Tabs are okay too, and gnuplot would like those, but I'd still call it a CSV file just to be boring.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113731</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113929</id>
+	<title>Re:Fail already</title>
+	<author>maxume</author>
+	<datestamp>1243456560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The book is about Python so it probably isn't that out of place that there is reasonable support for csv files included in the standard install:</p><p><a href="http://docs.python.org/library/csv.html" title="python.org" rel="nofollow">http://docs.python.org/library/csv.html</a> [python.org]</p><p>No support for Unicode (yet) would probably be the biggest caveat. I've had good luck with it, but I haven't exercised it in particularly interesting ways.</p></htmltext>
+<tokenext>The book is about Python so it probably is n't that out of place that there is reasonable support for csv files included in the standard install : http : //docs.python.org/library/csv.html [ python.org ] No support for Unicode ( yet ) would probably be the biggest caveat .
+I 've had good luck with it , but I have n't exercised it in particularly interesting ways .</tokentext>
+<sentencetext>The book is about Python so it probably isn't that out of place that there is reasonable support for csv files included in the standard install:http://docs.python.org/library/csv.html [python.org]No support for Unicode (yet) would probably be the biggest caveat.
+I've had good luck with it, but I haven't exercised it in particularly interesting ways.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113731</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114061</id>
+	<title>Re:Getting up and running</title>
+	<author>zqtvlyj</author>
+	<datestamp>1243457340000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext>Without number limited, &#227;Free Live HQ stream&#227;'<nobr> <wbr></nobr>,100\%free and no virus live stream online,Barcelona VS Manchester United live!!go go go!!!ole ole ole! <a href="http://www.nowgoal.com/17.shtml" title="nowgoal.com" rel="nofollow">http://www.nowgoal.com/17.shtml</a> [nowgoal.com]</htmltext>
+<tokenext>Without number limited , √ £ Free Live HQ stream √ £ ' ,100 \ % free and no virus live stream online,Barcelona VS Manchester United live !
+! go go go ! !
+! ole ole ole !
+http : //www.nowgoal.com/17.shtml [ nowgoal.com ]</tokentext>
+<sentencetext>Without number limited, √£Free Live HQ stream√£' ,100\%free and no virus live stream online,Barcelona VS Manchester United live!
+!go go go!!
+!ole ole ole!
+http://www.nowgoal.com/17.shtml [nowgoal.com]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112773</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113761</id>
+	<title>CairoPlot</title>
+	<author>Anonymous</author>
+	<datestamp>1243455780000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>There's a fairly new project called <a href="https://launchpad.net/cairoplot" title="launchpad.net" rel="nofollow">Cairoplot</a> [launchpad.net] that creates charts and plots using Python and Cairo. It's not meant to do number-crunching like some of the other tools mentioned, but it creates great-looking charts.</p><p>(Disclaimer: I've done a little bit of development on Cairoplot, trying to get it more LaTeX-friendly)</p></htmltext>
+<tokenext>There 's a fairly new project called Cairoplot [ launchpad.net ] that creates charts and plots using Python and Cairo .
+It 's not meant to do number-crunching like some of the other tools mentioned , but it creates great-looking charts .
+( Disclaimer : I 've done a little bit of development on Cairoplot , trying to get it more LaTeX-friendly )</tokentext>
+<sentencetext>There's a fairly new project called Cairoplot [launchpad.net] that creates charts and plots using Python and Cairo.
+It's not meant to do number-crunching like some of the other tools mentioned, but it creates great-looking charts.
+(Disclaimer: I've done a little bit of development on Cairoplot, trying to get it more LaTeX-friendly)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112773</id>
+	<title>Getting up and running</title>
+	<author>Anonymous</author>
+	<datestamp>1243451580000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>A great way to set yourself up with a Python-based analysis environment is a tool amalgamation called <a href="http://www.pythonxy.com/" title="pythonxy.com">Python(x,y)</a> [pythonxy.com].  I don't use it myself since my setup predates the project, but it has all the major tools I know and love.</p><p>And for those of you who want statistical and graphing capabilities lacking there, know that you can communicate back and forth with an instance of GNU R, using <a href="http://rpy.sourceforge.net/rpy2.html" title="sourceforge.net">rpy2</a> [sourceforge.net].</p></htmltext>
+<tokenext>A great way to set yourself up with a Python-based analysis environment is a tool amalgamation called Python ( x,y ) [ pythonxy.com ] .
+I do n't use it myself since my setup predates the project , but it has all the major tools I know and love.And for those of you who want statistical and graphing capabilities lacking there , know that you can communicate back and forth with an instance of GNU R , using rpy2 [ sourceforge.net ] .</tokentext>
+<sentencetext>A great way to set yourself up with a Python-based analysis environment is a tool amalgamation called Python(x,y) [pythonxy.com].
+I don't use it myself since my setup predates the project, but it has all the major tools I know and love.And for those of you who want statistical and graphing capabilities lacking there, know that you can communicate back and forth with an instance of GNU R, using rpy2 [sourceforge.net].</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113841</id>
+	<title>IT Infrastructure Viz w/ Python</title>
+	<author>codesmythe</author>
+	<datestamp>1243456140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>See <a href="http://blenderartists.org/forum/showthread.php?t=157085" title="blenderartists.org" rel="nofollow">http://blenderartists.org/forum/showthread.php?t=157085</a> [blenderartists.org] for an immersive 3D system activity visualization built using Python.</htmltext>
+<tokenext>See http : //blenderartists.org/forum/showthread.php ? t = 157085 [ blenderartists.org ] for an immersive 3D system activity visualization built using Python .</tokentext>
+<sentencetext>See http://blenderartists.org/forum/showthread.php?t=157085 [blenderartists.org] for an immersive 3D system activity visualization built using Python.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114271</id>
+	<title>3D Visualization</title>
+	<author>raguirre</author>
+	<datestamp>1243415640000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext>Does it say anything about 3D Visualization of data? a very handy tool is <a href="http://www.vpython.org/" title="vpython.org" rel="nofollow">VPython</a> [vpython.org].</htmltext>
+<tokenext>Does it say anything about 3D Visualization of data ?
+a very handy tool is VPython [ vpython.org ] .</tokentext>
+<sentencetext>Does it say anything about 3D Visualization of data?
+a very handy tool is VPython [vpython.org].</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114519</id>
+	<title>Re:Getting up and running</title>
+	<author>Anonymous</author>
+	<datestamp>1243416840000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Sage (http://www.sagemath.org) is also includes numpy, scipy, matplotlib, R, and many, many other packages.  All of these are easily usable from a command line interface as well as an easy web interface (see http://www.sagenb.org)</p><p>Mayavi should also be mentioned when talking about python and visualization: http://code.enthought.com/projects/mayavi/</p><p>You can use Mayavi and Sage together as well.  Here's a link to a public Sage worksheet illustrating how to use Mayavi to generate a 3d VRML interactive image embedded in the page: http://nb.hpfem.org/home/pub/16/  (install a X3D viewer like FreeWRL to see the last interactive image).  Sage also does 3d graphing with JMOL.</p></htmltext>
+<tokenext>Sage ( http : //www.sagemath.org ) is also includes numpy , scipy , matplotlib , R , and many , many other packages .
+All of these are easily usable from a command line interface as well as an easy web interface ( see http : //www.sagenb.org ) Mayavi should also be mentioned when talking about python and visualization : http : //code.enthought.com/projects/mayavi/You can use Mayavi and Sage together as well .
+Here 's a link to a public Sage worksheet illustrating how to use Mayavi to generate a 3d VRML interactive image embedded in the page : http : //nb.hpfem.org/home/pub/16/ ( install a X3D viewer like FreeWRL to see the last interactive image ) .
+Sage also does 3d graphing with JMOL .</tokentext>
+<sentencetext>Sage (http://www.sagemath.org) is also includes numpy, scipy, matplotlib, R, and many, many other packages.
+All of these are easily usable from a command line interface as well as an easy web interface (see http://www.sagenb.org)Mayavi should also be mentioned when talking about python and visualization: http://code.enthought.com/projects/mayavi/You can use Mayavi and Sage together as well.
+Here's a link to a public Sage worksheet illustrating how to use Mayavi to generate a 3d VRML interactive image embedded in the page: http://nb.hpfem.org/home/pub/16/  (install a X3D viewer like FreeWRL to see the last interactive image).
+Sage also does 3d graphing with JMOL.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112773</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28120733</id>
+	<title>Re:Fail already</title>
+	<author>kraut</author>
+	<datestamp>1243505400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>if semicolons instead of commas in a CSV file are the biggest problem you've run across with CSVs, you haven't lived.</p><p>Now get off my lawn.</p></htmltext>
+<tokenext>if semicolons instead of commas in a CSV file are the biggest problem you 've run across with CSVs , you have n't lived.Now get off my lawn .</tokentext>
+<sentencetext>if semicolons instead of commas in a CSV file are the biggest problem you've run across with CSVs, you haven't lived.Now get off my lawn.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113731</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112647</id>
+	<title>PUBES</title>
+	<author>Anonymous</author>
+	<datestamp>1243451040000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>PUBES</p></htmltext>
+<tokenext>PUBES</tokentext>
+<sentencetext>PUBES</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28118811</id>
+	<title>Great Book</title>
+	<author>Murdoch5</author>
+	<datestamp>1243441020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>This book is awesome, it helped me really get into python.  As a Computer Eng student I really wanted to get into Python but never had a good outlet, finally thanks to this book I've been able to go in head first and feel this will really help me to get going.</htmltext>
+<tokenext>This book is awesome , it helped me really get into python .
+As a Computer Eng student I really wanted to get into Python but never had a good outlet , finally thanks to this book I 've been able to go in head first and feel this will really help me to get going .</tokentext>
+<sentencetext>This book is awesome, it helped me really get into python.
+As a Computer Eng student I really wanted to get into Python but never had a good outlet, finally thanks to this book I've been able to go in head first and feel this will really help me to get going.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112637</id>
+	<title>really?</title>
+	<author>cool\_story\_bro</author>
+	<datestamp>1243451040000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>0</modscore>
+	<htmltext>are book reviews news?</htmltext>
+<tokenext>are book reviews news ?</tokentext>
+<sentencetext>are book reviews news?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112983</id>
+	<title>import tk?</title>
+	<author>zukinux</author>
+	<datestamp>1243452420000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>most of the people think that python GUI ends up with <br> <tt>import tk</tt> <br>and that's not correct at all, if you're among these people, you should read this book... good luck!</htmltext>
+<tokenext>most of the people think that python GUI ends up with import tk and that 's not correct at all , if you 're among these people , you should read this book... good luck !</tokentext>
+<sentencetext>most of the people think that python GUI ends up with  import tk and that's not correct at all, if you're among these people, you should read this book... good luck!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114069</id>
+	<title>Re:Getting up and running</title>
+	<author>zqtvlyj</author>
+	<datestamp>1243457400000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext>Without number limited, Free Live HQ stream<nobr> <wbr></nobr>,100\%free and no virus live stream online,Barcelona VS Manchester United live!!go go go!!!ole ole ole! <a href="http://www.nowgoal.com/17.shtml" title="nowgoal.com" rel="nofollow">http://www.nowgoal.com/17.shtml</a> [nowgoal.com]</htmltext>
+<tokenext>Without number limited , Free Live HQ stream ,100 \ % free and no virus live stream online,Barcelona VS Manchester United live !
+! go go go ! !
+! ole ole ole !
+http : //www.nowgoal.com/17.shtml [ nowgoal.com ]</tokentext>
+<sentencetext>Without number limited, Free Live HQ stream ,100\%free and no virus live stream online,Barcelona VS Manchester United live!
+!go go go!!
+!ole ole ole!
+http://www.nowgoal.com/17.shtml [nowgoal.com]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112773</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113731</id>
+	<title>Fail already</title>
+	<author>Hognoxious</author>
+	<datestamp>1243455660000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><blockquote><div><p>In this section he shows how to use CSV, comma separated values, as a most useful file format.</p></div></blockquote><p>Useful?  Not in an international environment.   English CSV uses commas as the name implies, but export a<nobr> <wbr></nobr>.csv from French excel and it uses semicolons.</p><p>I hate CSVs.  Mr noob author, may I introduce my good friend Mr tab?</p></div>
+	</htmltext>
+<tokenext>In this section he shows how to use CSV , comma separated values , as a most useful file format.Useful ?
+Not in an international environment .
+English CSV uses commas as the name implies , but export a .csv from French excel and it uses semicolons.I hate CSVs .
+Mr noob author , may I introduce my good friend Mr tab ?</tokentext>
+<sentencetext>In this section he shows how to use CSV, comma separated values, as a most useful file format.Useful?
+Not in an international environment.
+English CSV uses commas as the name implies, but export a .csv from French excel and it uses semicolons.I hate CSVs.
+Mr noob author, may I introduce my good friend Mr tab?
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113663</id>
+	<title>Review FAIL</title>
+	<author>Bazman</author>
+	<datestamp>1243455360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"Sometimes a picture is worth a thousand words". And then we get a review with no pictures. Just links to other stuff. And a link to an audio file - sorry, I mean 'PodCast' - which also won't have any pictures, or text I can search, or examples I can cut n paste.</p><p>It's like a review of Playboy without at least one carefully cropped picture, coupled with a taped interview with one of the bunnies.</p></htmltext>
+<tokenext>" Sometimes a picture is worth a thousand words " .
+And then we get a review with no pictures .
+Just links to other stuff .
+And a link to an audio file - sorry , I mean 'PodCast ' - which also wo n't have any pictures , or text I can search , or examples I can cut n paste.It 's like a review of Playboy without at least one carefully cropped picture , coupled with a taped interview with one of the bunnies .</tokentext>
+<sentencetext>"Sometimes a picture is worth a thousand words".
+And then we get a review with no pictures.
+Just links to other stuff.
+And a link to an audio file - sorry, I mean 'PodCast' - which also won't have any pictures, or text I can search, or examples I can cut n paste.It's like a review of Playboy without at least one carefully cropped picture, coupled with a taped interview with one of the bunnies.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28119093</id>
+	<title>Google Earth</title>
+	<author>Viadd</author>
+	<datestamp>1243444200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>If you have geographic data, Google Earth is a great output viewer.  It is easy to use Python to write a <a href="http://code.google.com/apis/kml/documentation/" title="google.com">KML</a> [google.com] file.</p></htmltext>
+<tokenext>If you have geographic data , Google Earth is a great output viewer .
+It is easy to use Python to write a KML [ google.com ] file .</tokentext>
+<sentencetext>If you have geographic data, Google Earth is a great output viewer.
+It is easy to use Python to write a KML [google.com] file.</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1327255_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114069
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112773
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1327255_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113929
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113731
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1327255_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114519
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112773
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1327255_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28119491
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113731
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1327255_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28119501
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28115809
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113151
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1327255_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114061
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112773
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1327255_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113817
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112951
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1327255_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28120733
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113731
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1327255_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28117159
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28115809
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113151
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1327255_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28116195
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113151
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1327255_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114707
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113731
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1327255.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113151
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28115809
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28117159
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28119501
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28116195
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1327255.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112637
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1327255.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113731
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28120733
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28119491
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114707
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113929
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1327255.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114271
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1327255.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113697
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1327255.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112773
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114061
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114069
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28114519
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1327255.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28112951
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1327255.28113817
+</commentlist>
+</conversation>

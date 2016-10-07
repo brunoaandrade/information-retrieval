@@ -1,0 +1,25 @@
+<article>
+	<pid>8475</pid>
+	<title>Now Rogers' Dream AND Magic have 911 issues | Android Central</title>
+	<url>http://www.androidcentral.com/now-rogers-dream-and-magic-have-911-issues</url>
+	<date>   Jan 20 2010  9:46 am   </date>
+	<author>Phil Nickinson</author>
+	<text>
+Remember that little problem HTC Dream owners were having with 911 on the Rogers network? It's spreading, and it looks like the HTC Magic (that's the one on the left) has caught the bug, too. And the fix is the same, too: Turn off GPS. Here's the official statement from Rogers.“We are in the process of contacting all of our Magic customers by text  message asking them to disable GPS location on their Rogers HTC Magic  device to ensure all 911 calls complete.To turn off your GPS, go to Menu>Settings>Location>Uncheck Enable GPS Satellite. Again, let's hope we see a fix for this real quick. [via MobileSyrup]  </text>
+	<score>2</score>
+</article>
+<comment>
+	<cid>16196</cid>
+	<date>Jan 20 2010  11:08 am</date>
+	<author>Mark Goho</author>
+	<text>There's been a fix for this for 5 months.  The real story here is why Rogers hasn't used it:</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16209</cid>
+	<date>Jan 20 2010  1:13 pm</date>
+	<author>Scott</author>
+	<text>Rogers knew about this issue for four months:
+http://www.howardforums.com/showthread.php?t=1612180</text>
+	<score>0</score>
+</comment>

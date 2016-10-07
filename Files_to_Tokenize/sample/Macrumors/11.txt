@@ -1,0 +1,149 @@
+<article>
+	<pid>11</pid>
+	<title>Apple Releases iMovie 9.0.1 and GarageBand 6.0.1 - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/04/apple-releases-imovie-9-0-1-and-garageband-6-0-1/</url>
+	<date>Tuesday January 4, 2011 12:25 pm PST</date>
+	<author>Eric Slivka</author>
+	<text>Apple today released a pair of updates for its iLife '11 suite, addressing issues with the iMovie and GarageBand components of the popular software.iMovie 9.0.1weighs in at 27.52 MB and improves overall stability and addresses several other issues.This update improves stability and fixes other minor issues, including:- Fixes an issue where stabilization would not be applied correctly to some video clips from iPhone and iPod touch.- Fixes an issue that prevented use of some valid Facebook passwords that contained non-alphanumeric characters.- Improves compatibility with some cameras that create content in multiple formats.- Improves performance when scrolling the Project Library.The update is recommended for all iMovie 9 users and requires Mac OS X 10.6.3 or later.GarageBand 6.0.1weighs in at 47.5 MB and similarly improves overall stability and compatibility while also addressing several specific issues.This update improves overall stability, and addresses compatibility and a number of other minor issues.- Fixes an issue related to undoing Flex Time edits- Removes occasional latency that can occur on guitar tracks- Restores ability to use the Quantize Note Timing menu for tracks with Groove MatchingThe update is recommended for all GarageBand '11 users and requires Mac OS X 10.6.3. or later.</text>
+	<score>20</score>
+</article>
+<comment>
+	<cid>11664631</cid>
+	<date>Jan 4, 2011, 03:36 PM</date>
+	<author>roadbloc</author>
+	<text>Oh yey. Alpha grade software get's updated to the beta stage maybe?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664684</cid>
+	<date>Jan 4, 2011, 03:46 PM</date>
+	<author>PCClone</author>
+	<text>Quote:Originally Posted byroadblocOh yey. Alpha grade software get's updated to the beta stage maybe?You don't have to use it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664714</cid>
+	<date>Jan 4, 2011, 03:52 PM</date>
+	<author>Cinematographer</author>
+	<text>I wonder if they consider iPhoto to be perfect already or if they can't find a way to fix it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664838</cid>
+	<date>Jan 4, 2011, 04:12 PM</date>
+	<author>blacktape242</author>
+	<text>iweb next?  maybe?  please?.......</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665307</cid>
+	<date>Jan 4, 2011, 05:59 PM</date>
+	<author>jayman99</author>
+	<text>looks like a great update.  there were definitely stability issues with both imovie and garageband as I was using both last week for training.  i especially noticed issues with flex time in garageband when editing notes in there.  i could not even extend a note properly, it just wouldn't work.  i hope this update fixed the issues.  i will have to test them sometime!  thanks MR for letting me know there was an update to these software titles, just updated them!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665608</cid>
+	<date>Jan 4, 2011, 07:32 PM</date>
+	<author>Old Muley</author>
+	<text>Quote:Originally Posted byblacktape242iweb next?  maybe?  please?.......I'm hoping an updated iWeb will show up on the App Store once it goes live.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665742</cid>
+	<date>Jan 4, 2011, 08:10 PM</date>
+	<author>Gemütlichkeit</author>
+	<text>iMovie has treated me well over the years.  It's simplicity can't be matched.  Pinnacle 14 is close!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666170</cid>
+	<date>Jan 4, 2011, 09:52 PM</date>
+	<author>sladey</author>
+	<text>Can I simply export PAL video yet?Nope. Not from iMovie. Not from iPhoto.Absurd.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666330</cid>
+	<date>Jan 4, 2011, 10:36 PM</date>
+	<author>jayhawk11</author>
+	<text>Quote:Originally Posted bysladeyCan I simply export PAL video yet?Nope. Not from iMovie. Not from iPhoto.Absurd.You can export PAL from iMovie '11. Not one-button easy, but it's certainly possible.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666350</cid>
+	<date>Jan 4, 2011, 10:39 PM</date>
+	<author>sladey</author>
+	<text>Quote:Originally Posted byjayhawk11You can export PAL from iMovie '11. Not one-button easy, but it's certainly possible.Possible, I agree, but on a user-friendliness scale: 1 out of 10.Worse than that: a one-button export will actually work, but it will send an iMovie project to iDVD with two transcodes (PAL to NTSC, then NTSC back to PAL) to get to the final product and the user is left dumbfounded as to why it's so darn blurry! iPhoto export is only half as bad with one transcode but still blurry.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666866</cid>
+	<date>Jan 5, 2011, 01:47 AM</date>
+	<author>roadbloc</author>
+	<text>Quote:Originally Posted byPCCloneYou don't have to use it.It's a good job I don't then. I've downgraded to iLife 09 until I hear iPhoto is usable.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667560</cid>
+	<date>Jan 5, 2011, 07:45 AM</date>
+	<author>guzhogi</author>
+	<text>Quote:Originally Posted byblacktape242iweb next?  maybe?  please?.......I would be very surprised if they made a big update to iWeb.  In the past, if Apple was going to make a big update to multiple iLife apps, they'd do it all at once.  Not one in January, another in March/April, another in July, etc.  Having 5 different versions of iLife '11 would just be too confusing.If you mean just a bug fix update, that can happen at any time.  WHo knows when Apple will update it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668370</cid>
+	<date>Jan 5, 2011, 10:49 AM</date>
+	<author>0815</author>
+	<text>I really wonder if they are ever going to update iWeb. I basically use only iPhoto and iWeb and was very disappointed seeing that iWeb did only get minor updates with iLife '11. Let's hope they are not going to dump it at some point as they did with iDVD. It's maybe not the fanciest Web Authoring tool, but great to have a web site up and running to share pictures and other stuff with family.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669649</cid>
+	<date>Jan 5, 2011, 02:09 PM</date>
+	<author>shervieux</author>
+	<text>Quote:Originally Posted by0815I really wonder if they are ever going to update iWeb. I basically use only iPhoto and iWeb and was very disappointed seeing that iWeb did only get minor updates with iLife '11. Let's hope they are not going to dump it at some point as they did with iDVD. It's maybe not the fanciest Web Authoring tool, but great to have a web site up and running to share pictures and other stuff with family.It is not the fanciest, but it is sure easy to use.  Before coming to the mac, I used FrontPage on Windows.  when MS did away with the auto menu/navigation generator, gallery, guestbook, page hit counter, blogging - then bumped the price by $100 or more (ie Their Web Essentials)...  I was ticked.  I used many other editors only to not have them render correctly across multiple browsers.  Looked good in firefox, but not safari, IE or Opera. And vice versa.iWeb also has some nice features like auto-optmizing photos and file attachments for quick loading.  with other web generators, you are stuck editing the photo to reduce the foot print, etc.  I also had other ones where I had to keep going into the HTML to fix stuff.  HTML programming is a waste of time for the type of website I have.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672602</cid>
+	<date>Jan 6, 2011, 01:00 AM</date>
+	<author>4Geist</author>
+	<text>Unfortunately this update didn't fix the issue. So lets go down a check list of things that have been suggested. Hopefully apple finds the issue quick!My Imac:2GHz Intel Core 2 Duo, 4 GB 667 MHz DDR2 SD RAM. and about 50GB of space left.I dont have applications running in the background, only Garageband.I'm using aHosa 1/4 In USB Guitar Cable, yeah its a piece of crap, i read reviews about other USB Audio interfaces like &quot;Alesis GuitarLink USB Cable&quot; or &quot;Behringer UCG102 Guitar-to-USB Interface&quot; and they all report the same thing. It might be because they are cheap, but I think it's a software issue since the latency can be reset, otherwise I think it would be there constantly.This is what I've done for Settings outside of Garageband'11:(USB PnP Sound Deviceis my Electric Guitar.)FileVault is OFF.Preferences &gt; Sound &gt;Input&gt; Internal Microphone&gt;input level (slid it to 0 so that the mic wont catch the guitar sound and send it to garageband.)Preferences &gt; Sound &gt; USB PnP Sound Device &gt; input volume is 0.Applications&gt;Utilities&gt;Audio Midi&gt; USB PnP Sound Device  (it's the same thing as Preferences&gt;Sound&gt;... 1 controls the other). So Master Volume is also 0.Preferences &gt; Energy Saver &gt; &quot;...Disk to sleep&quot; is unchecked. same with &quot;...reduce brightness&quot;Settings Inside Garageband:I tried deleting com.apple.garageband.plist several times as a temporary fix, same with switching from internal mic back to USB PnP Sound Device Temporary fix, after 2 or 3 takes with the guitar lessons the latency comes back.Garageband&gt;How to Play&gt;Guitar&gt;lesson 6(that where I noticed it the most)&gt;setup&gt; Input lvl is 0 (I tried playing around with the slider, no dice, still comes back) Monitor is &quot;On&quot; with feedback protection.Garageband&gt;Preferences&gt;Midi&gt; audio output&gt; &quot;System Setting&quot;audio input&gt;&quot;USB PnP Sound Device&quot;Basically all the settings are set to a minimum to give the system as much of a boost as possible....still that $%#$ Latency comes back. I'm close to taking the best possible solution called &quot;the window treatment&quot; were it's all thrown down a couple of flights.is there a fix without having to give up an arm and a leg?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11680788</cid>
+	<date>Jan 7, 2011, 09:56 AM</date>
+	<author>Meldar</author>
+	<text>Ooh and here I thought that latency was just due to my USB interface box. Good, now let's see if I can actually get some recording done!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11683383</cid>
+	<date>Jan 7, 2011, 04:52 PM</date>
+	<author>rychencop</author>
+	<text>Quote:Originally Posted byroadblocIt's a good job I don't then. I've downgraded to iLife 09 until I hear iPhoto is usable.sounds like you need Aperture then.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11692088</cid>
+	<date>Jan 9, 2011, 01:18 PM</date>
+	<author>sk4prez2020</author>
+	<text>Garage band is not very effective. If I were you, I'd buy DigiDesign Pro Tools MBox Mini. I think the 3rd generation just came out, I have had the 1st and 2nd gen. Pro Tools software and all its newer versions are free downloads and you will only spend 200-300 for the MBox. This will be the difference of sounding like &quot;a garage band&quot; or sounding like an actual industry quality sound, when proper mixing and mastering techniques are used. Check my YouTube page below to hear the quality of my sounds.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11692847</cid>
+	<date>Jan 9, 2011, 04:06 PM</date>
+	<author>roadbloc</author>
+	<text>Quote:Originally Posted bysk4prez2020Garage band is not very effective. If I were you, I'd buy DigiDesign Pro Tools MBox Mini. I think the 3rd generation just came out, I have had the 1st and 2nd gen. Pro Tools software and all its newer versions are free downloads and you will only spend 200-300 for the MBox. This will be the difference of sounding like &quot;a garage band&quot; or sounding like an actual industry quality sound, when proper mixing and mastering techniques are used. Check my YouTube page below to hear the quality of my sounds.GarageBand and Pro Tools are two totally different products. You can't really compare a jazzed up version of Audacity/a very cut down version of Logic with a professional studio DAW.GarageBand is more for people just wanting to learn an instrument, have a laugh with recording their band and/or compose a track using the MIDI instruments. Pro Tools LE/MBOX/HD is for professional recording in a studio, with full integration of the hardware you are using (hence why Pro Tools often comes bundled with hardware purchases). Essentials is the only one where this is not the case, due to it being more budgeted to students.Advising an average someone to shell out the money for Pro Tools over GarageBand is very poor advice indeed. Unless, of course, that average someone is, is training or is wanting to be a producer, mixer, engineer, etc. In which case, they should already have their chosen DAW (be it Pro Tools, Ableton, Cubase or Logic) and should not be messing around on GarageBand.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11693214</cid>
+	<date>Jan 9, 2011, 05:22 PM</date>
+	<author>blackberrypilot</author>
+	<text>Aperature.</text>
+	<score>0</score>
+</comment>

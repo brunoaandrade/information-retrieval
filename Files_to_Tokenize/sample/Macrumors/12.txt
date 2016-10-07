@@ -1,0 +1,597 @@
+<article>
+	<pid>12</pid>
+	<title>CES 2011: iHome Airplay Speaker, Eye-Fi Direct, Fling Game Controller - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/04/ces-2011-ihome-airplay-speaker-eye-fi-direct-fling-game-controller/</url>
+	<date>Tuesday January 4, 2011 5:54 pm PST</date>
+	<author>Arnold Kim</author>
+	<text>The 2011 Consumer Electronics Show officially kicks off this week, and the press releases and events have started.   Here are a few interesting Apple-related products that have already appeared.  We'll provide limited CES coverage over the week.iHome AirplayiHome Audiohas unleashedmore informationabout their iW1 AirPlay wireless speaker system.  The wireless speaker supports Apple'sAirPlaytechnology to stream music throughout the house from iTunes.Using AirPlay, users can wirelessly stream music from iTunes, iPhone, iPad or iPod touch over Wi-Fi to the iHome iW1 speaker system and enjoy music in any room of the house. AirPlay requires iTunes 10.1 or later and iPhone, iPad, or iPod touch with iOS 4.2 or later.The iW1 comes with a rechargeable Lithium Ion battery, allowing you to place it anywhere in the house.  Multiple speakers are supported to play music in several locations and it also doubles as an iPhone dock that allows local playback.Eye-Fi Direct ModeEye-Fi">announcedan upcoming "Direct Mode" for their Wi-Fi enabled storage cards that will allow you to transfer photos directly from your camera to your mobile device.With Direct Mode, photos taken with your digital camera can immediately be sent to your smartphone or tablet. They can be viewed, used with myriad apps on the device, or uploaded and shared.Eye-Fi cards are regular SD cards that fit into your digital camera, but also incorporates Wi-Fi to transfer your photos to your computer.   The Direct Mode will presumably bring this support to wirelessly send photos to your iPhone or iPad in realtime rather than to your computer.Fling Game Controller for iPadTenOneDesignannounced theirgame controlleraccessory for the iPad that allows you to place an analog stick directly on the screen.TouchArcadetook a first look at the device:The Fling is a cleverly designed device with two suction cups on one side connected to a plastic ring. Inside of the plastic ring is a spiral that suspends an electrically conductive joystick in the center. This spiral works like a spring, always returning the joystick to the center, and providing more resistance the closer you get to the edge of the plastic ring.....If you're playing a game with floating virtual joysticks like most dual stick shooters, all you've got to do is position it wherever is most comfortable to you, press down both suction cups, and you're ready to roll.Fling is expected to ship in late January and costs &#36;24.95 for one, and &#36;38.00 for a two-pack.</text>
+	<score>84</score>
+</article>
+<comment>
+	<cid>11666226</cid>
+	<date>Jan 4, 2011, 10:04 PM</date>
+	<author>goobot</author>
+	<text>how does that sd card work anyhow?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666248</cid>
+	<date>Jan 4, 2011, 10:10 PM</date>
+	<author>wackymacky</author>
+	<text>I was hoping that my next digital camea would have built in WiFi rather that Eye-Fi cards!As for the game-controler, not sure if I like or hate this. There are a number of psudo-joystick controls on some iOS Apps and I really find them hard to use, so this may help. (But it defets the whole ethos of the iPad in a way.)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666260</cid>
+	<date>Jan 4, 2011, 10:18 PM</date>
+	<author>harley3k</author>
+	<text>That game controller concept is pretty amazing.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666267</cid>
+	<date>Jan 4, 2011, 10:19 PM</date>
+	<author>zed</author>
+	<text>Does anyone know how much the iHome w/ Airplay is going to cost?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666290</cid>
+	<date>Jan 4, 2011, 10:25 PM</date>
+	<author>thetexan</author>
+	<text>Airplay seems to have to still do a lot to catch up to the offerings of Sonos.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666298</cid>
+	<date>Jan 4, 2011, 10:27 PM</date>
+	<author>j-a-x</author>
+	<text>The speaker looks cool. I want one!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666305</cid>
+	<date>Jan 4, 2011, 10:29 PM</date>
+	<author>spillproof</author>
+	<text>I don't even own an iPad but I want those suction cups!I wonder if an iPhone/iTouch version is possible. I would buy them.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666319</cid>
+	<date>Jan 4, 2011, 10:34 PM</date>
+	<author>LanPhantom</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Quote:Originally Posted bygoobothow does that sd card work anyhow?It works with a built in wifi access point the wirelessly transfers newly written images TL the card to a supporting app on your pc waiting for the images. I can only imaging that Eye-Fi will release a iPhone and iPad app when it's released. That app will need to be running and waiting for the images coming from the card as they are taken.I have an old eye-Fi card and it was ok. I'm excited about this new card/app.LanPhantom</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666323</cid>
+	<date>Jan 4, 2011, 10:34 PM</date>
+	<author>res1233</author>
+	<text>It's nice to see all these Apple-created technologies coming together to make our lives easier. AirPlay is truly a great thing, and this is just one of what I'm sure is going to be many speaker systems that will support it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666331</cid>
+	<date>Jan 4, 2011, 10:36 PM</date>
+	<author>lostngone</author>
+	<text>Apple needs to allow a third party to make a bluetooth game controller.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666341</cid>
+	<date>Jan 4, 2011, 10:38 PM</date>
+	<author>OrganMusic</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)But wouldn't iOS restrictions make it impossible for an outside vendor to get pics into the ipad photo library?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666351</cid>
+	<date>Jan 4, 2011, 10:40 PM</date>
+	<author>ovrlrd</author>
+	<text>Quote:Originally Posted bygoobothow does that sd card work anyhow?I am wondering the same thing. I am curious what kind of limitations it would have. The iPhone/iPad can't act as a Wi-Fi hotspot, so I have no clue how you would get the Eye-Fi card to connect up. It seems like it would be limited to APs that you programmed into the card and/or public APs.I don't know how it would work out in the middle of nowhere unless the Eye-Fi card could somehow act as a hotspot, but I doubt that's possible given the battery constraints, etc.It would be much better to just use bluetooth for this kind of thing. Oh well.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666356</cid>
+	<date>Jan 4, 2011, 10:42 PM</date>
+	<author>res1233</author>
+	<text>Quote:Originally Posted byOrganMusicWirelessly posted (Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)But wouldn't iOS restrictions make it impossible for an outside vendor to get pics into the ipad photo library?No, it wouldn't be too complicated. It would have to connect to the card via WiFi, then transfer the files from it, then put the files in your library. It's perfectly doable. But does it break the rules? I doubt it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666364</cid>
+	<date>Jan 4, 2011, 10:44 PM</date>
+	<author>ktappe</author>
+	<text>I like the controllers, but $25 each? Wow. That's 10x the cost of the games I'd play with them. I think I'll do without....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666378</cid>
+	<date>Jan 4, 2011, 10:48 PM</date>
+	<author>Astro7x</author>
+	<text>I bought some iHome speakers recently and was pleasantly suprised at the sound quality that came from them, and the portability with the built in battery made it a must own.  Bought one for my mom for Christmas, and it was so cool I ended up buying one for myself.The Airplay speakers look cool, but I'd still like something I can dock.  Since speakers w/ just music is more for longer uses that could drain the battery, rather than say airplay to put a YouTube video on the TV for somebody to watch real quick.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666382</cid>
+	<date>Jan 4, 2011, 10:49 PM</date>
+	<author>applefanDrew</author>
+	<text>When will iHome release the airplay speakers to the public?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666384</cid>
+	<date>Jan 4, 2011, 10:50 PM</date>
+	<author>ten-oak-druid</author>
+	<text>I'm patiently waiting for a car stereo with airplay.  I only need audio but audio/video airplay would be nice for people with monitors in their vehicles.It is pretty interesting to see this conference featuring so many innovations for Apple products without Apple even attending.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666409</cid>
+	<date>Jan 4, 2011, 10:59 PM</date>
+	<author>CoryCowgill</author>
+	<text>That looks like an interesting controller. I'll be willing to give it a try. Tactile sensation in playing games is necessary for alot of shooter like Geometry Wars. I have the iPad and that game, and its cool. The controller is pretty good, but tactile sensation is missing. Seems to be reasonably priced also.- Cory Cowgill -</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666511</cid>
+	<date>Jan 4, 2011, 11:31 PM</date>
+	<author>gatearray</author>
+	<text>Quote:Originally Posted byCoryCowgillThat looks like an interesting controller. I'll be willing to give it a try. Tactile sensation in playing games is necessary for alot of shooter like Geometry Wars. I have the iPad and that game, and its cool. The controller is pretty good, but tactile sensation is missing.Seems to be reasonably priced also.- Cory Cowgill -Welcome to MacRumors, Cory.  Having just created an account today, this is a very interesting first and only post...I'm just sayin'...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666526</cid>
+	<date>Jan 4, 2011, 11:35 PM</date>
+	<author>MrSmith</author>
+	<text>Wonder how much that speaker will cost. Will want.Quote:Originally Posted byMacRumors...transfer photos directly from your camera to your mobile device...What about the millions who want to transfer photos to a C-O-M-P-U-T-E-R?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666621</cid>
+	<date>Jan 5, 2011, 12:04 AM</date>
+	<author>mambodancer</author>
+	<text>Quote:Originally Posted byMrSmithWonder how much that speaker will cost. Will want.What about the millions who want to transfer photos to a C-O-M-P-U-T-E-R?Did you bother to follow the link?The eye-fi card already supports wifi downloads to your computer or a photo sharing website.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666640</cid>
+	<date>Jan 5, 2011, 12:10 AM</date>
+	<author>TheRealTVGuy</author>
+	<text>Quote:Originally Posted bywackymackyI was hoping that my next digital camea would have built in WiFi rather that Eye-Fi cards!As for the game-controler, not sure if I like or hate this. There are a number of psudo-joystick controls on some iOS Apps and I really find them hard to use, so this may help. (But it defets the whole ethos of the iPad in a way.)EXACTLY! What was it Mr. Jobs said? if you design an OS and find you need a stylus, then you've already failed.Stop trying to port old games and control styles/controllers to the iOS! I can't wait until we have devices that build an induction style field around the screen of the device and then use NEW, NEVER BEFORE USED GESTURES to control the apps/games/whatever! Now THAT'S revolutionary!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666641</cid>
+	<date>Jan 5, 2011, 12:10 AM</date>
+	<author>MrSmith</author>
+	<text>Quote:Originally Posted bymambodancerDid you bother to follow the link?Of course not. I expect others with more free time to. I come here so I don't have to trawl the Internet myself. It wouldn't have hurt for the article above to list existing functionality, would it?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666652</cid>
+	<date>Jan 5, 2011, 12:13 AM</date>
+	<author>TheRealTVGuy</author>
+	<text>Quote:Originally Posted bylostngoneApple needs to allow a third party to make a bluetooth game controller.And while they're at it, they can build a stylus-like pointing/input device</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666662</cid>
+	<date>Jan 5, 2011, 12:18 AM</date>
+	<author>TheRealTVGuy</author>
+	<text>Quote:Originally Posted byten-oak-druidI'm patiently waiting for a car stereo with airplay.  I only need audio but audio/video airplay would be nice for people with monitors in their vehicles.It is pretty interesting to see this conference featuring so many innovations for Apple products without Apple even attending.Hope you're very patient. The manufacturers are still trying to mass produce units that support both RDS and HD Radio... But, there's always hope!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666667</cid>
+	<date>Jan 5, 2011, 12:19 AM</date>
+	<author>shartypants</author>
+	<text>i know someone with that Eye-fi card and it is too slow to transfer over wi-fi so she just uses a memory card reader instead. Its a nice idea tho.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666753</cid>
+	<date>Jan 5, 2011, 12:56 AM</date>
+	<author>Mr. Gates</author>
+	<text>Not sure how those controllers make contact with the screen, But it looks like the center moves around and could potentially scratch the surface.....Just a thought.I love the Idea, though I would look into it a bit more before I got one</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666806</cid>
+	<date>Jan 5, 2011, 01:21 AM</date>
+	<author>Piggie</author>
+	<text>Quote:Originally Posted byTheRealTVGuyEXACTLY! What was it Mr. Jobs said? if you design an OS and find you need a stylus, then you've already failed.Stop trying to port old games and control styles/controllers to the iOS! I can't wait until we have devices that build an induction style field around the screen of the device and then use NEW, NEVER BEFORE USED GESTURES to control the apps/games/whatever! Now THAT'S revolutionary!What if you wish to write some fast hand written notes or quick detailed diagrams? Like if someone is explaining something technical and you normally would use a piece of paper and a pen to do a quick diagram?You supposed to use your finger?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666984</cid>
+	<date>Jan 5, 2011, 02:40 AM</date>
+	<author>xraytech</author>
+	<text>Quote:Originally Posted bywackymackyI was hoping that my next digital camea would have built in WiFi rather that Eye-Fi cards!Built in WiFi Point &amp; Shoots are not a new thing. Nikon released one in 2005 but the functionality never caught on.http://www.dpreview.com/news/0509/05...oolpixp1p2.asphttp://www.amazon.com/Nikon-Coolpix-...N%3DB000AXQVK0</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667063</cid>
+	<date>Jan 5, 2011, 03:21 AM</date>
+	<author>DrRadon</author>
+	<text>You can already use the Eye-Fi card with your iPad if you are in a wLan Network or Jailbreak the iPad into having it´s own wLan Network.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667067</cid>
+	<date>Jan 5, 2011, 03:25 AM</date>
+	<author>iPhoneCollector</author>
+	<text>Quote:Originally Posted byMr. GatesNot sure how those controllers make contact with the screen, But it looks like the center moves around and could potentially scratch the surface.....Just a thought.I love the Idea, though I would look into it a bit more before I got oneI think there is a surface between the controller and the screen. Yet I'm not sure.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667068</cid>
+	<date>Jan 5, 2011, 03:25 AM</date>
+	<author>baryon</author>
+	<text>How the hell does AirPlay work? I mean I understand that they connect via WiFi, but how the hell do the speakerstype inthe WiFi password and get passed the security without a screen and a keyboard??</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667077</cid>
+	<date>Jan 5, 2011, 03:31 AM</date>
+	<author>iPhoneCollector</author>
+	<text>Quote:Originally Posted bybaryonHow the hell does AirPlay work? I mean I understand that they connect via WiFi, but how the hell do the speakerstype inthe WiFi password and get passed the security without a screen and a keyboard??They use their own invisible network. Not the wifi you have at your home. They wil work even if you don't have a wifi connection at home.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667167</cid>
+	<date>Jan 5, 2011, 04:36 AM</date>
+	<author>Graefe</author>
+	<text>Quote:Originally Posted bybaryonhow the hell does airplay work? I mean i understand that they connect via wifi, but how the hell do the speakerstype inthe wifi password and get passed the security without a screen and a keyboard??wps-pbc?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667245</cid>
+	<date>Jan 5, 2011, 05:31 AM</date>
+	<author>Digitalclips</author>
+	<text>Quote:Originally Posted byharley3kThat game controller concept is pretty amazing.Yet at the same time it seems to me a bit like attaching a horse to pull a car.  Isn't the whole point of iOS to get away from analog devices?  Any analog input can be simulated graphically.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667248</cid>
+	<date>Jan 5, 2011, 05:32 AM</date>
+	<author>Digitalclips</author>
+	<text>Quote:Originally Posted bybaryonHow the hell does AirPlay work? I mean I understand that they connect via WiFi, but how the hell do the speakerstype inthe WiFi password and get passed the security without a screen and a keyboard??Only way I can see is it somehow access your keychain.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667256</cid>
+	<date>Jan 5, 2011, 05:36 AM</date>
+	<author>BryanLyle</author>
+	<text>According to iLounge, the iHome speakers are going to sell for $299.  That's WAY too expensive.  Crap.  I was going to get several of these and put them around the house.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667261</cid>
+	<date>Jan 5, 2011, 05:38 AM</date>
+	<author>Dagless</author>
+	<text>Those controllers are a bit expensive! I'm also not sure I'd buy them, even though I love the twin-analogue shooter genre (also just release a game of that type) but, well, the DS just handles it better. Geometry Wars on the DS is a lot more playable than the iOS version.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667276</cid>
+	<date>Jan 5, 2011, 05:44 AM</date>
+	<author>shaneakus</author>
+	<text>Quote:Originally Posted byBryanLyleAccording to iLounge, the iHome speakers are going to sell for $299.  That's WAY too expensive.  Crap.  I was going to get several of these and put them around the house.there are two different models.  i think i read somewhere the standard model is going to be 199 and the studio version will sell at 299.  still a bit on the pricey side.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667282</cid>
+	<date>Jan 5, 2011, 05:46 AM</date>
+	<author>litchie</author>
+	<text>Game controller idea is amazing..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667296</cid>
+	<date>Jan 5, 2011, 05:53 AM</date>
+	<author>Vanilla</author>
+	<text>Quote:Originally Posted byBryanLyleAccording to iLounge, the iHome speakers are going to sell for $299.  That's WAY too expensive.  Crap.  I was going to get several of these and put them around the house.Personally I would strongly recommend saving your pennies and going for Sonos S5 all-in-one units at $399 each. I currently have two units controlled via the free iPad and iPhone controllers, happily streaming iTunes, internet Radio, Pandora content around my house - either both units playing the same material or separate etc. - and it's a revelation. Sound is great, flexibility is unbeatable, setup took all of 10 minutes. Sonos is one of the few companies out there with the same design/functionality ethos as Apple. It just works and works well.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667349</cid>
+	<date>Jan 5, 2011, 06:12 AM</date>
+	<author>CplBadboy</author>
+	<text>Whilst its a great concept the controller thing is ultimately a poor substitute for an actual physical controller.I got the other half an iPad for xmas and I had a blast on the games for it. I like the first person shooters etc but they are simply unplayable or have reduced functionality due to the fact that the ipad and iPhone are simply an uncomfortable platform to play the games on. Someone release a decent bluetooth controller and bring the App Store to ATV and voila a home console to play these games on. That coupled with Gamecenter might actually satisfy the casual gamer. At the moment its nothing more than frustration due to the control method. Its a shame because the games actually look quite good on the iPad.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667407</cid>
+	<date>Jan 5, 2011, 06:39 AM</date>
+	<author>nelmat</author>
+	<text>Quote:Originally Posted byMrSmithWonder how much that speaker will cost. Will want.What about the millions who want to transfer photos to a C-O-M-P-U-T-E-R?There are hundreds of options available already for this...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667416</cid>
+	<date>Jan 5, 2011, 06:42 AM</date>
+	<author>nelmat</author>
+	<text>Quote:Originally Posted bybaryonHow the hell does AirPlay work? I mean I understand that they connect via WiFi, but how the hell do the speakerstype inthe WiFi password and get passed the security without a screen and a keyboard??They don't require a password - this is a one way communication, just as with airport express.  Not a difficult concept, you're just over complicating it in your mind.  Select the speaker in iTunes and stream to it, just as with airport express - just the airport bit is built into the speaker rather than being a separate box...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667428</cid>
+	<date>Jan 5, 2011, 06:49 AM</date>
+	<author>0815</author>
+	<text>On first thought, the suction cups are an interesting idea - on second thought, I guess they are inconvenient, not practical, dump and too expensive.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667438</cid>
+	<date>Jan 5, 2011, 06:53 AM</date>
+	<author>mrtrilby</author>
+	<text>Quote:Originally Posted byten-oak-druidI'm patiently waiting for a car stereo with airplay.  I only need audio but audio/video airplay would be nice for people with monitors in their vehicles.If you only need audio then a car stereo that supports Bluetooth AVRCP works very nicely with iOS 4.1 and 4.2, and gives a very similar experience to AirPlay.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667475</cid>
+	<date>Jan 5, 2011, 07:09 AM</date>
+	<author>powers74</author>
+	<text>Looks like nice stuff. Iftire pressure sensorscan be hacked, MiFi seems like it'd be pretty easy to hack, but maybe not.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667477</cid>
+	<date>Jan 5, 2011, 07:10 AM</date>
+	<author>Lennholm</author>
+	<text>Quote:Originally Posted bynelmatThey don't require a password - this is a one way communication, just as with airport express.  Not a difficult concept, you're just over complicating it in your mind.  Select the speaker in iTunes and stream to it, just as with airport express - just the airport bit is built into the speaker rather than being a separate box...It's definetely not one way communication, since the devices discovers each other. You'll never be able to stream to an Airport Express unless it's connected to the same network, either by joining it or being the one creating the network, and ofcourse, the same goes for every other device that uses Airplay. Airplay only works between compatible devices that are connected to the same WiFi network</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667480</cid>
+	<date>Jan 5, 2011, 07:11 AM</date>
+	<author>Piggie</author>
+	<text>The controller solution is simple and it's 100% down to Apple to allow it.There is no reason on earth why they cannot make an external iController as a user option for games. As they do the plug in adaptors for camera cards.In any game, the developer can put a user option whether to use on screen controls or use the external iController.They would sell millions of them, and allow people to play many games properly on their iPad.Yes, some games are very suited to on screen controls. Other games are totally ruined and virtually unplayable without a real controller.It's up to Apple to give people the option.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667503</cid>
+	<date>Jan 5, 2011, 07:23 AM</date>
+	<author>Mac21ND</author>
+	<text>So... when is Apple's next special eventI got a gift card to burn.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667535</cid>
+	<date>Jan 5, 2011, 07:34 AM</date>
+	<author>dXTC</author>
+	<text>Quote:Originally Posted byMacRumorsFling Game Controller for iPadIs the game shown on the screen a port of Neon Tango? If so, WANT.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667569</cid>
+	<date>Jan 5, 2011, 07:47 AM</date>
+	<author>kavika411</author>
+	<text>Quote:Originally Posted byten-oak-druidI'm patiently waiting for a car stereo with airplay.  I only need audio but audio/video airplay would be nice for people with monitors in their vehicles.Man, I really want this, too. I would love a car stereo that had a power and volume knob, and nothing else - no buttons, lights, etc. - and simply &quot;streamed&quot; via Airplay my iPhone. I'd enjoy the minimalist-ness of that.Quote:Originally Posted bybaryonHow the hell does AirPlay work? I mean I understand that they connect via WiFi, but how the hell do the speakerstype inthe WiFi password and get passed the security without a screen and a keyboard??Based on the responses in this thread, there seems to be some confusion on how this works, myself included. The blurb about this new iHome does say you have to be on a wifi network, which makes me wonder as well about those dumb wifi/sharing passwords for such a speaker. Aside from that, I guess I was naively hopeful that this Airplay technology would eliminate the need to be on a wifi network; I'd hoped all you'd need was your iPhone/iPad and the speaker and nothing else. Oh, well.Quote:Originally Posted byiPhoneCollectorThey use their own invisible network. Not the wifi you have at your home. They wil work even if you don't have a wifi connection at home.I want to believe that, but doesn't the blurb say it requires wifiQuote:Originally Posted byVanillaPersonally I would strongly recommend saving your pennies and going for Sonos S5 all-in-one units at $399 each. I currently have two units controlled via the free iPad and iPhone controllers, happily streaming iTunes, internet Radio, Pandora content around my house - either both units playing the same material or separate etc. - and it's a revelation. Sound is great, flexibility is unbeatable, setup took all of 10 minutes. Sonos is one of the few companies out there with the same design/functionality ethos as Apple. It just works and works well.Because I'm such an admitted Apple fanboy, I've wanted to stay in the Apple ecosystem, and hoped Airplay would do that, but the more I learn about Airplay the more I think I'll go with Sonos one day.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667596</cid>
+	<date>Jan 5, 2011, 07:56 AM</date>
+	<author>ahuman7341</author>
+	<text>I would love to have airplay speakers, but I already spent a bunch of money on nice speakers and would just like to have an airplay dongle that's cheaper than an airport express.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667637</cid>
+	<date>Jan 5, 2011, 08:07 AM</date>
+	<author>bob.loblaw</author>
+	<text>Quote:Originally Posted bykavika411Man, I really want this, too. I would love a car stereo that had a power and volume knob, and nothing else - no buttons, lights, etc. - and simply &quot;streamed&quot; via Airplay my iPhone.A Bluetooth enabled car stereo does what you are describing.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667671</cid>
+	<date>Jan 5, 2011, 08:16 AM</date>
+	<author>7o7munoz7o7</author>
+	<text>Quote:Originally Posted byAstro7xI bought some iHome speakers recently and was pleasantly suprised at the sound quality that came from them, and the portability with the built in battery made it a must own.  Bought one for my mom for Christmas, and it was so cool I ended up buying one for myself.The Airplay speakers look cool, but I'd still like something I can dock.  Since speakers w/ just music is more for longer uses that could drain the battery, rather than say airplay to put a YouTube video on the TV for somebody to watch real quick.well there is a USB port on the back of that speaker. So if you had the iPhone dock, you could connect to the speaker and there you go. Looks like a really well made speaker, hopefully its not too high priced though. Click the link and you can scroll down to see the pic with the iPhone dock connected to the speakerhttp://www.ihomeaudio.com/discover/airplay/</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667675</cid>
+	<date>Jan 5, 2011, 08:17 AM</date>
+	<author>MikeVarney</author>
+	<text>Quote:Originally Posted byovrlrdI am wondering the same thing. I am curious what kind of limitations it would have. The iPhone/iPad can't act as a Wi-Fi hotspot, so I have no clue how you would get the Eye-Fi card to connect up. It seems like it would be limited to APs that you programmed into the card and/or public APs.I don't know how it would work out in the middle of nowhere unless the Eye-Fi card could somehow act as a hotspot, but I doubt that's possible given the battery constraints, etc.It would be much better to just use bluetooth for this kind of thing. Oh well.They actually have their service set up where the card sends the photos to an EyeFi service.  You then go to a web site (in advance) and tell it where to send any photos upon receipt - - Picasa web, Flickr, Facebook, a PC, etc etc.  On the PC you actually have an app that runs in the background and polls for photos.  I assume you'd have a similar app on the iPod/iPhone.  Because all the connections are outgoing to EyeFi's servers, there's no firewall issues.I tried out one of their products and the biggest issue for me was the programming of the chip for WiFi access points; in order to connect to an access point you had to put the chip into a PC and program the access point's settings.  The best setup for me was actually activating the access point in my phone; that way the chip would have a constant access point to connect to no matter where I was.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667726</cid>
+	<date>Jan 5, 2011, 08:34 AM</date>
+	<author>b11051973</author>
+	<text>I've been interested in the iHome Airplay for a couple months now.  I'm hoping the thing isn't too crazy expensive.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667743</cid>
+	<date>Jan 5, 2011, 08:39 AM</date>
+	<author>Trouser Cough</author>
+	<text>Quote:Originally Posted bykavika411Man, I really want this, too. I would love a car stereo that had a power and volume knob, and nothing else - no buttons, lights, etc. - and simply &quot;streamed&quot; via Airplay my iPhone. I'd enjoy the minimalist-ness of that.The way I understand it, Airplay needs a wifi network, so if car companies built a wifi access point into the stereo to enable airplay, the iphone will attempt to use it to access the internet, but obviously won't have a connection, thus you won't be able to use any internet streaming, etc through your stereo since the iphone thinks it's on a traditional network.Get an A2DP enabled head unit. It's identical to airplay for audio.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667745</cid>
+	<date>Jan 5, 2011, 08:39 AM</date>
+	<author>BJB Productions</author>
+	<text>Quote:Originally Posted byb11051973I've been interested in the iHome Airplay for a couple months now.  I'm hoping the thing isn't too crazy expensive.Same.  It looks like a great product, but I'm not going to pay $299 for it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667757</cid>
+	<date>Jan 5, 2011, 08:42 AM</date>
+	<author>TheRealTVGuy</author>
+	<text>Quote:Originally Posted byMac21NDSo... when is Apple's next special eventI got a gift card to burn.That's what I'm waiting on. We keep hearing how an announcement will be made by Valentine's Day, yet I'm seeing no reports about Apple reserving any exhibition space.As soon as they do, watch out world, here comes Apple in 2011!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667781</cid>
+	<date>Jan 5, 2011, 08:48 AM</date>
+	<author>ph0rk</author>
+	<text>Quote:Originally Posted byDigitalclipsYet at the same time it seems to me a bit like attaching a horse to pull a car.  Isn't the whole point of iOS to get away from analog devices?  Any analog input can be simulated graphically.The sensation ofusingthe analog input can't be simulated, though.It is all too easy to move one's thumb to the left or right to turn faster and slide their thumb right off the control surface, resulting in turning not at all - especially if the controller is mimicking an analog progressive control stick.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667870</cid>
+	<date>Jan 5, 2011, 09:09 AM</date>
+	<author>jzarley</author>
+	<text>I'm really hoping someone will bring out outdoor speakers with AirPlay before the Spring.  I redid my patio late last Summer and held off hard wiring outdoor speakers because I thought AirPlay would be a better option when it's available...  I don't care if I need to run power to them--I just want a couple of weather-proof AirPlay speakers that look like fake rocks</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668014</cid>
+	<date>Jan 5, 2011, 09:38 AM</date>
+	<author>ilovemyibook</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_0_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A306 Safari/6531.22.7)Quote:Originally Posted byspillproofI don't even own an iPad but I want those suction cups!I wonder if an iPhone/iTouch version is possible. I would buy them.Why would you want that on a screen the size of an iPhone. That would just take up valuable real estate.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668031</cid>
+	<date>Jan 5, 2011, 09:43 AM</date>
+	<author>gramirez2012</author>
+	<text>So has Compact Flash gone totally obsolete? It seems like most cameras, even DSLR are using SD nowadays.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668136</cid>
+	<date>Jan 5, 2011, 10:05 AM</date>
+	<author>Cameront9</author>
+	<text>Quote:Originally Posted bygramirez2012So has Compact Flash gone totally obsolete? It seems like most cameras, even DSLR are using SD nowadays.Save for pro cameras, which are still sometimes CF+SD, yes.  I needed to get a CF card for my Canon 20D last summer on short notice and it was all I could do to find one in town.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668146</cid>
+	<date>Jan 5, 2011, 10:08 AM</date>
+	<author>wildcardd</author>
+	<text>Quote:Originally Posted bydXTCIs the game shown on the screen a port of Neon Tango? If so, WANT.I am pretty sure it is Geometry Wars.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668153</cid>
+	<date>Jan 5, 2011, 10:10 AM</date>
+	<author>GenesisST</author>
+	<text>Quote:Originally Posted byharley3kThat game controller concept is pretty amazing.Should bring a few Linux fanboys over to the iPad... It will be the closest they'll get to nipples...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668270</cid>
+	<date>Jan 5, 2011, 10:30 AM</date>
+	<author>ten-oak-druid</author>
+	<text>The airplay wifi products at like an airport express.  You log the item onto the network ad then it is available to stream music to when you are on that network.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668280</cid>
+	<date>Jan 5, 2011, 10:32 AM</date>
+	<author>macintologist</author>
+	<text>How is the old AirTunes technology any different from AirPlay? Are AirTunes compatible speakers still compatible with AirPlay? It just bugs me how after 5 years the technology that speakers complies with is now obsolete. Speakers are supposed to be able to last more than a decade.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668315</cid>
+	<date>Jan 5, 2011, 10:38 AM</date>
+	<author>vini-vidi-vici</author>
+	<text>Quote:Originally Posted bybaryonHow the hell does AirPlay work? I mean I understand that they connect via WiFi, but how the hell do the speakerstype inthe WiFi password and get passed the security without a screen and a keyboard??It doesn't work like that, as has been previously posted. However, why don't you just change your security to restrict which specific devices can connect to your WiFi, and leave it open? This kind of security works a lot better than a password IMHO.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668321</cid>
+	<date>Jan 5, 2011, 10:40 AM</date>
+	<author>vini-vidi-vici</author>
+	<text>Quote:Originally Posted bygramirez2012So has Compact Flash gone totally obsolete? It seems like most cameras, even DSLR are using SD nowadays.Not in my world... higher-end digital cameras still use CF (cameras released in the past 1-2 years). Though, we'll see what the next generation does...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668345</cid>
+	<date>Jan 5, 2011, 10:44 AM</date>
+	<author>AidenShaw</author>
+	<text>Quote:Originally Posted byvini-vidi-viciIt doesn't work like that, as has been previously posted. However, why don't you just change your security to restrict which specific devices can connect to your WiFi, and leave it open? This kind of security works a lot better than a password IMHO.Note that it's quite easy to change the MAC address of many systems, so specifying a list of allowed MAC addresses won't stop anyone clever.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668484</cid>
+	<date>Jan 5, 2011, 11:11 AM</date>
+	<author>chutch15</author>
+	<text>Quote:Originally Posted byAstro7xThe Airplay speakers look cool, but I'd still like something I can dock.You can still dock your iPhone or iPod touch with the iHome AirPlay speaker.I read today that release is March/April and price is around $450.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668508</cid>
+	<date>Jan 5, 2011, 11:16 AM</date>
+	<author>Mal</author>
+	<text>Quote:Originally Posted bymacintologistHow is the old AirTunes technology any different from AirPlay? Are AirTunes compatible speakers still compatible with AirPlay? It just bugs me how after 5 years the technology that speakers complies with is now obsolete. Speakers are supposed to be able to last more than a decade.AirPlay is just AirTunes renamed and with added video support and other methods of using the feature.  Anything AirTunes compatible is still AirPlay compatible (like the old Airport Express, which I'm still using and can now play music through from my iPod in addition to my Mac).jW</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668681</cid>
+	<date>Jan 5, 2011, 11:50 AM</date>
+	<author>3goldens</author>
+	<text>Looks like were off to a pretty sad start here!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668754</cid>
+	<date>Jan 5, 2011, 12:03 PM</date>
+	<author>onefast1</author>
+	<text>Eye-fi has several versions to answer earlier questions, the PRO version has adhoc mode and you can shoot straight to the iPad using and app called Shuttersnitch ($8).Shuttersnitch is a great app and yes you can save the photos directly for transfer to your computer.In my travels with my Canon 5D MkII w/CF adapter I have had very good performance and transfer rate to the iPad. 20-25 feet is about the limit without an AP.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669043</cid>
+	<date>Jan 5, 2011, 12:42 PM</date>
+	<author>NorCalLights</author>
+	<text>Quote:Originally Posted bybaryonHow the hell does AirPlay work? I mean I understand that they connect via WiFi, but how the hell do the speakerstype inthe WiFi password and get passed the security without a screen and a keyboard??From the iHome website:App-enhancedWorks with iHome+apps for easy network setup, device control and firmware updates.My guess is you use one of their iOS apps to configure the network password.  I bet you can also configure the network info by connecting the speaker via USB and configuring it from your computer, but that last one is just a guess.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669320</cid>
+	<date>Jan 5, 2011, 01:21 PM</date>
+	<author>xraytech</author>
+	<text>Quote:Originally Posted byDrRadonYou can already use the Eye-Fi card with your iPad if you are in a wLan Network or Jailbreak the iPad into having it´s own wLan Network.Right now I'm connecting my Nikon CoolPix S8100w/Eye-Fi card thru my Sprint Overdrive Personal WiFito my iPad. Works like a charm but it would be nice to bypass my Overdrive and send picture directly to my Non-Jailbroken iOS device.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669396</cid>
+	<date>Jan 5, 2011, 01:31 PM</date>
+	<author>lukecro</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5)Originally posted by baryon:Quote:How the hell does AirPlay work? I mean I understand that they connect via WiFi, but how the hell do the speakers type in the WiFi password and get passed the security without a screen and a keyboard??Isn't the idea that compatible devices use AirPlay/AirTunes to kinda &quot;announce&quot; themselves on your network? I don't think they need to actually log in to your network - the speakers/stereo don't need to enter a password. Instead, they're using Bonjour to broadcast their availability - they say, &quot;hi, I'm here&quot; - and then you can choose to play music to the device from your computer or iPhone, etc., because the AirPlay software is looking for Airplay devices for you. Once you choose the device (via Airplay, iTunes, AirFoil, or whatever) from the list of available Airplay devices, then the connection is made. It's kinda like working with a networked printer - the printer doesn't necessarily have to enter a password, it's simply available as a resource anyone on the network can print to - but the computer you're printing from does have to be logged onto the network, if the printer is only being made available over a secure local network.I'm not entirely explaining this right, but I think that's the general idea. With an Ethernet/LAN connection this would be easy - should be plug-and-play, adding Airplay speakers just like you'd plug a printer in. With WiFi I'm not so sure - some Airplay devices may need to be configured/logged-in with your network using software on your computer or iOS device before being used the first time; or it may need to be allowed/paired with your other devices, kinda like how you associate Bluetooth headphones and wireless mice, etc., with a specific phone or computer.I'm wondering about the opposite direction of this - if a password isn't required to connect to the device, is it possible you could connect to it even if you're not the device's owner. E.g. Could you prank your neighbor by streaming music from your house to their new iHome speakers without them knowing where the music was coming from</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669542</cid>
+	<date>Jan 5, 2011, 01:52 PM</date>
+	<author>S.Jobs</author>
+	<text>wish that sd card was bluetooth instead of wifi, then you could transfer photos anywhere wirelessly.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670006</cid>
+	<date>Jan 5, 2011, 03:02 PM</date>
+	<author>SandynJosh</author>
+	<text>Quote:Originally Posted byTheRealTVGuyAnd while they're at it, they can build a stylus-like pointing/input device...oh, and add a slide-out real keyboard.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670470</cid>
+	<date>Jan 5, 2011, 04:19 PM</date>
+	<author>notabadname</author>
+	<text>The game controller is genius in its simplicity and function.  I want one.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670806</cid>
+	<date>Jan 5, 2011, 05:15 PM</date>
+	<author>paradox00</author>
+	<text>Quote:Originally Posted byPiggieThe controller solution is simple and it's 100% down to Apple to allow it.There is no reason on earth why they cannot make an external iController as a user option for games. As they do the plug in adaptors for camera cards.In any game, the developer can put a user option whether to use on screen controls or use the external iController.They would sell millions of them, and allow people to play many games properly on their iPad.Yes, some games are very suited to on screen controls. Other games are totally ruined and virtually unplayable without a real controller.It's up to Apple to give people the option.Anyone is free to make a third party controller right now. Apple has already allowed apps to access external devices through bluetooth or the dock connector.Apple could certainly make things easier if they introduced a standard gamepad API that all apps could adopt, and possibly an Apple branded controller, but there is nothing stopping someone from making a gamepad now if the demand is there (but they'd have to work harder at getting apps to actually support the game pad).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671536</cid>
+	<date>Jan 5, 2011, 07:56 PM</date>
+	<author>stuartmeyers</author>
+	<text>I think the game controller is a great idea and I want one.  I get frustrated with the onscreen controls and dont play the games that use them much.Also, why hasnt anyone created a webcam that plugs into the adapter port?  It means the button will be at the top but I can live with that.</text>
+	<score>0</score>
+</comment>

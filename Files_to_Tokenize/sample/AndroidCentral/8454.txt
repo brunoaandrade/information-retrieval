@@ -1,0 +1,59 @@
+<article>
+	<pid>8454</pid>
+	<title>Verizon's FiOS DVR sports Android app | Android Central</title>
+	<url>http://www.androidcentral.com/verizons-fios-sports-android-app</url>
+	<date>   Jan 18 2010  12:49 pm   </date>
+	<author>Phil Nickinson</author>
+	<text>
+Sure, Verizon's FiOS service has blazing fast Internet speeds and competitive TV DVR. But the coolest thing has got to be its Android app, which lets you browse listings and program your FiOS DVR via your phone. Parental controls also on at hand, as is information about how much free space is left on your box.Now slap in some Slingbox-like streaming capability, and we'll swoon all the way to sign-up. [Zatsz Not Funny via Engadget] </text>
+	<score>7</score>
+</article>
+<comment>
+	<cid>15973</cid>
+	<date>Jan 18 2010  1:29 pm</date>
+	<author>Ryan32</author>
+	<text>Now if only Verizon would start servicing more areas...  I'd switch to them in a heartbeat to get rid of AT&T's "we call it fios, but it's really not" service.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>15976</cid>
+	<date>Jan 18 2010  1:56 pm</date>
+	<author>Anonymous</author>
+	<text>I need a directv app like this.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>15981</cid>
+	<date>Jan 18 2010  2:14 pm</date>
+	<author>Bob Riska</author>
+	<text>I tried to download this app on my TMobile myTouch3g.  The phone would not accept the authentication code provided by Verizon.  A call to VZ told me that it would only work with the top line home dvr service which connects all your televisions and costs an additional $7.00 per month.</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>15998</cid>
+	<date>Jan 18 2010  3:18 pm</date>
+	<author>VoltaicShock</author>
+	<text>Trying this out now.  I have been wanting something like this.</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16003</cid>
+	<date>Jan 18 2010  3:52 pm</date>
+	<author>Tmak04</author>
+	<text>i hope they make something like this for  optimum DVR</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16028</cid>
+	<date>Jan 18 2010  6:13 pm</date>
+	<author>Anonymous</author>
+	<text>I can't find this app in the market on my Eris.  I searched "dvr", "fios", "verizon" etc.  Any suggestions?</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16129</cid>
+	<date>Jan 19 2010  10:51 am</date>
+	<author>Anonymous</author>
+	<text>Just downloaded and installed it. It works pretty well with my Verizon Home Media DVR. Somehow it does the job better than the remote DVR service Verizon offers.</text>
+	<score>67</score>
+</comment>

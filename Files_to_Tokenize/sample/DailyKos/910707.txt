@@ -1,0 +1,45 @@
+<article>
+	<pid>910707</pid>
+	<title>Daily Kos: Googling "Wisconsin Protests" shows Fox crud.  Let's fix that, shall we?</title>
+	<url>http://www.dailykos.com/story/2011/02/17/910707/-Googling-Wisconsin-Protests-shows-Fox-crud-Let-s-fix-that-shall-we</url>
+	<date>Thu Feb 17, 2011 at 10:04 AM PST</date>
+	<author>Phoenix Woman</author>
+	<text>  Hey gang! &nbsp;When one Googles "wisconsin protests", Fox crap is in the first page of search results. &nbsp;Let's fix that, shall we? Please, when blog writing or leaving comments at other sites, make sure to post links to this and other FDL posts on the topic. &nbsp;(I've gathered up a good collection of boost-worthy links here. &nbsp;I picked these for both being good and because most were already fairly high-ranked, thus easier to push past the Fox crud.) &nbsp;    </text>
+	<score>4</score>
+</article>
+<comment>
+	<cid>40381968</cid>
+	<title>Tip Jar</title>
+	<date>Thu Feb 17, 2011 at 10:04:41 AM PST</date>
+	<author>Phoenix Woman</author>
+	<text>Tip Jar</text>
+	<score>15</score>
+	<parent>None</parent>
+</comment>
+<comment>
+	<cid>40381983</cid>
+	<title>Off to spread the word</title>
+	<date>Thu Feb 17, 2011 at 10:06:01 AM PST</date>
+	<author>Phoenix Woman</author>
+	<text>Off to spread the word Back later!</text>
+	<score>0</score>
+	<parent>None</parent>
+</comment>
+<comment>
+	<cid>40383250</cid>
+	<title>When I googled "wisconsin protests" there was</title>
+	<date>Thu Feb 17, 2011 at 11:34:02 AM PST</date>
+	<author>joynow</author>
+	<text>When I googled "wisconsin protests" there was only 1 fox link and it was down near the bottom, though it made up for it's rarity by being way over the top. The link to page says: Union Hate Rally in Wisconsin: Protests Rife With Hitler, Gun ... I assume it helps to click all the sane ones? Not sure how things move up</text>
+	<score>0</score>
+	<parent>None</parent>
+</comment>
+<comment>
+	<cid>40384189</cid>
+	<title>when I googled 2x's just now</title>
+	<date>Thu Feb 17, 2011 at 12:28:58 PM PST</date>
+	<author>zett</author>
+	<text>when I googled 2x's just now first I got a LA Times report second I got a Huffpo headline on police after Dem lawmakers. Somebody is having a good effect on teh google. &nbsp; Keep going and maybe we can get fox spews off the first page altogether.</text>
+	<score>1</score>
+	<parent>None</parent>
+</comment>

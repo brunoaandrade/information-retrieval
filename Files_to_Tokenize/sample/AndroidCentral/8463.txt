@@ -1,0 +1,32 @@
+<article>
+	<pid>8463</pid>
+	<title>Ninjas Unbox The Nexus One | Android Central</title>
+	<url>http://www.androidcentral.com/ninjas-unbox-nexus-one</url>
+	<date>   Jan 19 2010  7:15 am   </date>
+	<author>Casey Chan</author>
+	<text>
+ We all know you guys love a good ol' unboxing--there's nothing like seeing the sweet shiny metal and untouched glass for the first time. However, you haven't seen an unboxing quite like this. In an amazing stop-action video (sponsored by Google), three ninjas fight over the Nexus One while revealing some of the accessories and the device itself. Your ordinary unboxing video will never measure up again. It's nice to see an awesome video for such an awesome phone. Now go watch it! Hit the jump to see the ninjas unbox the Nexus One![via engadget]
+ </text>
+	<score>3</score>
+</article>
+<comment>
+	<cid>16128</cid>
+	<date>Jan 19 2010  10:33 am</date>
+	<author>strhessed</author>
+	<text>THAT...WAS...SPECTACULAR !!!!!!</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16164</cid>
+	<date>Jan 19 2010  9:15 pm</date>
+	<author>remixfa000</author>
+	<text>LOl.. just LOL.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>16165</cid>
+	<date>Jan 19 2010  9:45 pm</date>
+	<author>Devlin</author>
+	<text>Hooray!</text>
+	<score>0</score>
+</comment>

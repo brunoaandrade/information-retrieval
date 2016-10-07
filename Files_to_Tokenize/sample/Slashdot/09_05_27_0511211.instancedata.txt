@@ -1,0 +1,1133 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_27_0511211</id>
+	<title>Sony Rumored To Be Debuting Wiimote-Like Controller At E3</title>
+	<author>Soulskill</author>
+	<datestamp>1243418760000</datestamp>
+	<htmltext><a href="http://anenomefiction.blogspot.com/" rel="nofollow">Anenome</a> writes <i>"Previously, we saw a <a href="http://www.engadget.com/2009/05/12/microsoft-almost-definitely-planning-motion-sensing-3d-camera-fo/">Microsoft patent on a Wiimote-like device</a>, and now rumors say that <a href="http://www.1up.com/do/newsStory?cId=3174021">Sony too has a similar device in the works</a>. This isn't surprising, given how dominant Nintendo's Wii has proved to be in this hardware generation. However, many gaming-geeks continue to lament the move away from plain old button-pressing. What is exciting is the prospect that all three companies may incorporate <a href="http://www.youtube.com/watch?v=Jd3-eiid-Uw">Johnny Lee-style head-tracking</a> into the next console generation, which achieves a convincing 3D illusion on a regular vid-screen, leaving us just a few steps away from true positional 3D. Both the Microsoft and Sony patents incorporate a camera looking at the user, a required setup for achieving positional head-tracking."</i></htmltext>
+<tokenext>Anenome writes " Previously , we saw a Microsoft patent on a Wiimote-like device , and now rumors say that Sony too has a similar device in the works .
+This is n't surprising , given how dominant Nintendo 's Wii has proved to be in this hardware generation .
+However , many gaming-geeks continue to lament the move away from plain old button-pressing .
+What is exciting is the prospect that all three companies may incorporate Johnny Lee-style head-tracking into the next console generation , which achieves a convincing 3D illusion on a regular vid-screen , leaving us just a few steps away from true positional 3D .
+Both the Microsoft and Sony patents incorporate a camera looking at the user , a required setup for achieving positional head-tracking .
+"</tokentext>
+<sentencetext>Anenome writes "Previously, we saw a Microsoft patent on a Wiimote-like device, and now rumors say that Sony too has a similar device in the works.
+This isn't surprising, given how dominant Nintendo's Wii has proved to be in this hardware generation.
+However, many gaming-geeks continue to lament the move away from plain old button-pressing.
+What is exciting is the prospect that all three companies may incorporate Johnny Lee-style head-tracking into the next console generation, which achieves a convincing 3D illusion on a regular vid-screen, leaving us just a few steps away from true positional 3D.
+Both the Microsoft and Sony patents incorporate a camera looking at the user, a required setup for achieving positional head-tracking.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108139</id>
+	<title>Re:This Is Sure To Be A Success If It's From Sony!</title>
+	<author>Anonymous</author>
+	<datestamp>1243431480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>What an idiot.   He thinks the Playstation3 is not a success.   22m consoles sold in less time that the Xbox360 took to get there.</p><p>That must therefore mean the Xbox is an even bigger flop (looking at the lack of quality, and last-gen hardware, I think we already knew that).</p><p>Let me just to give you (and all the clueless American idiots that believe everything Microsoft tells you) some facts...</p><p>22m PS3's in 30 months (26 in Europe) = 900,000 a month globally on average (calculated by splitting the 4 month release date gap)<br>28m 360's in 42 months = 660,000 a month globally on average.</p></htmltext>
+<tokenext>What an idiot .
+He thinks the Playstation3 is not a success .
+22m consoles sold in less time that the Xbox360 took to get there.That must therefore mean the Xbox is an even bigger flop ( looking at the lack of quality , and last-gen hardware , I think we already knew that ) .Let me just to give you ( and all the clueless American idiots that believe everything Microsoft tells you ) some facts...22m PS3 's in 30 months ( 26 in Europe ) = 900,000 a month globally on average ( calculated by splitting the 4 month release date gap ) 28m 360 's in 42 months = 660,000 a month globally on average .</tokentext>
+<sentencetext>What an idiot.
+He thinks the Playstation3 is not a success.
+22m consoles sold in less time that the Xbox360 took to get there.That must therefore mean the Xbox is an even bigger flop (looking at the lack of quality, and last-gen hardware, I think we already knew that).Let me just to give you (and all the clueless American idiots that believe everything Microsoft tells you) some facts...22m PS3's in 30 months (26 in Europe) = 900,000 a month globally on average (calculated by splitting the 4 month release date gap)28m 360's in 42 months = 660,000 a month globally on average.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107621</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107365</id>
+	<title>And the winner is ...</title>
+	<author>jaypaulb</author>
+	<datestamp>1243424880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>whichever internal security agency decides this is a great way to "monitor" their citizens.
+
+How difficult would it be for such an agency to establish a remote connection to the box in question (PS3, Wii or Xbox) turn on the camera and record away "just in case" somehting nefarious is happening in the household.
+
+I should imagine that it would not be excessively difficult to establish this without adversly affecting the operation of the console.  How much horse power does it take to send a VGA res 1-2 fps video over the net.
+
+Scary thought...  or paranoia?</htmltext>
+<tokenext>whichever internal security agency decides this is a great way to " monitor " their citizens .
+How difficult would it be for such an agency to establish a remote connection to the box in question ( PS3 , Wii or Xbox ) turn on the camera and record away " just in case " somehting nefarious is happening in the household .
+I should imagine that it would not be excessively difficult to establish this without adversly affecting the operation of the console .
+How much horse power does it take to send a VGA res 1-2 fps video over the net .
+Scary thought... or paranoia ?</tokentext>
+<sentencetext>whichever internal security agency decides this is a great way to "monitor" their citizens.
+How difficult would it be for such an agency to establish a remote connection to the box in question (PS3, Wii or Xbox) turn on the camera and record away "just in case" somehting nefarious is happening in the household.
+I should imagine that it would not be excessively difficult to establish this without adversly affecting the operation of the console.
+How much horse power does it take to send a VGA res 1-2 fps video over the net.
+Scary thought...  or paranoia?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108035</id>
+	<title>Re:This Is Sure To Be A Success If It's From Sony!</title>
+	<author>b1t r0t</author>
+	<datestamp>1243430760000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p>Sony Laserdisc</p></div><p>Actually, Sony had very little to do with the laserdisc format. They came out with some lame players (actually, any player but a post-digital-audio Pioneer or a high-priced Home Theatre brand player was lame), and they <a href="http://en.wikipedia.org/wiki/Laser\_rot" title="wikipedia.org">manufactured</a> [wikipedia.org] <a href="http://www.lddb.com/laserrot.php" title="lddb.com">discs.</a> [lddb.com] Oh wait. Carry on.
+</p><p>But as it wasn't a Holy Sony Format, naturally they wouldn't care if their quality was crap.</p></div>
+	</htmltext>
+<tokenext>Sony LaserdiscActually , Sony had very little to do with the laserdisc format .
+They came out with some lame players ( actually , any player but a post-digital-audio Pioneer or a high-priced Home Theatre brand player was lame ) , and they manufactured [ wikipedia.org ] discs .
+[ lddb.com ] Oh wait .
+Carry on .
+But as it was n't a Holy Sony Format , naturally they would n't care if their quality was crap .</tokentext>
+<sentencetext>Sony LaserdiscActually, Sony had very little to do with the laserdisc format.
+They came out with some lame players (actually, any player but a post-digital-audio Pioneer or a high-priced Home Theatre brand player was lame), and they manufactured [wikipedia.org] discs.
+[lddb.com] Oh wait.
+Carry on.
+But as it wasn't a Holy Sony Format, naturally they wouldn't care if their quality was crap.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107621</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107225</id>
+	<title>3D for shooting games</title>
+	<author>Anonymous</author>
+	<datestamp>1243423740000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I can imagine, the next generation of 3D shooting games!!. Almost Virtual Reality.<br>the problem would be "Almost Virtual Reality Shooting Games" vs "Almost Surreal Shooting Raids"<br>could your classmates perceive the difference?.</p></htmltext>
+<tokenext>I can imagine , the next generation of 3D shooting games ! ! .
+Almost Virtual Reality.the problem would be " Almost Virtual Reality Shooting Games " vs " Almost Surreal Shooting Raids " could your classmates perceive the difference ? .</tokentext>
+<sentencetext>I can imagine, the next generation of 3D shooting games!!.
+Almost Virtual Reality.the problem would be "Almost Virtual Reality Shooting Games" vs "Almost Surreal Shooting Raids"could your classmates perceive the difference?.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28110297</id>
+	<title>Re:Now to wait...</title>
+	<author>Midnight Thunder</author>
+	<datestamp>1243442040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>Nintendo fans will be bashing Sony for "once again copying" Nintendo soon enough. Also it wouldn't surprise me if Nintendo is secretly working on a better motion sensing technology themselves.</i></p><p>I just hope Nintendo is working to keep a step ahead in general. Adding more games to the selection would be good for both Sony and Nintendo, since Microsoft has a clear lead at the moment when it comes to selection.</p></htmltext>
+<tokenext>Nintendo fans will be bashing Sony for " once again copying " Nintendo soon enough .
+Also it would n't surprise me if Nintendo is secretly working on a better motion sensing technology themselves.I just hope Nintendo is working to keep a step ahead in general .
+Adding more games to the selection would be good for both Sony and Nintendo , since Microsoft has a clear lead at the moment when it comes to selection .</tokentext>
+<sentencetext>Nintendo fans will be bashing Sony for "once again copying" Nintendo soon enough.
+Also it wouldn't surprise me if Nintendo is secretly working on a better motion sensing technology themselves.I just hope Nintendo is working to keep a step ahead in general.
+Adding more games to the selection would be good for both Sony and Nintendo, since Microsoft has a clear lead at the moment when it comes to selection.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28114735</id>
+	<title>Re:"Required"?</title>
+	<author>Anonymous</author>
+	<datestamp>1243417680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>What we have here is a confusion between necessary and sufficient.   It is sufficient to have a camera pointed at the user to archive head tracking, but it hardly necessary.  Both outward looking in and inward looking out solutions exist.  Methods from tracking range from ultrasonic to magnetic and its far from new and by no means requires a camera and image processing at all.</htmltext>
+<tokenext>What we have here is a confusion between necessary and sufficient .
+It is sufficient to have a camera pointed at the user to archive head tracking , but it hardly necessary .
+Both outward looking in and inward looking out solutions exist .
+Methods from tracking range from ultrasonic to magnetic and its far from new and by no means requires a camera and image processing at all .</tokentext>
+<sentencetext>What we have here is a confusion between necessary and sufficient.
+It is sufficient to have a camera pointed at the user to archive head tracking, but it hardly necessary.
+Both outward looking in and inward looking out solutions exist.
+Methods from tracking range from ultrasonic to magnetic and its far from new and by no means requires a camera and image processing at all.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107323</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109355</id>
+	<title>Re:And the winner is ...</title>
+	<author>internerdj</author>
+	<datestamp>1243438020000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>Maybe my math is wrong, but I'm getting about 4.5MB per frame if the signal isn't compressed.  Don't know about you but I'd definitely notice a drag like that over my wi-fi connection.  Simple solution:  Make a spare tin-foil hat and put it over the camera when you aren't playing your playstation.</htmltext>
+<tokenext>Maybe my math is wrong , but I 'm getting about 4.5MB per frame if the signal is n't compressed .
+Do n't know about you but I 'd definitely notice a drag like that over my wi-fi connection .
+Simple solution : Make a spare tin-foil hat and put it over the camera when you are n't playing your playstation .</tokentext>
+<sentencetext>Maybe my math is wrong, but I'm getting about 4.5MB per frame if the signal isn't compressed.
+Don't know about you but I'd definitely notice a drag like that over my wi-fi connection.
+Simple solution:  Make a spare tin-foil hat and put it over the camera when you aren't playing your playstation.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107365</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107663</id>
+	<title>Re:Now to wait...</title>
+	<author>jimicus</author>
+	<datestamp>1243428000000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Do you mean like this?</p><p><a href="http://en.wikipedia.org/wiki/Wii\_MotionPlus" title="wikipedia.org">http://en.wikipedia.org/wiki/Wii\_MotionPlus</a> [wikipedia.org]</p></htmltext>
+<tokenext>Do you mean like this ? http : //en.wikipedia.org/wiki/Wii \ _MotionPlus [ wikipedia.org ]</tokentext>
+<sentencetext>Do you mean like this?http://en.wikipedia.org/wiki/Wii\_MotionPlus [wikipedia.org]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107517</id>
+	<title>Patentable?</title>
+	<author>Anonymous</author>
+	<datestamp>1243426260000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Isn't it weird that you can describe a device as "Wiimote-like", but you can still patent it?</p></htmltext>
+<tokenext>Is n't it weird that you can describe a device as " Wiimote-like " , but you can still patent it ?</tokentext>
+<sentencetext>Isn't it weird that you can describe a device as "Wiimote-like", but you can still patent it?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28116475</id>
+	<title>Re:"Required"?</title>
+	<author>Anenome</author>
+	<datestamp>1243424280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Go watch the Johnny Lee link I provided above so you know what you're talking about.</p></htmltext>
+<tokenext>Go watch the Johnny Lee link I provided above so you know what you 're talking about .</tokentext>
+<sentencetext>Go watch the Johnny Lee link I provided above so you know what you're talking about.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107323</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109645</id>
+	<title>Re:This Is Sure To Be A Success If It's From Sony!</title>
+	<author>el3mentary</author>
+	<datestamp>1243439280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Average sales are irrelevant the total number of units are what matters to developers (along with the console parameters)</p><p>More Console=More Games to sell=More Profit</p><p>Just look at the new Final Fantasy for proof.</p><p>The Wii doesn't follow this rule but thats because most of it's games are shitty ports, I'm not bashing it has some great games but the ratio of Crap:Good games is around 20:1 at the moment.</p></htmltext>
+<tokenext>Average sales are irrelevant the total number of units are what matters to developers ( along with the console parameters ) More Console = More Games to sell = More ProfitJust look at the new Final Fantasy for proof.The Wii does n't follow this rule but thats because most of it 's games are shitty ports , I 'm not bashing it has some great games but the ratio of Crap : Good games is around 20 : 1 at the moment .</tokentext>
+<sentencetext>Average sales are irrelevant the total number of units are what matters to developers (along with the console parameters)More Console=More Games to sell=More ProfitJust look at the new Final Fantasy for proof.The Wii doesn't follow this rule but thats because most of it's games are shitty ports, I'm not bashing it has some great games but the ratio of Crap:Good games is around 20:1 at the moment.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108139</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108883</id>
+	<title>Re:Now to wait...</title>
+	<author>elrous0</author>
+	<datestamp>1243435740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Sony can copy their technology, but not their sales.</htmltext>
+<tokenext>Sony can copy their technology , but not their sales .</tokentext>
+<sentencetext>Sony can copy their technology, but not their sales.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108613</id>
+	<title>Re:is it just me</title>
+	<author>BeardedChimp</author>
+	<datestamp>1243434180000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext>Good god, I think I just read the featured article for the first time in my life.</htmltext>
+<tokenext>Good god , I think I just read the featured article for the first time in my life .</tokentext>
+<sentencetext>Good god, I think I just read the featured article for the first time in my life.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107371</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273</id>
+	<title>Now to wait...</title>
+	<author>FunPika</author>
+	<datestamp>1243424160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Nintendo fans will be bashing Sony for "once again copying" Nintendo soon enough. Also it wouldn't surprise me if Nintendo is secretly working on a better motion sensing technology themselves.</htmltext>
+<tokenext>Nintendo fans will be bashing Sony for " once again copying " Nintendo soon enough .
+Also it would n't surprise me if Nintendo is secretly working on a better motion sensing technology themselves .</tokentext>
+<sentencetext>Nintendo fans will be bashing Sony for "once again copying" Nintendo soon enough.
+Also it wouldn't surprise me if Nintendo is secretly working on a better motion sensing technology themselves.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107371</id>
+	<title>is it just me</title>
+	<author>wjh31</author>
+	<datestamp>1243425000000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext>or is even the camera in the diagram staring at the ladies tits</htmltext>
+<tokenext>or is even the camera in the diagram staring at the ladies tits</tokentext>
+<sentencetext>or is even the camera in the diagram staring at the ladies tits</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109933</id>
+	<title>Re:Now to wait...</title>
+	<author>KDR\_11k</author>
+	<datestamp>1243440600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>They had the Motion Plus announced just prior to Microsoft's keynote last year to preempt the rumored revelations of motion controllers from Sony and MS.</p></htmltext>
+<tokenext>They had the Motion Plus announced just prior to Microsoft 's keynote last year to preempt the rumored revelations of motion controllers from Sony and MS .</tokentext>
+<sentencetext>They had the Motion Plus announced just prior to Microsoft's keynote last year to preempt the rumored revelations of motion controllers from Sony and MS.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109983</id>
+	<title>Re:Make it fun</title>
+	<author>Abreu</author>
+	<datestamp>1243440780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Well, we already had to buy different plastic instruments for different music games*</p><p>-</p><p>*Although I've been told that they have come to their senses and become compatible once again</p></htmltext>
+<tokenext>Well , we already had to buy different plastic instruments for different music games * - * Although I 've been told that they have come to their senses and become compatible once again</tokentext>
+<sentencetext>Well, we already had to buy different plastic instruments for different music games*-*Although I've been told that they have come to their senses and become compatible once again</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107271</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107773</id>
+	<title>Re:Just as long as it's truly Bluetooth compatible</title>
+	<author>Sockatume</author>
+	<datestamp>1243428960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I don't think either Nintendo or MS are keen to make something "perfect" that encourages people to invest in their competitors' consoles/controllers, respectively.</htmltext>
+<tokenext>I do n't think either Nintendo or MS are keen to make something " perfect " that encourages people to invest in their competitors ' consoles/controllers , respectively .</tokentext>
+<sentencetext>I don't think either Nintendo or MS are keen to make something "perfect" that encourages people to invest in their competitors' consoles/controllers, respectively.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107367</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28110615</id>
+	<title>Re:two cameras?</title>
+	<author>Anonymous</author>
+	<datestamp>1243443300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>You can triangulate 3 axis space (XYZ) with just two source points (and even 4 axis to a certain degree, you can also resolve yaw if the conditions are right, and your software is clever enough--usually it's not needed or wanted), and full six axis 3D positions with just three source points. For most practical applications, you just don't need two cameras unless you need to cover more area.</p></htmltext>
+<tokenext>You can triangulate 3 axis space ( XYZ ) with just two source points ( and even 4 axis to a certain degree , you can also resolve yaw if the conditions are right , and your software is clever enough--usually it 's not needed or wanted ) , and full six axis 3D positions with just three source points .
+For most practical applications , you just do n't need two cameras unless you need to cover more area .</tokentext>
+<sentencetext>You can triangulate 3 axis space (XYZ) with just two source points (and even 4 axis to a certain degree, you can also resolve yaw if the conditions are right, and your software is clever enough--usually it's not needed or wanted), and full six axis 3D positions with just three source points.
+For most practical applications, you just don't need two cameras unless you need to cover more area.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107339</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107393</id>
+	<title>If the answer involves giving money to Sony...</title>
+	<author>Anonymous</author>
+	<datestamp>1243425180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>... then you asked the wrong question.</p></htmltext>
+<tokenext>... then you asked the wrong question .</tokentext>
+<sentencetext>... then you asked the wrong question.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107271</id>
+	<title>Make it fun</title>
+	<author>boliboboli</author>
+	<datestamp>1243424100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>They should really use this to mix style with innovation by putting the head controller into pimped out fur top hats or whatever is marketable. Game specific head controllers would be cool, like mock night vision goggles for fps games, football helmet for the next John madden game etc.</htmltext>
+<tokenext>They should really use this to mix style with innovation by putting the head controller into pimped out fur top hats or whatever is marketable .
+Game specific head controllers would be cool , like mock night vision goggles for fps games , football helmet for the next John madden game etc .</tokentext>
+<sentencetext>They should really use this to mix style with innovation by putting the head controller into pimped out fur top hats or whatever is marketable.
+Game specific head controllers would be cool, like mock night vision goggles for fps games, football helmet for the next John madden game etc.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28110755</id>
+	<title>Re:Now to wait...</title>
+	<author>Anonymous</author>
+	<datestamp>1243443780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>It's not so much that Sony "once again copied" Nintendo (there's no debating it; they did just that).  Not three years ago, a higher-up of Sony's gaming division lambasted the Wii-Mote, calling it a one-off gimmick that players will be tired of in a year.  That obviously did not happen, so they figure the best move now is to flip-flop and copy Nintendo.</p><p>Full disclosure lest I be labeled a Nintendo fanboy: I've always been a cross-platform supporter (Genesis and SNES, GameCube and PS2, even the first-gen PSP to go with my DS) and if you asked me five years ago if I'd get a PS3, I'd have said, "absolutely."  Then came the sad realization that Sony had grown to become this Dr. Jekyll and Mr. Hyde company, and poor Jekyll died along with the root-kit fiasco and the "we should be charging more than $599" quote by the head of Sony's game division.  Their sure-fire sale became an all-out boycott from me.  At least Microsoft's gaming division owned up to their mistakes with their console.  Maybe when something on that system interests me and I've cleared the backlog of games I have right now, I'd pick up an XBox 360.</p></div>
+	</htmltext>
+<tokenext>It 's not so much that Sony " once again copied " Nintendo ( there 's no debating it ; they did just that ) .
+Not three years ago , a higher-up of Sony 's gaming division lambasted the Wii-Mote , calling it a one-off gimmick that players will be tired of in a year .
+That obviously did not happen , so they figure the best move now is to flip-flop and copy Nintendo.Full disclosure lest I be labeled a Nintendo fanboy : I 've always been a cross-platform supporter ( Genesis and SNES , GameCube and PS2 , even the first-gen PSP to go with my DS ) and if you asked me five years ago if I 'd get a PS3 , I 'd have said , " absolutely .
+" Then came the sad realization that Sony had grown to become this Dr. Jekyll and Mr. Hyde company , and poor Jekyll died along with the root-kit fiasco and the " we should be charging more than $ 599 " quote by the head of Sony 's game division .
+Their sure-fire sale became an all-out boycott from me .
+At least Microsoft 's gaming division owned up to their mistakes with their console .
+Maybe when something on that system interests me and I 've cleared the backlog of games I have right now , I 'd pick up an XBox 360 .</tokentext>
+<sentencetext>It's not so much that Sony "once again copied" Nintendo (there's no debating it; they did just that).
+Not three years ago, a higher-up of Sony's gaming division lambasted the Wii-Mote, calling it a one-off gimmick that players will be tired of in a year.
+That obviously did not happen, so they figure the best move now is to flip-flop and copy Nintendo.Full disclosure lest I be labeled a Nintendo fanboy: I've always been a cross-platform supporter (Genesis and SNES, GameCube and PS2, even the first-gen PSP to go with my DS) and if you asked me five years ago if I'd get a PS3, I'd have said, "absolutely.
+"  Then came the sad realization that Sony had grown to become this Dr. Jekyll and Mr. Hyde company, and poor Jekyll died along with the root-kit fiasco and the "we should be charging more than $599" quote by the head of Sony's game division.
+Their sure-fire sale became an all-out boycott from me.
+At least Microsoft's gaming division owned up to their mistakes with their console.
+Maybe when something on that system interests me and I've cleared the backlog of games I have right now, I'd pick up an XBox 360.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28120639</id>
+	<title>Re:The problem ...</title>
+	<author>Waccoon</author>
+	<datestamp>1243504560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Don't blame the controller -- blame the game developers who insist on using every damn button available.  There are plenty of games out there that use only a couple buttons, because that's all they need.  Don't tell me I need a controller with fewer buttons because some marketeer says it's the "new thing".  Simple interfaces do not mean simpler function, it just means it will probably look less scary to someone who has no idea how it's supposed to be used in the first place.</p><p>I had a hard time playing Mario Galaxy because I kept wanting to use a second analog stick to adjust the camera.  That alone ruined the game for me.  Saying I don't need a second analog stick on a game controller is like telling me all keyboards should have the keypads sawed off, because only hardcore computer users actually need it (thankfully, I don't use laptops, so I'm free to buy any keyboard I want.  Game consoles don't offer that luxury.)</p><p>With that said, the Wiimote actually uses a good form factor for what it does.  Tacking a motion sensor to a traditional controller was a stupid move for Sony.  Trying to tilt the controller always hurts my wrist and makes it hard to hit any buttons at all.</p></htmltext>
+<tokenext>Do n't blame the controller -- blame the game developers who insist on using every damn button available .
+There are plenty of games out there that use only a couple buttons , because that 's all they need .
+Do n't tell me I need a controller with fewer buttons because some marketeer says it 's the " new thing " .
+Simple interfaces do not mean simpler function , it just means it will probably look less scary to someone who has no idea how it 's supposed to be used in the first place.I had a hard time playing Mario Galaxy because I kept wanting to use a second analog stick to adjust the camera .
+That alone ruined the game for me .
+Saying I do n't need a second analog stick on a game controller is like telling me all keyboards should have the keypads sawed off , because only hardcore computer users actually need it ( thankfully , I do n't use laptops , so I 'm free to buy any keyboard I want .
+Game consoles do n't offer that luxury .
+) With that said , the Wiimote actually uses a good form factor for what it does .
+Tacking a motion sensor to a traditional controller was a stupid move for Sony .
+Trying to tilt the controller always hurts my wrist and makes it hard to hit any buttons at all .</tokentext>
+<sentencetext>Don't blame the controller -- blame the game developers who insist on using every damn button available.
+There are plenty of games out there that use only a couple buttons, because that's all they need.
+Don't tell me I need a controller with fewer buttons because some marketeer says it's the "new thing".
+Simple interfaces do not mean simpler function, it just means it will probably look less scary to someone who has no idea how it's supposed to be used in the first place.I had a hard time playing Mario Galaxy because I kept wanting to use a second analog stick to adjust the camera.
+That alone ruined the game for me.
+Saying I don't need a second analog stick on a game controller is like telling me all keyboards should have the keypads sawed off, because only hardcore computer users actually need it (thankfully, I don't use laptops, so I'm free to buy any keyboard I want.
+Game consoles don't offer that luxury.
+)With that said, the Wiimote actually uses a good form factor for what it does.
+Tacking a motion sensor to a traditional controller was a stupid move for Sony.
+Trying to tilt the controller always hurts my wrist and makes it hard to hit any buttons at all.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108005</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108055</id>
+	<title>Re:Make it fun</title>
+	<author>Anonymous</author>
+	<datestamp>1243430880000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>You need helmets to play football? You must be a wuss. Oh, you meant American Football... Still, most Rugby players don't need all that padding<nobr> <wbr></nobr>;)</p><p>You would be a bit stuck with games like FIFA that don't have head wear, plus anything other than "First Person<nobr> <wbr></nobr>..." would generally be quite hard due to the lack of relationship between your position and the movement required on screen.</p></htmltext>
+<tokenext>You need helmets to play football ?
+You must be a wuss .
+Oh , you meant American Football... Still , most Rugby players do n't need all that padding ; ) You would be a bit stuck with games like FIFA that do n't have head wear , plus anything other than " First Person ... " would generally be quite hard due to the lack of relationship between your position and the movement required on screen .</tokentext>
+<sentencetext>You need helmets to play football?
+You must be a wuss.
+Oh, you meant American Football... Still, most Rugby players don't need all that padding ;)You would be a bit stuck with games like FIFA that don't have head wear, plus anything other than "First Person ..." would generally be quite hard due to the lack of relationship between your position and the movement required on screen.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107271</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108205</id>
+	<title>Re:This Is Sure To Be A Success If It's From Sony!</title>
+	<author>Anonymous</author>
+	<datestamp>1243431900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>Urm, Sony didn't invent laserdiscs. But you might want to put 3.5" floppy disks and audio CDs on that list.</htmltext>
+<tokenext>Urm , Sony did n't invent laserdiscs .
+But you might want to put 3.5 " floppy disks and audio CDs on that list .</tokentext>
+<sentencetext>Urm, Sony didn't invent laserdiscs.
+But you might want to put 3.5" floppy disks and audio CDs on that list.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107621</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107729</id>
+	<title>Re:Now to wait...</title>
+	<author>Anonymous</author>
+	<datestamp>1243428540000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>That's the difference between a fan and a fanboy.  I love Nintendo, but this is a good thing.  You don't get onto a car company for shipping a product that has four wheels on the bottom.  This technology will continue to improve and become more intuitive with three companies innovating instead of one.</p></htmltext>
+<tokenext>That 's the difference between a fan and a fanboy .
+I love Nintendo , but this is a good thing .
+You do n't get onto a car company for shipping a product that has four wheels on the bottom .
+This technology will continue to improve and become more intuitive with three companies innovating instead of one .</tokentext>
+<sentencetext>That's the difference between a fan and a fanboy.
+I love Nintendo, but this is a good thing.
+You don't get onto a car company for shipping a product that has four wheels on the bottom.
+This technology will continue to improve and become more intuitive with three companies innovating instead of one.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109557</id>
+	<title>PS3 is fine</title>
+	<author>Spatial</author>
+	<datestamp>1243438920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>What's wrong with the PS3?  Most people would regard the 360 as a successful product, and the PS3 is selling at the same average rate of ~700,000 units per month.  The 360 leads it in total sales due to its earlier release date, not by selling more.</htmltext>
+<tokenext>What 's wrong with the PS3 ?
+Most people would regard the 360 as a successful product , and the PS3 is selling at the same average rate of ~ 700,000 units per month .
+The 360 leads it in total sales due to its earlier release date , not by selling more .</tokentext>
+<sentencetext>What's wrong with the PS3?
+Most people would regard the 360 as a successful product, and the PS3 is selling at the same average rate of ~700,000 units per month.
+The 360 leads it in total sales due to its earlier release date, not by selling more.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107621</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107127</id>
+	<title>It won't work</title>
+	<author>Anonymous</author>
+	<datestamp>1243422600000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>I tried the controller and it does not function effectively as a penile replacement or penile enhancer. My girlfriend left me and my parents disowned me and Homeland Security revoked my citizenship. If it weren't for the Italians who stole my wallet this wouldn't have happened, I LOVE AMERICA.</p></htmltext>
+<tokenext>I tried the controller and it does not function effectively as a penile replacement or penile enhancer .
+My girlfriend left me and my parents disowned me and Homeland Security revoked my citizenship .
+If it were n't for the Italians who stole my wallet this would n't have happened , I LOVE AMERICA .</tokentext>
+<sentencetext>I tried the controller and it does not function effectively as a penile replacement or penile enhancer.
+My girlfriend left me and my parents disowned me and Homeland Security revoked my citizenship.
+If it weren't for the Italians who stole my wallet this wouldn't have happened, I LOVE AMERICA.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107607</id>
+	<title>Debut?</title>
+	<author>Opportunist</author>
+	<datestamp>1243427280000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Shouldn't a debut include something new?</p></htmltext>
+<tokenext>Should n't a debut include something new ?</tokentext>
+<sentencetext>Shouldn't a debut include something new?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107515</id>
+	<title>Re:Now to wait...</title>
+	<author>rinoid</author>
+	<datestamp>1243426260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Yeah, the gaming industry really needs some GUARD RAILS so people don't steal so many ideas.</p></htmltext>
+<tokenext>Yeah , the gaming industry really needs some GUARD RAILS so people do n't steal so many ideas .</tokentext>
+<sentencetext>Yeah, the gaming industry really needs some GUARD RAILS so people don't steal so many ideas.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108155</id>
+	<title>Re:And the winner is ...</title>
+	<author>IBBoard</author>
+	<datestamp>1243431600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>Scary thought... or paranoia?</p></div></blockquote><p>Remember: Just because you're paranoid doesn't mean that they're not after you<nobr> <wbr></nobr>;)</p></div>
+	</htmltext>
+<tokenext>Scary thought... or paranoia ? Remember : Just because you 're paranoid does n't mean that they 're not after you ; )</tokentext>
+<sentencetext>Scary thought... or paranoia?Remember: Just because you're paranoid doesn't mean that they're not after you ;)
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107365</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109169</id>
+	<title>Re:Just as long as it's truly Bluetooth compatible</title>
+	<author>AKAImBatman</author>
+	<datestamp>1243437060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>you need to use the BlueSoleil [bluesoleil.com] stack, which is $$$ and can be quirky</p></div></blockquote><p>#1 - I got a BlueSoleil stack with my first Bluetooth adapter at no additional cost.</p><p>#2 - My second adapter is a cheapo USB adapter that uses the default Windows stack. It works just fine with my Wii Remotes.</p><p>In my experience, spending too much on a Bluetooth adapters is usually the root of the problem. If you have XP, I can recommend the adapter in <a href="http://www.amazon.com/Wii-Manager-Nintendo/dp/B000R59F5O/ref=sr\_1\_1?ie=UTF8&amp;s=videogames&amp;qid=1243433377&amp;sr=8-1" title="amazon.com">this package</a> [amazon.com]. It's cheap and works really well with Wii Remotes.</p></div>
+	</htmltext>
+<tokenext>you need to use the BlueSoleil [ bluesoleil.com ] stack , which is $ $ $ and can be quirky # 1 - I got a BlueSoleil stack with my first Bluetooth adapter at no additional cost. # 2 - My second adapter is a cheapo USB adapter that uses the default Windows stack .
+It works just fine with my Wii Remotes.In my experience , spending too much on a Bluetooth adapters is usually the root of the problem .
+If you have XP , I can recommend the adapter in this package [ amazon.com ] .
+It 's cheap and works really well with Wii Remotes .</tokentext>
+<sentencetext>you need to use the BlueSoleil [bluesoleil.com] stack, which is $$$ and can be quirky#1 - I got a BlueSoleil stack with my first Bluetooth adapter at no additional cost.#2 - My second adapter is a cheapo USB adapter that uses the default Windows stack.
+It works just fine with my Wii Remotes.In my experience, spending too much on a Bluetooth adapters is usually the root of the problem.
+If you have XP, I can recommend the adapter in this package [amazon.com].
+It's cheap and works really well with Wii Remotes.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107367</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107613</id>
+	<title>Make it fun</title>
+	<author>clint999</author>
+	<datestamp>1243427400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>-1</modscore>
+	<htmltext><b>I know if nintendo can hit once, I can hit twice
+I hit the baddest chicks
+Shorty don't believe me, then come with me tonight
+And I'll show you maaagic
+(What? What?) Maaagic
+I got the magic stick</b></htmltext>
+<tokenext>I know if nintendo can hit once , I can hit twice I hit the baddest chicks Shorty do n't believe me , then come with me tonight And I 'll show you maaagic ( What ?
+What ? ) Maaagic I got the magic stick</tokentext>
+<sentencetext>I know if nintendo can hit once, I can hit twice
+I hit the baddest chicks
+Shorty don't believe me, then come with me tonight
+And I'll show you maaagic
+(What?
+What?) Maaagic
+I got the magic stick</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107813</id>
+	<title>Re:Patentable?</title>
+	<author>d12v10</author>
+	<datestamp>1243429380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>There aren't any patent laws against improvement on a device.</p></htmltext>
+<tokenext>There are n't any patent laws against improvement on a device .</tokentext>
+<sentencetext>There aren't any patent laws against improvement on a device.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107517</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28111203</id>
+	<title>Re:Now to wait...</title>
+	<author>CronoCloud</author>
+	<datestamp>1243445460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I remember Sony showing a wand type thing with their prototype Eyetoy for the PS2 years ago, and here's a blurb from 2005:</p><p><a href="http://www.newscientist.com/article/dn7890" title="newscientist.com">http://www.newscientist.com/article/dn7890</a> [newscientist.com]</p><p>Sony doesn't need to copy Nintendo, they'd had motion sensing controllers and games longer than Nintendo has.  Remember that the PS2's best selling addon is the Eyetoy, selling even more than the Network Adapter.</p></htmltext>
+<tokenext>I remember Sony showing a wand type thing with their prototype Eyetoy for the PS2 years ago , and here 's a blurb from 2005 : http : //www.newscientist.com/article/dn7890 [ newscientist.com ] Sony does n't need to copy Nintendo , they 'd had motion sensing controllers and games longer than Nintendo has .
+Remember that the PS2 's best selling addon is the Eyetoy , selling even more than the Network Adapter .</tokentext>
+<sentencetext>I remember Sony showing a wand type thing with their prototype Eyetoy for the PS2 years ago, and here's a blurb from 2005:http://www.newscientist.com/article/dn7890 [newscientist.com]Sony doesn't need to copy Nintendo, they'd had motion sensing controllers and games longer than Nintendo has.
+Remember that the PS2's best selling addon is the Eyetoy, selling even more than the Network Adapter.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28111199</id>
+	<title>Re:PS3 is fine</title>
+	<author>rbarreira</author>
+	<datestamp>1243445460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Oh, it has also lost Sony $4 + billion, maybe more than $5 billion.</p><p>Source: Sony's financial reports in their investor relations page, Games division.</p></htmltext>
+<tokenext>Oh , it has also lost Sony $ 4 + billion , maybe more than $ 5 billion.Source : Sony 's financial reports in their investor relations page , Games division .</tokentext>
+<sentencetext>Oh, it has also lost Sony $4 + billion, maybe more than $5 billion.Source: Sony's financial reports in their investor relations page, Games division.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109557</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107157</id>
+	<title>just the next logical step in evolution of control</title>
+	<author>Blue Shifted</author>
+	<datestamp>1243422960000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>we went from very simple digital joysticks, to analog joysticks, to analog pressure buttons, and now to multi-axis 3D input.  i love it.  it's what i've been wishing for since i was a kid.</p><p>analog steering wheels probably represent the need perfectly. [well, at least in the racing games that lean to the simulation side as opposed to the arcade side....]</p><p>i hope all the next-gen continue to get more nuanced inputs!</p></htmltext>
+<tokenext>we went from very simple digital joysticks , to analog joysticks , to analog pressure buttons , and now to multi-axis 3D input .
+i love it .
+it 's what i 've been wishing for since i was a kid.analog steering wheels probably represent the need perfectly .
+[ well , at least in the racing games that lean to the simulation side as opposed to the arcade side.... ] i hope all the next-gen continue to get more nuanced inputs !</tokentext>
+<sentencetext>we went from very simple digital joysticks, to analog joysticks, to analog pressure buttons, and now to multi-axis 3D input.
+i love it.
+it's what i've been wishing for since i was a kid.analog steering wheels probably represent the need perfectly.
+[well, at least in the racing games that lean to the simulation side as opposed to the arcade side....]i hope all the next-gen continue to get more nuanced inputs!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109937</id>
+	<title>Re:And the winner is ...</title>
+	<author>Monkeedude1212</author>
+	<datestamp>1243440600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>No more difficult then it would be to set up a proxy server and a firewall.
+
+Unless Microsoft imbeds it into the console level, in which case they would have to mention that in the ToS or EULA of the new console.
+
+That is IF its still a free country. BUM BUM BUUUUMMMM</htmltext>
+<tokenext>No more difficult then it would be to set up a proxy server and a firewall .
+Unless Microsoft imbeds it into the console level , in which case they would have to mention that in the ToS or EULA of the new console .
+That is IF its still a free country .
+BUM BUM BUUUUMMMM</tokentext>
+<sentencetext>No more difficult then it would be to set up a proxy server and a firewall.
+Unless Microsoft imbeds it into the console level, in which case they would have to mention that in the ToS or EULA of the new console.
+That is IF its still a free country.
+BUM BUM BUUUUMMMM</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107365</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107301</id>
+	<title>I got the magic stick</title>
+	<author>assemblerex</author>
+	<datestamp>1243424280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I know if nintendo can hit once, I can hit twice<br>
+I hit the baddest chicks<br>
+Shorty don't believe me, then come with me tonight<br>
+And I'll show you maaagic<br>
+(What? What?) Maaagic<br>
+I got the magic stick</htmltext>
+<tokenext>I know if nintendo can hit once , I can hit twice I hit the baddest chicks Shorty do n't believe me , then come with me tonight And I 'll show you maaagic ( What ?
+What ? ) Maaagic I got the magic stick</tokentext>
+<sentencetext>I know if nintendo can hit once, I can hit twice
+I hit the baddest chicks
+Shorty don't believe me, then come with me tonight
+And I'll show you maaagic
+(What?
+What?) Maaagic
+I got the magic stick</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107573</id>
+	<title>Track IR?</title>
+	<author>Novotny</author>
+	<datestamp>1243427040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Stop me if I'm being stupid, but isn't Track IR a really good implementation of this?  As I understand it, I'm doing this using TrackIR with 6 degrees of freedom.</htmltext>
+<tokenext>Stop me if I 'm being stupid , but is n't Track IR a really good implementation of this ?
+As I understand it , I 'm doing this using TrackIR with 6 degrees of freedom .</tokentext>
+<sentencetext>Stop me if I'm being stupid, but isn't Track IR a really good implementation of this?
+As I understand it, I'm doing this using TrackIR with 6 degrees of freedom.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108005</id>
+	<title>The problem ...</title>
+	<author>LordKaT</author>
+	<datestamp>1243430640000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>... is the added complexity proposed to operate the gaming console. At first one button was fine, then two buttons, six, twelve<nobr> <wbr></nobr>... now my wireless Logitech controller has no less than 18 buttons on it, two analog sticks, and a d-pad.</p><p>The beautiful thing about the Wii is that while it's not as fast or responsive as simply pressing a button to do X, it helps alleviate the complexity of modern gaming. My dad -- who couldn't figure out how to play golf on the Xbox because of all the different button combinations -- had no problems playing golf on the Wii (he still has a hard time with, and has basically given up on, 3D gaming -- so 3D Zelda and Mario are right out for him).</p><p>But now Microsoft and Sony continue to take the elegant design of the Wii controller (relative to the other gaming controllers, mind you) and add a whole bunch of shit to it to make it "better"</p><p>Technologically, it might be better, but god damn, they are missing the point: it's not the motion controls that gave Nintendo the damn lead, it's the ease of operation that opened the console up to less than hardcore gamers.</p><p>When my dad has to strap on a helmet just to play these games, he's going to junk the console, open his laptop, and play TextTwist into the night<nobr> <wbr></nobr>... and I can't blame him.</p></htmltext>
+<tokenext>... is the added complexity proposed to operate the gaming console .
+At first one button was fine , then two buttons , six , twelve ... now my wireless Logitech controller has no less than 18 buttons on it , two analog sticks , and a d-pad.The beautiful thing about the Wii is that while it 's not as fast or responsive as simply pressing a button to do X , it helps alleviate the complexity of modern gaming .
+My dad -- who could n't figure out how to play golf on the Xbox because of all the different button combinations -- had no problems playing golf on the Wii ( he still has a hard time with , and has basically given up on , 3D gaming -- so 3D Zelda and Mario are right out for him ) .But now Microsoft and Sony continue to take the elegant design of the Wii controller ( relative to the other gaming controllers , mind you ) and add a whole bunch of shit to it to make it " better " Technologically , it might be better , but god damn , they are missing the point : it 's not the motion controls that gave Nintendo the damn lead , it 's the ease of operation that opened the console up to less than hardcore gamers.When my dad has to strap on a helmet just to play these games , he 's going to junk the console , open his laptop , and play TextTwist into the night ... and I ca n't blame him .</tokentext>
+<sentencetext>... is the added complexity proposed to operate the gaming console.
+At first one button was fine, then two buttons, six, twelve ... now my wireless Logitech controller has no less than 18 buttons on it, two analog sticks, and a d-pad.The beautiful thing about the Wii is that while it's not as fast or responsive as simply pressing a button to do X, it helps alleviate the complexity of modern gaming.
+My dad -- who couldn't figure out how to play golf on the Xbox because of all the different button combinations -- had no problems playing golf on the Wii (he still has a hard time with, and has basically given up on, 3D gaming -- so 3D Zelda and Mario are right out for him).But now Microsoft and Sony continue to take the elegant design of the Wii controller (relative to the other gaming controllers, mind you) and add a whole bunch of shit to it to make it "better"Technologically, it might be better, but god damn, they are missing the point: it's not the motion controls that gave Nintendo the damn lead, it's the ease of operation that opened the console up to less than hardcore gamers.When my dad has to strap on a helmet just to play these games, he's going to junk the console, open his laptop, and play TextTwist into the night ... and I can't blame him.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107587</id>
+	<title>It's been done</title>
+	<author>Tar-Alcarin</author>
+	<datestamp>1243427100000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>Why is it that no-one seems to remember the fabulous TrackIR (<a href="http://naturalpoint.com/trackir/" title="naturalpoint.com" rel="nofollow">http://naturalpoint.com/trackir/</a> [naturalpoint.com]) when discussing Johnny Lee's headtracking gizmo?
+Is there any reason why this tried and true device couldn't or shouldn't be used in this application?</htmltext>
+<tokenext>Why is it that no-one seems to remember the fabulous TrackIR ( http : //naturalpoint.com/trackir/ [ naturalpoint.com ] ) when discussing Johnny Lee 's headtracking gizmo ?
+Is there any reason why this tried and true device could n't or should n't be used in this application ?</tokentext>
+<sentencetext>Why is it that no-one seems to remember the fabulous TrackIR (http://naturalpoint.com/trackir/ [naturalpoint.com]) when discussing Johnny Lee's headtracking gizmo?
+Is there any reason why this tried and true device couldn't or shouldn't be used in this application?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108103</id>
+	<title>Re:And the winner is ...</title>
+	<author>LordKaT</author>
+	<datestamp>1243431240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>There's paranoid, and then there's goddamn insane.</p></htmltext>
+<tokenext>There 's paranoid , and then there 's goddamn insane .</tokentext>
+<sentencetext>There's paranoid, and then there's goddamn insane.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107365</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107891</id>
+	<title>Re:Just as long as it's truly Bluetooth compatible</title>
+	<author>Aladrin</author>
+	<datestamp>1243429920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Smoothboard is neat, but I'd rather see an app that can work with a couple wired cameras, instead.  Having to mount and unmount the Wiimotes constantly to charge them seems like a major hassle, plus the whole issue with the bluetooth stack needed, etc.</p></htmltext>
+<tokenext>Smoothboard is neat , but I 'd rather see an app that can work with a couple wired cameras , instead .
+Having to mount and unmount the Wiimotes constantly to charge them seems like a major hassle , plus the whole issue with the bluetooth stack needed , etc .</tokentext>
+<sentencetext>Smoothboard is neat, but I'd rather see an app that can work with a couple wired cameras, instead.
+Having to mount and unmount the Wiimotes constantly to charge them seems like a major hassle, plus the whole issue with the bluetooth stack needed, etc.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107367</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108071</id>
+	<title>Re:just the next logical step in evolution of cont</title>
+	<author>hal2814</author>
+	<datestamp>1243431000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>You missed a few.  We went from all buttons to rotary knobs to digital joysticks to analog joysticks to digital gamepads to digital gamepads with an analog option to analog gamepads with a digital option to motion sensing nunchuck with IR pointer attached back to analog gamepad with a digital option but with rudimentary motion sensing tacked on to whatever Sony is putting out now.</htmltext>
+<tokenext>You missed a few .
+We went from all buttons to rotary knobs to digital joysticks to analog joysticks to digital gamepads to digital gamepads with an analog option to analog gamepads with a digital option to motion sensing nunchuck with IR pointer attached back to analog gamepad with a digital option but with rudimentary motion sensing tacked on to whatever Sony is putting out now .</tokentext>
+<sentencetext>You missed a few.
+We went from all buttons to rotary knobs to digital joysticks to analog joysticks to digital gamepads to digital gamepads with an analog option to analog gamepads with a digital option to motion sensing nunchuck with IR pointer attached back to analog gamepad with a digital option but with rudimentary motion sensing tacked on to whatever Sony is putting out now.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107157</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107621</id>
+	<title>This Is Sure To Be A Success If It's From Sony!!!</title>
+	<author>Anonymous</author>
+	<datestamp>1243427520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I'll add it to my other collection of Sony successes! <p>
+Minidisc Player</p><p>
+Betamax Player</p><p>
+Playstation 3</p><p>
+Sony Laserdisc</p><p>
+Can't wait!</p></htmltext>
+<tokenext>I 'll add it to my other collection of Sony successes !
+Minidisc Player Betamax Player Playstation 3 Sony Laserdisc Ca n't wait !</tokentext>
+<sentencetext>I'll add it to my other collection of Sony successes!
+Minidisc Player
+Betamax Player
+Playstation 3
+Sony Laserdisc
+Can't wait!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28111249</id>
+	<title>Re:This Is Sure To Be A Success If It's From Sony!</title>
+	<author>Toonol</author>
+	<datestamp>1243445700000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Wow.  First off... how sad to be a loyal supporter of a <b>corporate entity</b>.<br> <br>
+
+Secondly; the PS3 is at 22mil wordwide sales, compared to 30 mil for the 360, and about 50 mill for the Wii.  In the US, the situation is worse; about 8.5 mil PS3, compared to about 17 mill 360s.<br> <br>
+
+The PS3 has rebounded, to an extent.  Eighteen months ago it looked like it would be an embarrassing failure for Sony; now, it is at least competitive.  It will probably never catch up with 360 sales wordwide; it certainly will never catch up in the US.  That is a HUGE failure for a company that was the undisputed leader of the last two console generations; although Sony execs like to blather on about how they are still the market leader (keeping fanboys like you happy), there is no doubt they are tremendously disappointed how this gen turned out.<br> <br>
+
+The blessing is, that when Sony announces their next console, it might be significantly better.  The occasional failure tends to put a company back on the right track.  (By better, I don't mean more powerful; nobody complains the PS3 isn't powerful enough.  I mean with a price point and features that consumers want, and a renewed focus on actual games.)</htmltext>
+<tokenext>Wow .
+First off... how sad to be a loyal supporter of a corporate entity .
+Secondly ; the PS3 is at 22mil wordwide sales , compared to 30 mil for the 360 , and about 50 mill for the Wii .
+In the US , the situation is worse ; about 8.5 mil PS3 , compared to about 17 mill 360s .
+The PS3 has rebounded , to an extent .
+Eighteen months ago it looked like it would be an embarrassing failure for Sony ; now , it is at least competitive .
+It will probably never catch up with 360 sales wordwide ; it certainly will never catch up in the US .
+That is a HUGE failure for a company that was the undisputed leader of the last two console generations ; although Sony execs like to blather on about how they are still the market leader ( keeping fanboys like you happy ) , there is no doubt they are tremendously disappointed how this gen turned out .
+The blessing is , that when Sony announces their next console , it might be significantly better .
+The occasional failure tends to put a company back on the right track .
+( By better , I do n't mean more powerful ; nobody complains the PS3 is n't powerful enough .
+I mean with a price point and features that consumers want , and a renewed focus on actual games .
+)</tokentext>
+<sentencetext>Wow.
+First off... how sad to be a loyal supporter of a corporate entity.
+Secondly; the PS3 is at 22mil wordwide sales, compared to 30 mil for the 360, and about 50 mill for the Wii.
+In the US, the situation is worse; about 8.5 mil PS3, compared to about 17 mill 360s.
+The PS3 has rebounded, to an extent.
+Eighteen months ago it looked like it would be an embarrassing failure for Sony; now, it is at least competitive.
+It will probably never catch up with 360 sales wordwide; it certainly will never catch up in the US.
+That is a HUGE failure for a company that was the undisputed leader of the last two console generations; although Sony execs like to blather on about how they are still the market leader (keeping fanboys like you happy), there is no doubt they are tremendously disappointed how this gen turned out.
+The blessing is, that when Sony announces their next console, it might be significantly better.
+The occasional failure tends to put a company back on the right track.
+(By better, I don't mean more powerful; nobody complains the PS3 isn't powerful enough.
+I mean with a price point and features that consumers want, and a renewed focus on actual games.
+)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108139</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28112227</id>
+	<title>Wii success != Wiimote</title>
+	<author>DrYak</author>
+	<datestamp>1243449240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The success of the Wii among current generation of console isn't *directly due* to the Wiimote.<br>Adding a Wiimote-like peripheral to the next generation of consoles by Sony and Microsoft won't automagically replicate Nintendo's success.</p><p>The main success of the Wii is due to Nitendo policy and shift of focus.<br>The other consoles makers decided to design the current crop of console as "<i>the same as before but with all graphic/processing power turned up to eleven ! Hardcore gamers will like it 'cause we'll make even more bad-ass games !!!</i>"</p><p>Instead of competing on the same playfield, Nintendo decided to change their focus and target a broader audience, people who weren't gamers before. They got success because they target the other family members, when the concurrent where only targeting the male 20-30y.o. hardcore gamer.<br>They succeeded because, when the other companies were churning "<i>Medal of Vietnam hill #364 - Episode XII</i> - this time with even more realistic rain", they were dragging inspiration from casual gaming, or games inspired from usually non-gaming topics liked by the new target audience (yoga, actually doing sports,<nobr> <wbr></nobr>...)</p><p>Granted, lots of these games benefited from motion input sensors. But the Wiimote is a result of the need of the new type of games which helped Nintendo attract a new market. It's not the Wiimote in itself wich provoked the success.</p><p>Slapping a motion detector in the next production of peripheral won't alone help Microsoft and Sony. What they need is also to broaden their focus of games to a much larger audience than the traditional hardcore gamers. To concentrate additional effort on casual gaming and such.<br>The down-loadable content channels (such as X-Box Live Arcade) might be a good starting point.</p></htmltext>
+<tokenext>The success of the Wii among current generation of console is n't * directly due * to the Wiimote.Adding a Wiimote-like peripheral to the next generation of consoles by Sony and Microsoft wo n't automagically replicate Nintendo 's success.The main success of the Wii is due to Nitendo policy and shift of focus.The other consoles makers decided to design the current crop of console as " the same as before but with all graphic/processing power turned up to eleven !
+Hardcore gamers will like it 'cause we 'll make even more bad-ass games ! ! !
+" Instead of competing on the same playfield , Nintendo decided to change their focus and target a broader audience , people who were n't gamers before .
+They got success because they target the other family members , when the concurrent where only targeting the male 20-30y.o .
+hardcore gamer.They succeeded because , when the other companies were churning " Medal of Vietnam hill # 364 - Episode XII - this time with even more realistic rain " , they were dragging inspiration from casual gaming , or games inspired from usually non-gaming topics liked by the new target audience ( yoga , actually doing sports , ... ) Granted , lots of these games benefited from motion input sensors .
+But the Wiimote is a result of the need of the new type of games which helped Nintendo attract a new market .
+It 's not the Wiimote in itself wich provoked the success.Slapping a motion detector in the next production of peripheral wo n't alone help Microsoft and Sony .
+What they need is also to broaden their focus of games to a much larger audience than the traditional hardcore gamers .
+To concentrate additional effort on casual gaming and such.The down-loadable content channels ( such as X-Box Live Arcade ) might be a good starting point .</tokentext>
+<sentencetext>The success of the Wii among current generation of console isn't *directly due* to the Wiimote.Adding a Wiimote-like peripheral to the next generation of consoles by Sony and Microsoft won't automagically replicate Nintendo's success.The main success of the Wii is due to Nitendo policy and shift of focus.The other consoles makers decided to design the current crop of console as "the same as before but with all graphic/processing power turned up to eleven !
+Hardcore gamers will like it 'cause we'll make even more bad-ass games !!!
+"Instead of competing on the same playfield, Nintendo decided to change their focus and target a broader audience, people who weren't gamers before.
+They got success because they target the other family members, when the concurrent where only targeting the male 20-30y.o.
+hardcore gamer.They succeeded because, when the other companies were churning "Medal of Vietnam hill #364 - Episode XII - this time with even more realistic rain", they were dragging inspiration from casual gaming, or games inspired from usually non-gaming topics liked by the new target audience (yoga, actually doing sports, ...)Granted, lots of these games benefited from motion input sensors.
+But the Wiimote is a result of the need of the new type of games which helped Nintendo attract a new market.
+It's not the Wiimote in itself wich provoked the success.Slapping a motion detector in the next production of peripheral won't alone help Microsoft and Sony.
+What they need is also to broaden their focus of games to a much larger audience than the traditional hardcore gamers.
+To concentrate additional effort on casual gaming and such.The down-loadable content channels (such as X-Box Live Arcade) might be a good starting point.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107157</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107367</id>
+	<title>Just as long as it's truly Bluetooth compatible</title>
+	<author>Rosco P. Coltrane</author>
+	<datestamp>1243424940000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>I use the Wiimote all the time with <a href="http://www.smoothboard.net/" title="smoothboard.net">Smoothboard</a> [smoothboard.net], which incidentally is a much MUCH better application than Johny Lee's.</p><p>But really, the Wiimote's BT implementation sucks pond water from the bottom: you need to use the <a href="http://www.bluesoleil.com/" title="bluesoleil.com">BlueSoleil</a> [bluesoleil.com] stack, which is $$$ and can be quirky, unless you're really lucky and your Broadcomm or Toshiba stack works as-is, and the Wiimote doesn't autoconnect.</p><p>Quite frankly, all the Wiimote needs is a small firmware fix to be perfect. No need for Microsoft to reinvent things, just make it compatible.</p></htmltext>
+<tokenext>I use the Wiimote all the time with Smoothboard [ smoothboard.net ] , which incidentally is a much MUCH better application than Johny Lee 's.But really , the Wiimote 's BT implementation sucks pond water from the bottom : you need to use the BlueSoleil [ bluesoleil.com ] stack , which is $ $ $ and can be quirky , unless you 're really lucky and your Broadcomm or Toshiba stack works as-is , and the Wiimote does n't autoconnect.Quite frankly , all the Wiimote needs is a small firmware fix to be perfect .
+No need for Microsoft to reinvent things , just make it compatible .</tokentext>
+<sentencetext>I use the Wiimote all the time with Smoothboard [smoothboard.net], which incidentally is a much MUCH better application than Johny Lee's.But really, the Wiimote's BT implementation sucks pond water from the bottom: you need to use the BlueSoleil [bluesoleil.com] stack, which is $$$ and can be quirky, unless you're really lucky and your Broadcomm or Toshiba stack works as-is, and the Wiimote doesn't autoconnect.Quite frankly, all the Wiimote needs is a small firmware fix to be perfect.
+No need for Microsoft to reinvent things, just make it compatible.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107323</id>
+	<title>"Required"?</title>
+	<author>somersault</author>
+	<datestamp>1243424460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>e a camera looking at the user, a required setup for achieving positional head-tracking</p></div><p>Sure it's one setup, but it's hardly "required" otherwise it wouldn't have been possible to do the same trick with the wii-mote.</p><p>Besides, what happens if your identical twin brother walks over next to you? Did they think of that? No, they clearly did not. Am I truly concerned? No, I don't have a twin. Do I like speaking in questions today? Yes, I do.</p></div>
+	</htmltext>
+<tokenext>e a camera looking at the user , a required setup for achieving positional head-trackingSure it 's one setup , but it 's hardly " required " otherwise it would n't have been possible to do the same trick with the wii-mote.Besides , what happens if your identical twin brother walks over next to you ?
+Did they think of that ?
+No , they clearly did not .
+Am I truly concerned ?
+No , I do n't have a twin .
+Do I like speaking in questions today ?
+Yes , I do .</tokentext>
+<sentencetext>e a camera looking at the user, a required setup for achieving positional head-trackingSure it's one setup, but it's hardly "required" otherwise it wouldn't have been possible to do the same trick with the wii-mote.Besides, what happens if your identical twin brother walks over next to you?
+Did they think of that?
+No, they clearly did not.
+Am I truly concerned?
+No, I don't have a twin.
+Do I like speaking in questions today?
+Yes, I do.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107339</id>
+	<title>two cameras?</title>
+	<author>Singularitarian2048</author>
+	<datestamp>1243424580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Shouldn't these camera based controllers have at least two cameras working together, so that they can triangulate 3D positions?</p></htmltext>
+<tokenext>Should n't these camera based controllers have at least two cameras working together , so that they can triangulate 3D positions ?</tokentext>
+<sentencetext>Shouldn't these camera based controllers have at least two cameras working together, so that they can triangulate 3D positions?</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107891
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107367
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28111203
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107663
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109645
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108139
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107621
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_27</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109169
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107367
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108205
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107621
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108883
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108103
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107365
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28120639
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108005
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28116475
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107323
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108035
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107621
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_28</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109937
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107365
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108155
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107365
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28111199
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109557
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107621
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109983
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107271
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28110755
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28112227
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107157
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28111249
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108139
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107621
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_29</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28110615
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107339
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108071
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107157
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107515
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109933
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28114735
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107323
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107729
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107813
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107517
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108055
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107271
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109355
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107365
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107773
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107367
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_26</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108613
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107371
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0511211_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28110297
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0511211.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107365
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109937
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109355
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108155
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108103
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0511211.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107157
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108071
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28112227
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0511211.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107339
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28110615
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0511211.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107271
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109983
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108055
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0511211.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107621
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108205
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108139
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28111249
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109645
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108035
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109557
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28111199
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0511211.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107367
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107891
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107773
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109169
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0511211.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107323
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28114735
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28116475
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0511211.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107225
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0511211.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107587
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0511211.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107273
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28110755
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28111203
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107663
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107515
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108883
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28110297
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107729
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28109933
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0511211.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108005
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28120639
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0511211.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107371
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28108613
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0511211.12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107517
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0511211.28107813
+</commentlist>
+</conversation>

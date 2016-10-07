@@ -1,0 +1,2046 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_26_1738216</id>
+	<title>Green GT's All-Electric Supercar Unveiled</title>
+	<author>kdawson</author>
+	<datestamp>1243367160000</datestamp>
+	<htmltext><a href="http://www.inhabitat.com/" rel="nofollow">Mike</a> writes <i>"Swiss auto company Green GT recently released the first details on a svelte <a href="http://www.inhabitat.com/2009/05/26/green-gt-unveils-le-mans-electric-racecar/">all-electric supercar</a> that is being heralded as the most powerful electric race car ever built. Designed with the 2011 Le Mans race in mind, the Twenty-4 will boast a sleek carbon fiber chassis and twin 100-kw electric motors totaling 400 hp &mdash; enough to push the vehicle from 0-60 mph in 4 seconds flat, and to a top speed of 171 mph. GreenGT's head engineer Christophe Schwartz has stated that 'The GreenGT Twenty-4 design study could become our 2011 Le Mans Prototype electric racer, or it could even become an electric road-going supercar. There is a possibility to do both!'"</i></htmltext>
+<tokenext>Mike writes " Swiss auto company Green GT recently released the first details on a svelte all-electric supercar that is being heralded as the most powerful electric race car ever built .
+Designed with the 2011 Le Mans race in mind , the Twenty-4 will boast a sleek carbon fiber chassis and twin 100-kw electric motors totaling 400 hp â € ” enough to push the vehicle from 0-60 mph in 4 seconds flat , and to a top speed of 171 mph .
+GreenGT 's head engineer Christophe Schwartz has stated that 'The GreenGT Twenty-4 design study could become our 2011 Le Mans Prototype electric racer , or it could even become an electric road-going supercar .
+There is a possibility to do both !
+' "</tokentext>
+<sentencetext>Mike writes "Swiss auto company Green GT recently released the first details on a svelte all-electric supercar that is being heralded as the most powerful electric race car ever built.
+Designed with the 2011 Le Mans race in mind, the Twenty-4 will boast a sleek carbon fiber chassis and twin 100-kw electric motors totaling 400 hp â€” enough to push the vehicle from 0-60 mph in 4 seconds flat, and to a top speed of 171 mph.
+GreenGT's head engineer Christophe Schwartz has stated that 'The GreenGT Twenty-4 design study could become our 2011 Le Mans Prototype electric racer, or it could even become an electric road-going supercar.
+There is a possibility to do both!
+'"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100215</id>
+	<title>slow</title>
+	<author>pezpunk</author>
+	<datestamp>1243329840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>0-60 in 5 seconds and top speed of 171?  that's about the same performance numbers as my family sedan (a chrysler 300C SRT-8) which is DECIDEDLY not a supercar!  i did not know my 5-passenger luxury sedan was a viable candidate for lemans.</p></htmltext>
+<tokenext>0-60 in 5 seconds and top speed of 171 ?
+that 's about the same performance numbers as my family sedan ( a chrysler 300C SRT-8 ) which is DECIDEDLY not a supercar !
+i did not know my 5-passenger luxury sedan was a viable candidate for lemans .</tokentext>
+<sentencetext>0-60 in 5 seconds and top speed of 171?
+that's about the same performance numbers as my family sedan (a chrysler 300C SRT-8) which is DECIDEDLY not a supercar!
+i did not know my 5-passenger luxury sedan was a viable candidate for lemans.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100473</id>
+	<title>Re:2x100kW</title>
+	<author>harryandthehenderson</author>
+	<datestamp>1243330800000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p><div class="quote"><p>There is no actual conversion from kW to hp</p></div><p>Yes there are, but it's highly dependent on the context in which you use the term horsepower since it's not an SI unit.</p><p><div class="quote"><p>One mechanical horsepower of 550 foot-pounds per second is equivalent to 745.7 watts<br>
+A metric horsepower of 75 kgf-m per second is equivalent to 735.499 watts<br>
+A boiler horsepower is used for rating steam boilers and is equivalent to 34.5 pounds of water evaporated per hour at 212 degrees Fahrenheit, or 9809.5 watts<br>
+One horsepower for rating electric motors is equal to 746 watts</p></div><p> <a href="http://en.wikipedia.org/wiki/Horsepower" title="wikipedia.org" rel="nofollow">http://en.wikipedia.org/wiki/Horsepower</a> [wikipedia.org]</p></div>
+	</htmltext>
+<tokenext>There is no actual conversion from kW to hpYes there are , but it 's highly dependent on the context in which you use the term horsepower since it 's not an SI unit.One mechanical horsepower of 550 foot-pounds per second is equivalent to 745.7 watts A metric horsepower of 75 kgf-m per second is equivalent to 735.499 watts A boiler horsepower is used for rating steam boilers and is equivalent to 34.5 pounds of water evaporated per hour at 212 degrees Fahrenheit , or 9809.5 watts One horsepower for rating electric motors is equal to 746 watts http : //en.wikipedia.org/wiki/Horsepower [ wikipedia.org ]</tokentext>
+<sentencetext>There is no actual conversion from kW to hpYes there are, but it's highly dependent on the context in which you use the term horsepower since it's not an SI unit.One mechanical horsepower of 550 foot-pounds per second is equivalent to 745.7 watts
+A metric horsepower of 75 kgf-m per second is equivalent to 735.499 watts
+A boiler horsepower is used for rating steam boilers and is equivalent to 34.5 pounds of water evaporated per hour at 212 degrees Fahrenheit, or 9809.5 watts
+One horsepower for rating electric motors is equal to 746 watts http://en.wikipedia.org/wiki/Horsepower [wikipedia.org]
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100007</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099875</id>
+	<title>2 x 100kW != 400 HP</title>
+	<author>Anonymous</author>
+	<datestamp>1243371540000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Subject says it all, well almost.<br>100kW == 134HP</p></htmltext>
+<tokenext>Subject says it all , well almost.100kW = = 134HP</tokentext>
+<sentencetext>Subject says it all, well almost.100kW == 134HP</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100151</id>
+	<title>Re:2x100kW</title>
+	<author>MyLongNickName</author>
+	<datestamp>1243329480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>What are you talking about?</p><p>Horsepower's units are feet, pounds and minutes<br>Watts are Newtons, meters and seconds</p><p>All of those units directly convert.</p></htmltext>
+<tokenext>What are you talking about ? Horsepower 's units are feet , pounds and minutesWatts are Newtons , meters and secondsAll of those units directly convert .</tokentext>
+<sentencetext>What are you talking about?Horsepower's units are feet, pounds and minutesWatts are Newtons, meters and secondsAll of those units directly convert.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100007</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099933</id>
+	<title>2 x100KW != 400HP</title>
+	<author>phatvw</author>
+	<datestamp>1243328520000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>1KW ~= 1.34 HP<br>
+200KW ~= 268HP<br>
+400HP equivalent?<br>
+ They need to explain that a bit better in the article and on the <a href="http://www.green-gt.com/index.htm" title="green-gt.com">product website</a> [green-gt.com]</htmltext>
+<tokenext>1KW ~ = 1.34 HP 200KW ~ = 268HP 400HP equivalent ?
+They need to explain that a bit better in the article and on the product website [ green-gt.com ]</tokentext>
+<sentencetext>1KW ~= 1.34 HP
+200KW ~= 268HP
+400HP equivalent?
+They need to explain that a bit better in the article and on the product website [green-gt.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28107935</id>
+	<title>Re:24 hour charge??</title>
+	<author>xgr3gx</author>
+	<datestamp>1243430280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I think racing an electric vehicle is the best way to advance the development of them.  <br>
+Most of the automotive innovation in safety and performance we have today was developed from racing.  <br> <br>
+In racing, they need to figure out how to get the most range from a battery, how to recharge/replace the battery very quickly, and how to get the sweet spot of power/efficiency to be able to hang with gas race cars.  <br> <br>
+All of these are very real world problems.  Most of us don't need a 4 second battery change, but 5 minutes would be pretty sweet, comparable to refuel.</htmltext>
+<tokenext>I think racing an electric vehicle is the best way to advance the development of them .
+Most of the automotive innovation in safety and performance we have today was developed from racing .
+In racing , they need to figure out how to get the most range from a battery , how to recharge/replace the battery very quickly , and how to get the sweet spot of power/efficiency to be able to hang with gas race cars .
+All of these are very real world problems .
+Most of us do n't need a 4 second battery change , but 5 minutes would be pretty sweet , comparable to refuel .</tokentext>
+<sentencetext>I think racing an electric vehicle is the best way to advance the development of them.
+Most of the automotive innovation in safety and performance we have today was developed from racing.
+In racing, they need to figure out how to get the most range from a battery, how to recharge/replace the battery very quickly, and how to get the sweet spot of power/efficiency to be able to hang with gas race cars.
+All of these are very real world problems.
+Most of us don't need a 4 second battery change, but 5 minutes would be pretty sweet, comparable to refuel.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102337</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099947</id>
+	<title>more tech possible with electric</title>
+	<author>RichMan</author>
+	<datestamp>1243328580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>There are potential technology applications that could really enhance performance.</p><p>a) regenerative braking to store power would extend fuel performance even if regular fuel performance was identical to regular car. draw back would be battery cost. Best performance would be small quick draw thin film back to absorb curve braking and allow additional out of curve power spike</p><p>b) independent 4 wheel drive. a lot of electronics required but would be able to improve road grip and reduce tire wear</p><p>I don't see electronics, drive or breaking mentioned in the article.</p></htmltext>
+<tokenext>There are potential technology applications that could really enhance performance.a ) regenerative braking to store power would extend fuel performance even if regular fuel performance was identical to regular car .
+draw back would be battery cost .
+Best performance would be small quick draw thin film back to absorb curve braking and allow additional out of curve power spikeb ) independent 4 wheel drive .
+a lot of electronics required but would be able to improve road grip and reduce tire wearI do n't see electronics , drive or breaking mentioned in the article .</tokentext>
+<sentencetext>There are potential technology applications that could really enhance performance.a) regenerative braking to store power would extend fuel performance even if regular fuel performance was identical to regular car.
+draw back would be battery cost.
+Best performance would be small quick draw thin film back to absorb curve braking and allow additional out of curve power spikeb) independent 4 wheel drive.
+a lot of electronics required but would be able to improve road grip and reduce tire wearI don't see electronics, drive or breaking mentioned in the article.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100827</id>
+	<title>Re:2x100kW</title>
+	<author>wh1pp3t</author>
+	<datestamp>1243332240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Depends on the specifics of the battery voltage, capacity and current limits as well as physical specifications of the motor. There is no direct 'X kW = Y HP' conversion.</htmltext>
+<tokenext>Depends on the specifics of the battery voltage , capacity and current limits as well as physical specifications of the motor .
+There is no direct 'X kW = Y HP ' conversion .</tokentext>
+<sentencetext>Depends on the specifics of the battery voltage, capacity and current limits as well as physical specifications of the motor.
+There is no direct 'X kW = Y HP' conversion.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099927</id>
+	<title>Why not say the torque rating?</title>
+	<author>Anonymous</author>
+	<datestamp>1243328520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p> I wish electric car articles would stop publishing the power (kW,HP) rating of motors.<br>.<br>The real measure of an electric machine is its continuous torque (Nm, Ft lbs) output which relates directly to mass of the machine.  To get a high HP number you can take any motor and just run it really fast. Torque is not perfect, but better than power ratings.<br>.<br>Side note: 0-60 mph in 4 seconds flat. Ummm<nobr> <wbr></nobr>... doesn't the Tesla Roadster do it in sub 4 and its a consumer vehicle<nobr> <wbr></nobr>... just a thought</p></htmltext>
+<tokenext>I wish electric car articles would stop publishing the power ( kW,HP ) rating of motors..The real measure of an electric machine is its continuous torque ( Nm , Ft lbs ) output which relates directly to mass of the machine .
+To get a high HP number you can take any motor and just run it really fast .
+Torque is not perfect , but better than power ratings..Side note : 0-60 mph in 4 seconds flat .
+Ummm ... does n't the Tesla Roadster do it in sub 4 and its a consumer vehicle ... just a thought</tokentext>
+<sentencetext> I wish electric car articles would stop publishing the power (kW,HP) rating of motors..The real measure of an electric machine is its continuous torque (Nm, Ft lbs) output which relates directly to mass of the machine.
+To get a high HP number you can take any motor and just run it really fast.
+Torque is not perfect, but better than power ratings..Side note: 0-60 mph in 4 seconds flat.
+Ummm ... doesn't the Tesla Roadster do it in sub 4 and its a consumer vehicle ... just a thought</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711</id>
+	<title>24 hour charge??</title>
+	<author>gbulmash</author>
+	<datestamp>1243370760000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>5</modscore>
+	<htmltext>What interests me is how they'll power the car in a 24-hour race.  There don't seem to be details on that.  <br> <br>
+
+According to their site, there's a large solar-powered charging station (100 square meters of photovoltaic surface) which can be used to charge the car between races, but unless they're seriously loading the thing with batteries, they're either going to need long pit stops for charging or the ability to swap out battery packs as fast as other cars can pit for fuel. <br> <br>
+
+On the other hand, with their target date two years out and the rapidly evolving electric car scene, I wouldn't be surprised if there was some hot new prototype hitting the car show circuit around then that blew their doors off.</htmltext>
+<tokenext>What interests me is how they 'll power the car in a 24-hour race .
+There do n't seem to be details on that .
+According to their site , there 's a large solar-powered charging station ( 100 square meters of photovoltaic surface ) which can be used to charge the car between races , but unless they 're seriously loading the thing with batteries , they 're either going to need long pit stops for charging or the ability to swap out battery packs as fast as other cars can pit for fuel .
+On the other hand , with their target date two years out and the rapidly evolving electric car scene , I would n't be surprised if there was some hot new prototype hitting the car show circuit around then that blew their doors off .</tokentext>
+<sentencetext>What interests me is how they'll power the car in a 24-hour race.
+There don't seem to be details on that.
+According to their site, there's a large solar-powered charging station (100 square meters of photovoltaic surface) which can be used to charge the car between races, but unless they're seriously loading the thing with batteries, they're either going to need long pit stops for charging or the ability to swap out battery packs as fast as other cars can pit for fuel.
+On the other hand, with their target date two years out and the rapidly evolving electric car scene, I wouldn't be surprised if there was some hot new prototype hitting the car show circuit around then that blew their doors off.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100719</id>
+	<title>Re:24 hour charge??</title>
+	<author>PopeRatzo</author>
+	<datestamp>1243331820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>You know, thinking about an electric car possibly winning Le Mans makes me realize just how quickly the general public's mentality regarding the importance of petroleum-based fuels for transportation could change.</p><p>I've heard many times from gearheads how they'd never be caught dead in one-a them electric-battery toy cars, that gasoline is king, etc.  As soon as Kyle Bush takes one for a spin in the brickyard, that's gonna change.  Obviously, there won't be an electric car running in a NASCAR race because of the narrow rules, but a couple of pictures of Tony Stewart or Greg Biffle behind the wheel of an electric car would change a lot of minds.</p><p>I'm anxious to see what the arrival of very fast electric cars is going to do to auto racing.</p></htmltext>
+<tokenext>You know , thinking about an electric car possibly winning Le Mans makes me realize just how quickly the general public 's mentality regarding the importance of petroleum-based fuels for transportation could change.I 've heard many times from gearheads how they 'd never be caught dead in one-a them electric-battery toy cars , that gasoline is king , etc .
+As soon as Kyle Bush takes one for a spin in the brickyard , that 's gon na change .
+Obviously , there wo n't be an electric car running in a NASCAR race because of the narrow rules , but a couple of pictures of Tony Stewart or Greg Biffle behind the wheel of an electric car would change a lot of minds.I 'm anxious to see what the arrival of very fast electric cars is going to do to auto racing .</tokentext>
+<sentencetext>You know, thinking about an electric car possibly winning Le Mans makes me realize just how quickly the general public's mentality regarding the importance of petroleum-based fuels for transportation could change.I've heard many times from gearheads how they'd never be caught dead in one-a them electric-battery toy cars, that gasoline is king, etc.
+As soon as Kyle Bush takes one for a spin in the brickyard, that's gonna change.
+Obviously, there won't be an electric car running in a NASCAR race because of the narrow rules, but a couple of pictures of Tony Stewart or Greg Biffle behind the wheel of an electric car would change a lot of minds.I'm anxious to see what the arrival of very fast electric cars is going to do to auto racing.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103115</id>
+	<title>Re:2x100kW</title>
+	<author>NickW1234</author>
+	<datestamp>1243343820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Any change in battery voltage will affect both figures proportionally.
+<p>
+they're simply different units to display the same thing.
+</p><p>
+It's no different than saying I way 220lbs, or 100kg
+but there's no direct conversion because it depends how much I eat.</p></htmltext>
+<tokenext>Any change in battery voltage will affect both figures proportionally .
+they 're simply different units to display the same thing .
+It 's no different than saying I way 220lbs , or 100kg but there 's no direct conversion because it depends how much I eat .</tokentext>
+<sentencetext>Any change in battery voltage will affect both figures proportionally.
+they're simply different units to display the same thing.
+It's no different than saying I way 220lbs, or 100kg
+but there's no direct conversion because it depends how much I eat.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100405</id>
+	<title>Re:2x100kW</title>
+	<author>vlm</author>
+	<datestamp>1243330560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>TFA is even worse than "Sears Horsepower".  Take this link for example:</p><p><a href="http://www.sears.com/shc/s/p\_10153\_12605\_00970394000P?vName=Tools&amp;keyword=compressor" title="sears.com">http://www.sears.com/shc/s/p\_10153\_12605\_00970394000P?vName=Tools&amp;keyword=compressor</a> [sears.com]</p><p>By some miracle, Sears can pull "1.5 Hp" using "only 8 amps at 115 volts".  Truly a miracle of perpetual motion.</p><p>So, I figure, using "sears horsepower" they could calculate 200000 / ( ( 8*115) / 1.5 ) = some 326 Sears Horsepower for their little car.</p><p>Sears horsepower used to be the absolute peak of scummy non-scientific marketing, second only to "music power" of audiophile amplifiers, but these car guys might set a new low.</p></htmltext>
+<tokenext>TFA is even worse than " Sears Horsepower " .
+Take this link for example : http : //www.sears.com/shc/s/p \ _10153 \ _12605 \ _00970394000P ? vName = Tools&amp;keyword = compressor [ sears.com ] By some miracle , Sears can pull " 1.5 Hp " using " only 8 amps at 115 volts " .
+Truly a miracle of perpetual motion.So , I figure , using " sears horsepower " they could calculate 200000 / ( ( 8 * 115 ) / 1.5 ) = some 326 Sears Horsepower for their little car.Sears horsepower used to be the absolute peak of scummy non-scientific marketing , second only to " music power " of audiophile amplifiers , but these car guys might set a new low .</tokentext>
+<sentencetext>TFA is even worse than "Sears Horsepower".
+Take this link for example:http://www.sears.com/shc/s/p\_10153\_12605\_00970394000P?vName=Tools&amp;keyword=compressor [sears.com]By some miracle, Sears can pull "1.5 Hp" using "only 8 amps at 115 volts".
+Truly a miracle of perpetual motion.So, I figure, using "sears horsepower" they could calculate 200000 / ( ( 8*115) / 1.5 ) = some 326 Sears Horsepower for their little car.Sears horsepower used to be the absolute peak of scummy non-scientific marketing, second only to "music power" of audiophile amplifiers, but these car guys might set a new low.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100731</id>
+	<title>They need at least 800hp.....</title>
+	<author>KPexEA</author>
+	<datestamp>1243331880000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>1) They are way underpowered, even compared to the 2008 front runners.<br>
+2) There currently is NO electric car class at all<br>
+3) LeMans is by "Invitation only", not just anyone can show up and race.<br>
+<br>
+~2008 specs for the front runners:<br>
+<br>
+Audi R10: 650 hp-1100 Nm-925 kg<br>
+Peugeot 908: 700 hp-1200 Nm-925 kg</htmltext>
+<tokenext>1 ) They are way underpowered , even compared to the 2008 front runners .
+2 ) There currently is NO electric car class at all 3 ) LeMans is by " Invitation only " , not just anyone can show up and race .
+~ 2008 specs for the front runners : Audi R10 : 650 hp-1100 Nm-925 kg Peugeot 908 : 700 hp-1200 Nm-925 kg</tokentext>
+<sentencetext>1) They are way underpowered, even compared to the 2008 front runners.
+2) There currently is NO electric car class at all
+3) LeMans is by "Invitation only", not just anyone can show up and race.
+~2008 specs for the front runners:
+
+Audi R10: 650 hp-1100 Nm-925 kg
+Peugeot 908: 700 hp-1200 Nm-925 kg</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102131</id>
+	<title>Re:24 hour charge??</title>
+	<author>Anonymous</author>
+	<datestamp>1243338960000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Holy crap. That is waaaay too complicated.</p><p>1. Pull up to red line.<br>2. Pit crew opens quick - release hatch.<br>3. Press release lever.<br>4. Slide out battery pack, possibly onto a small wheeled cart.<br>5. Slide in new battery pack, possibly using a small wheeled cart.<br>6. Close hatch.</p><p>No need for elaborate lifting mechanisms. No reason to rebuild the pit, install ramps, or do other acrobatics. And while one or two people change the battery, the rest of the crew is doing the usual stuff like changing the tires which is going to be the longest part of the procedure in any event. And if you just need some more fuel, this could still be performed in a matter of 4 to 6 seconds.</p><p>Notice that I use the term "Battery" in the singular while you use the plural form. There is no reason to assume that you would need to use more than one battery.</p></htmltext>
+<tokenext>Holy crap .
+That is waaaay too complicated.1 .
+Pull up to red line.2 .
+Pit crew opens quick - release hatch.3 .
+Press release lever.4 .
+Slide out battery pack , possibly onto a small wheeled cart.5 .
+Slide in new battery pack , possibly using a small wheeled cart.6 .
+Close hatch.No need for elaborate lifting mechanisms .
+No reason to rebuild the pit , install ramps , or do other acrobatics .
+And while one or two people change the battery , the rest of the crew is doing the usual stuff like changing the tires which is going to be the longest part of the procedure in any event .
+And if you just need some more fuel , this could still be performed in a matter of 4 to 6 seconds.Notice that I use the term " Battery " in the singular while you use the plural form .
+There is no reason to assume that you would need to use more than one battery .</tokentext>
+<sentencetext>Holy crap.
+That is waaaay too complicated.1.
+Pull up to red line.2.
+Pit crew opens quick - release hatch.3.
+Press release lever.4.
+Slide out battery pack, possibly onto a small wheeled cart.5.
+Slide in new battery pack, possibly using a small wheeled cart.6.
+Close hatch.No need for elaborate lifting mechanisms.
+No reason to rebuild the pit, install ramps, or do other acrobatics.
+And while one or two people change the battery, the rest of the crew is doing the usual stuff like changing the tires which is going to be the longest part of the procedure in any event.
+And if you just need some more fuel, this could still be performed in a matter of 4 to 6 seconds.Notice that I use the term "Battery" in the singular while you use the plural form.
+There is no reason to assume that you would need to use more than one battery.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101021</id>
+	<title>So when's the family care endurance race?</title>
+	<author>GodfatherofSoul</author>
+	<datestamp>1243333200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I haven't followed the research closely, but it seems like the majority of stories are about high-end electric race cars when the real money would be in much more modest family sudans or commuters.  I'd love to see an endurance racing challenge where manufacturers had to hit real-world benchmarks (hauling around mom, kids, and groceries equivalent in weight for X miles or X hours).</htmltext>
+<tokenext>I have n't followed the research closely , but it seems like the majority of stories are about high-end electric race cars when the real money would be in much more modest family sudans or commuters .
+I 'd love to see an endurance racing challenge where manufacturers had to hit real-world benchmarks ( hauling around mom , kids , and groceries equivalent in weight for X miles or X hours ) .</tokentext>
+<sentencetext>I haven't followed the research closely, but it seems like the majority of stories are about high-end electric race cars when the real money would be in much more modest family sudans or commuters.
+I'd love to see an endurance racing challenge where manufacturers had to hit real-world benchmarks (hauling around mom, kids, and groceries equivalent in weight for X miles or X hours).</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100901</id>
+	<title>Re:24 hour charge??</title>
+	<author>Anonymous</author>
+	<datestamp>1243332600000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Even if the quick battery swap is doable, and it certainly sounds reasonable, more importantly can the current batteries last as long as a tank of gas so it doesn't have to pit stop more often than the rest of the racers?</p></htmltext>
+<tokenext>Even if the quick battery swap is doable , and it certainly sounds reasonable , more importantly can the current batteries last as long as a tank of gas so it does n't have to pit stop more often than the rest of the racers ?</tokentext>
+<sentencetext>Even if the quick battery swap is doable, and it certainly sounds reasonable, more importantly can the current batteries last as long as a tank of gas so it doesn't have to pit stop more often than the rest of the racers?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103213</id>
+	<title>Trust them?</title>
+	<author>cawpin</author>
+	<datestamp>1243344300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Do we really trust a company that can't do a simple conversion?
+<br> <br>
+100kW ~ 134-135 hp (depending on hp standard)
+<br> <br>
+2 x 100kW ~ 270hp
+<br> <br>
+270 =/= 400</htmltext>
+<tokenext>Do we really trust a company that ca n't do a simple conversion ?
+100kW ~ 134-135 hp ( depending on hp standard ) 2 x 100kW ~ 270hp 270 = / = 400</tokentext>
+<sentencetext>Do we really trust a company that can't do a simple conversion?
+100kW ~ 134-135 hp (depending on hp standard)
+ 
+2 x 100kW ~ 270hp
+ 
+270 =/= 400</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102537</id>
+	<title>Re:Can't run in GT2</title>
+	<author>Motard</author>
+	<datestamp>1243340880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Unless they have dealerships in place for 2011, they can't run in a GT class.  This concept is illegal for all classes however...</p><p><a href="http://www.lemans.org/sport/sport/reglements/ressources/2009/auto/reglement\_2011\_moteur\_hybride\_gb.pdf" title="lemans.org" rel="nofollow">http://www.lemans.org/sport/sport/reglements/ressources/2009/auto/reglement\_2011\_moteur\_hybride\_gb.pdf</a> [lemans.org]</p></htmltext>
+<tokenext>Unless they have dealerships in place for 2011 , they ca n't run in a GT class .
+This concept is illegal for all classes however...http : //www.lemans.org/sport/sport/reglements/ressources/2009/auto/reglement \ _2011 \ _moteur \ _hybride \ _gb.pdf [ lemans.org ]</tokentext>
+<sentencetext>Unless they have dealerships in place for 2011, they can't run in a GT class.
+This concept is illegal for all classes however...http://www.lemans.org/sport/sport/reglements/ressources/2009/auto/reglement\_2011\_moteur\_hybride\_gb.pdf [lemans.org]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100839</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100261</id>
+	<title>Re:Heat Problems?</title>
+	<author>Myrv</author>
+	<datestamp>1243330020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Two Possibilities:</p><p>1) They're for the brakes.  Their configuration seems to support this possibility.  Brakes on F1 or Lemans or similar cars will glow red hot on some corners making brake cooling a priority. Of course assuming they use some form of regenerative braking the load on the brakes should be reduced which brings us to:</p><p>2) Electric motor cooling. 100kw electric motors will get quite toasty if not cooled.</p></htmltext>
+<tokenext>Two Possibilities : 1 ) They 're for the brakes .
+Their configuration seems to support this possibility .
+Brakes on F1 or Lemans or similar cars will glow red hot on some corners making brake cooling a priority .
+Of course assuming they use some form of regenerative braking the load on the brakes should be reduced which brings us to : 2 ) Electric motor cooling .
+100kw electric motors will get quite toasty if not cooled .</tokentext>
+<sentencetext>Two Possibilities:1) They're for the brakes.
+Their configuration seems to support this possibility.
+Brakes on F1 or Lemans or similar cars will glow red hot on some corners making brake cooling a priority.
+Of course assuming they use some form of regenerative braking the load on the brakes should be reduced which brings us to:2) Electric motor cooling.
+100kw electric motors will get quite toasty if not cooled.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099999</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100923</id>
+	<title>Re:Racecars?</title>
+	<author>wh1pp3t</author>
+	<datestamp>1243332660000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>Historically, developments in racing technology do come to consumer products. For example, semi-automatic transmission (paddle shifting) used in F1 is now common (either paddles or tip-tronic) in many production cars.</htmltext>
+<tokenext>Historically , developments in racing technology do come to consumer products .
+For example , semi-automatic transmission ( paddle shifting ) used in F1 is now common ( either paddles or tip-tronic ) in many production cars .</tokentext>
+<sentencetext>Historically, developments in racing technology do come to consumer products.
+For example, semi-automatic transmission (paddle shifting) used in F1 is now common (either paddles or tip-tronic) in many production cars.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100059</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099757</id>
+	<title>Nice car</title>
+	<author>PPH</author>
+	<datestamp>1243371060000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext>Pity about that short extension cord.</htmltext>
+<tokenext>Pity about that short extension cord .</tokentext>
+<sentencetext>Pity about that short extension cord.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100059</id>
+	<title>Racecars?</title>
+	<author>dedazo</author>
+	<datestamp>1243329060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Why not develop a car normal people will actually buy and use? This is interesting but I don't think we have the luxury of trickle-down innovation at this point, seriously. Just start building the damn things in an industrial scale so a sizable portion of vehicle-bound humanity can start moving to them, FFS!</p></htmltext>
+<tokenext>Why not develop a car normal people will actually buy and use ?
+This is interesting but I do n't think we have the luxury of trickle-down innovation at this point , seriously .
+Just start building the damn things in an industrial scale so a sizable portion of vehicle-bound humanity can start moving to them , FFS !</tokentext>
+<sentencetext>Why not develop a car normal people will actually buy and use?
+This is interesting but I don't think we have the luxury of trickle-down innovation at this point, seriously.
+Just start building the damn things in an industrial scale so a sizable portion of vehicle-bound humanity can start moving to them, FFS!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100241</id>
+	<title>Re:2x100kW</title>
+	<author>wren337</author>
+	<datestamp>1243329960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Without knowing for sure, I would guess the motors are 100kw rated by the manufacturer, and they're over-volting them by 30-40\%.</p></htmltext>
+<tokenext>Without knowing for sure , I would guess the motors are 100kw rated by the manufacturer , and they 're over-volting them by 30-40 \ % .</tokentext>
+<sentencetext>Without knowing for sure, I would guess the motors are 100kw rated by the manufacturer, and they're over-volting them by 30-40\%.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100269</id>
+	<title>my thoughts</title>
+	<author>jaimz22</author>
+	<datestamp>1243330020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>As far as the motors making 350 - 400 hp, it's totally plausable. If you're simply doing a unit conversion from kW to HP you're doing it wrong
+
+Hhe HP rating you're getting from that conversion is electrical horsepower, not mechanical.
+
+You have to put this thing on a dyno to get the true output in mechanical horsepower. it's not as simple as doing a mathematical conversion from one unit to the other.
+
+And as far as they aerodynamics, I'm sure that they designed it to be as aerodynamic as possible. Yes the tires do need cooled down, any race in that car for any amount of time would create vast amounts of heat on the tires causing them to run slower than they could with cooler tires. I'm not going to explain why that is. if you want to know look it up.
+
+OVERALL I'm not impressed. The Tesla Roadster is faster, and more available. SOOOOOO.... I don't see any need for these guys to toss around words like 'Les Mans' because that's just not in THIS car's future. maybe something based on this. but not THIS car.</htmltext>
+<tokenext>As far as the motors making 350 - 400 hp , it 's totally plausable .
+If you 're simply doing a unit conversion from kW to HP you 're doing it wrong Hhe HP rating you 're getting from that conversion is electrical horsepower , not mechanical .
+You have to put this thing on a dyno to get the true output in mechanical horsepower .
+it 's not as simple as doing a mathematical conversion from one unit to the other .
+And as far as they aerodynamics , I 'm sure that they designed it to be as aerodynamic as possible .
+Yes the tires do need cooled down , any race in that car for any amount of time would create vast amounts of heat on the tires causing them to run slower than they could with cooler tires .
+I 'm not going to explain why that is .
+if you want to know look it up .
+OVERALL I 'm not impressed .
+The Tesla Roadster is faster , and more available .
+SOOOOOO.... I do n't see any need for these guys to toss around words like 'Les Mans ' because that 's just not in THIS car 's future .
+maybe something based on this .
+but not THIS car .</tokentext>
+<sentencetext>As far as the motors making 350 - 400 hp, it's totally plausable.
+If you're simply doing a unit conversion from kW to HP you're doing it wrong
+
+Hhe HP rating you're getting from that conversion is electrical horsepower, not mechanical.
+You have to put this thing on a dyno to get the true output in mechanical horsepower.
+it's not as simple as doing a mathematical conversion from one unit to the other.
+And as far as they aerodynamics, I'm sure that they designed it to be as aerodynamic as possible.
+Yes the tires do need cooled down, any race in that car for any amount of time would create vast amounts of heat on the tires causing them to run slower than they could with cooler tires.
+I'm not going to explain why that is.
+if you want to know look it up.
+OVERALL I'm not impressed.
+The Tesla Roadster is faster, and more available.
+SOOOOOO.... I don't see any need for these guys to toss around words like 'Les Mans' because that's just not in THIS car's future.
+maybe something based on this.
+but not THIS car.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103507</id>
+	<title>Re:24 hour charge??</title>
+	<author>John Hasler</author>
+	<datestamp>1243346040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>&gt; As soon as Kyle Bush takes one for a spin in the brickyard, that's gonna change.<br>&gt; Obviously, there won't be an electric car running in a NASCAR race because of the<br>&gt; narrow rules...</p><p>"IndyCar" rules are at least as restricitve as NASCAR rules.  "IndyCars" all have identical powertrains and *governors*.</p></htmltext>
+<tokenext>&gt; As soon as Kyle Bush takes one for a spin in the brickyard , that 's gon na change. &gt; Obviously , there wo n't be an electric car running in a NASCAR race because of the &gt; narrow rules... " IndyCar " rules are at least as restricitve as NASCAR rules .
+" IndyCars " all have identical powertrains and * governors * .</tokentext>
+<sentencetext>&gt; As soon as Kyle Bush takes one for a spin in the brickyard, that's gonna change.&gt; Obviously, there won't be an electric car running in a NASCAR race because of the&gt; narrow rules..."IndyCar" rules are at least as restricitve as NASCAR rules.
+"IndyCars" all have identical powertrains and *governors*.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100719</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28108535</id>
+	<title>Re:Heat Problems?</title>
+	<author>Anonymous</author>
+	<datestamp>1243433880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Looks like they are straight through holes. What can be more "wind-cheatingest" than that?</p></htmltext>
+<tokenext>Looks like they are straight through holes .
+What can be more " wind-cheatingest " than that ?</tokentext>
+<sentencetext>Looks like they are straight through holes.
+What can be more "wind-cheatingest" than that?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099999</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100049</id>
+	<title>Re:2x100kW</title>
+	<author>WeBMartians</author>
+	<datestamp>1243329000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Hmmm... Maybe "overcurrent" is possible. In other words, 268 hp CONTINUOUSLY and something higher for an insane few seconds. TWO motors? Hmmm... left and right, front and rear, all together...? Also, I thought Le Mans requires a trunk and a tire change.
+
+The car is pretty, though. "If it looks good, it'll 'fly' good."</htmltext>
+<tokenext>Hmmm... Maybe " overcurrent " is possible .
+In other words , 268 hp CONTINUOUSLY and something higher for an insane few seconds .
+TWO motors ?
+Hmmm... left and right , front and rear , all together... ?
+Also , I thought Le Mans requires a trunk and a tire change .
+The car is pretty , though .
+" If it looks good , it 'll 'fly ' good .
+"</tokentext>
+<sentencetext>Hmmm... Maybe "overcurrent" is possible.
+In other words, 268 hp CONTINUOUSLY and something higher for an insane few seconds.
+TWO motors?
+Hmmm... left and right, front and rear, all together...?
+Also, I thought Le Mans requires a trunk and a tire change.
+The car is pretty, though.
+"If it looks good, it'll 'fly' good.
+"</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102833</id>
+	<title>Re:2 x100KW != 400HP</title>
+	<author>breeze95</author>
+	<datestamp>1243342200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>1KW ~= 1.34 HP
+
+200KW ~= 268HP
+
+400HP equivalent?
+
+ They need to explain that a bit better in the article and on the <a href="http://www.green-gt.com/index.htm" title="green-gt.com" rel="nofollow">product website</a> [green-gt.com]</p> </div><p>
+I don't think it's a literal conversion. Perhaps the performance of a 200KW motor is equivalent to a 400 HP piston driven motor. As someone who was into drag racing many years ago I can tell you from experience that you need about 400 HP motor to push a 2400 pound car from 0-60 MPH in 4 seconds. If a 200 KW electric motor can do 0-60 MPH in 4 seconds then that is equivalent to a 400 HP piston driven motor.</p></div>
+	</htmltext>
+<tokenext>1KW ~ = 1.34 HP 200KW ~ = 268HP 400HP equivalent ?
+They need to explain that a bit better in the article and on the product website [ green-gt.com ] I do n't think it 's a literal conversion .
+Perhaps the performance of a 200KW motor is equivalent to a 400 HP piston driven motor .
+As someone who was into drag racing many years ago I can tell you from experience that you need about 400 HP motor to push a 2400 pound car from 0-60 MPH in 4 seconds .
+If a 200 KW electric motor can do 0-60 MPH in 4 seconds then that is equivalent to a 400 HP piston driven motor .</tokentext>
+<sentencetext>1KW ~= 1.34 HP
+
+200KW ~= 268HP
+
+400HP equivalent?
+They need to explain that a bit better in the article and on the product website [green-gt.com] 
+I don't think it's a literal conversion.
+Perhaps the performance of a 200KW motor is equivalent to a 400 HP piston driven motor.
+As someone who was into drag racing many years ago I can tell you from experience that you need about 400 HP motor to push a 2400 pound car from 0-60 MPH in 4 seconds.
+If a 200 KW electric motor can do 0-60 MPH in 4 seconds then that is equivalent to a 400 HP piston driven motor.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099933</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100025</id>
+	<title>Who cares abou archaic measurements like hp anyway</title>
+	<author>Colin Smith</author>
+	<datestamp>1243328940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I mean god, lets all get into the 19th century already people.</p><p>Also... It's The Torque Stupid<br>And 0-60 in 4 seconds is slow anyway...</p><p>HTH etc</p></htmltext>
+<tokenext>I mean god , lets all get into the 19th century already people.Also... It 's The Torque StupidAnd 0-60 in 4 seconds is slow anyway...HTH etc</tokentext>
+<sentencetext>I mean god, lets all get into the 19th century already people.Also... It's The Torque StupidAnd 0-60 in 4 seconds is slow anyway...HTH etc</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102457</id>
+	<title>Re:24 hour charge??</title>
+	<author>Anonymous</author>
+	<datestamp>1243340460000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Electrics can and do kick serious but in drag racing, barely streetable Corvettes and Vipers getting hole-shotted of the line and their doors blown off in the traps by something that looks like what your Grandmother might drive to the grocery store make an impression too! Check out <a href="http://www.youtube.com/watch?v=BrHXdM9f13k" title="youtube.com"> White Zombie</a> [youtube.com] or <a href="http://www.youtube.com/watch?v=a2JkMCzjTVE&amp;NR=1" title="youtube.com">0 to 60 in under a second</a> [youtube.com]</p></htmltext>
+<tokenext>Electrics can and do kick serious but in drag racing , barely streetable Corvettes and Vipers getting hole-shotted of the line and their doors blown off in the traps by something that looks like what your Grandmother might drive to the grocery store make an impression too !
+Check out White Zombie [ youtube.com ] or 0 to 60 in under a second [ youtube.com ]</tokentext>
+<sentencetext>Electrics can and do kick serious but in drag racing, barely streetable Corvettes and Vipers getting hole-shotted of the line and their doors blown off in the traps by something that looks like what your Grandmother might drive to the grocery store make an impression too!
+Check out  White Zombie [youtube.com] or 0 to 60 in under a second [youtube.com]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100719</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100857</id>
+	<title>Re:slow</title>
+	<author>Krneki</author>
+	<datestamp>1243332360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Until you try to corner with you little bus. And it was 4 sec not 5.</htmltext>
+<tokenext>Until you try to corner with you little bus .
+And it was 4 sec not 5 .</tokentext>
+<sentencetext>Until you try to corner with you little bus.
+And it was 4 sec not 5.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100215</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100211</id>
+	<title>Re:Heat Problems?</title>
+	<author>will this name work</author>
+	<datestamp>1243329780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Technical regulations regarding the dimensions and shape of the car perhaps. The car looks like it is an open wheel monocoque that has been covered up. I'm not sure about this but I don't think open wheel designs are permitted in Le Mans.</htmltext>
+<tokenext>Technical regulations regarding the dimensions and shape of the car perhaps .
+The car looks like it is an open wheel monocoque that has been covered up .
+I 'm not sure about this but I do n't think open wheel designs are permitted in Le Mans .</tokentext>
+<sentencetext>Technical regulations regarding the dimensions and shape of the car perhaps.
+The car looks like it is an open wheel monocoque that has been covered up.
+I'm not sure about this but I don't think open wheel designs are permitted in Le Mans.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099999</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100885</id>
+	<title>Re:Racecars?</title>
+	<author>osu-neko</author>
+	<datestamp>1243332540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Why not develop a car normal people will actually buy and use?</p></div><p>The false dilemma strikes again!</p><p>(People ARE developing cars normal people will actually buy and use.  They're also doing this.  And they're researching cancer, working on making safer buildings, working on making tastier snack food, and a million other things too.  The fact that they're doing all these other things does not mean they aren't working on normal electric cars.  "People", being a large number of individuals, are capable of working on many different things at the same time.)</p></div>
+	</htmltext>
+<tokenext>Why not develop a car normal people will actually buy and use ? The false dilemma strikes again !
+( People ARE developing cars normal people will actually buy and use .
+They 're also doing this .
+And they 're researching cancer , working on making safer buildings , working on making tastier snack food , and a million other things too .
+The fact that they 're doing all these other things does not mean they are n't working on normal electric cars .
+" People " , being a large number of individuals , are capable of working on many different things at the same time .
+)</tokentext>
+<sentencetext>Why not develop a car normal people will actually buy and use?The false dilemma strikes again!
+(People ARE developing cars normal people will actually buy and use.
+They're also doing this.
+And they're researching cancer, working on making safer buildings, working on making tastier snack food, and a million other things too.
+The fact that they're doing all these other things does not mean they aren't working on normal electric cars.
+"People", being a large number of individuals, are capable of working on many different things at the same time.
+)
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100059</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102129</id>
+	<title>Re:Racecars?</title>
+	<author>VORNAN-20</author>
+	<datestamp>1243338960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>From previous:
+
+We do NOT have an electrical grid that can support all the new electric cars you would love to see. Sorry, its just not there, and not likely to be there for several decades.
+
+This is a correct statement and IMO the best argument for investing in distributed solar (rooftop panels) I have ever seen.  I know it will not pay back for a number of years but it does pay back for most locations in the US.  There are even companies that will let you lease their solar cell panels on your roof in return for a long-term commitment.   There are also juicy Federal (US) subsidies on the horizon.
+
+Somehow or other I think this will happen for ordinary folks.  And as a longtime geek, the thought of an all-electric Le Mans strikes me as a good thing, there should be some sort of relationship between the race cars for a race like that and the cars that ordinary people drive.  Maybe if they let Danica Patrick drive (she placed third at Indy this year) an electric car could win IF the rules gave them a chance.
+
+
+For racing of course you don't worry about the long term, just get your car across the line first.</htmltext>
+<tokenext>From previous : We do NOT have an electrical grid that can support all the new electric cars you would love to see .
+Sorry , its just not there , and not likely to be there for several decades .
+This is a correct statement and IMO the best argument for investing in distributed solar ( rooftop panels ) I have ever seen .
+I know it will not pay back for a number of years but it does pay back for most locations in the US .
+There are even companies that will let you lease their solar cell panels on your roof in return for a long-term commitment .
+There are also juicy Federal ( US ) subsidies on the horizon .
+Somehow or other I think this will happen for ordinary folks .
+And as a longtime geek , the thought of an all-electric Le Mans strikes me as a good thing , there should be some sort of relationship between the race cars for a race like that and the cars that ordinary people drive .
+Maybe if they let Danica Patrick drive ( she placed third at Indy this year ) an electric car could win IF the rules gave them a chance .
+For racing of course you do n't worry about the long term , just get your car across the line first .</tokentext>
+<sentencetext>From previous:
+
+We do NOT have an electrical grid that can support all the new electric cars you would love to see.
+Sorry, its just not there, and not likely to be there for several decades.
+This is a correct statement and IMO the best argument for investing in distributed solar (rooftop panels) I have ever seen.
+I know it will not pay back for a number of years but it does pay back for most locations in the US.
+There are even companies that will let you lease their solar cell panels on your roof in return for a long-term commitment.
+There are also juicy Federal (US) subsidies on the horizon.
+Somehow or other I think this will happen for ordinary folks.
+And as a longtime geek, the thought of an all-electric Le Mans strikes me as a good thing, there should be some sort of relationship between the race cars for a race like that and the cars that ordinary people drive.
+Maybe if they let Danica Patrick drive (she placed third at Indy this year) an electric car could win IF the rules gave them a chance.
+For racing of course you don't worry about the long term, just get your car across the line first.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100281</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28107329</id>
+	<title>Re:24 hour charge??</title>
+	<author>Chiindi</author>
+	<datestamp>1243424520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>You've heard of the worlds biggest ball of string, this is the worlds longest extension cord.</htmltext>
+<tokenext>You 've heard of the worlds biggest ball of string , this is the worlds longest extension cord .</tokentext>
+<sentencetext>You've heard of the worlds biggest ball of string, this is the worlds longest extension cord.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099999</id>
+	<title>Heat Problems?</title>
+	<author>Anonymous</author>
+	<datestamp>1243328760000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Why the big air scoops on this car?  Do they have a heat problem?  They almost look like they are placed for tire cooling more than anything else.</p><p>You would think that they would try to make this the sleekest wind-cheatingest car they could instead of grabbing huge chunks of air.</p></htmltext>
+<tokenext>Why the big air scoops on this car ?
+Do they have a heat problem ?
+They almost look like they are placed for tire cooling more than anything else.You would think that they would try to make this the sleekest wind-cheatingest car they could instead of grabbing huge chunks of air .</tokentext>
+<sentencetext>Why the big air scoops on this car?
+Do they have a heat problem?
+They almost look like they are placed for tire cooling more than anything else.You would think that they would try to make this the sleekest wind-cheatingest car they could instead of grabbing huge chunks of air.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101683</id>
+	<title>Re:Racecars?</title>
+	<author>Anonymous</author>
+	<datestamp>1243336440000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I couldn't agree more. The push for green car technology will only serve to hasten the demise of the U.S. auto industry, while doing little eliminate toxic waste. Ignore those who claim to be able to predict the future. Last time I checked, no one had a crystal ball.</p></htmltext>
+<tokenext>I could n't agree more .
+The push for green car technology will only serve to hasten the demise of the U.S. auto industry , while doing little eliminate toxic waste .
+Ignore those who claim to be able to predict the future .
+Last time I checked , no one had a crystal ball .</tokentext>
+<sentencetext>I couldn't agree more.
+The push for green car technology will only serve to hasten the demise of the U.S. auto industry, while doing little eliminate toxic waste.
+Ignore those who claim to be able to predict the future.
+Last time I checked, no one had a crystal ball.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100281</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871</id>
+	<title>2x100kW</title>
+	<author>Marcika</author>
+	<datestamp>1243371540000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext>Just to point out: TFA must be erroneous or don't know what they are talking about. Two 100kW engines add up to a total of 200kW, i.e. 268hp - far short of the claimed 400hp.</htmltext>
+<tokenext>Just to point out : TFA must be erroneous or do n't know what they are talking about .
+Two 100kW engines add up to a total of 200kW , i.e .
+268hp - far short of the claimed 400hp .</tokentext>
+<sentencetext>Just to point out: TFA must be erroneous or don't know what they are talking about.
+Two 100kW engines add up to a total of 200kW, i.e.
+268hp - far short of the claimed 400hp.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102265</id>
+	<title>Re:Nice, SLOW, ILLEGAL car</title>
+	<author>Motard</author>
+	<datestamp>1243339560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>A magical extension-cord-of-stretching would be the only thing that might give this car a shot.  400 HP is ludicrously low for a Lemans Prototype (LMP).  They don't mention the weight of the car.</p><p>In addition, the car as shown would not be permitted.  All cars running in the 24 must be 2-seater sportscars.  While anyone would chuckle considering how a passenger would actually fit in an LMP, they clearly have some minimum allowance while the pictured vehicle is clearly a one-driver-in-the-middle car.</p><p>The rear wing design shown is clearly suboptimal if you look at the innovations on real LMPs.  The design would be really cool for a Batman movie, but otherwise, it seems clear that it was designed by students and not ready to go up against really highly paid engineers.</p><p>Oh, and those five students (or their PR dept) might want to refer to a summary of the 2011 ACO rules for Lemans Protypes: <a href="http://www.lemans.org/sport/sport/reglements/ressources/2009/auto/reglement\_2011\_moteur\_hybride\_gb.pdf" title="lemans.org" rel="nofollow">http://www.lemans.org/sport/sport/reglements/ressources/2009/auto/reglement\_2011\_moteur\_hybride\_gb.pdf</a> [lemans.org]</p><p>Ooops. Too slow, not legal.  Total BS.</p></htmltext>
+<tokenext>A magical extension-cord-of-stretching would be the only thing that might give this car a shot .
+400 HP is ludicrously low for a Lemans Prototype ( LMP ) .
+They do n't mention the weight of the car.In addition , the car as shown would not be permitted .
+All cars running in the 24 must be 2-seater sportscars .
+While anyone would chuckle considering how a passenger would actually fit in an LMP , they clearly have some minimum allowance while the pictured vehicle is clearly a one-driver-in-the-middle car.The rear wing design shown is clearly suboptimal if you look at the innovations on real LMPs .
+The design would be really cool for a Batman movie , but otherwise , it seems clear that it was designed by students and not ready to go up against really highly paid engineers.Oh , and those five students ( or their PR dept ) might want to refer to a summary of the 2011 ACO rules for Lemans Protypes : http : //www.lemans.org/sport/sport/reglements/ressources/2009/auto/reglement \ _2011 \ _moteur \ _hybride \ _gb.pdf [ lemans.org ] Ooops .
+Too slow , not legal .
+Total BS .</tokentext>
+<sentencetext>A magical extension-cord-of-stretching would be the only thing that might give this car a shot.
+400 HP is ludicrously low for a Lemans Prototype (LMP).
+They don't mention the weight of the car.In addition, the car as shown would not be permitted.
+All cars running in the 24 must be 2-seater sportscars.
+While anyone would chuckle considering how a passenger would actually fit in an LMP, they clearly have some minimum allowance while the pictured vehicle is clearly a one-driver-in-the-middle car.The rear wing design shown is clearly suboptimal if you look at the innovations on real LMPs.
+The design would be really cool for a Batman movie, but otherwise, it seems clear that it was designed by students and not ready to go up against really highly paid engineers.Oh, and those five students (or their PR dept) might want to refer to a summary of the 2011 ACO rules for Lemans Protypes: http://www.lemans.org/sport/sport/reglements/ressources/2009/auto/reglement\_2011\_moteur\_hybride\_gb.pdf [lemans.org]Ooops.
+Too slow, not legal.
+Total BS.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099757</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100323</id>
+	<title>Re:Heat Problems?</title>
+	<author>Daniel\_Staal</author>
+	<datestamp>1243330260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Actually, since they are shown in both up an down positions, my bet is that they are air-brakes, supplementing the regular braking system.</p></htmltext>
+<tokenext>Actually , since they are shown in both up an down positions , my bet is that they are air-brakes , supplementing the regular braking system .</tokentext>
+<sentencetext>Actually, since they are shown in both up an down positions, my bet is that they are air-brakes, supplementing the regular braking system.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099999</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099951</id>
+	<title>Jack Bauer</title>
+	<author>clang\_jangle</author>
+	<datestamp>1243328640000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>If they're calling the car "Twenty-4", will Jack Bauer be driving it?</htmltext>
+<tokenext>If they 're calling the car " Twenty-4 " , will Jack Bauer be driving it ?</tokentext>
+<sentencetext>If they're calling the car "Twenty-4", will Jack Bauer be driving it?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099965</id>
+	<title>Old tech.</title>
+	<author>Anonymous</author>
+	<datestamp>1243328700000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>This has been done among Universities for several years.   If I remember Ohio State and Oklahoma won a lot of the races with these cars.</p><p>http://evri.ou.edu/lightning/specs.php</p><p>The races were short, it could only run for 8-10 minutes depending on the load without changing battery packs.   A quick release mechanism was designed where all 32 batteries could be changed in 10-13 seconds.</p></htmltext>
+<tokenext>This has been done among Universities for several years .
+If I remember Ohio State and Oklahoma won a lot of the races with these cars.http : //evri.ou.edu/lightning/specs.phpThe races were short , it could only run for 8-10 minutes depending on the load without changing battery packs .
+A quick release mechanism was designed where all 32 batteries could be changed in 10-13 seconds .</tokentext>
+<sentencetext>This has been done among Universities for several years.
+If I remember Ohio State and Oklahoma won a lot of the races with these cars.http://evri.ou.edu/lightning/specs.phpThe races were short, it could only run for 8-10 minutes depending on the load without changing battery packs.
+A quick release mechanism was designed where all 32 batteries could be changed in 10-13 seconds.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28105491</id>
+	<title>Re:24 hour charge??</title>
+	<author>Eclipse-now</author>
+	<datestamp>1243362960000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>Of course, "Better Place" have this technology in mind for their fast battery swap system. It's kind of like driving into a car wash but much faster, 40 seconds max. The secret? WW2 bomber bay clips that inspired the quick-release capability of a large heavy battery canister.
+
+Coming to Israel real soon.
+
+<a href="http://www.betterplace.com/" title="betterplace.com" rel="nofollow">http://www.betterplace.com/</a> [betterplace.com]</htmltext>
+<tokenext>Of course , " Better Place " have this technology in mind for their fast battery swap system .
+It 's kind of like driving into a car wash but much faster , 40 seconds max .
+The secret ?
+WW2 bomber bay clips that inspired the quick-release capability of a large heavy battery canister .
+Coming to Israel real soon .
+http : //www.betterplace.com/ [ betterplace.com ]</tokentext>
+<sentencetext>Of course, "Better Place" have this technology in mind for their fast battery swap system.
+It's kind of like driving into a car wash but much faster, 40 seconds max.
+The secret?
+WW2 bomber bay clips that inspired the quick-release capability of a large heavy battery canister.
+Coming to Israel real soon.
+http://www.betterplace.com/ [betterplace.com]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103051</id>
+	<title>Re:2x100kW</title>
+	<author>NickW1234</author>
+	<datestamp>1243343520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>100kW would be 134hp
+<p>
+They're both units of power, so if you were to tweak that engine to 150hp it would be a 112kW motor.</p></htmltext>
+<tokenext>100kW would be 134hp They 're both units of power , so if you were to tweak that engine to 150hp it would be a 112kW motor .</tokentext>
+<sentencetext>100kW would be 134hp
+
+They're both units of power, so if you were to tweak that engine to 150hp it would be a 112kW motor.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100007</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100145</id>
+	<title>What about SSC?</title>
+	<author>crackervoodoo</author>
+	<datestamp>1243329480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I guess I'm missing something, but how is this the most powerful all-electric when the Shelby Aero EV boasts a 1,000 HP?
+<a href="http://www.shelbysupercars.com/news-012209.php" title="shelbysupercars.com" rel="nofollow">http://www.shelbysupercars.com/news-012209.php</a> [shelbysupercars.com]</htmltext>
+<tokenext>I guess I 'm missing something , but how is this the most powerful all-electric when the Shelby Aero EV boasts a 1,000 HP ?
+http : //www.shelbysupercars.com/news-012209.php [ shelbysupercars.com ]</tokentext>
+<sentencetext>I guess I'm missing something, but how is this the most powerful all-electric when the Shelby Aero EV boasts a 1,000 HP?
+http://www.shelbysupercars.com/news-012209.php [shelbysupercars.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103401</id>
+	<title>Re:24 hour charge??</title>
+	<author>John Hasler</author>
+	<datestamp>1243345560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>If you are making three times as many pit stops as the other cars you'd better be three times as fast as they are.  Should only take a few seconds to change batteries, though.</p></htmltext>
+<tokenext>If you are making three times as many pit stops as the other cars you 'd better be three times as fast as they are .
+Should only take a few seconds to change batteries , though .</tokentext>
+<sentencetext>If you are making three times as many pit stops as the other cars you'd better be three times as fast as they are.
+Should only take a few seconds to change batteries, though.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100341</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100481</id>
+	<title>Re:24 hour charge??</title>
+	<author>Anonymous</author>
+	<datestamp>1243330860000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>Let's see, grabbing the car by the wheels to lift it? Batteries falling out of the car from 2ft? Dropping a car down 2ft onto the fresh set of batteries? Then you go on about microwave beams shooting around the track?<p>
+
+You're looking to make this race exciting aren't you?</p></htmltext>
+<tokenext>Let 's see , grabbing the car by the wheels to lift it ?
+Batteries falling out of the car from 2ft ?
+Dropping a car down 2ft onto the fresh set of batteries ?
+Then you go on about microwave beams shooting around the track ?
+You 're looking to make this race exciting are n't you ?</tokentext>
+<sentencetext>Let's see, grabbing the car by the wheels to lift it?
+Batteries falling out of the car from 2ft?
+Dropping a car down 2ft onto the fresh set of batteries?
+Then you go on about microwave beams shooting around the track?
+You're looking to make this race exciting aren't you?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100281</id>
+	<title>Re:Racecars?</title>
+	<author>icebike</author>
+	<datestamp>1243330140000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p><div class="quote"><p>Why not develop a car normal people will actually buy and use? This is interesting but I don't think we have the luxury of trickle-down innovation at this point</p></div><p>I disagree.  We don't have the luxury of dumping millions of ill-thought out poorly designed cars on the market without adequate testing to ensure they won't all be clogging out junk yards with huge disposal problems of toxic battery components due to premature failure.</p><p>We do NOT have an electrical grid that can support all the new electric cars you would love to see.  Sorry, its just not there, and not likely to be there for several decades.</p><p>We must go slowly on grid-charged cars until we can double our electrical generation capacity, and beef up the distribrution system.</p><p>Race technology has always lead the way in the automotive industry.  How else can you get worst case scenario testing in the real world.</p><p>We DO NOT have to rush into deployment of half baked technology on a mass scale. We DO have the time to do this right.  The end of the earth is NOT upon us.</p></div>
+	</htmltext>
+<tokenext>Why not develop a car normal people will actually buy and use ?
+This is interesting but I do n't think we have the luxury of trickle-down innovation at this pointI disagree .
+We do n't have the luxury of dumping millions of ill-thought out poorly designed cars on the market without adequate testing to ensure they wo n't all be clogging out junk yards with huge disposal problems of toxic battery components due to premature failure.We do NOT have an electrical grid that can support all the new electric cars you would love to see .
+Sorry , its just not there , and not likely to be there for several decades.We must go slowly on grid-charged cars until we can double our electrical generation capacity , and beef up the distribrution system.Race technology has always lead the way in the automotive industry .
+How else can you get worst case scenario testing in the real world.We DO NOT have to rush into deployment of half baked technology on a mass scale .
+We DO have the time to do this right .
+The end of the earth is NOT upon us .</tokentext>
+<sentencetext>Why not develop a car normal people will actually buy and use?
+This is interesting but I don't think we have the luxury of trickle-down innovation at this pointI disagree.
+We don't have the luxury of dumping millions of ill-thought out poorly designed cars on the market without adequate testing to ensure they won't all be clogging out junk yards with huge disposal problems of toxic battery components due to premature failure.We do NOT have an electrical grid that can support all the new electric cars you would love to see.
+Sorry, its just not there, and not likely to be there for several decades.We must go slowly on grid-charged cars until we can double our electrical generation capacity, and beef up the distribrution system.Race technology has always lead the way in the automotive industry.
+How else can you get worst case scenario testing in the real world.We DO NOT have to rush into deployment of half baked technology on a mass scale.
+We DO have the time to do this right.
+The end of the earth is NOT upon us.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100059</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101003</id>
+	<title>Fastest?</title>
+	<author>teoryn</author>
+	<datestamp>1243333080000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>"...the most powerful electric race car ever built."</p><p>Maybe for a certain class of race car, but <a href="http://www.buckeyebullet.com/" title="buckeyebullet.com" rel="nofollow">The Buckeye Bullet</a> [buckeyebullet.com] broke 300 mph years ago, and the new model will have been tested before this Green GT car is built.</p></htmltext>
+<tokenext>" ...the most powerful electric race car ever built .
+" Maybe for a certain class of race car , but The Buckeye Bullet [ buckeyebullet.com ] broke 300 mph years ago , and the new model will have been tested before this Green GT car is built .</tokentext>
+<sentencetext>"...the most powerful electric race car ever built.
+"Maybe for a certain class of race car, but The Buckeye Bullet [buckeyebullet.com] broke 300 mph years ago, and the new model will have been tested before this Green GT car is built.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100299</id>
+	<title>Re:24 hour charge??</title>
+	<author>Anonymous</author>
+	<datestamp>1243330200000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>How cool would it be if they put a slot with 2 metal strips either size of it all around the race track, and powered the car via that?</p></htmltext>
+<tokenext>How cool would it be if they put a slot with 2 metal strips either size of it all around the race track , and powered the car via that ?</tokentext>
+<sentencetext>How cool would it be if they put a slot with 2 metal strips either size of it all around the race track, and powered the car via that?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100061</id>
+	<title>What powers this thing?</title>
+	<author>ickleberry</author>
+	<datestamp>1243329060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Ultracapacitors would be ideal for a race, but I suspect nasty Lithium Ion batteries that die after a couple of years. Either way TFA doesn't say.</htmltext>
+<tokenext>Ultracapacitors would be ideal for a race , but I suspect nasty Lithium Ion batteries that die after a couple of years .
+Either way TFA does n't say .</tokentext>
+<sentencetext>Ultracapacitors would be ideal for a race, but I suspect nasty Lithium Ion batteries that die after a couple of years.
+Either way TFA doesn't say.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099787</id>
+	<title>Looks like PDX's Plasma Boy Racing</title>
+	<author>Marxist Hacker 42</author>
+	<datestamp>1243371120000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Looks like <a href="http://www.plasmaboyracing.com/" title="plasmaboyracing.com">Plasma Boy and his White Zombie</a> [plasmaboyracing.com] have a competitor out there.  (AFAIK, he uses hot-swappable battery packs as well, and only goes full out on the quarter mile).</p></htmltext>
+<tokenext>Looks like Plasma Boy and his White Zombie [ plasmaboyracing.com ] have a competitor out there .
+( AFAIK , he uses hot-swappable battery packs as well , and only goes full out on the quarter mile ) .</tokentext>
+<sentencetext>Looks like Plasma Boy and his White Zombie [plasmaboyracing.com] have a competitor out there.
+(AFAIK, he uses hot-swappable battery packs as well, and only goes full out on the quarter mile).</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099963</id>
+	<title>Spaceball?</title>
+	<author>Rhubarbe</author>
+	<datestamp>1243328640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>May the Schwartz be with you</htmltext>
+<tokenext>May the Schwartz be with you</tokentext>
+<sentencetext>May the Schwartz be with you</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102337</id>
+	<title>Re:24 hour charge??</title>
+	<author>Gordonjcp</author>
+	<datestamp>1243339860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>I've heard many times from gearheads how they'd never be caught dead in one-a them electric-battery toy cars, that gasoline is king, etc.</i> </p><p>I'd be quite happy to drive an electric car, *if* it had exactly the same operational parameters as my petrol car.  That is, 400-500 miles per "tank", recharge in under five minutes, payload of around 800kg for a maximum all-up weight of about 2200kg + 1300kg trailer, 0 to 60mph in less than 15 seconds and a cruising speed of at least 90mph.</p><p>Forget 0 to 60 in four seconds, I'm never going to use that.  Give me some range.</p></htmltext>
+<tokenext>I 've heard many times from gearheads how they 'd never be caught dead in one-a them electric-battery toy cars , that gasoline is king , etc .
+I 'd be quite happy to drive an electric car , * if * it had exactly the same operational parameters as my petrol car .
+That is , 400-500 miles per " tank " , recharge in under five minutes , payload of around 800kg for a maximum all-up weight of about 2200kg + 1300kg trailer , 0 to 60mph in less than 15 seconds and a cruising speed of at least 90mph.Forget 0 to 60 in four seconds , I 'm never going to use that .
+Give me some range .</tokentext>
+<sentencetext>I've heard many times from gearheads how they'd never be caught dead in one-a them electric-battery toy cars, that gasoline is king, etc.
+I'd be quite happy to drive an electric car, *if* it had exactly the same operational parameters as my petrol car.
+That is, 400-500 miles per "tank", recharge in under five minutes, payload of around 800kg for a maximum all-up weight of about 2200kg + 1300kg trailer, 0 to 60mph in less than 15 seconds and a cruising speed of at least 90mph.Forget 0 to 60 in four seconds, I'm never going to use that.
+Give me some range.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100719</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100341</id>
+	<title>Re:24 hour charge??</title>
+	<author>C0vardeAn0nim0</author>
+	<datestamp>1243330320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>lemans pit stops usually involves replacing tires, break system (disks, pads, etc.), sometimes even the pilot is replaced. no need to rush when you have 20-16 hours to catch up with the other cars.</p></htmltext>
+<tokenext>lemans pit stops usually involves replacing tires , break system ( disks , pads , etc .
+) , sometimes even the pilot is replaced .
+no need to rush when you have 20-16 hours to catch up with the other cars .</tokentext>
+<sentencetext>lemans pit stops usually involves replacing tires, break system (disks, pads, etc.
+), sometimes even the pilot is replaced.
+no need to rush when you have 20-16 hours to catch up with the other cars.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101435</id>
+	<title>Re:Jack Bauer</title>
+	<author>dogeatery</author>
+	<datestamp>1243335240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>No, he's busy trampling the other drivers' 4th Amendment rights</htmltext>
+<tokenext>No , he 's busy trampling the other drivers ' 4th Amendment rights</tokentext>
+<sentencetext>No, he's busy trampling the other drivers' 4th Amendment rights</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099951</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100367</id>
+	<title>Re:24 hour charge??</title>
+	<author>bennomatic</author>
+	<datestamp>1243330440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>There's a lot of braking in those on-street races.  I wonder if they're putting in technologies from hybrids like regenerative braking, possibly some sort of system to capture some of the energy lost on tight turns, etc... and recharging the battery for fewer stops.
+<br> <br>
+If an electric wins the Le Mans, or even has a pretty good showing, the whole industry will start to re-gear overnight.  When Joe Six-Pack says, "Gas-only sucks!  I want the kind of hybrid technology that'll make me feel like a winner!!", it'll represent a sea change.
+<br> <br>
+Of course, if it comes in dead last, that could be just as big a PR problem.</htmltext>
+<tokenext>There 's a lot of braking in those on-street races .
+I wonder if they 're putting in technologies from hybrids like regenerative braking , possibly some sort of system to capture some of the energy lost on tight turns , etc... and recharging the battery for fewer stops .
+If an electric wins the Le Mans , or even has a pretty good showing , the whole industry will start to re-gear overnight .
+When Joe Six-Pack says , " Gas-only sucks !
+I want the kind of hybrid technology that 'll make me feel like a winner ! !
+" , it 'll represent a sea change .
+Of course , if it comes in dead last , that could be just as big a PR problem .</tokentext>
+<sentencetext>There's a lot of braking in those on-street races.
+I wonder if they're putting in technologies from hybrids like regenerative braking, possibly some sort of system to capture some of the energy lost on tight turns, etc... and recharging the battery for fewer stops.
+If an electric wins the Le Mans, or even has a pretty good showing, the whole industry will start to re-gear overnight.
+When Joe Six-Pack says, "Gas-only sucks!
+I want the kind of hybrid technology that'll make me feel like a winner!!
+", it'll represent a sea change.
+Of course, if it comes in dead last, that could be just as big a PR problem.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100521</id>
+	<title>Re:24 hour charge??</title>
+	<author>Anonymous</author>
+	<datestamp>1243330980000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>well, it doesn't have to run for 24 hours on one charge, the other race cars are lucky to run 70 minutes on a tank of gas...</p><p>If it can make 150 miles, when they pull in to swap the tires, and jack it up, they could also drip the batteries from the under carrige and replace them en masse.</p><p>high performance charging system run on generators pit-site could bring those Li-Ti or Li-Su batteries to full charge in 30 minutes...</p><p>My concern is the 400HP total...  most of it;s competition does 0-100 in about 8 seconds, and runs in the 600-1000HP range...  For instance, the Audi Deisel (first time ever) ran at 650HP  <a href="http://www.auto-power-girl.com/specifications/audi/audi\_r10\_le\_mans\_race\_car-540" title="auto-power-girl.com">http://www.auto-power-girl.com/specifications/audi/audi\_r10\_le\_mans\_race\_car-540</a> [auto-power-girl.com]</p><p>Heck, the "lemans edition" steet cars sold as production vehicles very often peak over 500HP...  and those are not the race models, but simply collector cars.</p></htmltext>
+<tokenext>well , it does n't have to run for 24 hours on one charge , the other race cars are lucky to run 70 minutes on a tank of gas...If it can make 150 miles , when they pull in to swap the tires , and jack it up , they could also drip the batteries from the under carrige and replace them en masse.high performance charging system run on generators pit-site could bring those Li-Ti or Li-Su batteries to full charge in 30 minutes...My concern is the 400HP total... most of it ; s competition does 0-100 in about 8 seconds , and runs in the 600-1000HP range... For instance , the Audi Deisel ( first time ever ) ran at 650HP http : //www.auto-power-girl.com/specifications/audi/audi \ _r10 \ _le \ _mans \ _race \ _car-540 [ auto-power-girl.com ] Heck , the " lemans edition " steet cars sold as production vehicles very often peak over 500HP... and those are not the race models , but simply collector cars .</tokentext>
+<sentencetext>well, it doesn't have to run for 24 hours on one charge, the other race cars are lucky to run 70 minutes on a tank of gas...If it can make 150 miles, when they pull in to swap the tires, and jack it up, they could also drip the batteries from the under carrige and replace them en masse.high performance charging system run on generators pit-site could bring those Li-Ti or Li-Su batteries to full charge in 30 minutes...My concern is the 400HP total...  most of it;s competition does 0-100 in about 8 seconds, and runs in the 600-1000HP range...  For instance, the Audi Deisel (first time ever) ran at 650HP  http://www.auto-power-girl.com/specifications/audi/audi\_r10\_le\_mans\_race\_car-540 [auto-power-girl.com]Heck, the "lemans edition" steet cars sold as production vehicles very often peak over 500HP...  and those are not the race models, but simply collector cars.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101613</id>
+	<title>Re:24 hour charge??</title>
+	<author>thrull1</author>
+	<datestamp>1243336080000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>While they talk about recharging the car between races, there is a diagram on their website <a href="http://www.green-gt.com/index.htm" title="green-gt.com" rel="nofollow">http://www.green-gt.com/index.htm</a> [green-gt.com] that illustrates that they will be using Hydrogen to store the energy and using fuel cells to generate electricity.</p></htmltext>
+<tokenext>While they talk about recharging the car between races , there is a diagram on their website http : //www.green-gt.com/index.htm [ green-gt.com ] that illustrates that they will be using Hydrogen to store the energy and using fuel cells to generate electricity .</tokentext>
+<sentencetext>While they talk about recharging the car between races, there is a diagram on their website http://www.green-gt.com/index.htm [green-gt.com] that illustrates that they will be using Hydrogen to store the energy and using fuel cells to generate electricity.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099901</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104677</id>
+	<title>Re:Who cares abou archaic measurements like hp any</title>
+	<author>Jaime2</author>
+	<datestamp>1243355400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>You're a moron.  Torque is only a useful measurement if you fix all of the other variables.  Horsepower is always a useful measurement.<br>
+<br>
+Example:  I can make an cheap Chinese corless drill make 1000 ft-lbs of torque simply by adding a reducing gear.  1000 ft-lbs of torque is only really meaningful if I first give the rpm at which that torque needs to be made.  On the other hand, that Chinese drill is never going to make 1HP.  Think of HP as the ability to create torque.<br>
+<br>
+Oh.... I agree that 0-60 in 4 seconds is nothing to write home about.  My streetbike does 0-60 in about 2.3 seconds.  Gotta love 199.1 HP in a 400 pound package.</htmltext>
+<tokenext>You 're a moron .
+Torque is only a useful measurement if you fix all of the other variables .
+Horsepower is always a useful measurement .
+Example : I can make an cheap Chinese corless drill make 1000 ft-lbs of torque simply by adding a reducing gear .
+1000 ft-lbs of torque is only really meaningful if I first give the rpm at which that torque needs to be made .
+On the other hand , that Chinese drill is never going to make 1HP .
+Think of HP as the ability to create torque .
+Oh.... I agree that 0-60 in 4 seconds is nothing to write home about .
+My streetbike does 0-60 in about 2.3 seconds .
+Got ta love 199.1 HP in a 400 pound package .</tokentext>
+<sentencetext>You're a moron.
+Torque is only a useful measurement if you fix all of the other variables.
+Horsepower is always a useful measurement.
+Example:  I can make an cheap Chinese corless drill make 1000 ft-lbs of torque simply by adding a reducing gear.
+1000 ft-lbs of torque is only really meaningful if I first give the rpm at which that torque needs to be made.
+On the other hand, that Chinese drill is never going to make 1HP.
+Think of HP as the ability to create torque.
+Oh.... I agree that 0-60 in 4 seconds is nothing to write home about.
+My streetbike does 0-60 in about 2.3 seconds.
+Gotta love 199.1 HP in a 400 pound package.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100025</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28107803</id>
+	<title>Re:Heat Problems?</title>
+	<author>Anonymous</author>
+	<datestamp>1243429320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Nah, gotta look a bit better. It's basically an open wheeler but they want to enter a GT class, so it can't be.</p></htmltext>
+<tokenext>Nah , got ta look a bit better .
+It 's basically an open wheeler but they want to enter a GT class , so it ca n't be .</tokentext>
+<sentencetext>Nah, gotta look a bit better.
+It's basically an open wheeler but they want to enter a GT class, so it can't be.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100163</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099831</id>
+	<title>Gah! Looks like a Dalmatian in stealth mode.</title>
+	<author>Anonymous</author>
+	<datestamp>1243371360000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>With wheels no less.<nobr> <wbr></nobr>;-)</p></htmltext>
+<tokenext>With wheels no less .
+; - )</tokentext>
+<sentencetext>With wheels no less.
+;-)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100807</id>
+	<title>And The Price Is :   +1, Informative</title>
+	<author>Anonymous</author>
+	<datestamp>1243332180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Probably around U.S. $200,000.  I can see these vehicles for sale at Walmart,<br>after I had ingested LSD.</p><p>Yours In Socialism,<br><a href="http://www.exiledonline.com/" title="exiledonline.com" rel="nofollow">Kilgore Trout</a> [exiledonline.com]</p></htmltext>
+<tokenext>Probably around U.S. $ 200,000. I can see these vehicles for sale at Walmart,after I had ingested LSD.Yours In Socialism,Kilgore Trout [ exiledonline.com ]</tokentext>
+<sentencetext>Probably around U.S. $200,000.  I can see these vehicles for sale at Walmart,after I had ingested LSD.Yours In Socialism,Kilgore Trout [exiledonline.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100979</id>
+	<title>Re:24 hour charge??</title>
+	<author>dontgetshocked</author>
+	<datestamp>1243332960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I would imagine that thru pit stops they will change the battery or something!</htmltext>
+<tokenext>I would imagine that thru pit stops they will change the battery or something !</tokentext>
+<sentencetext>I would imagine that thru pit stops they will change the battery or something!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100081</id>
+	<title>Re:Why not say the torque rating?</title>
+	<author>hardburn</author>
+	<datestamp>1243329120000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p>Side note: 0-60 mph in 4 seconds flat. Ummm<nobr> <wbr></nobr>... doesn't the Tesla Roadster do it in sub 4 and its a consumer vehicle<nobr> <wbr></nobr>... just a thought</p></div><p>Yes,  and the Wrightspeed X1, based on the Ariel Atom, does it in just over 3 sec.</p><p>Then again, straight acceleration isn't the most important thing in an endurance race. Audi has been cleaning up the big endurance races of late with their diesel engine, not by being the fastest, but by good team strategy and needing fewer pitstops for fillups.</p></div>
+	</htmltext>
+<tokenext>Side note : 0-60 mph in 4 seconds flat .
+Ummm ... does n't the Tesla Roadster do it in sub 4 and its a consumer vehicle ... just a thoughtYes , and the Wrightspeed X1 , based on the Ariel Atom , does it in just over 3 sec.Then again , straight acceleration is n't the most important thing in an endurance race .
+Audi has been cleaning up the big endurance races of late with their diesel engine , not by being the fastest , but by good team strategy and needing fewer pitstops for fillups .</tokentext>
+<sentencetext>Side note: 0-60 mph in 4 seconds flat.
+Ummm ... doesn't the Tesla Roadster do it in sub 4 and its a consumer vehicle ... just a thoughtYes,  and the Wrightspeed X1, based on the Ariel Atom, does it in just over 3 sec.Then again, straight acceleration isn't the most important thing in an endurance race.
+Audi has been cleaning up the big endurance races of late with their diesel engine, not by being the fastest, but by good team strategy and needing fewer pitstops for fillups.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099927</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28109527</id>
+	<title>Re:24 hour charge??</title>
+	<author>BESTouff</author>
+	<datestamp>1243438800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Look, an 800hp gasoline car will deliver rougly 200hp to the wheels, and then only at peak RPM.
+Whereas a 400hp electric car will deliver 380hp to the wheel, at *any* RPM.
+
+Pick your choice.</htmltext>
+<tokenext>Look , an 800hp gasoline car will deliver rougly 200hp to the wheels , and then only at peak RPM .
+Whereas a 400hp electric car will deliver 380hp to the wheel , at * any * RPM .
+Pick your choice .</tokentext>
+<sentencetext>Look, an 800hp gasoline car will deliver rougly 200hp to the wheels, and then only at peak RPM.
+Whereas a 400hp electric car will deliver 380hp to the wheel, at *any* RPM.
+Pick your choice.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100521</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28108253</id>
+	<title>Re:24 hour charge??</title>
+	<author>kcfoxie</author>
+	<datestamp>1243432200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>If I recall the Audi Diesel didn't need to stop for fuel as often. I think the EVs big challenge will be keeping pace with the Audi and Fiat (Puegeot?) Diesels at Le Mans.</htmltext>
+<tokenext>If I recall the Audi Diesel did n't need to stop for fuel as often .
+I think the EVs big challenge will be keeping pace with the Audi and Fiat ( Puegeot ?
+) Diesels at Le Mans .</tokentext>
+<sentencetext>If I recall the Audi Diesel didn't need to stop for fuel as often.
+I think the EVs big challenge will be keeping pace with the Audi and Fiat (Puegeot?
+) Diesels at Le Mans.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100163</id>
+	<title>Re:Heat Problems?</title>
+	<author>RingDev</author>
+	<datestamp>1243329540000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>You hit it, the cooling is for breaks and tires, as well as down pressure.</p><p>Every once and a while in the NASCAR races they'll show you a camera view from inside the wheel well. You can see when the driver hits the breaks the rotors literally become red-hot from the friction of trying to slow the car down.</p><p>Now imagine that same situation, with wider tires and faster speeds on tracks with significantly more braking.</p><p>Odds are though, that the frame they are starting with is from some company that produces frames for indy or some other circuit cars. Just as the Tesla Roadster is actually a Lotus frame and body. So the cooling requirements will likely vary significantly from the function of the imaged vehicle.</p><p>-Rick</p></htmltext>
+<tokenext>You hit it , the cooling is for breaks and tires , as well as down pressure.Every once and a while in the NASCAR races they 'll show you a camera view from inside the wheel well .
+You can see when the driver hits the breaks the rotors literally become red-hot from the friction of trying to slow the car down.Now imagine that same situation , with wider tires and faster speeds on tracks with significantly more braking.Odds are though , that the frame they are starting with is from some company that produces frames for indy or some other circuit cars .
+Just as the Tesla Roadster is actually a Lotus frame and body .
+So the cooling requirements will likely vary significantly from the function of the imaged vehicle.-Rick</tokentext>
+<sentencetext>You hit it, the cooling is for breaks and tires, as well as down pressure.Every once and a while in the NASCAR races they'll show you a camera view from inside the wheel well.
+You can see when the driver hits the breaks the rotors literally become red-hot from the friction of trying to slow the car down.Now imagine that same situation, with wider tires and faster speeds on tracks with significantly more braking.Odds are though, that the frame they are starting with is from some company that produces frames for indy or some other circuit cars.
+Just as the Tesla Roadster is actually a Lotus frame and body.
+So the cooling requirements will likely vary significantly from the function of the imaged vehicle.-Rick</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099999</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104631</id>
+	<title>Re:24 hour charge??</title>
+	<author>ZosX</author>
+	<datestamp>1243354860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Would the cars be guided by a metal pin in a slot as well? I don't see how that could possibly qualify as racing.</p></htmltext>
+<tokenext>Would the cars be guided by a metal pin in a slot as well ?
+I do n't see how that could possibly qualify as racing .</tokentext>
+<sentencetext>Would the cars be guided by a metal pin in a slot as well?
+I don't see how that could possibly qualify as racing.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100299</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28105091</id>
+	<title>Re:24 hour charge??</title>
+	<author>fractoid</author>
+	<datestamp>1243358940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Serious answer - I've had a long-time scheme to build an electric go-kart track using basically this idea (stationary power supply, with pickups to get the power to the karts). I was more imagining a high ceiling with a bumper-car style electrified mesh on it, though. For full sized track racing it doesn't make much sense but for an indoor kart track it's a perfect fit. You can dial your karts' speed settings individually for the drivers (hence don't need to have more than 2 different ranks of kart, rather than the 3-4 that most places have), you don't need to worry about ventilation so much, no ongoing fuel costs, no expensive engine maintenance, easy remote activation of 'limp home' mode for yellow flags.
+<br> <br>Damn, I should get onto that sometime.</htmltext>
+<tokenext>Serious answer - I 've had a long-time scheme to build an electric go-kart track using basically this idea ( stationary power supply , with pickups to get the power to the karts ) .
+I was more imagining a high ceiling with a bumper-car style electrified mesh on it , though .
+For full sized track racing it does n't make much sense but for an indoor kart track it 's a perfect fit .
+You can dial your karts ' speed settings individually for the drivers ( hence do n't need to have more than 2 different ranks of kart , rather than the 3-4 that most places have ) , you do n't need to worry about ventilation so much , no ongoing fuel costs , no expensive engine maintenance , easy remote activation of 'limp home ' mode for yellow flags .
+Damn , I should get onto that sometime .</tokentext>
+<sentencetext>Serious answer - I've had a long-time scheme to build an electric go-kart track using basically this idea (stationary power supply, with pickups to get the power to the karts).
+I was more imagining a high ceiling with a bumper-car style electrified mesh on it, though.
+For full sized track racing it doesn't make much sense but for an indoor kart track it's a perfect fit.
+You can dial your karts' speed settings individually for the drivers (hence don't need to have more than 2 different ranks of kart, rather than the 3-4 that most places have), you don't need to worry about ventilation so much, no ongoing fuel costs, no expensive engine maintenance, easy remote activation of 'limp home' mode for yellow flags.
+Damn, I should get onto that sometime.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100299</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863</id>
+	<title>Re:24 hour charge??</title>
+	<author>alta</author>
+	<datestamp>1243371480000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Done right, I can see a mechanical battery change process... Much faster than gasoline fuel.</p><p>1. Pull up to red line.<br>2. 4 clamps grab wheels<br>3. car is left up in the air 2 ft, while spent batteries fall out, exit passenger side on conveyor belt.<br>4. new batteries come in at same time, put in proper position.<br>5. Car drops, latching in new batteries<br>6. clamps release wheels.<br>7. 0-60 in 4 seconds.</p><p>I could see a see a 4 second pit stop here.</p><p>Skip the 'lifting' process, and have them drop into a recess and you get rid of the GForce limitations on the driver. But you also make it so the system is embedded in the ground or the driver goes up/down a ramp.</p><p>Then again, remember how they want to shoot microwave power from space? Imagine if your power is beamed to you from the center of the track.  (sounds dangerous)<br>And then instead of restrictor plates, you get resistor plates.</p></htmltext>
+<tokenext>Done right , I can see a mechanical battery change process... Much faster than gasoline fuel.1 .
+Pull up to red line.2 .
+4 clamps grab wheels3 .
+car is left up in the air 2 ft , while spent batteries fall out , exit passenger side on conveyor belt.4 .
+new batteries come in at same time , put in proper position.5 .
+Car drops , latching in new batteries6 .
+clamps release wheels.7 .
+0-60 in 4 seconds.I could see a see a 4 second pit stop here.Skip the 'lifting ' process , and have them drop into a recess and you get rid of the GForce limitations on the driver .
+But you also make it so the system is embedded in the ground or the driver goes up/down a ramp.Then again , remember how they want to shoot microwave power from space ?
+Imagine if your power is beamed to you from the center of the track .
+( sounds dangerous ) And then instead of restrictor plates , you get resistor plates .</tokentext>
+<sentencetext>Done right, I can see a mechanical battery change process... Much faster than gasoline fuel.1.
+Pull up to red line.2.
+4 clamps grab wheels3.
+car is left up in the air 2 ft, while spent batteries fall out, exit passenger side on conveyor belt.4.
+new batteries come in at same time, put in proper position.5.
+Car drops, latching in new batteries6.
+clamps release wheels.7.
+0-60 in 4 seconds.I could see a see a 4 second pit stop here.Skip the 'lifting' process, and have them drop into a recess and you get rid of the GForce limitations on the driver.
+But you also make it so the system is embedded in the ground or the driver goes up/down a ramp.Then again, remember how they want to shoot microwave power from space?
+Imagine if your power is beamed to you from the center of the track.
+(sounds dangerous)And then instead of restrictor plates, you get resistor plates.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100007</id>
+	<title>Re:2x100kW</title>
+	<author>gubers33</author>
+	<datestamp>1243328820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>There is no actual conversion from kW to hp. For example the old Chevy Corvair engine 100kW engine had 140hp. Another thing, engines can be tweaked to had horsepower regardless of the kW.</htmltext>
+<tokenext>There is no actual conversion from kW to hp .
+For example the old Chevy Corvair engine 100kW engine had 140hp .
+Another thing , engines can be tweaked to had horsepower regardless of the kW .</tokentext>
+<sentencetext>There is no actual conversion from kW to hp.
+For example the old Chevy Corvair engine 100kW engine had 140hp.
+Another thing, engines can be tweaked to had horsepower regardless of the kW.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100839</id>
+	<title>171?</title>
+	<author>spoop</author>
+	<datestamp>1243332300000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext>171 mph top speed jumps out at me as very uncompetitive at Le Mans.  The <a href="http://en.wikipedia.org/wiki/Circuit\_de\_la\_Sarthe" title="wikipedia.org" rel="nofollow">Circuit de la Sarthe</a> [wikipedia.org] is a long track with a lot of straights, especially the Mulsanne Straight.  Last year, the cars in the GT2 class which I assume this will compete in (the slowest class) topped out at 182-186mph for the most part.  Source: <a href="http://auto-racing.speedtv.com/article/le-mans-radar-trap-speeds-and-corners-speeds/" title="speedtv.com" rel="nofollow">http://auto-racing.speedtv.com/article/le-mans-radar-trap-speeds-and-corners-speeds/</a> [speedtv.com]</htmltext>
+<tokenext>171 mph top speed jumps out at me as very uncompetitive at Le Mans .
+The Circuit de la Sarthe [ wikipedia.org ] is a long track with a lot of straights , especially the Mulsanne Straight .
+Last year , the cars in the GT2 class which I assume this will compete in ( the slowest class ) topped out at 182-186mph for the most part .
+Source : http : //auto-racing.speedtv.com/article/le-mans-radar-trap-speeds-and-corners-speeds/ [ speedtv.com ]</tokentext>
+<sentencetext>171 mph top speed jumps out at me as very uncompetitive at Le Mans.
+The Circuit de la Sarthe [wikipedia.org] is a long track with a lot of straights, especially the Mulsanne Straight.
+Last year, the cars in the GT2 class which I assume this will compete in (the slowest class) topped out at 182-186mph for the most part.
+Source: http://auto-racing.speedtv.com/article/le-mans-radar-trap-speeds-and-corners-speeds/ [speedtv.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101257</id>
+	<title>Re:24 hour charge??</title>
+	<author>Repossessed</author>
+	<datestamp>1243334340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I assume they'll use the new rapid charging battery tech.  Pump the solar panels into some very big capacitors, then unload them into the batteries.</p><p><a href="http://web.mit.edu/newsoffice/2009/battery-material-0311.html" title="mit.edu">http://web.mit.edu/newsoffice/2009/battery-material-0311.html</a> [mit.edu]</p></htmltext>
+<tokenext>I assume they 'll use the new rapid charging battery tech .
+Pump the solar panels into some very big capacitors , then unload them into the batteries.http : //web.mit.edu/newsoffice/2009/battery-material-0311.html [ mit.edu ]</tokentext>
+<sentencetext>I assume they'll use the new rapid charging battery tech.
+Pump the solar panels into some very big capacitors, then unload them into the batteries.http://web.mit.edu/newsoffice/2009/battery-material-0311.html [mit.edu]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099877</id>
+	<title>Completely off topic, but...</title>
+	<author>Anonymous</author>
+	<datestamp>1243371540000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>The quote at the bottom of the page when I opened this article is "America is a stronger nation for the ACLU's uncompromising effort." -- President John F. Kennedy</p><p>Kind of ironic since Oswald was a member of the ACLU...</p></div>
+	</htmltext>
+<tokenext>The quote at the bottom of the page when I opened this article is " America is a stronger nation for the ACLU 's uncompromising effort .
+" -- President John F. KennedyKind of ironic since Oswald was a member of the ACLU.. .</tokentext>
+<sentencetext>The quote at the bottom of the page when I opened this article is "America is a stronger nation for the ACLU's uncompromising effort.
+" -- President John F. KennedyKind of ironic since Oswald was a member of the ACLU...
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101075</id>
+	<title>Re:2x100kW</title>
+	<author>Anonymous</author>
+	<datestamp>1243333380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Or maybe only small horses were available to test the engine?</p></htmltext>
+<tokenext>Or maybe only small horses were available to test the engine ?</tokentext>
+<sentencetext>Or maybe only small horses were available to test the engine?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103531</id>
+	<title>Re:24 hour charge??</title>
+	<author>John Hasler</author>
+	<datestamp>1243346160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Unlike the gas buggies, the electric will deliver most that 400hp to the wheels.</p></htmltext>
+<tokenext>Unlike the gas buggies , the electric will deliver most that 400hp to the wheels .</tokentext>
+<sentencetext>Unlike the gas buggies, the electric will deliver most that 400hp to the wheels.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100521</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099949</id>
+	<title>New math?</title>
+	<author>Gonzo\_Warrior</author>
+	<datestamp>1243328580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Umm<nobr> <wbr></nobr>... 200 KW is slightly less than 270 English hp (or slightly more than 270 Metric hp), not 350-400 hp.</htmltext>
+<tokenext>Umm ... 200 KW is slightly less than 270 English hp ( or slightly more than 270 Metric hp ) , not 350-400 hp .</tokentext>
+<sentencetext>Umm ... 200 KW is slightly less than 270 English hp (or slightly more than 270 Metric hp), not 350-400 hp.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099957</id>
+	<title>Not that impressive</title>
+	<author>Rei</author>
+	<datestamp>1243328640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The hideous <a href="http://en.wikipedia.org/wiki/Eliica" title="wikipedia.org">Eliica</a> [wikipedia.org] already exists and blows it away, the <a href="http://en.wikipedia.org/wiki/Wrightspeed\_X1" title="wikipedia.org">Wrightspeed X1</a> [wikipedia.org] toasts it at least on accel (and the economy-canceled production model, the SR-71, was expected to be able to beat a Bugatti Veyron in 0-60), while <a href="http://en.wikipedia.org/wiki/Shelby\_SuperCars" title="wikipedia.org">Shelby Supercars</a> [wikipedia.org] is working on the <a href="http://www.shelbysupercars.com/news-012209.php" title="shelbysupercars.com">Ultimate Aero EV</a> [shelbysupercars.com] which should blow them all away.</p></htmltext>
+<tokenext>The hideous Eliica [ wikipedia.org ] already exists and blows it away , the Wrightspeed X1 [ wikipedia.org ] toasts it at least on accel ( and the economy-canceled production model , the SR-71 , was expected to be able to beat a Bugatti Veyron in 0-60 ) , while Shelby Supercars [ wikipedia.org ] is working on the Ultimate Aero EV [ shelbysupercars.com ] which should blow them all away .</tokentext>
+<sentencetext>The hideous Eliica [wikipedia.org] already exists and blows it away, the Wrightspeed X1 [wikipedia.org] toasts it at least on accel (and the economy-canceled production model, the SR-71, was expected to be able to beat a Bugatti Veyron in 0-60), while Shelby Supercars [wikipedia.org] is working on the Ultimate Aero EV [shelbysupercars.com] which should blow them all away.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100179</id>
+	<title>Re:2x100kW</title>
+	<author>newcastlejon</author>
+	<datestamp>1243329600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Say what? Isn't the clue in the name: horse <i>power</i>?</htmltext>
+<tokenext>Say what ?
+Is n't the clue in the name : horse power ?</tokentext>
+<sentencetext>Say what?
+Isn't the clue in the name: horse power?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100007</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104607</id>
+	<title>Re:24 hour charge??</title>
+	<author>ZosX</author>
+	<datestamp>1243354680000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Ahhh grasshopper. You are confusing horsepower with torque. A diesel engine with 100hp can create hundreds of pounds of torque. Horsepower doesn't tell the whole story and is not representative of how much torque the engine can produce, which varies with engine speed. A typical car has a torque curve that starts out gradually climbing and then reaching its maximum around 3000-4000 rpm (just an example here people) and begins to flatten and decline towards the red line, say at 6000 RPM. That means that this engine is only outputting peak torque at the maximum point in the curve. An electric engine has a purely linear torque scale. At 1 RPM it is generating 500lbs of torque. At 6000 RPM it is generating 500lbs of torque.</p><p>"The torque of an electric motor is independent of speed. It is rather a function of flux and armature current." - Wiki</p><p>Coupled with a continuously variable transmission (ala Prius) electric engines are both highly efficient and insanely powerful. If we can get past the hurdles of energy storage, which clearly dominates this discussion, then internal combustion engines will start to look as antique as the coal fired steam engine. I mean seriously. Which is more elegant, a giant motor, a shaft of metal surrounded by magnets and a coil of wire which is like 95\% efficient or an insanely complex machine made of thousands of moving parts and components, which including a whole lot of small motors is only like 23\% efficient at best? Never mind all the crap you had to go through to get the fuel that only yields 23\% efficiency. Oh and forget about the terribly messy process of getting some black tar that was supposed to probably stay in the ground for a few million more years to cook down and refine into gasoline. (And people wonder why they haven't been building new refineries in the United States, maybe those people should have one in their backyard) I mean geez, solar panels are starting to exceed those kind of numbers already.... To hell with spending money on how to suck out the last few drops of oil from some sandy shoals. We should be spending all of our money on figuring out how to cleanly produce electricity. Our very future depends upon it in more ways than one.</p><p>Hmmmmmm....now where do we have a huge source of energy close by?</p></htmltext>
+<tokenext>Ahhh grasshopper .
+You are confusing horsepower with torque .
+A diesel engine with 100hp can create hundreds of pounds of torque .
+Horsepower does n't tell the whole story and is not representative of how much torque the engine can produce , which varies with engine speed .
+A typical car has a torque curve that starts out gradually climbing and then reaching its maximum around 3000-4000 rpm ( just an example here people ) and begins to flatten and decline towards the red line , say at 6000 RPM .
+That means that this engine is only outputting peak torque at the maximum point in the curve .
+An electric engine has a purely linear torque scale .
+At 1 RPM it is generating 500lbs of torque .
+At 6000 RPM it is generating 500lbs of torque .
+" The torque of an electric motor is independent of speed .
+It is rather a function of flux and armature current .
+" - WikiCoupled with a continuously variable transmission ( ala Prius ) electric engines are both highly efficient and insanely powerful .
+If we can get past the hurdles of energy storage , which clearly dominates this discussion , then internal combustion engines will start to look as antique as the coal fired steam engine .
+I mean seriously .
+Which is more elegant , a giant motor , a shaft of metal surrounded by magnets and a coil of wire which is like 95 \ % efficient or an insanely complex machine made of thousands of moving parts and components , which including a whole lot of small motors is only like 23 \ % efficient at best ?
+Never mind all the crap you had to go through to get the fuel that only yields 23 \ % efficiency .
+Oh and forget about the terribly messy process of getting some black tar that was supposed to probably stay in the ground for a few million more years to cook down and refine into gasoline .
+( And people wonder why they have n't been building new refineries in the United States , maybe those people should have one in their backyard ) I mean geez , solar panels are starting to exceed those kind of numbers already.... To hell with spending money on how to suck out the last few drops of oil from some sandy shoals .
+We should be spending all of our money on figuring out how to cleanly produce electricity .
+Our very future depends upon it in more ways than one.Hmmmmmm....now where do we have a huge source of energy close by ?</tokentext>
+<sentencetext>Ahhh grasshopper.
+You are confusing horsepower with torque.
+A diesel engine with 100hp can create hundreds of pounds of torque.
+Horsepower doesn't tell the whole story and is not representative of how much torque the engine can produce, which varies with engine speed.
+A typical car has a torque curve that starts out gradually climbing and then reaching its maximum around 3000-4000 rpm (just an example here people) and begins to flatten and decline towards the red line, say at 6000 RPM.
+That means that this engine is only outputting peak torque at the maximum point in the curve.
+An electric engine has a purely linear torque scale.
+At 1 RPM it is generating 500lbs of torque.
+At 6000 RPM it is generating 500lbs of torque.
+"The torque of an electric motor is independent of speed.
+It is rather a function of flux and armature current.
+" - WikiCoupled with a continuously variable transmission (ala Prius) electric engines are both highly efficient and insanely powerful.
+If we can get past the hurdles of energy storage, which clearly dominates this discussion, then internal combustion engines will start to look as antique as the coal fired steam engine.
+I mean seriously.
+Which is more elegant, a giant motor, a shaft of metal surrounded by magnets and a coil of wire which is like 95\% efficient or an insanely complex machine made of thousands of moving parts and components, which including a whole lot of small motors is only like 23\% efficient at best?
+Never mind all the crap you had to go through to get the fuel that only yields 23\% efficiency.
+Oh and forget about the terribly messy process of getting some black tar that was supposed to probably stay in the ground for a few million more years to cook down and refine into gasoline.
+(And people wonder why they haven't been building new refineries in the United States, maybe those people should have one in their backyard) I mean geez, solar panels are starting to exceed those kind of numbers already.... To hell with spending money on how to suck out the last few drops of oil from some sandy shoals.
+We should be spending all of our money on figuring out how to cleanly produce electricity.
+Our very future depends upon it in more ways than one.Hmmmmmm....now where do we have a huge source of energy close by?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100521</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100355</id>
+	<title>Re:Racecars?</title>
+	<author>Endo13</author>
+	<datestamp>1243330380000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Well, currently there's a lot of stigma about 100\% electrical cars. Many people (potential customers) believe that completely electric vehicles must necessarily have at least one of the following weaknesses due to limitations with electric engines in cars:</p><p>A.) Too slow</p><p>B.) Incapable of driving very far</p><p>C.) Requiring too much time to refuel</p><p>D.) Too fragile</p><p>I would think that making one that can compete well at the 24 hours of Le Mans would go a long way toward changing those perceptions.</p></htmltext>
+<tokenext>Well , currently there 's a lot of stigma about 100 \ % electrical cars .
+Many people ( potential customers ) believe that completely electric vehicles must necessarily have at least one of the following weaknesses due to limitations with electric engines in cars : A .
+) Too slowB .
+) Incapable of driving very farC .
+) Requiring too much time to refuelD .
+) Too fragileI would think that making one that can compete well at the 24 hours of Le Mans would go a long way toward changing those perceptions .</tokentext>
+<sentencetext>Well, currently there's a lot of stigma about 100\% electrical cars.
+Many people (potential customers) believe that completely electric vehicles must necessarily have at least one of the following weaknesses due to limitations with electric engines in cars:A.
+) Too slowB.
+) Incapable of driving very farC.
+) Requiring too much time to refuelD.
+) Too fragileI would think that making one that can compete well at the 24 hours of Le Mans would go a long way toward changing those perceptions.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100059</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28110023</id>
+	<title>Don't emphasize "slowly" and you're dead right.</title>
+	<author>Anonymous</author>
+	<datestamp>1243440900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I agree with everything you said, but I would replace "slowly" with "intelligently".  At <i>this moment in time</i> those are the same thing, but tomorrow or the next day - they might not be.</p><p>Still, your major point can't be said too many times; if we rush into any global initiative with little or no planning we're unlikely to succeed.  That would be like sending huge armies to a 3rd world nation without planning on what to do after the fight!  This sort of technology needs to get repeatedly beaten to death on the race track, ASAP!</p></htmltext>
+<tokenext>I agree with everything you said , but I would replace " slowly " with " intelligently " .
+At this moment in time those are the same thing , but tomorrow or the next day - they might not be.Still , your major point ca n't be said too many times ; if we rush into any global initiative with little or no planning we 're unlikely to succeed .
+That would be like sending huge armies to a 3rd world nation without planning on what to do after the fight !
+This sort of technology needs to get repeatedly beaten to death on the race track , ASAP !</tokentext>
+<sentencetext>I agree with everything you said, but I would replace "slowly" with "intelligently".
+At this moment in time those are the same thing, but tomorrow or the next day - they might not be.Still, your major point can't be said too many times; if we rush into any global initiative with little or no planning we're unlikely to succeed.
+That would be like sending huge armies to a 3rd world nation without planning on what to do after the fight!
+This sort of technology needs to get repeatedly beaten to death on the race track, ASAP!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100281</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099901</id>
+	<title>Re:24 hour charge??</title>
+	<author>Yvan256</author>
+	<datestamp>1243328400000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>How about <a href="http://en.wikipedia.org/wiki/Supercapacitor" title="wikipedia.org">Supercapacitors</a> [wikipedia.org]?</p></htmltext>
+<tokenext>How about Supercapacitors [ wikipedia.org ] ?</tokentext>
+<sentencetext>How about Supercapacitors [wikipedia.org]?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104841</id>
+	<title>Re:24 hour charge??</title>
+	<author>Hashi Lebwohl</author>
+	<datestamp>1243356960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>A really, really long extension cord.......</htmltext>
+<tokenext>A really , really long extension cord...... .</tokentext>
+<sentencetext>A really, really long extension cord.......</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104273</id>
+	<title>Re:24 hour charge??</title>
+	<author>Anonymous</author>
+	<datestamp>1243351860000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I'm not sure I get your question.  What's wrong with having batteries charged up and swapping batteries out?  It's not as if the gasoline/petrol and diesel folks are refining their stuff from sweet crude barrels onsite.  They most likely are going to have a massive set they just swap out.</p><p>Aside from swapping batteries out, there's also liquid battery tech, where the charged and uncharged separates out.  They could simply pump out the old and in with the new charged liquid.  The problem there though is the movement of the liquid during the race as you turn and hit race curbs and get rear ended and what not that occurs during a race.</p><p>The problem isn't how they are going to do it, it's are they going to compete with any methodology they come up with.  There were reasons Audi, which themselves or their engines have dominated most recent LeMans, went to diesel--power density over gasoline is one of them.  The electric car may win out on engine reliability and easier to swap out parts, but the traditional vehicles will have fewer pit stops for fuel.</p><p>The other issue that people seem to ignore is that LeMans isn't exactly a level playing field to begin with.  LeMans took action against the Weinkel engine users and manufacturers.  That engine is superior in power to weight ratio, which means more fuel can be carried compared to similar horsepower but traditional engines, and in fuel economy because of the weight difference.  Additionally, I also believe it was a more efficient engine still even if pulling the same weight.</p><p>Anyways, LeMans handicapped anyone using the Weinkel years ago.  So even if the electric whoops the high compression diesels, the electrics still will not have gone up against the best.</p></htmltext>
+<tokenext>I 'm not sure I get your question .
+What 's wrong with having batteries charged up and swapping batteries out ?
+It 's not as if the gasoline/petrol and diesel folks are refining their stuff from sweet crude barrels onsite .
+They most likely are going to have a massive set they just swap out.Aside from swapping batteries out , there 's also liquid battery tech , where the charged and uncharged separates out .
+They could simply pump out the old and in with the new charged liquid .
+The problem there though is the movement of the liquid during the race as you turn and hit race curbs and get rear ended and what not that occurs during a race.The problem is n't how they are going to do it , it 's are they going to compete with any methodology they come up with .
+There were reasons Audi , which themselves or their engines have dominated most recent LeMans , went to diesel--power density over gasoline is one of them .
+The electric car may win out on engine reliability and easier to swap out parts , but the traditional vehicles will have fewer pit stops for fuel.The other issue that people seem to ignore is that LeMans is n't exactly a level playing field to begin with .
+LeMans took action against the Weinkel engine users and manufacturers .
+That engine is superior in power to weight ratio , which means more fuel can be carried compared to similar horsepower but traditional engines , and in fuel economy because of the weight difference .
+Additionally , I also believe it was a more efficient engine still even if pulling the same weight.Anyways , LeMans handicapped anyone using the Weinkel years ago .
+So even if the electric whoops the high compression diesels , the electrics still will not have gone up against the best .</tokentext>
+<sentencetext>I'm not sure I get your question.
+What's wrong with having batteries charged up and swapping batteries out?
+It's not as if the gasoline/petrol and diesel folks are refining their stuff from sweet crude barrels onsite.
+They most likely are going to have a massive set they just swap out.Aside from swapping batteries out, there's also liquid battery tech, where the charged and uncharged separates out.
+They could simply pump out the old and in with the new charged liquid.
+The problem there though is the movement of the liquid during the race as you turn and hit race curbs and get rear ended and what not that occurs during a race.The problem isn't how they are going to do it, it's are they going to compete with any methodology they come up with.
+There were reasons Audi, which themselves or their engines have dominated most recent LeMans, went to diesel--power density over gasoline is one of them.
+The electric car may win out on engine reliability and easier to swap out parts, but the traditional vehicles will have fewer pit stops for fuel.The other issue that people seem to ignore is that LeMans isn't exactly a level playing field to begin with.
+LeMans took action against the Weinkel engine users and manufacturers.
+That engine is superior in power to weight ratio, which means more fuel can be carried compared to similar horsepower but traditional engines, and in fuel economy because of the weight difference.
+Additionally, I also believe it was a more efficient engine still even if pulling the same weight.Anyways, LeMans handicapped anyone using the Weinkel years ago.
+So even if the electric whoops the high compression diesels, the electrics still will not have gone up against the best.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100081
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099927
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28109527
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100521
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_43</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100261
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099999
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_28</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100857
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100215
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_44</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103401
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100341
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_35</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101257
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102131
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_34</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101435
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099951
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100151
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100007
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_41</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100211
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099999
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_26</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100901
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100481
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_33</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103507
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100719
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100367
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100405
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_47</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104677
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100025
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28108253
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100355
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100059
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28105491
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100241
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_48</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103213
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_39</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100473
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100007
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101613
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099901
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_38</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103051
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100007
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_29</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28107329
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28107935
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102337
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100719
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_45</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101075
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102537
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100839
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104607
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100521
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_37</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28105091
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100299
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_42</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100323
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099999
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_27</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103531
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100521
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_32</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101683
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100281
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100059
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100885
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100059
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102457
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100719
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100179
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100007
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100923
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100059
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_40</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28108535
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099999
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_31</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104841
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28107803
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100163
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099999
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103115
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100827
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_30</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104631
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100299
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102833
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099933
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28110023
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100281
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100059
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_46</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100979
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104273
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102265
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099757
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102129
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100281
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100059
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1738216_36</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100049
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099871
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101075
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100827
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103115
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100007
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103051
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100473
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100151
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100179
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100025
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104677
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100405
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100241
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100049
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100059
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100923
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100885
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100355
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100281
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102129
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101683
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28110023
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099951
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101435
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099999
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28108535
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100261
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100211
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100163
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28107803
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100323
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099711
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099901
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101613
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100299
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28105091
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104631
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104841
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100521
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103531
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104607
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28109527
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103213
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28107329
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099863
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100719
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103507
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102457
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102337
+----http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28107935
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102131
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100901
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100341
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28103401
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28105491
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100481
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100367
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28104273
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28108253
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101257
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100979
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28101021
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100839
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102537
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100269
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099875
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099933
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102833
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099947
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099927
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100081
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099957
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100215
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28100857
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1738216.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28099757
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1738216.28102265
+</commentlist>
+</conversation>

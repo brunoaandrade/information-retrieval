@@ -1,0 +1,1326 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_27_1829210</id>
+	<title>AT&T Says 7.2Mbps Wireless Coming This Year</title>
+	<author>timothy</author>
+	<datestamp>1243449960000</datestamp>
+	<htmltext><a href="http://twitter.com/computerworld" rel="nofollow">CWmike</a> writes <i>"AT&amp;T will <a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9133552">upgrade to High Speed Packet Access (HSPA) 7.2 wireless networking technology later this year</a>, offering faster (up to 7.2 Mbit/sec.) network speeds to new compatible laptop cards and smartphones due to be released at the same time, the company said today. Current HSPA download speeds can theoretically reach 3.6 MBit/sec, according to AT&amp;T executives who <a href="http://www.fiercewireless.com/story/t-boosting-hspa-capacity-ahead-advancements/2009-04-20">commented on the planned upgrade in April</a>. AT&amp;T did not comment on which laptop cards and smartphones will be compatible with HSPA 7.2 other than to say it will introduce 'multiple' devices later this year. Could this be one of the big iPhone announcements to come from WWDC?"</i></htmltext>
+<tokenext>CWmike writes " AT&amp;T will upgrade to High Speed Packet Access ( HSPA ) 7.2 wireless networking technology later this year , offering faster ( up to 7.2 Mbit/sec .
+) network speeds to new compatible laptop cards and smartphones due to be released at the same time , the company said today .
+Current HSPA download speeds can theoretically reach 3.6 MBit/sec , according to AT&amp;T executives who commented on the planned upgrade in April .
+AT&amp;T did not comment on which laptop cards and smartphones will be compatible with HSPA 7.2 other than to say it will introduce 'multiple ' devices later this year .
+Could this be one of the big iPhone announcements to come from WWDC ?
+"</tokentext>
+<sentencetext>CWmike writes "AT&amp;T will upgrade to High Speed Packet Access (HSPA) 7.2 wireless networking technology later this year, offering faster (up to 7.2 Mbit/sec.
+) network speeds to new compatible laptop cards and smartphones due to be released at the same time, the company said today.
+Current HSPA download speeds can theoretically reach 3.6 MBit/sec, according to AT&amp;T executives who commented on the planned upgrade in April.
+AT&amp;T did not comment on which laptop cards and smartphones will be compatible with HSPA 7.2 other than to say it will introduce 'multiple' devices later this year.
+Could this be one of the big iPhone announcements to come from WWDC?
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113449</id>
+	<title>$$$ per 'tube'</title>
+	<author>Locutus</author>
+	<datestamp>1243454280000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>sure, they'll let you use port 80, 8080, and maybe even 443 but what cost is the freedom to use the bandwidth for what \_you\_ want to use it for?  Didn't I see where T-Mobile's G1 \_unlimited\_ data plan bills you extra for Chat and IM and I would guess they block the standard VOIP port(s) too.</p><p>
+&nbsp; </p><p>The Internet may be thought of by some as a "bunch of tubes" but these companies are carving it up so they control what you do on the "tube". Speed isn't the only thing that's important here.</p><p>
+&nbsp; </p><p>LoB</p></htmltext>
+<tokenext>sure , they 'll let you use port 80 , 8080 , and maybe even 443 but what cost is the freedom to use the bandwidth for what \ _you \ _ want to use it for ?
+Did n't I see where T-Mobile 's G1 \ _unlimited \ _ data plan bills you extra for Chat and IM and I would guess they block the standard VOIP port ( s ) too .
+Â   The Internet may be thought of by some as a " bunch of tubes " but these companies are carving it up so they control what you do on the " tube " .
+Speed is n't the only thing that 's important here .
+Â   LoB</tokentext>
+<sentencetext>sure, they'll let you use port 80, 8080, and maybe even 443 but what cost is the freedom to use the bandwidth for what \_you\_ want to use it for?
+Didn't I see where T-Mobile's G1 \_unlimited\_ data plan bills you extra for Chat and IM and I would guess they block the standard VOIP port(s) too.
+Â  The Internet may be thought of by some as a "bunch of tubes" but these companies are carving it up so they control what you do on the "tube".
+Speed isn't the only thing that's important here.
+Â  LoB</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28118995</id>
+	<title>Re:LTE is coming - and it will smoke HSPA (And AT&</title>
+	<author>irix</author>
+	<datestamp>1243443120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>You've overhyping big time.<br><br>LTE dongles will not be commercially available in volume until 2010. Chipsets for LTE phones won't be available in volume until 2011 at best. Verizon will also be late, so the net of it is you won't see widespread coverage and widespread device availability until the 2011-2012 timeframe anyway. Verizon will be selling EV-DO phones, dongles and netbooks for several years to come, there is no "changeover from CDMA to GSM in 2010" in any way and their CDMA network is not going anywhere any time soon.<br><br>Furthermore,  Verizon isn't "skipping" HSPA since there isn't an upgrade path for them unless they wanted to forklift upgrade their 1x/DO network to HSPA which is never going to happen. AT&amp;T on the other hand has an easier upgrade path from HSPA to LTE since the HSPA packet core can be upgraded to support LTE so they are really just looking at a RAN upgrade.<br><br>The net of it is that you won't be doing much with LTE for 2-3 years, and while Verizon will undoubtedly be first to market with LTE in the US AT&amp;T won't be terribly far behind.</htmltext>
+<tokenext>You 've overhyping big time.LTE dongles will not be commercially available in volume until 2010 .
+Chipsets for LTE phones wo n't be available in volume until 2011 at best .
+Verizon will also be late , so the net of it is you wo n't see widespread coverage and widespread device availability until the 2011-2012 timeframe anyway .
+Verizon will be selling EV-DO phones , dongles and netbooks for several years to come , there is no " changeover from CDMA to GSM in 2010 " in any way and their CDMA network is not going anywhere any time soon.Furthermore , Verizon is n't " skipping " HSPA since there is n't an upgrade path for them unless they wanted to forklift upgrade their 1x/DO network to HSPA which is never going to happen .
+AT&amp;T on the other hand has an easier upgrade path from HSPA to LTE since the HSPA packet core can be upgraded to support LTE so they are really just looking at a RAN upgrade.The net of it is that you wo n't be doing much with LTE for 2-3 years , and while Verizon will undoubtedly be first to market with LTE in the US AT&amp;T wo n't be terribly far behind .</tokentext>
+<sentencetext>You've overhyping big time.LTE dongles will not be commercially available in volume until 2010.
+Chipsets for LTE phones won't be available in volume until 2011 at best.
+Verizon will also be late, so the net of it is you won't see widespread coverage and widespread device availability until the 2011-2012 timeframe anyway.
+Verizon will be selling EV-DO phones, dongles and netbooks for several years to come, there is no "changeover from CDMA to GSM in 2010" in any way and their CDMA network is not going anywhere any time soon.Furthermore,  Verizon isn't "skipping" HSPA since there isn't an upgrade path for them unless they wanted to forklift upgrade their 1x/DO network to HSPA which is never going to happen.
+AT&amp;T on the other hand has an easier upgrade path from HSPA to LTE since the HSPA packet core can be upgraded to support LTE so they are really just looking at a RAN upgrade.The net of it is that you won't be doing much with LTE for 2-3 years, and while Verizon will undoubtedly be first to market with LTE in the US AT&amp;T won't be terribly far behind.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28118201</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113921</id>
+	<title>Cool!</title>
+	<author>Akita24</author>
+	<datestamp>1243456500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>
+DHS/NSA/CIA/FBI/TLA du jour must have upgraded their monitoring software to something really fast! I mean AT&amp;T can't supply more bandwidth than what the federal agency's they're warentlessly giving everything to can process it. Can they?</htmltext>
+<tokenext>DHS/NSA/CIA/FBI/TLA du jour must have upgraded their monitoring software to something really fast !
+I mean AT&amp;T ca n't supply more bandwidth than what the federal agency 's they 're warentlessly giving everything to can process it .
+Can they ?</tokentext>
+<sentencetext>
+DHS/NSA/CIA/FBI/TLA du jour must have upgraded their monitoring software to something really fast!
+I mean AT&amp;T can't supply more bandwidth than what the federal agency's they're warentlessly giving everything to can process it.
+Can they?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113899</id>
+	<title>Re:Theoretically...</title>
+	<author>NatasRevol</author>
+	<datestamp>1243456380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Man, you butchered that saying.</p><p>In theory, there is no difference between theory and practice.  In practice, there is.</p></htmltext>
+<tokenext>Man , you butchered that saying.In theory , there is no difference between theory and practice .
+In practice , there is .</tokentext>
+<sentencetext>Man, you butchered that saying.In theory, there is no difference between theory and practice.
+In practice, there is.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113337</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114385</id>
+	<title>Re:$$$ per 'tube'</title>
+	<author>Anonymous</author>
+	<datestamp>1243416240000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Didn't I see where T-Mobile's G1 \_unlimited\_ data plan bills you extra for Chat and IM and I would guess they block the standard VOIP port(s) too.</p></div><p>I own a G1 and also have T-Mobile's 'unlimited' data plan for it. Operating in or outside the 3G coverage area I do not incur extra fees for Chat/IM as it operates over the standard TCP/IP stack on the device. Unfortunately text messages are not transmitted over the TCP/IP stack as they were with the Sidekick, so you are required to elect a certain amount of texts per month at  their normal costly fees.</p><p>Additionally all other ports are open from my usage on the device. In fact the device even has it's own public IP address, although I'm not sure it accepts in-bound connections from internet addresses.</p></div>
+	</htmltext>
+<tokenext>Did n't I see where T-Mobile 's G1 \ _unlimited \ _ data plan bills you extra for Chat and IM and I would guess they block the standard VOIP port ( s ) too.I own a G1 and also have T-Mobile 's 'unlimited ' data plan for it .
+Operating in or outside the 3G coverage area I do not incur extra fees for Chat/IM as it operates over the standard TCP/IP stack on the device .
+Unfortunately text messages are not transmitted over the TCP/IP stack as they were with the Sidekick , so you are required to elect a certain amount of texts per month at their normal costly fees.Additionally all other ports are open from my usage on the device .
+In fact the device even has it 's own public IP address , although I 'm not sure it accepts in-bound connections from internet addresses .</tokentext>
+<sentencetext>Didn't I see where T-Mobile's G1 \_unlimited\_ data plan bills you extra for Chat and IM and I would guess they block the standard VOIP port(s) too.I own a G1 and also have T-Mobile's 'unlimited' data plan for it.
+Operating in or outside the 3G coverage area I do not incur extra fees for Chat/IM as it operates over the standard TCP/IP stack on the device.
+Unfortunately text messages are not transmitted over the TCP/IP stack as they were with the Sidekick, so you are required to elect a certain amount of texts per month at  their normal costly fees.Additionally all other ports are open from my usage on the device.
+In fact the device even has it's own public IP address, although I'm not sure it accepts in-bound connections from internet addresses.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113449</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28118141</id>
+	<title>Cancer?</title>
+	<author>Anonymous</author>
+	<datestamp>1243435200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>
+&nbsp; Am I the only one that is worried about all this increased radiation next to our heads and dicks?</p></htmltext>
+<tokenext>Â   Am I the only one that is worried about all this increased radiation next to our heads and dicks ?</tokentext>
+<sentencetext>
+Â  Am I the only one that is worried about all this increased radiation next to our heads and dicks?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114165</id>
+	<title>Yes</title>
+	<author>Absolut187</author>
+	<datestamp>1243415040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>According to this, the answer is yes - the new iphone will support 7.2MBps down.</p><p><a href="http://www.product-reviews.net/2009/05/27/new-iphone-2009-in-six-different-configurations/" title="product-reviews.net">http://www.product-reviews.net/2009/05/27/new-iphone-2009-in-six-different-configurations/</a> [product-reviews.net]</p></htmltext>
+<tokenext>According to this , the answer is yes - the new iphone will support 7.2MBps down.http : //www.product-reviews.net/2009/05/27/new-iphone-2009-in-six-different-configurations/ [ product-reviews.net ]</tokentext>
+<sentencetext>According to this, the answer is yes - the new iphone will support 7.2MBps down.http://www.product-reviews.net/2009/05/27/new-iphone-2009-in-six-different-configurations/ [product-reviews.net]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113753</id>
+	<title>Re:Wireless</title>
+	<author>alta</author>
+	<datestamp>1243455780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>No, not going to happen.  We moved out to the boonies, where cable and DSL were not an option, but the ATT coverage map said we had the best 3G signal available.</p><p>Bought the 3G card, tried it at work.  Got 5 bars, worked great.  I could download 1.5Mb/sec all day long.  Move to the house... 5 bars, still says 3G.  IF I could get speedtest.net to give me the page, I would usually show about 100k.  It would drop constantly.  I had to return during the buyers remorse period.</p><p>Went to alltel and quickly got a new account (this was shortly after verizon bought them) with UNLIMITED data.  It was the only unlimited anyone offered. Now I get 700 on the best days, but I can consistently connect to it.</p><p>Looked at hughesnet and wildblue, both had ridiculous terms, caps and latency.</p></htmltext>
+<tokenext>No , not going to happen .
+We moved out to the boonies , where cable and DSL were not an option , but the ATT coverage map said we had the best 3G signal available.Bought the 3G card , tried it at work .
+Got 5 bars , worked great .
+I could download 1.5Mb/sec all day long .
+Move to the house... 5 bars , still says 3G .
+IF I could get speedtest.net to give me the page , I would usually show about 100k .
+It would drop constantly .
+I had to return during the buyers remorse period.Went to alltel and quickly got a new account ( this was shortly after verizon bought them ) with UNLIMITED data .
+It was the only unlimited anyone offered .
+Now I get 700 on the best days , but I can consistently connect to it.Looked at hughesnet and wildblue , both had ridiculous terms , caps and latency .</tokentext>
+<sentencetext>No, not going to happen.
+We moved out to the boonies, where cable and DSL were not an option, but the ATT coverage map said we had the best 3G signal available.Bought the 3G card, tried it at work.
+Got 5 bars, worked great.
+I could download 1.5Mb/sec all day long.
+Move to the house... 5 bars, still says 3G.
+IF I could get speedtest.net to give me the page, I would usually show about 100k.
+It would drop constantly.
+I had to return during the buyers remorse period.Went to alltel and quickly got a new account (this was shortly after verizon bought them) with UNLIMITED data.
+It was the only unlimited anyone offered.
+Now I get 700 on the best days, but I can consistently connect to it.Looked at hughesnet and wildblue, both had ridiculous terms, caps and latency.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113287</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113619</id>
+	<title>up to 7.2 Mbit/sec...</title>
+	<author>Locke2005</author>
+	<datestamp>1243455120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>...provided you are standing within spitting distance of a cellular tower.<br> <br>
+A new buzzword milestone: this new technology doubles the theoretical data rate that nobody actually sees!</htmltext>
+<tokenext>...provided you are standing within spitting distance of a cellular tower .
+A new buzzword milestone : this new technology doubles the theoretical data rate that nobody actually sees !</tokentext>
+<sentencetext>...provided you are standing within spitting distance of a cellular tower.
+A new buzzword milestone: this new technology doubles the theoretical data rate that nobody actually sees!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113565</id>
+	<title>heh!</title>
+	<author>FudRucker</author>
+	<datestamp>1243454940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>"New &amp; Improved" pig in a poke, get yours today while supplies last!</htmltext>
+<tokenext>" New &amp; Improved " pig in a poke , get yours today while supplies last !</tokentext>
+<sentencetext>"New &amp; Improved" pig in a poke, get yours today while supplies last!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113701</id>
+	<title>Re:Hey Jerks at AT&amp;T...</title>
+	<author>Eric Elliott</author>
+	<datestamp>1243455480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>What are complaining about?  3G is less than 1.8 Gb/S peak speed, never faster to me.  Did you really expect 3.6 Gb/S?</htmltext>
+<tokenext>What are complaining about ?
+3G is less than 1.8 Gb/S peak speed , never faster to me .
+Did you really expect 3.6 Gb/S ?</tokentext>
+<sentencetext>What are complaining about?
+3G is less than 1.8 Gb/S peak speed, never faster to me.
+Did you really expect 3.6 Gb/S?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113547</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28141269</id>
+	<title>Rogers Communications 7.2Mbps</title>
+	<author>KiwiCanuck</author>
+	<datestamp>1243624020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I just go a flyer from Rodgers yesterday for wireless internet. I haven't looked into it. The flier says packages start at $25/month, and speeds are up to 7.2Mbps. A 7.2Mbps connection for $25.month would be awesome, but not likely. Too bad.</htmltext>
+<tokenext>I just go a flyer from Rodgers yesterday for wireless internet .
+I have n't looked into it .
+The flier says packages start at $ 25/month , and speeds are up to 7.2Mbps .
+A 7.2Mbps connection for $ 25.month would be awesome , but not likely .
+Too bad .</tokentext>
+<sentencetext>I just go a flyer from Rodgers yesterday for wireless internet.
+I haven't looked into it.
+The flier says packages start at $25/month, and speeds are up to 7.2Mbps.
+A 7.2Mbps connection for $25.month would be awesome, but not likely.
+Too bad.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116675</id>
+	<title>Priorities</title>
+	<author>beej</author>
+	<datestamp>1243425180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Could this be one of the big iPhone announcements to come from WWDC?</p></div><p>I hope they're also planning on discontinuing the "call dropping" feature that my iPhone seems to have near-complete support for.</p></div>
+	</htmltext>
+<tokenext>Could this be one of the big iPhone announcements to come from WWDC ? I hope they 're also planning on discontinuing the " call dropping " feature that my iPhone seems to have near-complete support for .</tokentext>
+<sentencetext>Could this be one of the big iPhone announcements to come from WWDC?I hope they're also planning on discontinuing the "call dropping" feature that my iPhone seems to have near-complete support for.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28117771</id>
+	<title>Re:Obligatory European Reply:</title>
+	<author>Anonymous</author>
+	<datestamp>1243432320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>2mbps? AT&amp;T's current 3G service already gets close to that. 1.8mbps is available in a lot of places. It's not abnormal at all to see those kinds of rates doing large downloads on existing 3G iPhones. If all rolling HSPA+ does is bump us from 1.8 to 2.0 mbps, that's hardly worth it.</p></htmltext>
+<tokenext>2mbps ?
+AT&amp;T 's current 3G service already gets close to that .
+1.8mbps is available in a lot of places .
+It 's not abnormal at all to see those kinds of rates doing large downloads on existing 3G iPhones .
+If all rolling HSPA + does is bump us from 1.8 to 2.0 mbps , that 's hardly worth it .</tokentext>
+<sentencetext>2mbps?
+AT&amp;T's current 3G service already gets close to that.
+1.8mbps is available in a lot of places.
+It's not abnormal at all to see those kinds of rates doing large downloads on existing 3G iPhones.
+If all rolling HSPA+ does is bump us from 1.8 to 2.0 mbps, that's hardly worth it.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114283</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116125</id>
+	<title>Sweden just got their first 4G base station.</title>
+	<author>ckret</author>
+	<datestamp>1243422300000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>Earlier this week the first 4G base station was installed in central Stockholm.<br>
+<br>
+The next generation mobile technology (LTE) provides speeds up to 150 Mb/s.</htmltext>
+<tokenext>Earlier this week the first 4G base station was installed in central Stockholm .
+The next generation mobile technology ( LTE ) provides speeds up to 150 Mb/s .</tokentext>
+<sentencetext>Earlier this week the first 4G base station was installed in central Stockholm.
+The next generation mobile technology (LTE) provides speeds up to 150 Mb/s.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28119791</id>
+	<title>Re:Sweden just got their first 4G base station.</title>
+	<author>BorgDrone</author>
+	<datestamp>1243451040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>Earlier this week the first 4G base station was installed in central Stockholm.</p></div></blockquote><p>LTE is not 4G, it's not fast enough. Peak download rates for LTE are around 330 Mbit/sec. 4G requires 1Gbit/sec down for stationary targets. <a href="http://en.wikipedia.org/wiki/LTE\_Advanced" title="wikipedia.org" rel="nofollow">LTE Advanced</a> [wikipedia.org] should be 4G.</p></div>
+	</htmltext>
+<tokenext>Earlier this week the first 4G base station was installed in central Stockholm.LTE is not 4G , it 's not fast enough .
+Peak download rates for LTE are around 330 Mbit/sec .
+4G requires 1Gbit/sec down for stationary targets .
+LTE Advanced [ wikipedia.org ] should be 4G .</tokentext>
+<sentencetext>Earlier this week the first 4G base station was installed in central Stockholm.LTE is not 4G, it's not fast enough.
+Peak download rates for LTE are around 330 Mbit/sec.
+4G requires 1Gbit/sec down for stationary targets.
+LTE Advanced [wikipedia.org] should be 4G.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116125</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113995</id>
+	<title>Wirless speeds</title>
+	<author>Anonymous</author>
+	<datestamp>1243456920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>7.2Mbps or greater wireless? That's awesome, I'm still waiting for greater than 6Mbps wired DSL....</p></htmltext>
+<tokenext>7.2Mbps or greater wireless ?
+That 's awesome , I 'm still waiting for greater than 6Mbps wired DSL... .</tokentext>
+<sentencetext>7.2Mbps or greater wireless?
+That's awesome, I'm still waiting for greater than 6Mbps wired DSL....</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113785</id>
+	<title>What a joke!</title>
+	<author>GodfatherofSoul</author>
+	<datestamp>1243455900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>My internet connectivity has always sucked on my phone, badly enough that it's never been more than a novelty, not an asset.  If my real-world experience was even close to my "theoretical" service, I wouldn't give a damn about upgrading.  Don't piss down my back and tell me it's raining!</htmltext>
+<tokenext>My internet connectivity has always sucked on my phone , badly enough that it 's never been more than a novelty , not an asset .
+If my real-world experience was even close to my " theoretical " service , I would n't give a damn about upgrading .
+Do n't piss down my back and tell me it 's raining !</tokentext>
+<sentencetext>My internet connectivity has always sucked on my phone, badly enough that it's never been more than a novelty, not an asset.
+If my real-world experience was even close to my "theoretical" service, I wouldn't give a damn about upgrading.
+Don't piss down my back and tell me it's raining!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113529</id>
+	<title>Let me know when you're on LTE</title>
+	<author>Anonymous</author>
+	<datestamp>1243454760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Along with the other major carriers.  Maybe then we can get some better competition in the US wireless market.</p></htmltext>
+<tokenext>Along with the other major carriers .
+Maybe then we can get some better competition in the US wireless market .</tokentext>
+<sentencetext>Along with the other major carriers.
+Maybe then we can get some better competition in the US wireless market.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113397</id>
+	<title>Thanks, but no thanks.</title>
+	<author>Anonymous</author>
+	<datestamp>1243454100000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>Do something about your residential Internet service first. Cable has DOCSIS 3 now.</p></htmltext>
+<tokenext>Do something about your residential Internet service first .
+Cable has DOCSIS 3 now .</tokentext>
+<sentencetext>Do something about your residential Internet service first.
+Cable has DOCSIS 3 now.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28119599</id>
+	<title>AT&amp;T can suck my balls</title>
+	<author>Anonymous</author>
+	<datestamp>1243449420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>"AT&amp;T Says 7.2Mbps Wireless Coming This Year"<nobr> <wbr></nobr>... and it won't change the fact that AT&amp;T drops 70\% of the calls I make.  I suppose it's because I don't live in "SANFRAKOTA", which is where I hear there is far better service than there is in other cities like "Salt Lake City", "Chicago", "Las Vegas", and "Des Moines".  Perhaps I could forget about this simple service issue and buy a phone with a better camera or a headphone jack and mp3 player so that I can use my phone for entertainment and forget about making and receiving phone calls.  Or maybe AT&amp;T can sac the fuck up and provide the quality service that I enjoyed under the reign of Cingular.</p></htmltext>
+<tokenext>" AT&amp;T Says 7.2Mbps Wireless Coming This Year " ... and it wo n't change the fact that AT&amp;T drops 70 \ % of the calls I make .
+I suppose it 's because I do n't live in " SANFRAKOTA " , which is where I hear there is far better service than there is in other cities like " Salt Lake City " , " Chicago " , " Las Vegas " , and " Des Moines " .
+Perhaps I could forget about this simple service issue and buy a phone with a better camera or a headphone jack and mp3 player so that I can use my phone for entertainment and forget about making and receiving phone calls .
+Or maybe AT&amp;T can sac the fuck up and provide the quality service that I enjoyed under the reign of Cingular .</tokentext>
+<sentencetext>"AT&amp;T Says 7.2Mbps Wireless Coming This Year" ... and it won't change the fact that AT&amp;T drops 70\% of the calls I make.
+I suppose it's because I don't live in "SANFRAKOTA", which is where I hear there is far better service than there is in other cities like "Salt Lake City", "Chicago", "Las Vegas", and "Des Moines".
+Perhaps I could forget about this simple service issue and buy a phone with a better camera or a headphone jack and mp3 player so that I can use my phone for entertainment and forget about making and receiving phone calls.
+Or maybe AT&amp;T can sac the fuck up and provide the quality service that I enjoyed under the reign of Cingular.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116605</id>
+	<title>Maybe....</title>
+	<author>PortHaven</author>
+	<datestamp>1243424880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>AT&amp;T should focus on getting their 3G network working better. More coverage, more reliability, and more speed.</p><p>Frankly, Verizon's slower EvDO seemed to perform faster and have less issues.</p></htmltext>
+<tokenext>AT&amp;T should focus on getting their 3G network working better .
+More coverage , more reliability , and more speed.Frankly , Verizon 's slower EvDO seemed to perform faster and have less issues .</tokentext>
+<sentencetext>AT&amp;T should focus on getting their 3G network working better.
+More coverage, more reliability, and more speed.Frankly, Verizon's slower EvDO seemed to perform faster and have less issues.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114261</id>
+	<title>Re:One word...</title>
+	<author>Anonymous</author>
+	<datestamp>1243415580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Hey, that's almost 20x faster than dial-up.</p></htmltext>
+<tokenext>Hey , that 's almost 20x faster than dial-up .</tokentext>
+<sentencetext>Hey, that's almost 20x faster than dial-up.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113719</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28115661</id>
+	<title>Re:They ran fibre to our local tower.</title>
+	<author>IorDMUX</author>
+	<datestamp>1243420680000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext>Oddly enough, "direct line of sight" actually decreases the data rate of MIMO (multiple-input multiple-output) systems like HSPA.  As MIMO uses the multiple physical wireless channels created by obstructions and reflections between a set of antennas at both transmitter and receiver to increase the bandwidth, a perfectly clear path hurts your data rate.  Unless there are obstacles to bounce the signal around a bit, you only get one physical channel, as the path between any pair of antennas is essentially the same.<br> <br>In practice, such pure physical channels usually only appear out in the open countryside--and besides, if you are referring to AT&amp;T's EDGE or non-HSPA 3G, then it isn't MIMO... just crappy AT&amp;T.  <br> <br>But it's nice to know, isn't it?</htmltext>
+<tokenext>Oddly enough , " direct line of sight " actually decreases the data rate of MIMO ( multiple-input multiple-output ) systems like HSPA .
+As MIMO uses the multiple physical wireless channels created by obstructions and reflections between a set of antennas at both transmitter and receiver to increase the bandwidth , a perfectly clear path hurts your data rate .
+Unless there are obstacles to bounce the signal around a bit , you only get one physical channel , as the path between any pair of antennas is essentially the same .
+In practice , such pure physical channels usually only appear out in the open countryside--and besides , if you are referring to AT&amp;T 's EDGE or non-HSPA 3G , then it is n't MIMO... just crappy AT&amp;T .
+But it 's nice to know , is n't it ?</tokentext>
+<sentencetext>Oddly enough, "direct line of sight" actually decreases the data rate of MIMO (multiple-input multiple-output) systems like HSPA.
+As MIMO uses the multiple physical wireless channels created by obstructions and reflections between a set of antennas at both transmitter and receiver to increase the bandwidth, a perfectly clear path hurts your data rate.
+Unless there are obstacles to bounce the signal around a bit, you only get one physical channel, as the path between any pair of antennas is essentially the same.
+In practice, such pure physical channels usually only appear out in the open countryside--and besides, if you are referring to AT&amp;T's EDGE or non-HSPA 3G, then it isn't MIMO... just crappy AT&amp;T.
+But it's nice to know, isn't it?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113559</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28118643</id>
+	<title>Wired Broadband Speeds Suck</title>
+	<author>Anonymous</author>
+	<datestamp>1243439400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Sorry for raining on this wireless party but what happened to the $30 billion wired build-out we already paid for, but don't have? I guess this particular corporate failure-to-deliver is peanuts compared to the scale of the recent looting done by the banks. And we wonder why the US is in decline...</p></htmltext>
+<tokenext>Sorry for raining on this wireless party but what happened to the $ 30 billion wired build-out we already paid for , but do n't have ?
+I guess this particular corporate failure-to-deliver is peanuts compared to the scale of the recent looting done by the banks .
+And we wonder why the US is in decline.. .</tokentext>
+<sentencetext>Sorry for raining on this wireless party but what happened to the $30 billion wired build-out we already paid for, but don't have?
+I guess this particular corporate failure-to-deliver is peanuts compared to the scale of the recent looting done by the banks.
+And we wonder why the US is in decline...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113825</id>
+	<title>EU</title>
+	<author>Anonymous</author>
+	<datestamp>1243456080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Hello? in EU we have 14.4mbit with unlimited bandwidth and no need for contract (you just go to a kiosk and buy a SIM for your own device)</p></htmltext>
+<tokenext>Hello ?
+in EU we have 14.4mbit with unlimited bandwidth and no need for contract ( you just go to a kiosk and buy a SIM for your own device )</tokentext>
+<sentencetext>Hello?
+in EU we have 14.4mbit with unlimited bandwidth and no need for contract (you just go to a kiosk and buy a SIM for your own device)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28115979</id>
+	<title>Is this being built only now?</title>
+	<author>Goateee</author>
+	<datestamp>1243421760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Is there other ISPs offering these or higher speeds, or is AT&amp;T first at implementing this in large scales? While I've read articles here before about the problem of lacking competition between ISPs offering wired connections, I can't see the problem of companys competing over and improving wireless networking.<br><br>Here in Sweden we've had HSPA 7.2 since 2006, covering most of the country, with a much lower population density. Some ISPs are currently upgrading to 150Mps 4g, which will be available later this year.</htmltext>
+<tokenext>Is there other ISPs offering these or higher speeds , or is AT&amp;T first at implementing this in large scales ?
+While I 've read articles here before about the problem of lacking competition between ISPs offering wired connections , I ca n't see the problem of companys competing over and improving wireless networking.Here in Sweden we 've had HSPA 7.2 since 2006 , covering most of the country , with a much lower population density .
+Some ISPs are currently upgrading to 150Mps 4g , which will be available later this year .</tokentext>
+<sentencetext>Is there other ISPs offering these or higher speeds, or is AT&amp;T first at implementing this in large scales?
+While I've read articles here before about the problem of lacking competition between ISPs offering wired connections, I can't see the problem of companys competing over and improving wireless networking.Here in Sweden we've had HSPA 7.2 since 2006, covering most of the country, with a much lower population density.
+Some ISPs are currently upgrading to 150Mps 4g, which will be available later this year.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113333</id>
+	<title>They Didn't Mention You'll Still Drop Calls</title>
+	<author>CyberSlammer</author>
+	<datestamp>1243453800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Right in the middle of a metropolitan area.<p>
+Can you hear me now?....Nope.</p></htmltext>
+<tokenext>Right in the middle of a metropolitan area .
+Can you hear me now ? ....Nope .</tokentext>
+<sentencetext>Right in the middle of a metropolitan area.
+Can you hear me now?....Nope.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113993</id>
+	<title>just means you'll hit ATT's 5GB limit even sooner</title>
+	<author>deisher</author>
+	<datestamp>1243456920000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Even if we assume that their speed claims are true, the benefit of this new product will be severely limited if ATT Wireless retains their currently policy of charging $0.25/MB once users hit their monthly limit of 5GB.  I finally gave up on ATT because it was such a pain to monitor my usage and stop normal broadband activity (e.g., youtube, etc.) near the end of every month when I got close to the limit.</p></htmltext>
+<tokenext>Even if we assume that their speed claims are true , the benefit of this new product will be severely limited if ATT Wireless retains their currently policy of charging $ 0.25/MB once users hit their monthly limit of 5GB .
+I finally gave up on ATT because it was such a pain to monitor my usage and stop normal broadband activity ( e.g. , youtube , etc .
+) near the end of every month when I got close to the limit .</tokentext>
+<sentencetext>Even if we assume that their speed claims are true, the benefit of this new product will be severely limited if ATT Wireless retains their currently policy of charging $0.25/MB once users hit their monthly limit of 5GB.
+I finally gave up on ATT because it was such a pain to monitor my usage and stop normal broadband activity (e.g., youtube, etc.
+) near the end of every month when I got close to the limit.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28118201</id>
+	<title>LTE is coming - and it will smoke HSPA (And AT&amp</title>
+	<author>EQ</author>
+	<datestamp>1243435740000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>AT&amp;T loses.</p><p>AT&amp;T is smoked if Apple allows Verizon or any other LTE carrier to get their hands on the iPhone ahead of AT&amp;T's network rebuild 3 years down the road. AT&amp;T is doing this because Verizon is supposedly getting ready to get iPhones as part of their changeover from CDMA to GSM in 2010 (and thus gain LTE capability) - plus Verizon is *already* testing LTE in a couple of markets.</p><p>AT&amp;T's foot dragging with coverage problems, their denial that they need better endpoint bandwidth, etc - its now coming back to bite them in the ass.</p><p>AT&amp;T is about a year and a half behind Version in LTE testing for deployment (they are projecting 2011-2012 for LTE at AT&amp;T).  So they are stuck with 7.2Mbit HSPA.</p><p>Verizon will skip HSPA and go straight to the higher speed LTE in 2010, long before AT&amp;T can get there.  And that upgrade comes at about the same time Apple's exclusivity with AT&amp;T dies, what a coincidence. hmmmm.</p><p>WHats LTE mean for data rates?  Here: 60mbits at less than 100 mW <a href="http://www.engadget.com/2008/12/09/lg-tests-worlds-first-lte-cellphone-chip-60mbps-downloads-are/" title="engadget.com">demonstrated December by LG at NTT DOCOMO</a> [engadget.com].</p><p>Ericsson already has an <a href="http://www.engadget.com/2009/05/26/ericsson-and-teliasonera-reveals-worlds-first-commercial-lte-si?icid=sphere\_blogsmith\_inpage\_engadget" title="engadget.com"> operational LTE net in Stockholm</a> [engadget.com] that runs 50Mb/s supposedly.</p><p>And look at this: <a href="http://www.engadgetmobile.com/2008/09/19/lte-trial-deemed-a-success-170mbps-downloads-in-a-moving-car/" title="engadgetmobile.com">170mbits -- in a moving car!</a> [engadgetmobile.com]</p><p>DO WANT!</p></htmltext>
+<tokenext>AT&amp;T loses.AT&amp;T is smoked if Apple allows Verizon or any other LTE carrier to get their hands on the iPhone ahead of AT&amp;T 's network rebuild 3 years down the road .
+AT&amp;T is doing this because Verizon is supposedly getting ready to get iPhones as part of their changeover from CDMA to GSM in 2010 ( and thus gain LTE capability ) - plus Verizon is * already * testing LTE in a couple of markets.AT&amp;T 's foot dragging with coverage problems , their denial that they need better endpoint bandwidth , etc - its now coming back to bite them in the ass.AT&amp;T is about a year and a half behind Version in LTE testing for deployment ( they are projecting 2011-2012 for LTE at AT&amp;T ) .
+So they are stuck with 7.2Mbit HSPA.Verizon will skip HSPA and go straight to the higher speed LTE in 2010 , long before AT&amp;T can get there .
+And that upgrade comes at about the same time Apple 's exclusivity with AT&amp;T dies , what a coincidence .
+hmmmm.WHats LTE mean for data rates ?
+Here : 60mbits at less than 100 mW demonstrated December by LG at NTT DOCOMO [ engadget.com ] .Ericsson already has an operational LTE net in Stockholm [ engadget.com ] that runs 50Mb/s supposedly.And look at this : 170mbits -- in a moving car !
+[ engadgetmobile.com ] DO WANT !</tokentext>
+<sentencetext>AT&amp;T loses.AT&amp;T is smoked if Apple allows Verizon or any other LTE carrier to get their hands on the iPhone ahead of AT&amp;T's network rebuild 3 years down the road.
+AT&amp;T is doing this because Verizon is supposedly getting ready to get iPhones as part of their changeover from CDMA to GSM in 2010 (and thus gain LTE capability) - plus Verizon is *already* testing LTE in a couple of markets.AT&amp;T's foot dragging with coverage problems, their denial that they need better endpoint bandwidth, etc - its now coming back to bite them in the ass.AT&amp;T is about a year and a half behind Version in LTE testing for deployment (they are projecting 2011-2012 for LTE at AT&amp;T).
+So they are stuck with 7.2Mbit HSPA.Verizon will skip HSPA and go straight to the higher speed LTE in 2010, long before AT&amp;T can get there.
+And that upgrade comes at about the same time Apple's exclusivity with AT&amp;T dies, what a coincidence.
+hmmmm.WHats LTE mean for data rates?
+Here: 60mbits at less than 100 mW demonstrated December by LG at NTT DOCOMO [engadget.com].Ericsson already has an  operational LTE net in Stockholm [engadget.com] that runs 50Mb/s supposedly.And look at this: 170mbits -- in a moving car!
+[engadgetmobile.com]DO WANT!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28115535</id>
+	<title>Maybe good for laptops, but useless for handhelds</title>
+	<author>Gordo\_1</author>
+	<datestamp>1243420200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I still get the feeling that my "leading edge" AT&amp;T Blackberry Bold, with its "fast" Intel XScale 624 MHz processor may be the bottleneck on wireless connections. I'm not sure if it's the high latency of the mobile network, distance-to-tower-related performance degradation, varying network conditions or simple lack of processor horsepower, but I find that it's typically not able to come anywhere close to the theoretical bandwidth limits imposed by the 3.6Mbps 3G network.</p><p>I suspect resources would be better spent reducing latency, improving existing tower coverage and adding towers rather than moving to a new bandwidth standard that's guaranteed to result in even lower utilization by the vast majority of existing devices on AT&amp;T's network.</p><p>Oh and couldn't finish without one off-topic troll: Am I the only one who finds it literally astounding that I can't complete a conversation on my fancy new 3G Blackberry without at least one drop on the most well traveled commuter highway (101) right in the heart of Silicon Valley?</p></htmltext>
+<tokenext>I still get the feeling that my " leading edge " AT&amp;T Blackberry Bold , with its " fast " Intel XScale 624 MHz processor may be the bottleneck on wireless connections .
+I 'm not sure if it 's the high latency of the mobile network , distance-to-tower-related performance degradation , varying network conditions or simple lack of processor horsepower , but I find that it 's typically not able to come anywhere close to the theoretical bandwidth limits imposed by the 3.6Mbps 3G network.I suspect resources would be better spent reducing latency , improving existing tower coverage and adding towers rather than moving to a new bandwidth standard that 's guaranteed to result in even lower utilization by the vast majority of existing devices on AT&amp;T 's network.Oh and could n't finish without one off-topic troll : Am I the only one who finds it literally astounding that I ca n't complete a conversation on my fancy new 3G Blackberry without at least one drop on the most well traveled commuter highway ( 101 ) right in the heart of Silicon Valley ?</tokentext>
+<sentencetext>I still get the feeling that my "leading edge" AT&amp;T Blackberry Bold, with its "fast" Intel XScale 624 MHz processor may be the bottleneck on wireless connections.
+I'm not sure if it's the high latency of the mobile network, distance-to-tower-related performance degradation, varying network conditions or simple lack of processor horsepower, but I find that it's typically not able to come anywhere close to the theoretical bandwidth limits imposed by the 3.6Mbps 3G network.I suspect resources would be better spent reducing latency, improving existing tower coverage and adding towers rather than moving to a new bandwidth standard that's guaranteed to result in even lower utilization by the vast majority of existing devices on AT&amp;T's network.Oh and couldn't finish without one off-topic troll: Am I the only one who finds it literally astounding that I can't complete a conversation on my fancy new 3G Blackberry without at least one drop on the most well traveled commuter highway (101) right in the heart of Silicon Valley?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113503</id>
+	<title>Create an Account, or post as Anonymous Coward.</title>
+	<author>Anonymous</author>
+	<datestamp>1243454580000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>make: *** No rule to make target `it'.  Stop</p></htmltext>
+<tokenext>make : * * * No rule to make target ` it' .
+Stop</tokentext>
+<sentencetext>make: *** No rule to make target `it'.
+Stop</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114527</id>
+	<title>Yes.</title>
+	<author>Phroggy</author>
+	<datestamp>1243416840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Could this be one of the big iPhone announcements to come from WWDC?</p></div><p>Yes, it could be.</p><p>It's also possible that Apple won't mention anything about this.  Next question?</p></div>
+	</htmltext>
+<tokenext>Could this be one of the big iPhone announcements to come from WWDC ? Yes , it could be.It 's also possible that Apple wo n't mention anything about this .
+Next question ?</tokentext>
+<sentencetext>Could this be one of the big iPhone announcements to come from WWDC?Yes, it could be.It's also possible that Apple won't mention anything about this.
+Next question?
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114425</id>
+	<title>Re:They ran fibre to our local tower. It's the WT.</title>
+	<author>davidsyes</author>
+	<datestamp>1243416420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It's the WIRETAPPING. So much tracking and forwarding shit must be embedded in all the traffic that the intertubes are going bonkers.</p><p>Seriously, though, i wonder which -- if any -- of their "multiple devices" will support Linux, as in work from kppp, at a minimum. If Sierra is a provider, hopefully it will be available AND work from day one, not day 72. This OS-stratification crap/game played by service providers and hardware makers has to end. Design the hardware to work with minimum communication by the OS and tell ms to talk to the card, not the card talk to ms. Tell Mac to talk to the card, not the card kiss up. This way, maybe Open Source OS's can have a more level playing field to get onto. OTOH, many of these hardware choices might work with Linux, but have their APIs deliberately obfuscated to delay uptake of non-ms OS's...</p></htmltext>
+<tokenext>It 's the WIRETAPPING .
+So much tracking and forwarding shit must be embedded in all the traffic that the intertubes are going bonkers.Seriously , though , i wonder which -- if any -- of their " multiple devices " will support Linux , as in work from kppp , at a minimum .
+If Sierra is a provider , hopefully it will be available AND work from day one , not day 72 .
+This OS-stratification crap/game played by service providers and hardware makers has to end .
+Design the hardware to work with minimum communication by the OS and tell ms to talk to the card , not the card talk to ms. Tell Mac to talk to the card , not the card kiss up .
+This way , maybe Open Source OS 's can have a more level playing field to get onto .
+OTOH , many of these hardware choices might work with Linux , but have their APIs deliberately obfuscated to delay uptake of non-ms OS 's.. .</tokentext>
+<sentencetext>It's the WIRETAPPING.
+So much tracking and forwarding shit must be embedded in all the traffic that the intertubes are going bonkers.Seriously, though, i wonder which -- if any -- of their "multiple devices" will support Linux, as in work from kppp, at a minimum.
+If Sierra is a provider, hopefully it will be available AND work from day one, not day 72.
+This OS-stratification crap/game played by service providers and hardware makers has to end.
+Design the hardware to work with minimum communication by the OS and tell ms to talk to the card, not the card talk to ms. Tell Mac to talk to the card, not the card kiss up.
+This way, maybe Open Source OS's can have a more level playing field to get onto.
+OTOH, many of these hardware choices might work with Linux, but have their APIs deliberately obfuscated to delay uptake of non-ms OS's...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113559</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114283</id>
+	<title>Obligatory European Reply:</title>
+	<author>skrolle2</author>
+	<datestamp>1243415760000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>What, don't you people have this already?</p><p>I just moved, and since my slowpoke ISP is slow, I won't have ADSL in my new place until one or two weeks from now. To cover the meantime I ordered mobile broadband which is a USB 3G dongle that you can connect to your computer. It can do HSPA, and EDGE and "3G". I'm pretty close to a tower, but I got 2mbps down and 0.2 up, and a latency of about 300ms, so I think I'll keep borrowing my neighbour's wifi instead and just return this instead. The mobile provider also had a campaign right now, so the monthly cost is 0. There is a 5GB cap though (if you hit it, they throttle you to 60kbps), and the regular price is $30 a month.</p><p>There, feel free to be envious, rant about how AT&amp;T are screwing the US consumers, curse us Europeans, and possibly, just possibly start the whole broadband country ranking debate again.<nobr> <wbr></nobr>:-)</p></htmltext>
+<tokenext>What , do n't you people have this already ? I just moved , and since my slowpoke ISP is slow , I wo n't have ADSL in my new place until one or two weeks from now .
+To cover the meantime I ordered mobile broadband which is a USB 3G dongle that you can connect to your computer .
+It can do HSPA , and EDGE and " 3G " .
+I 'm pretty close to a tower , but I got 2mbps down and 0.2 up , and a latency of about 300ms , so I think I 'll keep borrowing my neighbour 's wifi instead and just return this instead .
+The mobile provider also had a campaign right now , so the monthly cost is 0 .
+There is a 5GB cap though ( if you hit it , they throttle you to 60kbps ) , and the regular price is $ 30 a month.There , feel free to be envious , rant about how AT&amp;T are screwing the US consumers , curse us Europeans , and possibly , just possibly start the whole broadband country ranking debate again .
+: - )</tokentext>
+<sentencetext>What, don't you people have this already?I just moved, and since my slowpoke ISP is slow, I won't have ADSL in my new place until one or two weeks from now.
+To cover the meantime I ordered mobile broadband which is a USB 3G dongle that you can connect to your computer.
+It can do HSPA, and EDGE and "3G".
+I'm pretty close to a tower, but I got 2mbps down and 0.2 up, and a latency of about 300ms, so I think I'll keep borrowing my neighbour's wifi instead and just return this instead.
+The mobile provider also had a campaign right now, so the monthly cost is 0.
+There is a 5GB cap though (if you hit it, they throttle you to 60kbps), and the regular price is $30 a month.There, feel free to be envious, rant about how AT&amp;T are screwing the US consumers, curse us Europeans, and possibly, just possibly start the whole broadband country ranking debate again.
+:-)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114129</id>
+	<title>Re:Theoretically...</title>
+	<author>Anonymous</author>
+	<datestamp>1243414800000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>That's your theory.</p></htmltext>
+<tokenext>That 's your theory .</tokentext>
+<sentencetext>That's your theory.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113337</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113575</id>
+	<title>string cheese</title>
+	<author>PhantomHarlock</author>
+	<datestamp>1243454940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>As above posters mentioned, AT&amp;T's service always comes with so many strings that it's hardly worth paying for.   Plus their high speed coverage generally only extends to large urban areas.</p><p>Anyone have any comments on Verizon's data service offerings?  I'd potentially like to do a tethered modem or a MiFi type device.   I'm tired of the iPhone and it's inability to anything truly useful without jailbreaking it.</p></htmltext>
+<tokenext>As above posters mentioned , AT&amp;T 's service always comes with so many strings that it 's hardly worth paying for .
+Plus their high speed coverage generally only extends to large urban areas.Anyone have any comments on Verizon 's data service offerings ?
+I 'd potentially like to do a tethered modem or a MiFi type device .
+I 'm tired of the iPhone and it 's inability to anything truly useful without jailbreaking it .</tokentext>
+<sentencetext>As above posters mentioned, AT&amp;T's service always comes with so many strings that it's hardly worth paying for.
+Plus their high speed coverage generally only extends to large urban areas.Anyone have any comments on Verizon's data service offerings?
+I'd potentially like to do a tethered modem or a MiFi type device.
+I'm tired of the iPhone and it's inability to anything truly useful without jailbreaking it.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28115123</id>
+	<title>SO THRILLED - not</title>
+	<author>Runaway1956</author>
+	<datestamp>1243418940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Assuming this actually improves SOME people's internet (yeah, I know, big assumption) it means a bit less than diddly squat to many Americans.  I can't GET reliable cell service.  If I walk out in the yard, and hold the phone at an awkward angle, pointing the antenna *just so* the tower in Texarkana finally makes a connection.</p><p>I'd rather see AT&amp;T do something USEFUL.  Expand the existing infrastructure, so that rural America can enjoy simple MB speed connections on the internet.  And, reduce the rates, so that rural Americans can AFFORD a 1 MB connection.  Just because the city boys with union jobs can afford $75/month service, doesn't mean everyone in Backwoods Nowhere has that kind of money.</p></htmltext>
+<tokenext>Assuming this actually improves SOME people 's internet ( yeah , I know , big assumption ) it means a bit less than diddly squat to many Americans .
+I ca n't GET reliable cell service .
+If I walk out in the yard , and hold the phone at an awkward angle , pointing the antenna * just so * the tower in Texarkana finally makes a connection.I 'd rather see AT&amp;T do something USEFUL .
+Expand the existing infrastructure , so that rural America can enjoy simple MB speed connections on the internet .
+And , reduce the rates , so that rural Americans can AFFORD a 1 MB connection .
+Just because the city boys with union jobs can afford $ 75/month service , does n't mean everyone in Backwoods Nowhere has that kind of money .</tokentext>
+<sentencetext>Assuming this actually improves SOME people's internet (yeah, I know, big assumption) it means a bit less than diddly squat to many Americans.
+I can't GET reliable cell service.
+If I walk out in the yard, and hold the phone at an awkward angle, pointing the antenna *just so* the tower in Texarkana finally makes a connection.I'd rather see AT&amp;T do something USEFUL.
+Expand the existing infrastructure, so that rural America can enjoy simple MB speed connections on the internet.
+And, reduce the rates, so that rural Americans can AFFORD a 1 MB connection.
+Just because the city boys with union jobs can afford $75/month service, doesn't mean everyone in Backwoods Nowhere has that kind of money.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113287</id>
+	<title>Wireless</title>
+	<author>Anonymous</author>
+	<datestamp>1243453680000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>1</modscore>
+	<htmltext>And if I can get a good internet connection for a decent price with all this..  SCREW YOU! TIME WARNER!</htmltext>
+<tokenext>And if I can get a good internet connection for a decent price with all this.. SCREW YOU !
+TIME WARNER !</tokentext>
+<sentencetext>And if I can get a good internet connection for a decent price with all this..  SCREW YOU!
+TIME WARNER!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113927</id>
+	<title>overage city, faster</title>
+	<author>MoFoQ</author>
+	<datestamp>1243456560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>great, even more ways to get to overage city even faster.</p><p>now, if they are getting rid of the cap and make it truly unlimited...then fine.</p></htmltext>
+<tokenext>great , even more ways to get to overage city even faster.now , if they are getting rid of the cap and make it truly unlimited...then fine .</tokentext>
+<sentencetext>great, even more ways to get to overage city even faster.now, if they are getting rid of the cap and make it truly unlimited...then fine.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28126415</id>
+	<title>Re:They Didn't Mention You'll Still Drop Calls</title>
+	<author>dmnic</author>
+	<datestamp>1243536480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I've been a ATT (Cingular, Suncom, etc) customer for about 8 years now and have never dropped a call.<br>Verizon, Alltel, T-Mobile, Sprint/Nextel...all have dropped calls.</p><p>whose anecdotal evidence is better?</p></htmltext>
+<tokenext>I 've been a ATT ( Cingular , Suncom , etc ) customer for about 8 years now and have never dropped a call.Verizon , Alltel , T-Mobile , Sprint/Nextel...all have dropped calls.whose anecdotal evidence is better ?</tokentext>
+<sentencetext>I've been a ATT (Cingular, Suncom, etc) customer for about 8 years now and have never dropped a call.Verizon, Alltel, T-Mobile, Sprint/Nextel...all have dropped calls.whose anecdotal evidence is better?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113333</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28120865</id>
+	<title>Re:Wireless</title>
+	<author>paganizer</author>
+	<datestamp>1243506780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p> I also live in the boonies; up until 3 years ago i was relying on ISDN, then a WISP startup came along and I'm getting, on average, 300k for $40 a month (considering that the tower is 7 miles away, I don't consider that too terrible..<br>I would gladly pay more for decent internet, but every time I've checked with the 2 cell providers for the area, Verizon and AT&amp;T, it looks ridiculously expensive (like in the $150+ range) with bizarre limits; can you give me some idea of what you are paying? maybe I can trick Verizon into giving me a similar account, if it's reasonable.</p></htmltext>
+<tokenext>I also live in the boonies ; up until 3 years ago i was relying on ISDN , then a WISP startup came along and I 'm getting , on average , 300k for $ 40 a month ( considering that the tower is 7 miles away , I do n't consider that too terrible..I would gladly pay more for decent internet , but every time I 've checked with the 2 cell providers for the area , Verizon and AT&amp;T , it looks ridiculously expensive ( like in the $ 150 + range ) with bizarre limits ; can you give me some idea of what you are paying ?
+maybe I can trick Verizon into giving me a similar account , if it 's reasonable .</tokentext>
+<sentencetext> I also live in the boonies; up until 3 years ago i was relying on ISDN, then a WISP startup came along and I'm getting, on average, 300k for $40 a month (considering that the tower is 7 miles away, I don't consider that too terrible..I would gladly pay more for decent internet, but every time I've checked with the 2 cell providers for the area, Verizon and AT&amp;T, it looks ridiculously expensive (like in the $150+ range) with bizarre limits; can you give me some idea of what you are paying?
+maybe I can trick Verizon into giving me a similar account, if it's reasonable.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113753</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28117253</id>
+	<title>Re:Sweden just got their first 4G base station.</title>
+	<author>rbarreira</author>
+	<datestamp>1243428780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It's not ready to be used commercially yet though, just part of tests.</p></htmltext>
+<tokenext>It 's not ready to be used commercially yet though , just part of tests .</tokentext>
+<sentencetext>It's not ready to be used commercially yet though, just part of tests.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116125</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113393</id>
+	<title>Great.</title>
+	<author>Anonymous</author>
+	<datestamp>1243454040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>But they will still limit the kinds of traffic on their network.</htmltext>
+<tokenext>But they will still limit the kinds of traffic on their network .</tokentext>
+<sentencetext>But they will still limit the kinds of traffic on their network.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28118263</id>
+	<title>Re:Sweden just got their first 4G base station.</title>
+	<author>EQ</author>
+	<datestamp>1243436400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It was actually earlier than that, just not available "commercially"<nobr> <wbr></nobr>:-)</p></htmltext>
+<tokenext>It was actually earlier than that , just not available " commercially " : - )</tokentext>
+<sentencetext>It was actually earlier than that, just not available "commercially" :-)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116125</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113547</id>
+	<title>Hey Jerks at AT&amp;T...</title>
+	<author>Enuratique</author>
+	<datestamp>1243454820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>... please don't forget about the large number of your customers who are paying for 3G access and still have none before you go about upgrading existing 3G networks.
+
+It was announced that 3G was coming to my area by year's end at the beginning of the year... It's now June... You have 6 months left, jerks...</htmltext>
+<tokenext>... please do n't forget about the large number of your customers who are paying for 3G access and still have none before you go about upgrading existing 3G networks .
+It was announced that 3G was coming to my area by year 's end at the beginning of the year... It 's now June... You have 6 months left , jerks.. .</tokentext>
+<sentencetext>... please don't forget about the large number of your customers who are paying for 3G access and still have none before you go about upgrading existing 3G networks.
+It was announced that 3G was coming to my area by year's end at the beginning of the year... It's now June... You have 6 months left, jerks...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114293</id>
+	<title>What about HSPA+</title>
+	<author>Erich</author>
+	<datestamp>1243415760000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext>In Australia they're getting 21Mbps from HSPA+:
+<a href="http://www.fiercebroadbandwireless.com/story/australias-telstra-launches-hspa/2009-02-22" title="fiercebroa...reless.com">http://www.fiercebroadbandwireless.com/story/australias-telstra-launches-hspa/2009-02-22</a> [fiercebroa...reless.com]
+<p>
+And they claim they'll double it by the end of the year (with multicarrier HSPA+?)</p></htmltext>
+<tokenext>In Australia they 're getting 21Mbps from HSPA + : http : //www.fiercebroadbandwireless.com/story/australias-telstra-launches-hspa/2009-02-22 [ fiercebroa...reless.com ] And they claim they 'll double it by the end of the year ( with multicarrier HSPA + ?
+)</tokentext>
+<sentencetext>In Australia they're getting 21Mbps from HSPA+:
+http://www.fiercebroadbandwireless.com/story/australias-telstra-launches-hspa/2009-02-22 [fiercebroa...reless.com]
+
+And they claim they'll double it by the end of the year (with multicarrier HSPA+?
+)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116485</id>
+	<title>Re:Theoretically...</title>
+	<author>Dr.Who</author>
+	<datestamp>1243424340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Customers experience <tt> <strong>q*Fw</strong> </tt>
+<br>where:
+<tt>
+<br> <strong>q</strong>  = the fraction of theoretical maximum bandwidth
+<br> <strong>Fw</strong> = the theoretical maximum bandwidth
+</tt>
+</p><p>
+Most customers would benefit from a larger fraction of the existing maximum theoretical bandwidth rather than a higher theoretical maximum.
+</p></htmltext>
+<tokenext>Customers experience q * Fw where : q = the fraction of theoretical maximum bandwidth Fw = the theoretical maximum bandwidth Most customers would benefit from a larger fraction of the existing maximum theoretical bandwidth rather than a higher theoretical maximum .</tokentext>
+<sentencetext>Customers experience  q*Fw 
+where:
+
+ q  = the fraction of theoretical maximum bandwidth
+ Fw = the theoretical maximum bandwidth
+
+
+Most customers would benefit from a larger fraction of the existing maximum theoretical bandwidth rather than a higher theoretical maximum.
+</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113337</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116797</id>
+	<title>Re:Obligatory European Reply:</title>
+	<author>kindbud</author>
+	<datestamp>1243425900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>We've got all that in the USA. I started my service so long ago it was unlimited, and my plan is grandfathered, so I don't have any caps and no throttling.  I get 2.5mbit/sec up and 670kbit/sec down and under 100ms latency while moored at Isthmus Cove on Catalina Island, 27 miles off the coast of Los Angeles.  It's better than the free Wifi at Harbor Reef Restaurant ashore at Two Harbors.</p></htmltext>
+<tokenext>We 've got all that in the USA .
+I started my service so long ago it was unlimited , and my plan is grandfathered , so I do n't have any caps and no throttling .
+I get 2.5mbit/sec up and 670kbit/sec down and under 100ms latency while moored at Isthmus Cove on Catalina Island , 27 miles off the coast of Los Angeles .
+It 's better than the free Wifi at Harbor Reef Restaurant ashore at Two Harbors .</tokentext>
+<sentencetext>We've got all that in the USA.
+I started my service so long ago it was unlimited, and my plan is grandfathered, so I don't have any caps and no throttling.
+I get 2.5mbit/sec up and 670kbit/sec down and under 100ms latency while moored at Isthmus Cove on Catalina Island, 27 miles off the coast of Los Angeles.
+It's better than the free Wifi at Harbor Reef Restaurant ashore at Two Harbors.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114283</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114127</id>
+	<title>Notice: The Latecy Will Actually Be Decent</title>
+	<author>RudeIota</author>
+	<datestamp>1243414800000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext>I know people are going to argue that cellular wireless suffers from awful latency, making this completely unviable for anything but light web surfing...<br> <br>I'd like to preemptively note that I've heard HSDPA has <a href="http://en.wikipedia.org/wiki/HSDPA" title="wikipedia.org">very good latency</a> [wikipedia.org] for wireless... at least on paper. <br> <br>This is merely anecdotal, I also hear others talking about 60-80ms latency, which is *great* compared to other common cellular data technologies such as Edge and 3G. It might not be perfect for gaming, but it should be suitable for multimedia providing the cellular network has the balls to handle it.</htmltext>
+<tokenext>I know people are going to argue that cellular wireless suffers from awful latency , making this completely unviable for anything but light web surfing... I 'd like to preemptively note that I 've heard HSDPA has very good latency [ wikipedia.org ] for wireless... at least on paper .
+This is merely anecdotal , I also hear others talking about 60-80ms latency , which is * great * compared to other common cellular data technologies such as Edge and 3G .
+It might not be perfect for gaming , but it should be suitable for multimedia providing the cellular network has the balls to handle it .</tokentext>
+<sentencetext>I know people are going to argue that cellular wireless suffers from awful latency, making this completely unviable for anything but light web surfing... I'd like to preemptively note that I've heard HSDPA has very good latency [wikipedia.org] for wireless... at least on paper.
+This is merely anecdotal, I also hear others talking about 60-80ms latency, which is *great* compared to other common cellular data technologies such as Edge and 3G.
+It might not be perfect for gaming, but it should be suitable for multimedia providing the cellular network has the balls to handle it.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114295</id>
+	<title>Re:Hey Jerks at AT&amp;T...</title>
+	<author>Anonymous</author>
+	<datestamp>1243415760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Gigabits per siemens?</p></htmltext>
+<tokenext>Gigabits per siemens ?</tokentext>
+<sentencetext>Gigabits per siemens?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113701</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114939</id>
+	<title>bah</title>
+	<author>Thaelon</author>
+	<datestamp>1243418460000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Can we please ban the use of "up to" in advertising?  The same goes for "as much as" and all their ilk.</p><p>How it isn't simply declared false advertising is beyond me.</p><p>It's like those super soakers that were advertised as shooting "up to 30 feet!".  Yeah, right.  Only if you whip your arm about before firing to impart some momentum to the water, then fire downwind at a 37 degree angle in a category 4 hurricane.  Otherwise it was more like 10 feet.</p><p>How about if the mean average performance of the product isn't at least 80\% of the advertised "up to" figure, you don't get to use that figure.  Or require that all "up to" claims be accompanied with a bell curve that show people that most of them will be getting significantly less 100\% of the time?</p></htmltext>
+<tokenext>Can we please ban the use of " up to " in advertising ?
+The same goes for " as much as " and all their ilk.How it is n't simply declared false advertising is beyond me.It 's like those super soakers that were advertised as shooting " up to 30 feet ! " .
+Yeah , right .
+Only if you whip your arm about before firing to impart some momentum to the water , then fire downwind at a 37 degree angle in a category 4 hurricane .
+Otherwise it was more like 10 feet.How about if the mean average performance of the product is n't at least 80 \ % of the advertised " up to " figure , you do n't get to use that figure .
+Or require that all " up to " claims be accompanied with a bell curve that show people that most of them will be getting significantly less 100 \ % of the time ?</tokentext>
+<sentencetext>Can we please ban the use of "up to" in advertising?
+The same goes for "as much as" and all their ilk.How it isn't simply declared false advertising is beyond me.It's like those super soakers that were advertised as shooting "up to 30 feet!".
+Yeah, right.
+Only if you whip your arm about before firing to impart some momentum to the water, then fire downwind at a 37 degree angle in a category 4 hurricane.
+Otherwise it was more like 10 feet.How about if the mean average performance of the product isn't at least 80\% of the advertised "up to" figure, you don't get to use that figure.
+Or require that all "up to" claims be accompanied with a bell curve that show people that most of them will be getting significantly less 100\% of the time?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113915</id>
+	<title>Tethering?</title>
+	<author>tulmad</author>
+	<datestamp>1243456500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Of course, you still won't be allowed to use your iPhone as a modem (yes, I know it's possible, just not approved by AT&amp;T).</p></htmltext>
+<tokenext>Of course , you still wo n't be allowed to use your iPhone as a modem ( yes , I know it 's possible , just not approved by AT&amp;T ) .</tokentext>
+<sentencetext>Of course, you still won't be allowed to use your iPhone as a modem (yes, I know it's possible, just not approved by AT&amp;T).</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113559</id>
+	<title>They ran fibre to our local tower.</title>
+	<author>yourassOA</author>
+	<datestamp>1243454880000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext>"New high speed internet" they said, "faster than anything you seen before". Now I could be wrong but for some reason cell service went to shit. Coincidence? I live 2 miles away from the tower with direct line of sight. And the problem isn't just signal strength but weird noises, echoes and interference.</htmltext>
+<tokenext>" New high speed internet " they said , " faster than anything you seen before " .
+Now I could be wrong but for some reason cell service went to shit .
+Coincidence ? I live 2 miles away from the tower with direct line of sight .
+And the problem is n't just signal strength but weird noises , echoes and interference .</tokentext>
+<sentencetext>"New high speed internet" they said, "faster than anything you seen before".
+Now I could be wrong but for some reason cell service went to shit.
+Coincidence? I live 2 miles away from the tower with direct line of sight.
+And the problem isn't just signal strength but weird noises, echoes and interference.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113649</id>
+	<title>Yeah, okay</title>
+	<author>elrous0</author>
+	<datestamp>1243455300000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext>I have AT&amp;T for my DSL and I can't even get their 6 Mbps DSL connection with a WIRE. And they want me to believe they're going to give me 7 Mbps on my cellphone?</htmltext>
+<tokenext>I have AT&amp;T for my DSL and I ca n't even get their 6 Mbps DSL connection with a WIRE .
+And they want me to believe they 're going to give me 7 Mbps on my cellphone ?</tokentext>
+<sentencetext>I have AT&amp;T for my DSL and I can't even get their 6 Mbps DSL connection with a WIRE.
+And they want me to believe they're going to give me 7 Mbps on my cellphone?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113315</id>
+	<title>iPhone?</title>
+	<author>Anonymous</author>
+	<datestamp>1243453740000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>-1</modscore>
+	<htmltext>Is is any coincidence that this announcement is coming out so soon to what the new rumoured iPhone is to be announced (next month?)</htmltext>
+<tokenext>Is is any coincidence that this announcement is coming out so soon to what the new rumoured iPhone is to be announced ( next month ?
+)</tokentext>
+<sentencetext>Is is any coincidence that this announcement is coming out so soon to what the new rumoured iPhone is to be announced (next month?
+)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28128043</id>
+	<title>We have 21Mbits hspda in Sweden - actually 10-15mb</title>
+	<author>fakeillusion</author>
+	<datestamp>1243541280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>These speeds are not close to what's possible to get.. We have 21Mbits 3G here in Sweden and max speed is around 14-15Mbits.. All the companies are taken to the consumer court for false claims in adverts and in the product.. The companies have now come together and set rules advertising only the top maximal speed possible practically, not thoretically...</htmltext>
+<tokenext>These speeds are not close to what 's possible to get.. We have 21Mbits 3G here in Sweden and max speed is around 14-15Mbits.. All the companies are taken to the consumer court for false claims in adverts and in the product.. The companies have now come together and set rules advertising only the top maximal speed possible practically , not thoretically.. .</tokentext>
+<sentencetext>These speeds are not close to what's possible to get.. We have 21Mbits 3G here in Sweden and max speed is around 14-15Mbits.. All the companies are taken to the consumer court for false claims in adverts and in the product.. The companies have now come together and set rules advertising only the top maximal speed possible practically, not thoretically...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113719</id>
+	<title>One word...</title>
+	<author>Anonymous</author>
+	<datestamp>1243455600000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext>Backhaul
+
+You can have 7.2Mbps to the base station, but from all accounts, the backhaul from said base stations SUCKS, so you won't get anywhere near that.
+
+Thats the sneaky trick. They offer UP TO 7.2Mpbs, but really its dependant on backhaul, and how said backhaul has been configured.
+
+Expect throughput of about 500kbps</htmltext>
+<tokenext>Backhaul You can have 7.2Mbps to the base station , but from all accounts , the backhaul from said base stations SUCKS , so you wo n't get anywhere near that .
+Thats the sneaky trick .
+They offer UP TO 7.2Mpbs , but really its dependant on backhaul , and how said backhaul has been configured .
+Expect throughput of about 500kbps</tokentext>
+<sentencetext>Backhaul
+
+You can have 7.2Mbps to the base station, but from all accounts, the backhaul from said base stations SUCKS, so you won't get anywhere near that.
+Thats the sneaky trick.
+They offer UP TO 7.2Mpbs, but really its dependant on backhaul, and how said backhaul has been configured.
+Expect throughput of about 500kbps</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28117405</id>
+	<title>Re:One word...</title>
+	<author>karnal</author>
+	<datestamp>1243429860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I ran into this in remotetown, virginia.... was out doing work on a remote building, and thought - oh, I have 3g service.  Full bars, appeared that I would have an awesome VPN session.</p><p>But, they must have the other end of that 3g tower attached to a 56k modem.  Doing something that I'd typically do on my phone in Columbus, Ohio - Google Maps - was a lesson in futility.  VPN session would connect, but applications across it were horrible.</p><p>And I highly doubt it was because the cell network was anywhere near saturated.</p></htmltext>
+<tokenext>I ran into this in remotetown , virginia.... was out doing work on a remote building , and thought - oh , I have 3g service .
+Full bars , appeared that I would have an awesome VPN session.But , they must have the other end of that 3g tower attached to a 56k modem .
+Doing something that I 'd typically do on my phone in Columbus , Ohio - Google Maps - was a lesson in futility .
+VPN session would connect , but applications across it were horrible.And I highly doubt it was because the cell network was anywhere near saturated .</tokentext>
+<sentencetext>I ran into this in remotetown, virginia.... was out doing work on a remote building, and thought - oh, I have 3g service.
+Full bars, appeared that I would have an awesome VPN session.But, they must have the other end of that 3g tower attached to a 56k modem.
+Doing something that I'd typically do on my phone in Columbus, Ohio - Google Maps - was a lesson in futility.
+VPN session would connect, but applications across it were horrible.And I highly doubt it was because the cell network was anywhere near saturated.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113719</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113633</id>
+	<title>HSDPA capable phones available now</title>
+	<author>dziman</author>
+	<datestamp>1243455180000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Some phones already have the HSDPA 7.2Mbps capability. AT&amp;T has just neutered their firmware through various settings. Luckily, for some phones, you can just revert these settings, and in some places, receive 7.2Mbps today.</p><p>For example, the HTC Fuze/Touch Pro can do 7.2Mbps after some registry tweaks.</p></htmltext>
+<tokenext>Some phones already have the HSDPA 7.2Mbps capability .
+AT&amp;T has just neutered their firmware through various settings .
+Luckily , for some phones , you can just revert these settings , and in some places , receive 7.2Mbps today.For example , the HTC Fuze/Touch Pro can do 7.2Mbps after some registry tweaks .</tokentext>
+<sentencetext>Some phones already have the HSDPA 7.2Mbps capability.
+AT&amp;T has just neutered their firmware through various settings.
+Luckily, for some phones, you can just revert these settings, and in some places, receive 7.2Mbps today.For example, the HTC Fuze/Touch Pro can do 7.2Mbps after some registry tweaks.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116541</id>
+	<title>Re:just means you'll hit ATT's 5GB limit even soon</title>
+	<author>drinkypoo</author>
+	<datestamp>1243424640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Even if we assume that their speed claims are true, the benefit of this new product will be severely limited if ATT Wireless retains their currently policy of charging $0.25/MB once users hit their monthly limit of 5GB.</p></div><p>I've been looking at AT&amp;T plans online because they buy every fucking cellphone company I get service from anyway (and they own every tower worth a fuck in my county, too... since buying Edge Wireless) and they advertise "Unlimited Data" with the "PDA Personal" option. The version of PDA Personal "with tethering" is advertised as 5GB. I searched the <a href="http://www.wireless.att.com/cell-phone-service/legal/plan-terms.jsp#data" title="att.com">plan terms</a> [att.com] for "unlimited" and none of the limitations seemed to apply to data.</p><p>So, just to clarify, is the "Unlimited" plan limited to 5GB? Or do these complaints only apply to the tethered connections? Further, if you get a tethered plan, do you still get unlimited data to your handheld? And finally, is there something like SLIRP of old that will let you effectively have unlimited tethered data anyway? I'm seriously thinking about getting the refurb HTC Fuze on the premise that it will probably run Angstrom someday. Some other HTC devices seem to be working...</p></div>
+	</htmltext>
+<tokenext>Even if we assume that their speed claims are true , the benefit of this new product will be severely limited if ATT Wireless retains their currently policy of charging $ 0.25/MB once users hit their monthly limit of 5GB.I 've been looking at AT&amp;T plans online because they buy every fucking cellphone company I get service from anyway ( and they own every tower worth a fuck in my county , too... since buying Edge Wireless ) and they advertise " Unlimited Data " with the " PDA Personal " option .
+The version of PDA Personal " with tethering " is advertised as 5GB .
+I searched the plan terms [ att.com ] for " unlimited " and none of the limitations seemed to apply to data.So , just to clarify , is the " Unlimited " plan limited to 5GB ?
+Or do these complaints only apply to the tethered connections ?
+Further , if you get a tethered plan , do you still get unlimited data to your handheld ?
+And finally , is there something like SLIRP of old that will let you effectively have unlimited tethered data anyway ?
+I 'm seriously thinking about getting the refurb HTC Fuze on the premise that it will probably run Angstrom someday .
+Some other HTC devices seem to be working.. .</tokentext>
+<sentencetext>Even if we assume that their speed claims are true, the benefit of this new product will be severely limited if ATT Wireless retains their currently policy of charging $0.25/MB once users hit their monthly limit of 5GB.I've been looking at AT&amp;T plans online because they buy every fucking cellphone company I get service from anyway (and they own every tower worth a fuck in my county, too... since buying Edge Wireless) and they advertise "Unlimited Data" with the "PDA Personal" option.
+The version of PDA Personal "with tethering" is advertised as 5GB.
+I searched the plan terms [att.com] for "unlimited" and none of the limitations seemed to apply to data.So, just to clarify, is the "Unlimited" plan limited to 5GB?
+Or do these complaints only apply to the tethered connections?
+Further, if you get a tethered plan, do you still get unlimited data to your handheld?
+And finally, is there something like SLIRP of old that will let you effectively have unlimited tethered data anyway?
+I'm seriously thinking about getting the refurb HTC Fuze on the premise that it will probably run Angstrom someday.
+Some other HTC devices seem to be working...
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113993</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28115629</id>
+	<title>YAWWWNNNN!!!</title>
+	<author>marky\_boi</author>
+	<datestamp>1243420560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>This is no real news to Europe and Australia. 21Mbps is the THEORETICAL maximum.. It will be moved to 42Mbps by years end with Telstra.
+If you have decent hackhaul life will be sweet</htmltext>
+<tokenext>This is no real news to Europe and Australia .
+21Mbps is the THEORETICAL maximum.. It will be moved to 42Mbps by years end with Telstra .
+If you have decent hackhaul life will be sweet</tokentext>
+<sentencetext>This is no real news to Europe and Australia.
+21Mbps is the THEORETICAL maximum.. It will be moved to 42Mbps by years end with Telstra.
+If you have decent hackhaul life will be sweet</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114831</id>
+	<title>Re:Obligatory European Reply:</title>
+	<author>imroy</author>
+	<datestamp>1243418040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>How about Australia? Well, <a href="http://www.bigpond.com/internet/plans/wireless/" title="bigpond.com">Telstra Bigpond</a> [bigpond.com] has 21Mbps HSPA+ with probably very good coverage (can't find a link), Vodafone Australia has 3.6Mbps HSDPA with (soon to be) <a href="http://maps02.pdslive.com.au/VCATPublic/Kiosk.html" title="pdslive.com.au">good coverage</a> [pdslive.com.au] and Optus has a 3G/UMTS network with <a href="http://www.optus.com.au/portal/site/aboutoptus/menuitem.cfa0247099a6f722d0b61a108c8ac7a0/?vgnextoid=018110009d82e110VgnVCM10000002cd780aRCRD" title="optus.com.au">spotty coverage</a> [optus.com.au].</p><p>The United States has over fifteen times the population of Australia, yet the U.S. has long been behind when it comes to mobile phone technology. Is it the telco monopolies? Is there low demand? It's weird.</p></htmltext>
+<tokenext>How about Australia ?
+Well , Telstra Bigpond [ bigpond.com ] has 21Mbps HSPA + with probably very good coverage ( ca n't find a link ) , Vodafone Australia has 3.6Mbps HSDPA with ( soon to be ) good coverage [ pdslive.com.au ] and Optus has a 3G/UMTS network with spotty coverage [ optus.com.au ] .The United States has over fifteen times the population of Australia , yet the U.S. has long been behind when it comes to mobile phone technology .
+Is it the telco monopolies ?
+Is there low demand ?
+It 's weird .</tokentext>
+<sentencetext>How about Australia?
+Well, Telstra Bigpond [bigpond.com] has 21Mbps HSPA+ with probably very good coverage (can't find a link), Vodafone Australia has 3.6Mbps HSDPA with (soon to be) good coverage [pdslive.com.au] and Optus has a 3G/UMTS network with spotty coverage [optus.com.au].The United States has over fifteen times the population of Australia, yet the U.S. has long been behind when it comes to mobile phone technology.
+Is it the telco monopolies?
+Is there low demand?
+It's weird.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114283</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113337</id>
+	<title>Theoretically...</title>
+	<author>againjj</author>
+	<datestamp>1243453800000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p><div class="quote"><p>Current HSPA download speeds can theoretically reach 3.6 MBit/sec,</p></div><p>There is no difference between theory and practice in theory, but there is in practice.</p></div>
+	</htmltext>
+<tokenext>Current HSPA download speeds can theoretically reach 3.6 MBit/sec,There is no difference between theory and practice in theory , but there is in practice .</tokentext>
+<sentencetext>Current HSPA download speeds can theoretically reach 3.6 MBit/sec,There is no difference between theory and practice in theory, but there is in practice.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114199</id>
+	<title>Got that. works fine</title>
+	<author>Anonymous</author>
+	<datestamp>1243415220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>pff.. 7.2mbit wireless? We've had that for over a year in Denmark. Works too.. I bought mine when it was time for my army duty. Worked on the base (based in a minor town (like 6.000 people)), worked back home (around 20.000 people), works i copenhagen, backseat of a car on the middle of a bridge connecting two of the islands, and on the train.<br>Also. No limit other than (we'll ask you politly to reduce your bandwidth-use first, if we feel it's too much, and should you ignore, we will limit you).</p><p>Also, you actually get between 3 and 6 mbit</p><p>-- Happy 3.dk user</p></htmltext>
+<tokenext>pff.. 7.2mbit wireless ?
+We 've had that for over a year in Denmark .
+Works too.. I bought mine when it was time for my army duty .
+Worked on the base ( based in a minor town ( like 6.000 people ) ) , worked back home ( around 20.000 people ) , works i copenhagen , backseat of a car on the middle of a bridge connecting two of the islands , and on the train.Also .
+No limit other than ( we 'll ask you politly to reduce your bandwidth-use first , if we feel it 's too much , and should you ignore , we will limit you ) .Also , you actually get between 3 and 6 mbit-- Happy 3.dk user</tokentext>
+<sentencetext>pff.. 7.2mbit wireless?
+We've had that for over a year in Denmark.
+Works too.. I bought mine when it was time for my army duty.
+Worked on the base (based in a minor town (like 6.000 people)), worked back home (around 20.000 people), works i copenhagen, backseat of a car on the middle of a bridge connecting two of the islands, and on the train.Also.
+No limit other than (we'll ask you politly to reduce your bandwidth-use first, if we feel it's too much, and should you ignore, we will limit you).Also, you actually get between 3 and 6 mbit-- Happy 3.dk user</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116485
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113337
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28117405
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113719
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28115661
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113559
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28119791
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116125
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114425
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113559
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116541
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113993
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28118995
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28118201
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114831
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28126415
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113333
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114129
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113337
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114261
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113719
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113899
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113337
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28120865
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113753
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113287
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28117253
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116125
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114295
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113701
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113547
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114385
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113449
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28118263
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116125
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116797
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1829210_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28117771
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114283
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113547
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113701
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114295
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113333
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28126415
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114293
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113825
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113719
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28117405
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114261
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113575
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28115535
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116125
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28119791
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28118263
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28117253
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113993
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116541
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116675
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113449
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114385
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113393
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113649
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113315
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113559
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28115661
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114425
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116605
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113337
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114129
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116485
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113899
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113287
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113753
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28120865
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114283
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28117771
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114831
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28116797
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113921
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28114127
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28113633
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1829210.18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28118201
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1829210.28118995
+</commentlist>
+</conversation>

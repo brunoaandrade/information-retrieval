@@ -1,0 +1,132 @@
+<article>
+	<pid>8442</pid>
+	<title>Nexus One review: Hype, hope and everything in between | Android Central</title>
+	<url>http://www.androidcentral.com/nexus-one-review-hype-hope-and-everything-between</url>
+	<date>   Jan 18 2010  5:48 pm   </date>
+	<author>Phil Nickinson</author>
+	<text>
+ The Google Nexus One (hands-on | video review | news | FAQ) was supposed to be the phone that changed the game. That brought a paradigm shift to the wireless space. That made it quick and easy to purchase a cellular device -- with or without involving AT&T, T-Mobile, Verizon or Sprint. It was supposed to be a clear line of demarcation between you -- the consumer -- the manufacturer and the Great and Powerful Oz. It is all of these things. And it is none of them. The Nexus One was unveiled by Google on Jan. 5 before a select group of journalists in San Francisco and went on sale immediately thereafter. Google dubbed it the &quot;Superphone.&quot; Only, we knew it really wasn't. For weeks before, Google had given the Nexus One to its employees -- part gift, part strategy. The worker bees got the phone, were presumably (with a wink) told not to talk about it, and so the leaks began. By the time it became available to the general public, we knew what it looked like, the general specs, and what it could do. Not that it's a slouch of a phone, by any standards. But it let a little air out of the hype balloon. Now that the dust has settled, we take a measured approach toward the Nexus One. Manufactured by HTC. Produced, sold and marketed by Google. Supported by ... somebody. (More on that in a bit.) Loved by many. Lamented by just as many as just another phone. Join us after the break.
+Out of the box Sparse. White. Box. That's it. Nothing on the outside save for the Nexus One and Google logos, and a band of color at the bottom sporting the same blue-green-yellow-red scheme we've come to know from Google. Open it and you're greeted by the Nexus one, front and center. &quot;Oh, look,&quot; said my iPhone-using but otherwise smartphone civilian (read: non-nerd) wife. &quot;Looks like they stole that idea from Apple.&quot; Heck, at this point who hasn't when it comes to minimalist packaging. Environment FTW. Next layer down is the usual quick-start and legal fodder, quickly tossed aside. And in the basement of the box we get a mini microUSB cable, mic/earbuds with covers and shirt clip, and a cute little black pouch with the Android robot peeking out from the bottom. The Android guy appears on one of the earbuds, too. Nice touch.   Hardware On the outside It may say Google on the box, but the Nexus One has the look at feel of a top-end HTC device because, well, it is. There's a little back-and-forth about just how much of the design really is Google and how much is HTC. We're pretty confident in the latter, though in the end it doesn't matter who designed it -- this is a solid little device. It measures 119mm tall by 59.8mm wide by 11.5mm deep, and weighs 130 grams with the battery. It's a tad taller than an iPhone, slightly more narrow and just a bit thinner. The face of the phone is dominated by the 3.7-inch AMOLED capacitive touchscreen, at 480x800 pixels (nearly the same as the Droid). And that size is important, as there's no hardware keyboard on the Nexus One. Everything's handled on the screen. Beneath it are the customary buttons back, menu, home and search buttons, and finally the trackball. And that trackball remains a love/hate feature for many. For some, it's as natural. Others look at it in disgust and cry out for a proper directional pad, optical mouse, click wheel -- anything. But it serves a dual purpose. It controls the cursor in a typing situation (as does the usual touchscreen method) allowing for proper cut-and-paste, and works just as previous trackballs, allowing you to scroll through the UI. But it also acts as a notification light -- a glowing orb of news, if you will. Receive an e-mail, and it starts glowing off and on. SMS come in? Light it up. And notifications can have different colors assigned to them. About those four buttons: Like on the Motorola Droid, these buttons are capacitive. There are no springs depressed, no moving parts. But the accuracy seems to be a bit off. You need to press on the top third of where you visualize the button to be in order for it to register. Hopefully we'll see a software fix for that, but it may be a hardware issue, too. On the bottom bezel is the microUSB port, dock connector (that's the three gold dots) and microphone hole (the space where it looks like a fourth gold dock connector is missing). The left bezel has the volume rocker button, and the top has the power button and 3.5mm headphone jack. A word about that power button: This is part of what certainly makes this phone an HTC design. It's very easy to accidentally press, much like the power button on the HTC Touch Pro 2. Most of the time that's not a huge deal, as you have to hold it down and then perform another action to turn off the device or put it into airplane mode. But if the phone's already off, it makes it easy to inadvertently power on.   The back of the phone sports the battery cover, with holes for the speaker and secondary microphone (for noise cancellation), as well as housings for the 5-megapixel camera and LED flash (which is nuclear in intensity). The cover comes off by sliding it up. (Hint: Put pressure on your thumbs starting near the back microphone hole.) The phone itself is a mix of what feels like brushed aluminum (more likely nice plastic) on the bezel around the screen and on the back band, and a version of the soft-touch paint we've grown to love over the years. As for the overall feel of the Nexus One? It's got a nice heft to it. Not nearly as heavy as the Motorola Droid, and its lines are softer than the Droid Eris. It fits well in the hand, though it seems slick at times. A decent case can take care of any slippage concerns, though. On the inside The Nexus One is powered by a Qualcomm QSD 8250 Snapdragon processor, running at 1GHz. In layman's terms: This thing is fast. There's 512 megabytes of RAM and 512MB of ROM on board. Multitasking isn't a problem, thanks to the RAM. But the ROM situation remains a bit of a sticking point. Currently, apps can only be stored on the device. That's not a new problem, and it's one you can work around if you root the Nexus One. Google, however, has said it will fix that limitation in an upcoming release. The Nexus One, as it stands at launch, was designed for use on T-Mobile's network, including 3G data. It will, however, work on AT&T's GSM network, too, though it won't get 3G data. The battery is of the 1,400mAh variety and should get you through most of a day on a single charge. If not, it is removable, so you can just pop in a new one. You'll need to take out the battery to insert your SIM card, or to swap out the microSD card. The Nexus One comes with a 4GB card, though it supports up to a 32GB card. Other sundry items: assisted GPS, 802.11 b/g/(and eventually n) WiFi, Bluetooth 2.0 + EDR. The software  Inside Android 2.1 The Nexus One is a true &quot;Google experience&quot; phone, unlike, say, the Motorola Cliq or HTC Droid Eris. That's not likely to make much of a difference to the casual user, but it is distinction that needs to be made. And the Nexus One is the first phone to sport Android 2.1, part of the &quot;Eclair&quot; line. Initial setup of the Nexus One is the same -- you give it your Google credentials and it automatically starts pulling down your gmail, contacts and the like. That's not the only means of communication; the Nexus One handles POP and IMAP e-mail just fine (as well as Exchange accounts, though not as well as Windows Mobile). But we've said it before, and we'll continue to say it: If you're not a gmail user, you're going to miss out. Gmail use (and with custom gmail domains, too) is as it should be on a mobile phone. Biggest gripe is that takes too many taps to change accounts. Windows Mobile has that one nailed: Swipe left or right in the inbox to change accounts. In Android, you still have to go to the menu, hit the accounts button, then choose the account you want to switch to. That's three menus, three taps, where one swipe could get the job done. Steal. This. Now. And that's a continuing problem with Android. It lacks refinements that could make the user experience much quicker and easier. The old joke about Palm was that they counted the number of taps it took to complete an action. Actually, that's really not so much of a joke, and something from which Android could greatly benefit. The other Google services on the Nexus One -- Google Maps, Google Navigation, Google Voice and the like -- work just as on other Android devices (and are buttery smooth). Live wallpapers and the home screen The initial home screen you're met by looks familiar. Same basic icons but ... wait ... is that desktop moving? Sure enough, one of the major UI tweaks in Android 2.1 is &quot;Live wallpaper.&quot; You're given 10 to choose from. Some of them, like the default &quot;Nexus&quot; wallpaper, are interactive. Poke at it, and the animation changes. My favorite: &quot;Grass.&quot; It's like lying in a field of tall, waving grass. And as the day grows longer, the sky in the background grows darker. For the most part, the default live wallpapers are pretty subdued. There's just enough animation to keep things interesting but not distracting. Others that you can find in the Android Market, well, they can be a little taxing on the eyes. Of course, as soon as you see animated wallpapers, you worry about battery life. The live wallpapers do, of course, use more power than just a static image. But the Nexus One's Snapdragon processor architecture and AMOLED screen help mitigate that. In other words, it wasn't noticeably draining.  Android 2.1 home screen (left) and with cards open (right) Also new in Android 2.1 the addition of more home screens. We're now up to five -- two on either side of the main home screen. As in previous versions, you just swipe left or right to move to them. Dots in either lower corner indicate which screen you're on. But that's not the only way to move around. Tap and hold on either of the lower corners, and up pop five cards, showing previews of the five home screens. (Yes, this looks like a blatant ripoff of the Palm webOS card metaphor for multitasking.) It's not necessarily much quicker than swiping across the screens, but it is a cool option. Gone is the app drawer at the bottom. It's been replaced by a sort of 3D Rolodex. It's really a minor UI tweak, but it's a nice change. The Android Market is exactly as before. If you're migrating from another Android phone, your downloaded apps (free and paid) will come with you and will automatically install themselves. (Next step: Automatic desktop migration, please.) Our greatest concern about the &quot;Google experience&quot; is that it still lacks an ease of use for &quot;normal&quot; consumers (I call 'em civilians). How do you explain to, say, your mother, the philosophy behind widgets versus icons and shortcuts, and how they can all work together on Android's multiple desktops? It's not a difficult concept for smartphone nerds, but neither is it overly intuitive. And after you amass more than a dozen apps or so -- which might or might not contain widgets, too -- it can get quite complicated. Keyboard and voice to text input The Nexus One has no hardware keyboard -- it's all on-screen for this guy. And the on-screen keyboard is, well, it's OK. The iPhone still is the king of on-screen keyboards, though everybody else is slowly gaining ground. And, of course, you can download new keyboard skins for Android phones at the drop of a hat. But out of the box, the Nexus One's is pretty good. It's better in landscape, as are most on-screen keyboards, but not bad in portrait, either. That said, I and many others, apparently, have seen some occasional problems with the keyboard incorrectly registering touches. Whether that's connected to what we're seeing in the bottom four buttons on the device is unclear. It's not a constant issue at this point, but an early (and annoying) bug that needs to be fixed.  Probably one of the coolest features in Android 2.1 is the one that's the least refined and most open to (and in need of) improvement. Using speech for voice dialing is nothing new when it comes to smartphones (and dumbphones, for that matter). But Android 2.1 has taken a huge leap in that every text field -- from e-mail to Web forms to, well, you name it -- can be filled by the sound of your voice. Admittedly still in its infancy, Google has opened up voice-to-text for every possible use. Want to dictate an e-mail? Go for it. As you'll see, it's still fairly buggy. But this is the sort of thing that will only get better with time. But we've been saying that about voice transcription for years, haven't we? We can only hope that with Google charging forward with voice-to-text on phones, as well as with transcription in its Google Voice service, that we'll finally see some headway made.     Photo gallery Another revamped feature in Android 2.1 is the photo gallery. Basically it's UI tweaks, but the main new feature is that pictures will automatically be sorted by date. Helpful if you're a father who can't help but snap a pic of every cute thing your daughter does. There's also one-touch sharing to Facebook, Twitter, e-mail and the like.  The camera OMG! The Nexus One has a 5-megapixel camera! Yes, unless you're a Nokia fan, that's more megapixels than you've ever carried around on a cell phone. But MP's aren't everything (except in England and Canada). It's really the optics -- as in the lens -- that gives you better cell phone pics. And the Nexus One has a darn good one; for sure it's better than the Motorola Droid's camera.   The LED flash is on just a few shades away from nuclear, which is great for photos, but could wear on the battery if you're constantly snapping away in the dark. Low-light shooting isn't too bad, either. But, again, if you're looking for an actual camera, well, go get an actual camera. Video quality with the Nexus One's camera isn't half-bad either.     The phone Oh, yeah. The Nexus One is a phone, too. (How quickly we forget.) Call quality is quite good, thanks in part to the dual-microphone noise cancellation and the Audience A1026 Voice Processor. Bluetooth is still Bluetooth, and your mileage may vary depending on what headset you're using. But our BlueAnt V1 paired up without any problems. The phone dialer itself in Android 2.1 is unchanged from Android 2.0. The buttons are large and easy to hit with your thumb. Contacts are easily accessible, and you can &quot;star&quot; your favorite contacts for easy speed-dialing. And that's even more important because when you're using the dialpad, you'll only be dialing numbers. If you type 7445, it's not going to bring up any of the numbers for &quot;Phil.&quot; It's just going to dial 7445. Let's hope that gets improved soon. The speakerphone quality is decent. But you're going to be disappointed in regards to volume level if you've ever used a Motorola phone. (Seriously: Every manufacturer out there just needs to license Moto's speakerphones and get it over with.) There's plenty of variation when it comes to the lower levels. But for those of us who have been to one (or 12) too many rock shows in our day, it's a bit wanting. Where things started to go downhill And now, things turn ugly. And it really has nothing to do with the Nexus One. Or, it everything to do with it. Google (with HTC's help) built a very nice phone with the best hardware currently available (and is affordable). No more, no less. For those expecting more, sorry. It is what it is. (And, geez, it's about as good as you can get right now.) Unhappy? There will be newer and better phones out soon enough. We promise. Where Google was looking to shake things up was on the retail side. It would sell the phone directly, from google.com/phone. It would be quick, it would be easy. And it is. And it isn't. At launch (and at the time of this writing), there were two options for purchasing the Nexus One: Outright and &quot;unlocked&quot; for $530, or subsidized and with a T-Mobile contract, for $180. Seemed simple at first. Unless you already were a T-Mobile customer. Then things got tricky, with various pricing plans for current customers. And nine days after the launch of the Nexus One, the cost of the Nexus One for current T-Mobile customers who qualify for an upgrade was lowered by $100 to $279. Refunds were immediately issued for the early adopters, but the damage was done, as it often is in cases like this. Add to that problems with keeping the phone connected to T-Mobile's 3G data. That in and of itself is bad, but hiccups happen with new phones all the time. But remember Google's new model: It would sell and support the phone, and T-Mobile would handle the carrier end of things. But the line between those things is blurry at best. And when customers sought help from Google, they were told to ask T-Mobile which, in turn, pointed the finger back at Google. And all of this was exacerbated by Google's lack of human contact (irony at its best). Who wants to wait for an e-mail that might or might not be read by human eyes when your phone's not working the way it should? Bottom line is this is Google. The company that sprung up from nowhere. That has billions and billions of dollars. That launches friggin' satellites. These kinds of things aren't supposed to happen to Google. But happen they did. Google itself will weather the storm, that's for sure. But Android is taking on water. Some say the operating system is progressing too slowly. That it lacks refinement. And there are valid points for that. But much like with Apple's aborted Mobile Me launch, Google can learn from this and move on. And Android, in a much more public space than Mobile Me ever will be, will be able to recover and continue to gain market share. What the Nexus One means for the future From a hardware and software standpoint, the Nexus One is top-shelf. For now. If you want a phone without a physical keyboard, this is close as you can get to the likes of the iPhone when it comes to form factor and available applications. Maybe you don't like the trackball, and we have that little niggle with the accuracy with the buttons under the screen. But as far as pure processing power and screen technology go, you can't beat Snapdragon and AMOLED, at least in anything currently available. Make no mistake about it, however: That will change someday. When the Nexus One was officially announced, there were as many articles panning it as just another phone as there were lauding it as the next great thing. And let's face it, calling it a &quot;Superphone&quot; is cute. But technology turnover is too great for that moniker to really hold up. And even calling entire lines of Google phones &quot;Superphones&quot; sounds trite. Yes, you're a &quot;Superphone.&quot; Just like everyone else. Android 2.1 has been called &quot;emotionless,&quot; like that's a bad thing for an operating system embodied by a robot. I'd argue Android 2.1 has more emotion in it than Apple's icon-only grid launcher on the iPhone. No, what Google has learned the hard way is that birthing a smartphone is not an easy endeavor. (Not that anybody involved would ever call it easy, but you know what we mean.) More likely, there are factors at work that cannot be quantified. That can't be predicted. And the same goes for the affection that Google will see when it irons out the bugs in its retail process, and solves the customer service quagmire. Until then, the Nexus One might not sit atop the Android mountain, and Google likely never was positioning it to do so. But it'll be lurking just below the summit. Waiting. </text>
+	<score>52</score>
+</article>
+<comment>
+	<cid>16023</cid>
+	<date>Jan 18 2010  6:04 pm</date>
+	<author>Steven</author>
+	<text>My god is this guy an idiot.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16032</cid>
+	<date>Jan 18 2010  6:47 pm</date>
+	<author>Pink</author>
+	<text>Yep.</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16044</cid>
+	<date>Jan 18 2010  7:24 pm</date>
+	<author>zunguri</author>
+	<text>How, how insightful!  Thanks idiot, err, Steven.</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16048</cid>
+	<date>Jan 18 2010  8:02 pm</date>
+	<author>alan watts</author>
+	<text>This is the type of 'fanboy' articles you get thanks to social media replacing actual news operations that pay professional reporters. So you usually end up with 20 something kids who see they have a platform to run their mouth off to hype or trash whatever platform, OSes, or devices they personally love or hate.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>16062</cid>
+	<date>Jan 18 2010  9:24 pm</date>
+	<author>DroidSector</author>
+	<text>This is my comparison, and yes, iPhone looks not very good:
+http://www.droidsector.com/blog/2010/01/13/dear-iphone-fans-nexus-one-is...</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16024</cid>
+	<date>Jan 18 2010  6:04 pm</date>
+	<author>Colin</author>
+	<text>Text-to-speech wass not perfect, as you said.  "Fleece was" became "face is".</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16026</cid>
+	<date>Jan 18 2010  6:09 pm</date>
+	<author>ardoreal</author>
+	<text>In your video it seemed like the touchscreen has trouble registering touches.  Is it because of how you were holding it?  Do you feel that there's an issue there?</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16029</cid>
+	<date>Jan 18 2010  6:25 pm</date>
+	<author>(Not Verified)</author>
+	<text>Since when has the Motorola DROID not been a Google Experience device? Did you mean the Cliq?</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16031</cid>
+	<date>Jan 18 2010  6:38 pm</date>
+	<author>Phil Nickinson</author>
+	<text></text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16034</cid>
+	<date>Jan 18 2010  6:54 pm</date>
+	<author>showson1</author>
+	<text>If you're looking for a perfect phone, you'll NEVER find it. There's something that people don't like about every device ever created.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16035</cid>
+	<date>Jan 18 2010  6:59 pm</date>
+	<author>onlyever</author>
+	<text>BTW, I am (Not Verified)lol.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16037</cid>
+	<date>Jan 18 2010  7:18 pm</date>
+	<author>Steven</author>
+	<text>Good revue.  You've said a lot of the same things I observed from different sources.  </text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16043</cid>
+	<date>Jan 18 2010  7:23 pm</date>
+	<author>CDE</author>
+	<text>The most important thing to me is that this phone is not tied to any carrier (supposedly).  That hopefully means that the N1 will get every software update Google releases immediately, without having to wait up to 6 months for your manufacturer/carrier to roll one out (Sprint Hero).  I HOPE that is the real magic behind the N1.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>16124</cid>
+	<date>Jan 19 2010  9:43 am</date>
+	<author>Anonymous</author>
+	<text>i seriously hope this is the direction google is making android go, having 8 different versions out there with their mix match support with the software devs. Seeing all the new features in newer versions of android and knowing I have a phone that is able to run that software if the people I bought my phone from would just let me.</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16045</cid>
+	<date>Jan 18 2010  7:51 pm</date>
+	<author>Aaron</author>
+	<text>Do people still not grasp the fact that an unlocked phone is a better deal, whether your upgrading or jumping to a new carrier?  You can finance the phone yourself (say, a credit card with a competitive interest rate).  Compare this to essentially financing through the carrier (530 - 180 at signing leaves a $350 loan from TMo).  Given that you pay an addition $20 a month under contract, that works out to $480 over two years.  Add to that the fact that being out of contract has its own advantages, such as the fact that if month-to-month rates go down (a virtual certainty giving the increasing competition on pricing between carriers for unlimited access), your rate will go down.  Why can't consumers in this country see past the lower sticker-price for a phone under contract?  And why is it bad that Google is encouraging consumers to see what a sham this is?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>16047</cid>
+	<date>Jan 18 2010  8:00 pm</date>
+	<author>eRoc</author>
+	<text>Exactly.  But people are stupid.  The rest of the world sells most of their phones unlocked and unsubsidized.  Of course they also get better service at lower rates.  But again, big companies know American's are stupid, so they charge us more for less.  And people complain when they could potentially be saving ALOT of money. lol.</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16673</cid>
+	<date>Jan 25 2010  7:59 pm</date>
+	<author>Josh N</author>
+	<text>Here's the thing with subsidies: I'm going to be on a family plan with T-Mobile for the next two years ANYWAY, paying the same price, and I can't get this phone subsidized (Paid $530).  I did not save money, and will not because it is impossible to pay less than $35 for my portion and get the same service.  I could have gotten the Moto Cliq (I did and returned it) with the same service but paid $150 for a $400 phone.  I'd save $250 for paying the same price on my mobile bill.  Though, those who do pay for an individual line do save money getting this unlocked.
+It is good that I can get a new phone subsidized on contract anytime I want now, but why would I waste $530 on an awesome phone I was planning on ditching in a few months?</text>
+	<score>0</score>
+</comment>

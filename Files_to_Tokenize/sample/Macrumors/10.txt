@@ -1,0 +1,849 @@
+<article>
+	<pid>10</pid>
+	<title>Developers Setting Expectations Ahead of Mac App Store Launch - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/04/developers-setting-expectations-ahead-of-mac-app-store-launch/</url>
+	<date>Tuesday January 4, 2011 10:58 am PST</date>
+	<author>Eric Slivka</author>
+	<text>With Apple's Mac App Storeset to debutin just two days, developers are beginning to set expectations for their applications, particularly in comparison to their other applications already available through the iOS App Store.  On his blogThe Pocket Cyclone, developer Markus Nigrinshares the resultsof a discussion he recently held with several other prominent iOS App Store developers moving their apps to the Mac App Store in the first wave of releases.For the most part, Nigrin's results show that iOS developers moving their apps to the Mac App Store are looking to maintain their existing price points, which frequently fall in the &#36;1.99-&#36;4.99 price range.Why does a 1:1 adoption of the price on the Mac seem so natural for iOS devs?For once, Apple made the code re-use for a native Mac app very straightforward. Every dev I talked to mentioned porting times of less than four weeks. Which were mostly spent on all types of adjustments, like keyboard and HD support. Also, graphical assets for mobile games are typically originated at a much higher resolution anyway, as everybody in the iOS world needs to prepare for a foreseeable future of HD displays. The point is, if you already have the assets and re-creating a native Mac app is relatively low-cost, there is no immediate pressure to go with another pricing model on this platform, if the reward could be an early (chart) success.As far as expectations for sales units go, developers seem to be split, with several of the surveyed developers offering conservative estimates of only 10% of that seen for the corresponding iOS titles, while others have pushed their expectations to as high as double that seen on the iOS platform.  Sales splits between iOS and Mac versions will obviously vary based on a wide range of criteria, including the usefulness of certain types of apps on the two platforms and the overall user experience, where some apps may see more benefit than others in either the portable multi-touch environment of iOS or the larger-screen, pointer-driven Mac environment.</text>
+	<score>120</score>
+</article>
+<comment>
+	<cid>11664283</cid>
+	<date>Jan 4, 2011, 02:19 PM</date>
+	<author>macintologist</author>
+	<text>What's going to happen with apps like Rapidweaver? They charge $79. I'm sure with the App store there will be more volume and they will be forced to lower prices. Especially with no demos.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664293</cid>
+	<date>Jan 4, 2011, 02:22 PM</date>
+	<author>&#x17D;algiris</author>
+	<text>Quote:Originally Posted bymacintologistWhat's going to happen with apps like Rapidweaver? They charge $79. I'm sure with the App store there will be more volume and they will be forced to lower prices. Especially with no demos.They can continue selling it the usual way without App Store.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664297</cid>
+	<date>Jan 4, 2011, 02:23 PM</date>
+	<author>goobot</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7)I'm def getting chopper</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664329</cid>
+	<date>Jan 4, 2011, 02:33 PM</date>
+	<author>Popeye206</author>
+	<text>Wow... cool that iOS apps can port to easily. Could be very interesting. I didn't realize this was so easy. I big plus for Apple on that!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664335</cid>
+	<date>Jan 4, 2011, 02:35 PM</date>
+	<author>guzhogi</author>
+	<text>I'd be interested in seeing what the app store is like &amp; how well it does.  I can see it doing very well.  But hopefully, imo, not so well that Apple decides to make it the only place to get Mac apps as it stands now.  The Mac App Store will be a good, central place to get the basic consumer-level apps, but I doubt we'll see truly professional-grade apps like Adobe Photoshop or something.  But I'm not going to concern myself with that right now.  I'm just going to wait and see how it goes and see what Apple does with it.Why do I get the feeling that Apple's servers will crash or be very slow on the first day or 2 of the app store opening?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664340</cid>
+	<date>Jan 4, 2011, 02:35 PM</date>
+	<author>Lynxpoint</author>
+	<text>very interesting.  Pricing like this will certainly be a benefit to Mac sales.  From a consumer perspective, Macs are just that much more like the idevices.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664357</cid>
+	<date>Jan 4, 2011, 02:39 PM</date>
+	<author>Small White Car</author>
+	<text>Apple's plan is becoming clearer.Everyone thought the Mac app store was just a way to better sell Mac apps. But it's really not. (Acorn or iLife will be fine with or without this store.)No, this is an attempt to bring some of the iOS developers over to the Mac...someplace they would not have thought to tread before this.Looks like it's gonna work.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664365</cid>
+	<date>Jan 4, 2011, 02:41 PM</date>
+	<author>gleepskip</author>
+	<text>Quote:Originally Posted by&#x17D;algirisThey can continue selling it the usual way without App Store.They have a new blog post today:http://www.realmacsoftware.com/blog/If I'm reading between the lines properly, I believe they will offer slimmer apps at lower prices.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664380</cid>
+	<date>Jan 4, 2011, 02:42 PM</date>
+	<author>RawBert</author>
+	<text>I wonder if games will be the biggest seller, as in the iOS App store.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664387</cid>
+	<date>Jan 4, 2011, 02:44 PM</date>
+	<author>Queso</author>
+	<text>If it really is for this purpose then I'm actually quite excited about it.  Nobody gets shafted.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664388</cid>
+	<date>Jan 4, 2011, 02:44 PM</date>
+	<author>medster17</author>
+	<text>Quote:Originally Posted bySmall White CarApple's plan is becoming clearer.Everyone thought the Mac app store was just a way to better sell Mac apps. But it's really not. (Acorn or iLife will be fine with or without this store.)No, this is an attempt to bring some of the iOS developers over to the Mac...someplace they would not have thought to tread before this.Looks like it's gonna work.Agreed, I think it's a genius idea on their part and can't wait to see what's available on the 6th.Sent from my iPhone</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664402</cid>
+	<date>Jan 4, 2011, 02:46 PM</date>
+	<author>fjfjfjfj</author>
+	<text>Quote:Originally Posted bySmall White CarApple's plan is becoming clearer.Everyone thought the Mac app store was just a way to better sell Mac apps. But it's really not. (Acorn or iLife will be fine with or without this store.)No, this is an attempt to bring some of the iOS developers over to the Mac...someplace they would not have thought to tread before this.Looks like it's gonna work.Absolutely agree with this statement. It looks like the same strategy as with the iOS devices, the actual device is only 20% of the attraction and the software is the remaining 80%. Genius strategy.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664414</cid>
+	<date>Jan 4, 2011, 02:48 PM</date>
+	<author>dfs</author>
+	<text>I received a very interesting publicity blurb from one developer whose stuff is going to be sold through the store. Let me quote a few parts of it:a) Our apps will still be available for purchase on our online store. And also, on the Mac App Store.b)  There is no way to &quot;import&quot; a license into the App Store. If you purchased a license on our online store, you will have to keep on using the app that is distributed outside Apple's App Store.c) There are two actual versions of each application, one will be available on the App Store, and the other one will be available outside the App Store. Both versions will be getting updates regularly, at the same time...All the applications available on the App Store have to be tested, and approved by Apple. We developers get a set of guidelines that we have to stick to. That means that a feature that might be available in the out-of-the-store version might not be available in the App Store version, for a given application. Usually, the most feature-rich version will be the one available outside the App Store.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664418</cid>
+	<date>Jan 4, 2011, 02:48 PM</date>
+	<author>DrRadon</author>
+	<text>I hope they alow a filter that lets you ignore all the crapy facebook like pay and wait games.So in relation to the iPad... how do you guys see the AppStore opening? Dos this instantly mean way more resolution on the ipad (i was toled it needs to be at least 4 times as much to work properly)?And how long will it take to have soled enough for Steve to be able to go &quot;In just X we already soled xxxxxxxxx Apps on tze n3w OSX AppStore!!11&quot; - You´ed think they´ed give this a cupple of weeks to settle in before doing a media event.. so talking about it will be more than just a rehash of the last event in that relation.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664435</cid>
+	<date>Jan 4, 2011, 02:52 PM</date>
+	<author>saving107</author>
+	<text>I don't know how I feel about paying for the same App 3 times for apps that are being ported from iOS (iPhone/iPad/Mac), and each version more expensive than the previous.For me, the Mac App Store is going to be a place to buy/discover new Mac Applications, I'll don't need Air Hockey on my iMac/MacBook Pro.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664445</cid>
+	<date>Jan 4, 2011, 02:55 PM</date>
+	<author>&#x17D;algiris</author>
+	<text>Quote:Originally Posted bygleepskipThey have a new blog post today:http://www.realmacsoftware.com/blog/If I'm reading between the lines properly, I believe they will offer slimmer apps at lower prices.Interesting. Thanks.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664450</cid>
+	<date>Jan 4, 2011, 02:55 PM</date>
+	<author>7o7munoz7o7</author>
+	<text>Quote:Originally Posted byDrRadonI hope they alow a filter that lets you ignore all the crapy facebook like pay and wait games.So in relation to the iPad... how do you guys see the AppStore opening? Dos this instantly mean way more resolution on the ipad (i was toled it needs to be at least 4 times as much to work properly)?And how long will it take to have soled enough for Steve to be able to go &quot;In just X we already soled xxxxxxxxx Apps on tze n3w OSX AppStore!!11&quot; - You´ed think they´ed give this a cupple of weeks to settle in before doing a media event.. so talking about it will be more than just a rehash of the last event in that relation.HUH?!?! i didnt understand ANYTHING you wrote....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664452</cid>
+	<date>Jan 4, 2011, 02:55 PM</date>
+	<author>techapocalypse</author>
+	<text>I'm just pumped for the auto-updating, that alone will sell me some apps.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664459</cid>
+	<date>Jan 4, 2011, 02:56 PM</date>
+	<author>7o7munoz7o7</author>
+	<text>Quote:Originally Posted bysaving107I don't know how I feel about paying for the same App 3 times for apps that are being ported from iOS (iPhone/iPad/Mac), and each version more expensive than the previous.For me, the Mac App Store is going to be a place to buy/discover new Mac Applications, I'll don't need Air Hockey on my iMac/MacBook Pro.no...BUT i could def go for seeing some angry birds flyin across my 27 inch iMac tho!!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664483</cid>
+	<date>Jan 4, 2011, 03:01 PM</date>
+	<author>Nuvi</author>
+	<text>iOS games converted to OS X? No thanks! Original OS X apps with competitive pricing? Yes, please!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664495</cid>
+	<date>Jan 4, 2011, 03:03 PM</date>
+	<author>saving107</author>
+	<text>Quote:Originally Posted by7o7munoz7o7no...BUT i could def go for seeing some angry birds flyin across my 27 inch iMac tho!!!I would consider Angry Birds and Words with Friends (if they come to the Mac App Store), but other games like Flight Control and Plants vs Zombies will stay on my iPad/iPhone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664496</cid>
+	<date>Jan 4, 2011, 03:03 PM</date>
+	<author>shervieux</author>
+	<text>Like seeing that prices will be pretty close to the same.What I am hoping for is that iwork 11 will be there.  I skipped the last version, but now my ipad created docs are no longer compatible unless I export them as word docs.Also, I hope they allow you to buy ilife apps separately.  All I need is the new imovie.Looking forward to the day when our ipad/iphone apps run natively and data stays in sync on the mac.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664502</cid>
+	<date>Jan 4, 2011, 03:05 PM</date>
+	<author>YSR50</author>
+	<text>Quote:Originally Posted bysaving107I would consider Angry Birds and Words with Friends (if they come to the Mac App Store), but other games like Flight Control and Plants vs Zombies will stay on my iPad/iPhone.same here. angry birds just announced they're on appup.com (windoze only) so hopefully we'll see them Thursday for the mac</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664506</cid>
+	<date>Jan 4, 2011, 03:06 PM</date>
+	<author>ten-oak-druid</author>
+	<text>The iOS apps appear to be similar to dashboard widgets.  Look at the stock app for an example.  The biggest difference in the environments is that multiple widgets can run side by side in Dashboard.So will these apps purchased through the Mac App Store run in Dashboard?  Or will Lion do away with Dashboard and move the widget/apps into normal windows within the OS?  Maybe the user will have the option of running it in either location?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664513</cid>
+	<date>Jan 4, 2011, 03:07 PM</date>
+	<author>NeuralControl</author>
+	<text>Quote:Originally Posted byNuviiOS games converted to OS X? No thanks! Original OS X apps with competitive pricing? Yes, please!Competitive pricing is key. I'm sure the Mac App Store will be a success, but apps can't be priced ridiculously. I hope developers don't plan on charging even more than they do for iPad versions.If porting over iOS apps to the Mac isn'tthatmuch work, hopefully the price will remain low, and the sheer volume of sales will let these developers thrive.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664516</cid>
+	<date>Jan 4, 2011, 03:07 PM</date>
+	<author>BJMRamage</author>
+	<text>Saw this coming way back when dashboard and widgets arrived.A way to suck developers in, customers in, and leading popular culture toward Macs.Plus getting a cut-back on each app sold? Priceless.and competitive pricing means more quick sales for developers...easily.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664521</cid>
+	<date>Jan 4, 2011, 03:09 PM</date>
+	<author>saving107</author>
+	<text>Quote:Originally Posted bytechapocalypseI'm just pumped for the auto-updating, that alone will sell me some apps.The Mac App Store will not auto-update, but you will be notified of all available updates and have the option to &quot;Update All&quot;, unless I mis-understood what you meant by Auto-Update.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664539</cid>
+	<date>Jan 4, 2011, 03:12 PM</date>
+	<author>7o7munoz7o7</author>
+	<text>Quote:Originally Posted bysaving107I would consider Angry Birds and Words with Friends (if they come to the Mac App Store), but other games like Flight Control and Plants vs Zombies will stay on my iPad/iPhone.hmmmm flight control....that might come over to my imac too...lol but yeah def some stuff will have to stay on the iphone/ipad. its going to be interesting...but i have high hopes</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664544</cid>
+	<date>Jan 4, 2011, 03:14 PM</date>
+	<author>ten-oak-druid</author>
+	<text>It seems like the update feature is simply Apple's Software Update feature with third party software allowed access.it would be nice if third party software not offered in the app store could use this.  Some larger software packages might not be practical to offer through the app store but if the developer could get approval to use the update system to check that would be great.  All software updates checked in one place!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664549</cid>
+	<date>Jan 4, 2011, 03:15 PM</date>
+	<author>saving107</author>
+	<text>Quote:Originally Posted by7o7munoz7o7hmmmm flight control....that might come over to my imac too...lol but yeah def some stuff will have to stay on the iphone/ipad. its going to be interesting...but i have high hopesFiremint Announced this shortly after Apple announced the Mac App Store, they said they will be available on or shortly after the Store Opens.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664557</cid>
+	<date>Jan 4, 2011, 03:17 PM</date>
+	<author>Mattsasa</author>
+	<text>Call of Duty 6, 7, 8 for Mac!!!Swtor, Guild Wars 2 for Mac!!!Crysis 2 for Mac!!!Mass Effect 3!!!.....Halo Reach for Mac??Lol, would be sweet though.I guess I should just be happy withStarcraft II, Diablo III, Civ V, Portal 2</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664572</cid>
+	<date>Jan 4, 2011, 03:22 PM</date>
+	<author>commander.data</author>
+	<text>This talk of developers adding HD support to the iOS apps before bringing them over to the Mac. I hope developers aren't going to actually advertise that as a selling point in their Mac App Store descriptions, &quot;Now with HD support&quot;. 1080p may be a new feature for mobile devices when it arrives, but it's a standard resolution for computers with even higher resolutions available.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664582</cid>
+	<date>Jan 4, 2011, 03:25 PM</date>
+	<author>wackymacky</author>
+	<text>It is hard enough to find decent Apps on the iOS App sore with the rush to the bottom mentality.Oh well, shuch is life.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664583</cid>
+	<date>Jan 4, 2011, 03:25 PM</date>
+	<author>CmdrLaForge</author>
+	<text>Do I remember this correctly and do we get an OS update as well?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664597</cid>
+	<date>Jan 4, 2011, 03:28 PM</date>
+	<author>rorschach</author>
+	<text>Anyone else hoping we finally see iWork '11 on Thursday with the launch?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664606</cid>
+	<date>Jan 4, 2011, 03:30 PM</date>
+	<author>BornAgainMac</author>
+	<text>These lucky developers are going to make a killing.   It pays to be first.  I bet apps costing over $49 will be much cheaper as they will go for volume sales.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664607</cid>
+	<date>Jan 4, 2011, 03:31 PM</date>
+	<author>JaSuS</author>
+	<text>The Mac App store would revolutionize gaming for Macbook's......I can smell it. REMEMBER I SAID THAT.JaSuS</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664618</cid>
+	<date>Jan 4, 2011, 03:33 PM</date>
+	<author>Mattsasa</author>
+	<text>Quote:Originally Posted byJaSuSThe Mac App store would revolutionize gaming for Macbook's......I can smell it. REMEMBER I SAID THAT.JaSuSsteam is revolutionizing mac for real gamers</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664620</cid>
+	<date>Jan 4, 2011, 03:34 PM</date>
+	<author>saving107</author>
+	<text>Quote:Originally Posted byCmdrLaForgeDo I remember this correctly and do we get an OS update as well?Yes, Mac OS X 10.6.6http://www.macrumors.com/2010/12/02/...to-developers/</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664627</cid>
+	<date>Jan 4, 2011, 03:35 PM</date>
+	<author>Sankersizzle</author>
+	<text>Quote:Originally Posted byDrRadonI hope they alow a filter that lets you ignore all the crapy facebook like pay and wait games.So in relation to the iPad... how do you guys see the AppStore opening? Dos this instantly mean way more resolution on the ipad (i was toled it needs to be at least 4 times as much to work properly)?And how long will it take to have soled enough for Steve to be able to go &quot;In just X we already soled xxxxxxxxx Apps on tze n3w OSX AppStore!!11&quot; - You´ed think they´ed give this a cupple of weeks to settle in before doing a media event.. so talking about it will be more than just a rehash of the last event in that relation.wat</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664630</cid>
+	<date>Jan 4, 2011, 03:36 PM</date>
+	<author>Mattsasa</author>
+	<text>Quote:Originally Posted bysaving107Yes, Mac OS X 10.6.6http://www.macrumors.com/2010/12/02/...to-developers/is this an actual update?! or is it basically just the app store?!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664635</cid>
+	<date>Jan 4, 2011, 03:36 PM</date>
+	<author>sebascrub</author>
+	<text>I wonder if there will ever be enhanced connectivity between iOS devices and their respective Mac App Store apps? For games, for example, I would love to be able to use my iPhone as either a secondary screen (to equip items, perhaps), a private screen for multiplayer games (that would hide some crucial information from your friends), or as a controller. That alone would entice me to buy a ton of apps!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664638</cid>
+	<date>Jan 4, 2011, 03:37 PM</date>
+	<author>CFreymarc</author>
+	<text>Quote:Originally Posted byguzhogiI'd be interested in seeing what the app store is like &amp; how well it does.  I can see it doing very well.  But hopefully, imo, not so well that Apple decides to make it the only place to get Mac apps as it stands now.  The Mac App Store will be a good, central place to get the basic consumer-level apps, but I doubt we'll see truly professional-grade apps like Adobe Photoshop or something.  But I'm not going to concern myself with that right now.  I'm just going to wait and see how it goes and see what Apple does with it.Why do I get the feeling that Apple's servers will crash or be very slow on the first day or 2 of the app store opening?You have that right.  I see that we are currently in the Vaudeville era of on-line app purchases.  That is anyone without much qualification can get on stage, perform and see if they get flowers or rotten tomatoes.   Some will hit the big time, a professional / delux version will sell via other channels with some developers getting exposure they otherwise could not afford.I don't see this as doom and gloom for anyone except the damn warehouse middle man.  Those guys just clog up channels, under promoted to claim they need more margin and can just die a long and slow death as far as I'm concerned.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664642</cid>
+	<date>Jan 4, 2011, 03:37 PM</date>
+	<author>Cynicalone</author>
+	<text>I wonder if they will release 10.6.6 shortly.  Or just release the Mac App Store as a separate download.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664645</cid>
+	<date>Jan 4, 2011, 03:38 PM</date>
+	<author>gleepskip</author>
+	<text>Quote:Originally Posted byMattsasait will revolutionize gay gaming,but steam is revolutionizing mac for real gamersI figure Arn would set a minimum age for MR Forums...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664654</cid>
+	<date>Jan 4, 2011, 03:39 PM</date>
+	<author>Aeolius</author>
+	<text>I'm still hoping for iWeb '11. I looked at RapidWeaver and downloaded the demo, but it lacks iWeb's drag &amp; drop functionality and WYSIWYG interface.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664663</cid>
+	<date>Jan 4, 2011, 03:42 PM</date>
+	<author>cav23j</author>
+	<text>Quote:Originally Posted byCynicaloneI wonder if they will release 10.6.6 shortly.  Or just release the Mac App Store as a separate download.10.6.6 is required for the Mac App StoreMac App Store will also be available through Software Update</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664668</cid>
+	<date>Jan 4, 2011, 03:44 PM</date>
+	<author>Cougarcat</author>
+	<text>Quote:Originally Posted byCynicaloneI wonder if they will release 10.6.6 shortly.  Or just release the Mac App Store as a separate download.The App Store requires 10.6.6.Quote:Originally Posted byrorschachAnyone else hoping we finally see iWork '11 on Thursday with the launch?Me. If there's OneNote-like functionality in Pages I'll bereallyhappy.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664672</cid>
+	<date>Jan 4, 2011, 03:44 PM</date>
+	<author>Mattsasa</author>
+	<text>Quote:Originally Posted byCynicaloneI wonder if they will release 10.6.6 shortly.  Or just release the Mac App Store as a separate download.i hoping separate download...then I have less to worry about my hackintosh driversedit:Quote:Originally Posted bycav23j10.6.6 is required for the Mac App StoreMac App Store will also be available through Software Updateoh nevermind,and shootoh well 10.6.0 to 10.6.5 has been an easy ride for my hackintosh, with the exception of sleepenabler.kext in 10.6.3</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664683</cid>
+	<date>Jan 4, 2011, 03:46 PM</date>
+	<author>grady2007</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Mobile/8C148)Do we really need angry birds on every mac platform? Maybe it would be cool shooting birds with a Magic Trackpad. Hmmmm.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664697</cid>
+	<date>Jan 4, 2011, 03:49 PM</date>
+	<author>Stella</author>
+	<text>Quote:Originally Posted bysaving107Firemint Announced this shortly after Apple announced the Mac App Store, they said they will be available on or shortly after the Store Opens.Its already available on Steam ; been on there for a while now.Quote:Originally Posted bygleepskipThey have a new blog post today:http://www.realmacsoftware.com/blog/If I'm reading between the lines properly, I believe they will offer slimmer apps at lower prices.I hope 'slimmer' doesn't mean dumbed down limited 'lite' versions.   As long as developers keep offering full editions, all is good - especially in the case of Rapid Weaver.You can't expect prices to drop drastically and keep the same quality / functionality.  Full time professional developers don't like working for peanuts.  The OSX user base is fairly limited when comparing against windows and iOS.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664721</cid>
+	<date>Jan 4, 2011, 03:53 PM</date>
+	<author>Cynicalone</author>
+	<text>Quote:Originally Posted bycav23j10.6.6 is required for the Mac App StoreMac App Store will also be available through Software UpdateWell that answers that then.  I had heard the rumors .6 was required but wasn't sure.I suppose we will see the update today or tomorrow then.  Unless of course they shove the whole thing out the door on the 6th.One thing I wouldn't mind getting from the store would be gadgets similar to what Windows 7 has.  I know people might hate that idea but I kinda like them.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664754</cid>
+	<date>Jan 4, 2011, 03:59 PM</date>
+	<author>Mister Snitch</author>
+	<text>Quote:Originally Posted bymedster17Agreed, I think it's a genius idea on their part and can't wait to see what's available on the 6th.Absolutely. This is huge, huge, huge for the Mac platform. Mac apps for a buck or two, prescreened for problems and easily downloaded from a convenient location? Load up.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664758</cid>
+	<date>Jan 4, 2011, 04:00 PM</date>
+	<author>Merthyrboy</author>
+	<text>I wonder if EA will port all of their games over that they just had a sale on. May need to tweak the driving games a bit. Might be a bit awkward otherwise not having a way to steer on a racing game.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664763</cid>
+	<date>Jan 4, 2011, 04:01 PM</date>
+	<author>Mattsasa</author>
+	<text>Quote:Originally Posted byMister SnitchAbsolutely. This is huge, huge, huge for the Mac platform. Mac apps for a buck or two, prescreened for problems and easily downloaded from a convenient location? Load up.its the future for mac and windows, hopefully apple will get rid of optical drives in the macbooks soon!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664771</cid>
+	<date>Jan 4, 2011, 04:02 PM</date>
+	<author>Stella</author>
+	<text>Quote:Originally Posted byMister SnitchAbsolutely. This is huge, huge, huge for the Mac platform. Mac apps for a buck or two, prescreened for problems and easily downloaded from a convenient location? Load up.These applications will still contain bugs..  but the approval process will screen for certain types of bugs.  It won't catch them all!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664785</cid>
+	<date>Jan 4, 2011, 04:04 PM</date>
+	<author>Cynicalone</author>
+	<text>Quote:Originally Posted byMerthyrboyI wonder if EA will port all of their games over that they just had a sale on. May need to tweak the driving games a bit. Might be a bit awkward otherwise not having a way to steer on a racing game.Or they could give you the option to use an iOS device as a controller.  Imagine the possibilities then.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664797</cid>
+	<date>Jan 4, 2011, 04:05 PM</date>
+	<author>Cougarcat</author>
+	<text>Quote:Originally Posted byCynicaloneI suppose we will see the update today or tomorrow then.  Unless of course they shove the whole thing out the door on the 6th.One thing I wouldn't mind getting from the store would be gadgets similar to what Windows 7 has.  I know people might hate that idea but I kinda like them.It'll probably all come out at the same time on the 6th. 10.6.6 is pretty much exclusively App Store support.You can run Dashboard apps on the desktop with thistweak.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664830</cid>
+	<date>Jan 4, 2011, 04:11 PM</date>
+	<author>majicDave</author>
+	<text>Quote:Originally Posted byCynicaloneOr they could give you the option to use an iOS device as a controller.  Imagine the possibilities then.At launch, Chopper 2 for Mac will be able to use any iPhone or iPod Touch as a controller over wifi.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664853</cid>
+	<date>Jan 4, 2011, 04:15 PM</date>
+	<author>Cynicalone</author>
+	<text>Quote:Originally Posted byCougarcatYou can run Dashboard apps on the desktop with thistweak.That is pretty nice trick.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664877</cid>
+	<date>Jan 4, 2011, 04:17 PM</date>
+	<author>MarkNY</author>
+	<text>It'll be interesting to see if DRM works for Mac apps.  It failed for music, but worked spectacularly for iOS.  The success of DRM software is one of the unheralded stories associated with iOS:  small developers are actually making money.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664888</cid>
+	<date>Jan 4, 2011, 04:18 PM</date>
+	<author>Mattsasa</author>
+	<text>Quote:Originally Posted byCynicaloneOr they could give you the option to use an iOS device as a controller.  Imagine the possibilities then.oh GOD please no! not when you already have a mouse and keyboard in front of you!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664893</cid>
+	<date>Jan 4, 2011, 04:19 PM</date>
+	<author>whatever</author>
+	<text>Quote:Originally Posted bysebascrubI wonder if there will ever be enhanced connectivity between iOS devices and their respective Mac App Store apps? For games, for example, I would love to be able to use my iPhone as either a secondary screen (to equip items, perhaps), a private screen for multiplayer games (that would hide some crucial information from your friends), or as a controller. That alone would entice me to buy a ton of apps!That's already possible today.Adobe actually demoed some cool stuff last year.And there is an App which allows an iPad to be used as secondary monitor for a Mac.And of course the first and best example of this is Apple's own Remote Control App.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664899</cid>
+	<date>Jan 4, 2011, 04:21 PM</date>
+	<author>Eso</author>
+	<text>This is retarded.The Mac App store isn't meant for iOS ports.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664910</cid>
+	<date>Jan 4, 2011, 04:22 PM</date>
+	<author>Mattsasa</author>
+	<text>Quote:Originally Posted byEsoThis is retarded.The Mac App store isn't meant for iOS ports.AgreedHowever, the ios app store IS meant for mac ports</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664930</cid>
+	<date>Jan 4, 2011, 04:26 PM</date>
+	<author>Stella</author>
+	<text>Wirelessly posted (Opera/9.80 (S60; SymbOS; Opera Mobi/1209; U; en-US) Presto/2.5.28 Version/10.1)I've been thinking.. Wonder if we'll get this sort of thing... Take Rapid Weaver as an example:Here's RW lite for $10.. Visit our website and you can upgrade to the full version for $ xxx...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664953</cid>
+	<date>Jan 4, 2011, 04:30 PM</date>
+	<author>Fraaaa</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Quote:Originally Posted byten-oak-druidIt seems like the update feature is simply Apple's Software Update feature with third party software allowed access.it would be nice if third party software not offered in the app store could use this.  Some larger software packages might not be practical to offer through the app store but if the developer could get approval to use the update system to check that would be great.  All software updates checked in one place!They are going to be full screen apps, and you'll open them from the launchpad.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664960</cid>
+	<date>Jan 4, 2011, 04:32 PM</date>
+	<author>Fraaaa</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Quote:Originally Posted byMattsasaCall of Duty 6, 7, 8 for Mac!!!Swtor, Guild Wars 2 for Mac!!!Crysis 2 for Mac!!!Mass Effect 3!!!.....Halo Reach for Mac??Lol, would be sweet though.I guess I should just be happy withStarcraft II, Diablo III, Civ V, Portal 2What are you talking about?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664963</cid>
+	<date>Jan 4, 2011, 04:33 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byBornAgainMacThese lucky developers are going to make a killing.   It pays to be first.  I bet apps costing over $49 will be much cheaper as they will go for volume sales.I agree. I think what we'll see in the long run is cheaper applications and more of them. Unfortunately, I think we'll see more &quot;junk&quot; applications too.I think this is a brilliant move by Apple. It's going to attract developers like crazy. I hope it does not attract hackers and viruses too. But again... one of the nice things about Apple's gated walls. Harder for that to happen.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664985</cid>
+	<date>Jan 4, 2011, 04:38 PM</date>
+	<author>whatever</author>
+	<text>Quote:Originally Posted byEsoThis is retarded.The Mac App store isn't meant for iOS ports.LOL, they won't be direct ports.What Apple did was make it easy to create and distribute new and exciting OS X apps.The development tools that iOS developers are using are the same exact tools that OS X developers have been using for years. However, there was little motivation for these iOS developers to create full fledge OS X apps, because they did not have an easy way to sell them and now they do!What Apple has down is border line brilliant, they used iOS as a way to get people excited about developing their own apps and now with the Mac App Store they can take it to the next level.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665028</cid>
+	<date>Jan 4, 2011, 04:46 PM</date>
+	<author>Eso</author>
+	<text>Quote:Originally Posted bywhateverLOL, they won't be direct ports.What Apple did was make it easy to create and distribute new and exciting OS X apps.The development tools that iOS developers are using are the same exact tools that OS X developers have been using for years. However, there was little motivation for these iOS developers to create full fledge OS X apps, because they did not have an easy way to sell them and now they do!What Apple has down is border line brilliant, they used iOS as a way to get people excited about developing their own apps and now with the Mac App Store they can take it to the next level.To me, the Mac App store is meant for all the professional mac applications that already exist, not for indie iOS developers to make the move to OS X.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665033</cid>
+	<date>Jan 4, 2011, 04:47 PM</date>
+	<author>saving107</author>
+	<text>Quote:Originally Posted byMarkNYIt'll be interesting to see if DRM works for Mac apps.  It failed for music, but worked spectacularly for iOS.  The success of DRM software is one of the unheralded stories associated with iOS:  small developers are actually making money.Apple claims their is no limit on how many computers you can install a paid App on, I'm sure you will have to authorize every computer using your Apple ID, but it will be interesting to see if I can buy Pages, Numbers and then install this on my cousin's computer (we generally go 50/50 on iWork and iLife, so I would like to continue to do the same, considering that the disk version doesn't require a serial number during installation).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665042</cid>
+	<date>Jan 4, 2011, 04:48 PM</date>
+	<author>paradox00</author>
+	<text>Quote:Originally Posted byMerthyrboyI wonder if EA will port all of their games over that they just had a sale on. May need to tweak the driving games a bit. Might be a bit awkward otherwise not having a way to steer on a racing game.Tilt steering is possible on macbooks since they have accelerometers (otherwise known as a hard drive drop sensors).But of course they'd add other ways of steering.It will be interesting to see what new apps this results in, especially considering anything can already be ported to osx if the developer wants to put the effort into it. Of course the app store should allow for greater sales volume.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665046</cid>
+	<date>Jan 4, 2011, 04:50 PM</date>
+	<author>Northgrove</author>
+	<text>Quote:Originally Posted bySmall White CarApple's plan is becoming clearer.Everyone thought the Mac app store was just a way to better sell Mac apps. But it's really not. (Acorn or iLife will be fine with or without this store.)No, this is an attempt to bring some of the iOS developers over to the Mac...someplace they would not have thought to tread before this.Looks like it's gonna work.And since Apple is going to intentionally make it easy to port apps from iOS, this should benefit the end-users too, by giving them good prices. (the points raised in this article at least) Apple is clearly trying to get more users into their ecosystem this way, but I'm not complaining if I'm getting a good deal out of it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665095</cid>
+	<date>Jan 4, 2011, 05:03 PM</date>
+	<author>kirky29</author>
+	<text>Quote:Originally Posted bySmall White CarApple's plan is becoming clearer.Everyone thought the Mac app store was just a way to better sell Mac apps. But it's really not. (Acorn or iLife will be fine with or without this store.)No, this is an attempt to bring some of the iOS developers over to the Mac...someplace they would not have thought to tread before this.Looks like it's gonna work.Yep! Clever really, it does look like it's gonna work</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665135</cid>
+	<date>Jan 4, 2011, 05:13 PM</date>
+	<author>Merthyrboy</author>
+	<text>Quote:Originally Posted byMattsasaoh GOD please no! not when you already have a mouse and keyboard in front of you!Would present a nice different way to interact. Say like you have a game like sims I think you could use the mouse and iPad together. So then you wouldnt have to learn like some commands on the keyboard you could just tap a custom icon like to build a house andmit would get rid of some of the clutter on screen. Of course this should be optional but we shouldn't limit ourselves to just the mouse and keyboard, who knows other input methods may be better.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665174</cid>
+	<date>Jan 4, 2011, 05:20 PM</date>
+	<author>whatever</author>
+	<text>Quote:Originally Posted byEsoTo me, the Mac App store is meant for all the professional mac applications that already exist, not for indie iOS developers to make the move to OS X.Today's indie developer will be tomorrows Microsoft (I didn't want to say professional developer).And you want to know why this is a good thing, look at the iOS apps that have since been ported to other platforms. Now if someone creates the next Lotus 1-2-3 for OS X (did I just date myself or what) and it's a hit....Imagine having the hot apps first and having people wait for a Windows, Linux and web port.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665224</cid>
+	<date>Jan 4, 2011, 05:36 PM</date>
+	<author>newdeal</author>
+	<text>the mac app store will be an awesome place for people to find apps before they download them off piratebay LOL (not that I condone that but it will happen for sure)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665279</cid>
+	<date>Jan 4, 2011, 05:52 PM</date>
+	<author>res1233</author>
+	<text>Quote:Originally Posted byStellaThese applications will still contain bugs..  but the approval process will screen for certain types of bugs.  It won't catch them all!You are such a party pooper, friend.Do you just spend your time looking for ways to correct people?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665359</cid>
+	<date>Jan 4, 2011, 06:15 PM</date>
+	<author>sachinwalia</author>
+	<text>I hope somebody finally release an ePub Reader for Mac on the App Store. All we have is a crappy Adobe Digital Editions.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665391</cid>
+	<date>Jan 4, 2011, 06:24 PM</date>
+	<author>Stella</author>
+	<text>Wirelessly posted (Opera/9.80 (S60; SymbOS; Opera Mobi/1209; U; en-US) Presto/2.5.28 Version/10.1)@res1233 No, but don't be mistaken to think Apple's approval process will result in   bug free software.  Sure, it will help but is no silver bullet.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665488</cid>
+	<date>Jan 4, 2011, 06:47 PM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted byNorthgroveAnd since Apple is going to intentionally make it easy to port apps from iOS, this should benefit the end-users too, by giving them good prices.I'm curious, what is Apple going to do to make it easier to port apps than it was before ?I think many of you guys are looking way too deep into this.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665535</cid>
+	<date>Jan 4, 2011, 07:03 PM</date>
+	<author>gnasher729</author>
+	<text>Quote:Originally Posted bysaving107Apple claims their is no limit on how many computers you can install a paid App on, I'm sure you will have to authorize every computer using your Apple ID, but it will be interesting to see if I can buy Pages, Numbers and then install this on my cousin's computer (we generally go 50/50 on iWork and iLife, so I would like to continue to do the same, considering that the disk version doesn't require a serial number during installation).Applications can quite easily check that they are running on the Macintosh on which they were downloaded. And what you are suggesting and what you and your cousin have been doing is copyright infringement.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665559</cid>
+	<date>Jan 4, 2011, 07:13 PM</date>
+	<author>Jason Edwards</author>
+	<text>Quote:Originally Posted byStellaIts already available on Steam ; been on there for a while now.I hope 'slimmer' doesn't mean dumbed down limited 'lite' versions.   As long as developers keep offering full editions, all is good - especially in the case of Rapid Weaver.You can't expect prices to drop drastically and keep the same quality / functionality.  Full time professional developers don't like working for peanuts.  The OSX user base is fairly limited when comparing against windows and iOS.This is exactly what I am scared of. I am scared the apps for the Macs are going to start being iOS type apps....dumb down simple apps. It works great on the iOS devices, but I want powerful full featured software to run on my desktop. I may not be able to get rid of Windows just yet. I guess we will know soon enough.Jason</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665595</cid>
+	<date>Jan 4, 2011, 07:28 PM</date>
+	<author>Maven1975</author>
+	<text>I think these developers are underestimating the demand for quick OSX apps. (Games especially) I predict, if its a quality app, Air Hockey will hit their goal within 60 days of launch.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665827</cid>
+	<date>Jan 4, 2011, 08:32 PM</date>
+	<author>S.Jobs</author>
+	<text>cant wait for thursday to see how it does but to bad i have to wait until i get my mac for college in six months</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665885</cid>
+	<date>Jan 4, 2011, 08:44 PM</date>
+	<author>jonnysods</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Mobile/8C148)What I like is the licensing. Not having to buy 3 licenses for my 3 Macs would be simply awesome!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665995</cid>
+	<date>Jan 4, 2011, 09:11 PM</date>
+	<author>jaw04005</author>
+	<text>Quote:Originally Posted bySmall White CarApple's plan is becoming clearer.Everyone thought the Mac app store was just a way to better sell Mac apps. But it's really not. (Acorn or iLife will be fine with or without this store.)No, this is an attempt to bring some of the iOS developers over to the Mac...someplace they would not have thought to tread before this.Looks like it's gonna work.Sounds like Jobs isn't done with the Mac afterall. Wonder if he'll throw some attention toward the Mac division again?While unit sales have increased drammatically since the iPhone introduction, you can't deny that innovation in the Mac division has slowed (a major OS X delay, slowdown of Mac hardware revisions, lack of radical design changes, lack of new product lines, slowdown of Mac software revisions, etc).2011 should be interesting for both the Mac and iOS.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666049</cid>
+	<date>Jan 4, 2011, 09:23 PM</date>
+	<author>j-a-x</author>
+	<text>Wow seems to be a lot of variety in developers expectations. I wonder how many units SlothCam could sell if it was a Mac app. I'm starting to think a full screen SlothCam might be cool...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666090</cid>
+	<date>Jan 4, 2011, 09:34 PM</date>
+	<author>ten-oak-druid</author>
+	<text>Perhaps laptops will get gps built in so more apps/widgets can be ported over.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666147</cid>
+	<date>Jan 4, 2011, 09:47 PM</date>
+	<author>Ingot</author>
+	<text>Quote:Originally Posted byshervieuxLike seeing that prices will be pretty close to the same.What I am hoping for is that iwork 11 will be there.  I skipped the last version, but now my ipad created docs are no longer compatible unless I export them as word docs.Also, I hope they allow you to buy ilife apps separately.  All I need is the new imovie.Looking forward to the day when our ipad/iphone apps run natively and data stays in sync on the mac.If they haven't fixed the imovie problems, then no you don't want it.  I hope today's update will fix it.  Bloody near killed me when the video/audio sync problems came out of left field with only the detachment of the audio from the clip worked around the problem.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666159</cid>
+	<date>Jan 4, 2011, 09:49 PM</date>
+	<author>Ingot</author>
+	<text>Quote:Originally Posted bygnasher729Applications can quite easily check that they are running on the Macintosh on which they were downloaded. And what you are suggesting and what you and your cousin have been doing is copyright infringement.They could have bought the family pack which gives them up to 5 computers to install it on.  Legally.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666172</cid>
+	<date>Jan 4, 2011, 09:52 PM</date>
+	<author>4nNtt</author>
+	<text>Quote:Originally Posted byPopeye206Wow... cool that iOS apps can port to easily. Could be very interesting. I didn't realize this was so easy. I big plus for Apple on that!Yeah.  A big reason that enterprise adoption of the iPad may lead to enterprise adoption of Macs.  I wouldn't be surprised if it gets easier then it is now with Lion.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666224</cid>
+	<date>Jan 4, 2011, 10:04 PM</date>
+	<author>Liqwid</author>
+	<text>Quote:Originally Posted byIngotThey could have bought the family pack which gives them up to 5 computers to install it on.  Legally.Only if his cousin lives with him. The family pack is for 5 computers residing in the same household.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666237</cid>
+	<date>Jan 4, 2011, 10:07 PM</date>
+	<author>ethana</author>
+	<text>We will be making our iCollect apps (iCollect Movies, iCollect Books, etc) for the Mac. Look for Movies on the Mac App Store on launch day.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666277</cid>
+	<date>Jan 4, 2011, 10:22 PM</date>
+	<author>AidenShaw</author>
+	<text>Quote:Originally Posted byten-oak-druidPerhaps laptops will get gps built in so more apps/widgets can be ported over.You mean that perhaps Apple will add technology to match my two year old Dell?Nah....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666415</cid>
+	<date>Jan 4, 2011, 11:00 PM</date>
+	<author>Acceleroto</author>
+	<text>Quote:Originally Posted byMaven1975I think these developers are underestimating the demand for quick OSX apps. (Games especially) I predict, if its a quality app, Air Hockey will hit their goal within 60 days of launch.That's about my guess too.  It's, of course, incredibly difficult to nail down what sales will be like through a new distribution channel.  However, I think there's great potential for developers in the Mac App Store.  If sales are good, then developers will continue to bring outstanding products to the Mac App Store.  (That doesn't mean there won't be piles of &quot;not so great&quot; apps though.)T-36 hours (roughly) until launch!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666524</cid>
+	<date>Jan 4, 2011, 11:34 PM</date>
+	<author>Aatos.1</author>
+	<text>The brilliance of this app store, is it makes it even less intimidating for novices to buy a computer. By dumbing down the Mac, they'll sell even more. There's nothing of significance to learn, and less decisions to make. No thinking required. Apple will increase their revenue by leaps &amp; bounds.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666638</cid>
+	<date>Jan 5, 2011, 12:09 AM</date>
+	<author>waywardsage</author>
+	<text>The entire point and eventual drive of the Mac App store will be one thing:  GAMES.  It has been what has driven the iOS app store.  It will become what drives the Mac App store.  Good news is that us consumers will benefit!  Now there will be a centralized place for us to get ACTUAL games for our mac!  Right now the pickings are slim.  In 2 years, I think that Windows users will not have a solitary lock on games.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666843</cid>
+	<date>Jan 5, 2011, 01:36 AM</date>
+	<author>Worf</author>
+	<text>Looking forward to some games from the MacApp Store running on the upcoming rumored MacBooks with Sandy Bridge.I was really hoping the chrome store, since it is more open, would be more than just bookmarks and webapps but alas no. ChromeOS is cool but the chrome webstore seems somewhat useless too me if you already have extensions.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666921</cid>
+	<date>Jan 5, 2011, 02:08 AM</date>
+	<author>Blue Fox</author>
+	<text>Like I've stated before, a lot of people are HIGHLY underestimating the Mac App Store. It is going to be huge, and a big part of it is going to be the iOS developers porting and creating apps for the Mac now that there is a central hub (Mac App Store) to release their products to.I can't wait to see what awesome Apps will be released and the ones that will eventually make it to the App Store. It's going to be huge people......it's going to change the way people buy software from now on. (and just wait, Microsoft, and the other companies are going to see if it does become a success, and if so, they'll release their own, you just see)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666926</cid>
+	<date>Jan 5, 2011, 02:11 AM</date>
+	<author>Cougarcat</author>
+	<text>Quote:Originally Posted byBlue Fox(and just wait, Microsoft, and the other companies are going to see if it does become a success, and if so, they'll release their own, you just see)They'vehad one plannedfor Windows 8 for a while now.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667163</cid>
+	<date>Jan 5, 2011, 04:31 AM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted bywaywardsageThe entire point and eventual drive of the Mac App store will be one thing:  GAMES.  It has been what has driven the iOS app store.  It will become what drives the Mac App store.  Good news is that us consumers will benefit!  Now there will be a centralized place for us to get ACTUAL games for our mac!  Right now the pickings are slim.  In 2 years, I think that Windows users will not have a solitary lock on games.Uh ?  Steam is that centralized place.  If the Mac App Store also offers games, it's going to cause fragmentation in the Mac game space and be hurtful.Not to mention the Mac App Store only accepts self contained apps that are icons in the Application folder.  Steam doesn't care and offers packages also, so game devs are much freer to make more complex and better games for the Mac with Steam as the store.The Mac App Store, if any, will be quick solitaire like things, not actual games like on consoles and the PC.  It would be much better for Apple to refer game devs to Steam and to make the Game section of the Mac App Store download/open the Steam client.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667239</cid>
+	<date>Jan 5, 2011, 05:25 AM</date>
+	<author>mabaker</author>
+	<text>The iOS apps ported to MAC OS from the previews I saw are one huge joke.How can Apple allow such dumbification of the platform?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667338</cid>
+	<date>Jan 5, 2011, 06:08 AM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted bymabakerThe iOS apps ported to MAC OS from the previews I saw are one huge joke.How can Apple allow such dumbification of the platform?This could in fact be the downfall of the Mac App Store contrary to the belief here.  Instead of becoming a portal to find and purchase quality Mac applications like Pixelmator, the iLife/iWork suites, or useful utilities like VLC, Mplayer, Skype, Facetime, the Mac App Store could turn into the dollar stores of applications where quickie ports and devs try to get in on the &quot;gold rush&quot; with bad/overly simple applications that aren't much use.Once the store is saturated, it's going to become hard to find the quality apps and even if it is a big success, it will be near worthless to the users looking for more than a &quot;shake the baby&quot; application for their Mac.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667344</cid>
+	<date>Jan 5, 2011, 06:11 AM</date>
+	<author>Jason Edwards</author>
+	<text>Quote:Originally Posted byKnightWRXThis could in fact be the downfall of the Mac App Store contrary to the belief here.  Instead of becoming a portal to find and purchase quality Mac applications like Pixelmator, the iLife/iWork suites, or useful utilities like VLC, Mplayer, Skype, Facetime, the Mac App Store could turn into the dollar stores of applications where quickie ports and devs try to get in on the &quot;gold rush&quot; with bad/overly simple applications that aren't much use.Once the store is saturated, it's going to become hard to find the quality apps and even if it is a big success, it will be near worthless to the users looking for more than a &quot;shake the baby&quot; application for their Mac.Exactly.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667369</cid>
+	<date>Jan 5, 2011, 06:21 AM</date>
+	<author>Kehaan</author>
+	<text>WOW! iOS games/apps ported to Mac... My bank will hate me this month...The problem with Steam is, that it does not allow Mac port publishers to have there games on the place. With Mac app Store, there will only be Mac software/games, so the port companies can have there products on there.As i have said ealyer i am really looking forward to see Majesty 2 and other games on Mac App Store. And with iOS games also on the way, i think Mac App Store will be an huge success. Atleast for meFrom Kehaan.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667393</cid>
+	<date>Jan 5, 2011, 06:32 AM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted byKehaanThe problem with Steam is, that it does not allow Mac port publishers to have there games on the place. With Mac app Store, there will only be Mac software/games, so the port companies can have there products on there.Uh ?  What are you talking about ?  Steam is open to indie and professionals alike.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667543</cid>
+	<date>Jan 5, 2011, 07:39 AM</date>
+	<author>Kehaan</author>
+	<text>Quote:Originally Posted byKnightWRXUh ?  What are you talking about ?  Steam is open to indie and professionals alike.If an developer already have an game on, lets say Majesty 2. Then the port team cant have their port of the game on too. As its not from the same developer...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667570</cid>
+	<date>Jan 5, 2011, 07:47 AM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted byKehaanIf an developer already have an game on, lets say Majesty 2. Then the port team cant have their port of the game on too. As its not from the same developer...The original developer can then post the game up on Steam and forward revenues as part of the licensing agreement they already have with the indie making the port.What is the problem exactly ?And something like Majesty 2 is probably not a self-contained executable so it won't get on the Mac App Store either way looking at the actual game.  Don't forget this is a major requirement.  Applications must be self-contained executables.  Most Mac games don't fit that bill.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667646</cid>
+	<date>Jan 5, 2011, 08:10 AM</date>
+	<author>PBF</author>
+	<text>Quote:Originally Posted bysaving107Firemint Announced this shortly after Apple announced the Mac App Store, they said they will be available on or shortly after the Store Opens.I'd hate to play FlightControl on a laptop, unless it has a touch screen.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667651</cid>
+	<date>Jan 5, 2011, 08:11 AM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byKnightWRXThis could in fact be the downfall of the Mac App Store contrary to the belief here.  Instead of becoming a portal to find and purchase quality Mac applications like Pixelmator, the iLife/iWork suites, or useful utilities like VLC, Mplayer, Skype, Facetime, the Mac App Store could turn into the dollar stores of applications where quickie ports and devs try to get in on the &quot;gold rush&quot; with bad/overly simple applications that aren't much use.Once the store is saturated, it's going to become hard to find the quality apps and even if it is a big success, it will be near worthless to the users looking for more than a &quot;shake the baby&quot; application for their Mac.I agree and disagree. Looking at history and going back to the late 80's when computers we're just taking off there we're 1000's of junk titles. I remember buying work related apps and game apps that were just junk. Developers looking to quickly jump on the money wagon. But, over time, the weak died and the strong application developers survived. It's going to be the same here and in the iOS App store.So, I expect a mad rush in the beginning, but the junk Apps will fade off and the strong apps will survive. Like today with the iOS store, the popular Apps will float to the top and this will be a great distribution channel for Mac Developers.I see nothing but a good thing for all and it's exciting to see that iOS apps can be easily ported. Not all should and we will see junk, but again, as it matures, we will see more and better applications emerge.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667832</cid>
+	<date>Jan 5, 2011, 08:57 AM</date>
+	<author>Kehaan</author>
+	<text>Quote:Originally Posted byKnightWRXThe original developer can then post the game up on Steam and forward revenues as part of the licensing agreement they already have with the indie making the port.What is the problem exactly ?And something like Majesty 2 is probably not a self-contained executable so it won't get on the Mac App Store either way looking at the actual game.  Don't forget this is a major requirement.  Applications must be self-contained executables.  Most Mac games don't fit that bill.Majesty 2 will be available at Mac App Games :P I talked with the company VirtualProgramming, and they said they is not getting an big cut of having their games on Steam. According to Steam forums, they cant even have it on, as the original developer already have their windows version on.But VirtualProgramming will have their games on Mac App StoreFrom Kehaan.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668879</cid>
+	<date>Jan 5, 2011, 12:19 PM</date>
+	<author>0815</author>
+	<text>Don't understand the people here that are complaining that they have to pay again for the game if it gets ported to the Mac. First of all, it is a different platform (which requires some work) and second: Look at the price - its not like you pay $150 for iPad and than again $150 for the Mac - they are mostly under $5. Also: Do you expect if you buy a game for the Wii, that you get the same game title with basically the same game play for free for the DS? If you don't want to pay for the Mac Version - don't get it and use it on the platform you payed for.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668896</cid>
+	<date>Jan 5, 2011, 12:22 PM</date>
+	<author>0815</author>
+	<text>Also: I'm more interested in native Mac titles than in ports from the iOS devices (Still - there might be one or two that I would buy). Most games that were original developments for the TOUCH devices won't play that well on the Mac.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668943</cid>
+	<date>Jan 5, 2011, 12:28 PM</date>
+	<author>AppleFan1984</author>
+	<text>Quote:Originally Posted byKnightWRXThis could in fact be the downfall of the Mac App Store contrary to the belief here.  Instead of becoming a portal to find and purchase quality Mac applications like Pixelmator, the iLife/iWork suites, or useful utilities like VLC, Mplayer, Skype, Facetime, the Mac App Store could turn into the dollar stores of applications where quickie ports and devs try to get in on the &quot;gold rush&quot; with bad/overly simple applications that aren't much use.Once the store is saturated, it's going to become hard to find the quality apps and even if it is a big success, it will be near worthless to the users looking for more than a &quot;shake the baby&quot; application for their Mac.Gawd I hope the App Store doesn't become a junk bin of 99-cent toys.Word on the street is that many developers will be selling only dumbed-down versions of their apps through Apple, leaving the fully-featured packages available only through their own stores.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669985</cid>
+	<date>Jan 5, 2011, 02:58 PM</date>
+	<author>Vulpinemac</author>
+	<text>Quote:Originally Posted byStellaIts already available on Steam ; been on there for a while now.I hope 'slimmer' doesn't mean dumbed down limited 'lite' versions.   As long as developers keep offering full editions, all is good - especially in the case of Rapid Weaver.You can't expect prices to drop drastically and keep the same quality / functionality.  Full time professional developers don't like working for peanuts.  The OSX user base is fairly limited when comparing against windows and iOS.Um... huh? How is the OS X user base limited when compared against iOS? Are you telling me there are over 150 Million iOS users now in the market? Last I heard the number was closer to 75 million, vs 150 million or so OS X users.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670010</cid>
+	<date>Jan 5, 2011, 03:02 PM</date>
+	<author>Vulpinemac</author>
+	<text>Quote:Originally Posted byCynicaloneOne thing I wouldn't mind getting from the store would be gadgets similar to what Windows 7 has.  I know people might hate that idea but I kinda like them.You mean things like the Widgets in Dashboard that we've had since 10.5? I've been using them for years. In fact, I have a screen full of them that I call up with a simple press of the F4 key. Doesn't clutter my active screen and disappears when I'm done with it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670452</cid>
+	<date>Jan 5, 2011, 04:17 PM</date>
+	<author>rockosmodurnlif</author>
+	<text>Quote:Originally Posted byKnightWRXUh ?  Steam is that centralized place.  If the Mac App Store also offers games, it's going to cause fragmentation in the Mac game space and be hurtful.What's the difference between fragmentation and choice?Quote:Originally Posted byKnightWRXThis could in fact be the downfall of the Mac App Store contrary to the belief here.  Instead of becoming a portal to find and purchase quality Mac applications like Pixelmator, the iLife/iWork suites, or useful utilities like VLC, Mplayer, Skype, Facetime, the Mac App Store could turn into the dollar stores of applications where quickie ports and devs try to get in on the &quot;gold rush&quot; with bad/overly simple applications that aren't much use.Once the store is saturated, it's going to become hard to find the quality apps and even if it is a big success, it will be near worthless to the users looking for more than a &quot;shake the baby&quot; application for their Mac.Isn't the current mobile App Store saturated with content? Aren't sites like MacUpdate, VersionTracker and, well, the internet itself saturated with content? Yet people still find quality apps.Can't wait for the Mac version of the &quot;I'm Rich&quot; app.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671416</cid>
+	<date>Jan 5, 2011, 07:35 PM</date>
+	<author>ten-oak-druid</author>
+	<text>Quote:Originally Posted byAidenShawYou mean that perhaps Apple will add technology to match my two year old Dell?Nah....Dude you got a Dull computer.</text>
+	<score>0</score>
+</comment>

@@ -1,0 +1,108 @@
+<article>
+	<pid>380016</pid>
+	<title>
+	Canada blanks Finland to open Four Nations tournament
+</title>
+	<url>http://www.tsn.ca/nhl/story/?id=380016</url>
+	<date>11/9/2011 12:43:00 PM</date>
+	<author>The Canadian Press</author>
+	<text>NYKOPINGS, Sweden -- Canada used a balanced offensive attack to defeat Finland 5-0 in Wednesday's opening game at the Four Nations Cup women's hockey tournament.Five different players scored for the defending champions in the preliminary-round matchup at Stora Hallen Arena.&quot;I think it speaks to the depth that we have on our team,&quot; said head coach Dan Church. &quot;Almost every player on our team is a goalscorer with their club team. It's good to see different people chipping in.&quot;Jennifer Wakefield of Pickering, Ont., gave Canada the early lead by scoring just 46 seconds into the game. Vicki Bendus of Wasaga Beach, Ont., added a power-play goal later in the period and Jesse Scanzano of Montreal made it 3-0 a few minutes later.Jayna Hefford of Kingston, Ont., and Courtney Birchard of Mississauga, Ont., added insurance goals in the second. Shannon Szabados of Edmonton turned aside 15 shots for the shutout while Isabella Portnoj made 49 saves for Finland.Canada will play the world champion Americans on Thursday before concluding the preliminary round Saturday against host Sweden. The medal games are Sunday.Veteran forward Gillian Apps of Unionville, Ont., said her teammates are excited to take on their longtime rivals.&quot;Whether it's at a Four Nations Cup, an exhibition game or the world championships, it's always a good game between Canada and the U.S.,&quot; Apps said. &quot;It's why we play. It's an absolutely amazing game to be a part of.&quot;Canada improved its all-time record against Finland to 53-0-1 with the victory.Finland has narrowed the gap between the two countries over the last few years. Canada edged Finland 3-2 in their last meeting in August.Canada has won 12 gold and three silver medals in Four Nations and Three Nations events since the first tournament was played in 1996.</text>
+	<score>987</score>
+</article>
+<comment>
+	<cid>2699096</cid>
+	<date>11/9/2011 2:51:26 PM</date>
+	<author>n_bomber</author>
+	<text>really, whats the point.</text>
+	<score>-3</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699097</cid>
+	<date>11/9/2011 2:51:35 PM</date>
+	<author>cheverett</author>
+	<text>Why do we have this tournament. Canada always makes the finals anyways.</text>
+	<score>-4</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699314</cid>
+	<date>11/9/2011 3:43:07 PM</date>
+	<author>Jobu -The Baseball God</author>
+	<text>Whats the point</text>
+	<score>-5</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699390</cid>
+	<date>11/9/2011 4:05:17 PM</date>
+	<author>superbacon</author>
+	<text>It should really be called the 2+2 Nations Cup</text>
+	<score>-3</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699524</cid>
+	<date>11/9/2011 4:29:56 PM</date>
+	<author>riders_canucks</author>
+	<text>and canada and the u.s will battle it out for gold, again.</text>
+	<score>5</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699601</cid>
+	<date>11/9/2011 4:44:19 PM</date>
+	<author>malone1001</author>
+	<text>So when is the Canada - USA final?</text>
+	<score>2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699647</cid>
+	<date>11/9/2011 4:53:28 PM</date>
+	<author>Hammy Habster</author>
+	<text>I would love for nothing more than for women"s hockey to become succesful. But until the other countries catch up, I don"t see much point in these rinky dinky tournaments</text>
+	<score>-7</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699743</cid>
+	<date>11/9/2011 5:16:52 PM</date>
+	<author>GBW</author>
+	<text>Personally I"m tired of watching the Yankees in the playofs  every year,Montreal in the Grey cup , and Jimmy Johnson winning 5 straight Nextel cups. Nobody complains about GSP"S dominance in MMA.C"MON Man    .If you do not like womens hockey , don"t watch it.Would we really be complaining if the men could dominate , I think not. This is the highest level that Canadian girls can aspire to play at and we happen to be really good at Hockey, so instead of being proud of our female hockey players we complain that they are too good. ONLY IN CANADA. I didn"t see the Nordic countries complaining about winning all the alpine medals, or the Russians complaining about always winning in figure skating 
+Its up to the other countries to get better or continue to lose.Find something else to complain about</text>
+	<score>13</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2700061</cid>
+	<date>11/9/2011 6:46:32 PM</date>
+	<author>dropthepuck1</author>
+	<text>The other teams cant get competitive unless they regularly play the best.</text>
+	<score>1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2700549</cid>
+	<date>11/9/2011 9:54:56 PM</date>
+	<author>ukir17</author>
+	<text>If there was a eight nations cup, it would be 2+2+4. I believe Finland and Sweden have both knocked the US out in the semi-finals in a tournament once.</text>
+	<score>1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2701420</cid>
+	<date>11/10/2011 8:02:52 AM</date>
+	<author>jaco</author>
+	<text>The coach has a lot of new girls to break in which takes a bit of time and energy but i"m sure he is up to the task.</text>
+	<score>-1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2701985</cid>
+	<date>11/10/2011 10:51:39 AM</date>
+	<author>cedardale rangers</author>
+	<text>Why do we waste the time and money on womens hockey. Why not just start a league in North America using the best players available. I am sure these teams would be more competitive then the Europeon teams</text>
+	<score>3</score>
+	<parent>0</parent>
+</comment>

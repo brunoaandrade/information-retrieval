@@ -1,0 +1,989 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_25_2254234</id>
+	<title>USNS Hoyt S. Vandenberg To Be Sunk For a Reef</title>
+	<author>kdawson</author>
+	<datestamp>1243244880000</datestamp>
+	<htmltext><a href="http://www.geocities.com/critter\_75075/" rel="nofollow">caffiend666</a> writes <i>"On Wednesday the <a href="http://en.wikipedia.org/wiki/USS\_General\_Harry\_Taylor\_(AP-145)">USNS Hoyt S. Vandenberg</a> is to be <a href="http://news.yahoo.com/s/ap/20090525/ap\_on\_re\_us/us\_sinking\_the\_vandenberg\_1">sunk in 140 feet of water off of Key West</a> to become the world's second largest artificial reef. (The largest was created by sinking the aircraft carrier <a href="http://en.wikipedia.org/wiki/USS\_Oriskany">USS Oriskany</a> off of Pensacola, Florida, in 2006.) The Vandenberg was built in 1943 (<a href="http://www.keysnet.com/news/story/105128.html">chronology</a>) and commissioned the USS Gen. Harry Taylor. In 1963 the Air Force took it over and recommissioned it, naming it after the <a href="http://en.wikipedia.org/wiki/Hoyt\_Vandenberg">Air Force general</a>. For decades the ship served as a missile tracker and space relay. It was used in NASA's Mercury, Gemini, and Apollo projects and the Shuttle program. The Vandenberg was the set for some of the scenes in the '90s movie <em>Virus</em> as the Russian MIR relay station. Soon it will become one of the world's most awesome diving spots."</i></htmltext>
+<tokenext>caffiend666 writes " On Wednesday the USNS Hoyt S. Vandenberg is to be sunk in 140 feet of water off of Key West to become the world 's second largest artificial reef .
+( The largest was created by sinking the aircraft carrier USS Oriskany off of Pensacola , Florida , in 2006 .
+) The Vandenberg was built in 1943 ( chronology ) and commissioned the USS Gen. Harry Taylor .
+In 1963 the Air Force took it over and recommissioned it , naming it after the Air Force general .
+For decades the ship served as a missile tracker and space relay .
+It was used in NASA 's Mercury , Gemini , and Apollo projects and the Shuttle program .
+The Vandenberg was the set for some of the scenes in the '90s movie Virus as the Russian MIR relay station .
+Soon it will become one of the world 's most awesome diving spots .
+"</tokentext>
+<sentencetext>caffiend666 writes "On Wednesday the USNS Hoyt S. Vandenberg is to be sunk in 140 feet of water off of Key West to become the world's second largest artificial reef.
+(The largest was created by sinking the aircraft carrier USS Oriskany off of Pensacola, Florida, in 2006.
+) The Vandenberg was built in 1943 (chronology) and commissioned the USS Gen. Harry Taylor.
+In 1963 the Air Force took it over and recommissioned it, naming it after the Air Force general.
+For decades the ship served as a missile tracker and space relay.
+It was used in NASA's Mercury, Gemini, and Apollo projects and the Shuttle program.
+The Vandenberg was the set for some of the scenes in the '90s movie Virus as the Russian MIR relay station.
+Soon it will become one of the world's most awesome diving spots.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28095921</id>
+	<title>Re:17000 tons of steel gone to waste</title>
+	<author>NorthWestFLNative</author>
+	<datestamp>1243355940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Yes, I'm sure it'll be nice for the fish and a few extreme divers</p></div><p>If the Oriskany (200ft max depth) ans Spiegel Grove(134 ft max depth) are any indication then more than just extreme divers will dive this.  At the bottom both of these wrecks are below the recreational dive limit of 130 ft, but the top of the Spiegel Grove sits just around 60-70ft as does the top of the Oriskany.  This is well within the depth limits for recreational diving and I understand that there is quite a bit to see in these wrecks above 130ft.</p></div>
+	</htmltext>
+<tokenext>Yes , I 'm sure it 'll be nice for the fish and a few extreme diversIf the Oriskany ( 200ft max depth ) ans Spiegel Grove ( 134 ft max depth ) are any indication then more than just extreme divers will dive this .
+At the bottom both of these wrecks are below the recreational dive limit of 130 ft , but the top of the Spiegel Grove sits just around 60-70ft as does the top of the Oriskany .
+This is well within the depth limits for recreational diving and I understand that there is quite a bit to see in these wrecks above 130ft .</tokentext>
+<sentencetext>Yes, I'm sure it'll be nice for the fish and a few extreme diversIf the Oriskany (200ft max depth) ans Spiegel Grove(134 ft max depth) are any indication then more than just extreme divers will dive this.
+At the bottom both of these wrecks are below the recreational dive limit of 130 ft, but the top of the Spiegel Grove sits just around 60-70ft as does the top of the Oriskany.
+This is well within the depth limits for recreational diving and I understand that there is quite a bit to see in these wrecks above 130ft.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094765</id>
+	<title>Re:17000 tons of steel gone to waste</title>
+	<author>TerribleNews</author>
+	<datestamp>1243351260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>At this <a href="http://en.wikipedia.org/wiki/Coral\_bleaching" title="wikipedia.org" rel="nofollow">stage</a> [wikipedia.org] in the <a href="http://www.theglobeandmail.com/news/technology/85-per-cent-of-oyster-reefs-have-disappeared/article1147484/" title="theglobeandmail.com" rel="nofollow">game</a> [theglobeandmail.com], reef conservation is pretty damned environmentally friendly. That's like saying "wouldn't it be more environmentally friendly to do something other than replanting rainforests?"</htmltext>
+<tokenext>At this stage [ wikipedia.org ] in the game [ theglobeandmail.com ] , reef conservation is pretty damned environmentally friendly .
+That 's like saying " would n't it be more environmentally friendly to do something other than replanting rainforests ?
+"</tokentext>
+<sentencetext>At this stage [wikipedia.org] in the game [theglobeandmail.com], reef conservation is pretty damned environmentally friendly.
+That's like saying "wouldn't it be more environmentally friendly to do something other than replanting rainforests?
+"</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28113329</id>
+	<title>Re:Too deep...</title>
+	<author>Anonymous</author>
+	<datestamp>1243453740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Well, then it's time to move beyond PADI/ NAUI/ SDI/ SSI recreational level training.  Check out TDI or IANTD tech training, and have a whole other portion of the underwater world opened to you.  And even if you never venture beyond 140fsw/ 42msw, the training will make a better, more conscientious diver.</p><p>Bill<br>PADI DM<br>TDI &amp; IANTD Tech Diver<br>Hoping to check out the keel of the Oriskany at 212fsw/ 65msw someday...</p></htmltext>
+<tokenext>Well , then it 's time to move beyond PADI/ NAUI/ SDI/ SSI recreational level training .
+Check out TDI or IANTD tech training , and have a whole other portion of the underwater world opened to you .
+And even if you never venture beyond 140fsw/ 42msw , the training will make a better , more conscientious diver.BillPADI DMTDI &amp; IANTD Tech DiverHoping to check out the keel of the Oriskany at 212fsw/ 65msw someday.. .</tokentext>
+<sentencetext>Well, then it's time to move beyond PADI/ NAUI/ SDI/ SSI recreational level training.
+Check out TDI or IANTD tech training, and have a whole other portion of the underwater world opened to you.
+And even if you never venture beyond 140fsw/ 42msw, the training will make a better, more conscientious diver.BillPADI DMTDI &amp; IANTD Tech DiverHoping to check out the keel of the Oriskany at 212fsw/ 65msw someday...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092861</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093019</id>
+	<title>Re:Would it make sense to turn the ship into housi</title>
+	<author>Anonymous</author>
+	<datestamp>1243339620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><i>Would it make sense to turn the ship into housing?</i></p><p>Yes that idea was proposed and the ships name changed to...<nobr> <wbr></nobr>..The Vagrantburg.</p></htmltext>
+<tokenext>Would it make sense to turn the ship into housing ? Yes that idea was proposed and the ships name changed to... ..The Vagrantburg .</tokentext>
+<sentencetext>Would it make sense to turn the ship into housing?Yes that idea was proposed and the ships name changed to... ..The Vagrantburg.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825</id>
+	<title>Too deep...</title>
+	<author>Anonymous</author>
+	<datestamp>1243336860000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Too bad at 140 feet it's beyond the limits for sports/recreational diving.</p></htmltext>
+<tokenext>Too bad at 140 feet it 's beyond the limits for sports/recreational diving .</tokentext>
+<sentencetext>Too bad at 140 feet it's beyond the limits for sports/recreational diving.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093155</id>
+	<title>Re:Would it make sense to turn the ship into housi</title>
+	<author>Anonymous</author>
+	<datestamp>1243341360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>It would be like a floating YMCA!</p><p>In the navy...</p></htmltext>
+<tokenext>It would be like a floating YMCA ! In the navy.. .</tokentext>
+<sentencetext>It would be like a floating YMCA!In the navy...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094059</id>
+	<title>Re:Would it make sense to turn the ship into housi</title>
+	<author>bencoder</author>
+	<datestamp>1243348020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Try the <a href="http://www.seasteading.org/" title="seasteading.org">Seasteading Institute</a> [seasteading.org].</htmltext>
+<tokenext>Try the Seasteading Institute [ seasteading.org ] .</tokentext>
+<sentencetext>Try the Seasteading Institute [seasteading.org].</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092887</id>
+	<title>Junk</title>
+	<author>Wowsers</author>
+	<datestamp>1243337760000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>Original post &gt;<nobr> <wbr></nobr>..... to become the world's second largest offshore junk yard.</p><p>There, fixed the original posting.</p></htmltext>
+<tokenext>Original post &gt; ..... to become the world 's second largest offshore junk yard.There , fixed the original posting .</tokentext>
+<sentencetext>Original post &gt; ..... to become the world's second largest offshore junk yard.There, fixed the original posting.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092815</id>
+	<title>DoD stonesifers gateses not to be inconvenienced</title>
+	<author>Anonymous</author>
+	<datestamp>1243336800000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>that's cyber security. everybody knows that patty s. runs fuddles' major league tax dodge, &amp; that they, &amp; other illuminati billionerrors come swim in fuddles' fabulous puddles. fortunately, we do not need (never did) any more greed/fear/ego based glowbull warmongering execrable. plus, their bugware never worked to task.</p><p>no need to confuse 'religion' with being a spiritual being. our soul purpose here is to care for one another. failing that, we're simply passing through (excess baggage) being distracted/consumed by the guaranteed to fail illusionary trappings of man'kind'. &amp; recently (about a 1000 years ago) it was determined that hoarding &amp; excess by a few, resulted in negative consequences for all.</p><p>boeing, boeing, gone.</p><p>this post is censored in the previous thread.</p></htmltext>
+<tokenext>that 's cyber security .
+everybody knows that patty s. runs fuddles ' major league tax dodge , &amp; that they , &amp; other illuminati billionerrors come swim in fuddles ' fabulous puddles .
+fortunately , we do not need ( never did ) any more greed/fear/ego based glowbull warmongering execrable .
+plus , their bugware never worked to task.no need to confuse 'religion ' with being a spiritual being .
+our soul purpose here is to care for one another .
+failing that , we 're simply passing through ( excess baggage ) being distracted/consumed by the guaranteed to fail illusionary trappings of man'kind' .
+&amp; recently ( about a 1000 years ago ) it was determined that hoarding &amp; excess by a few , resulted in negative consequences for all.boeing , boeing , gone.this post is censored in the previous thread .</tokentext>
+<sentencetext>that's cyber security.
+everybody knows that patty s. runs fuddles' major league tax dodge, &amp; that they, &amp; other illuminati billionerrors come swim in fuddles' fabulous puddles.
+fortunately, we do not need (never did) any more greed/fear/ego based glowbull warmongering execrable.
+plus, their bugware never worked to task.no need to confuse 'religion' with being a spiritual being.
+our soul purpose here is to care for one another.
+failing that, we're simply passing through (excess baggage) being distracted/consumed by the guaranteed to fail illusionary trappings of man'kind'.
+&amp; recently (about a 1000 years ago) it was determined that hoarding &amp; excess by a few, resulted in negative consequences for all.boeing, boeing, gone.this post is censored in the previous thread.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094333</id>
+	<title>Re:Too deep...</title>
+	<author>Anonymous</author>
+	<datestamp>1243349160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>What a strange idea to sink such a massive amount of steel !<br>In other places we are mining to extract and then refine steel<nobr> <wbr></nobr>...</p><p>What a waste!!!</p></htmltext>
+<tokenext>What a strange idea to sink such a massive amount of steel ! In other places we are mining to extract and then refine steel ...What a waste ! !
+!</tokentext>
+<sentencetext>What a strange idea to sink such a massive amount of steel !In other places we are mining to extract and then refine steel ...What a waste!!
+!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092861</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093221</id>
+	<title>Re:Too deep...</title>
+	<author>daem0n1x</author>
+	<datestamp>1243342140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I'm not sure about feet, but I wouldn't like to be 43 metres below the surface.</htmltext>
+<tokenext>I 'm not sure about feet , but I would n't like to be 43 metres below the surface .</tokentext>
+<sentencetext>I'm not sure about feet, but I wouldn't like to be 43 metres below the surface.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092891</id>
+	<title>soon it will be...</title>
+	<author>vodevil</author>
+	<datestamp>1243337760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>Soon it will become one of the world's most awesome diving spots.</p></div><p>
+
+I'm no reef expert, but these things take a really long time to have coral start growing on these to the point where you'd want to go diving down to see them.</p></div>
+	</htmltext>
+<tokenext>Soon it will become one of the world 's most awesome diving spots .
+I 'm no reef expert , but these things take a really long time to have coral start growing on these to the point where you 'd want to go diving down to see them .</tokentext>
+<sentencetext>Soon it will become one of the world's most awesome diving spots.
+I'm no reef expert, but these things take a really long time to have coral start growing on these to the point where you'd want to go diving down to see them.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092935</id>
+	<title>time changes the name of things</title>
+	<author>surkum</author>
+	<datestamp>1243338540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Some time ago, shunk a ship was dispose waste, now is eco fiendly build low cost homes for poor fishes.. same thing diferent name<nobr> <wbr></nobr>:)</htmltext>
+<tokenext>Some time ago , shunk a ship was dispose waste , now is eco fiendly build low cost homes for poor fishes.. same thing diferent name : )</tokentext>
+<sentencetext>Some time ago, shunk a ship was dispose waste, now is eco fiendly build low cost homes for poor fishes.. same thing diferent name :)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28096577</id>
+	<title>Re:Too deep...</title>
+	<author>CrimsonAvenger</author>
+	<datestamp>1243358520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The Vandenburg has a draft of 24 feet.  So the waterline should be 115 feet down.  From pictures of the ship, it looks like the bridge is about 50 feet above the waterline, so the top of the wreck ought to be no more than 60 feet below the surface.</p></htmltext>
+<tokenext>The Vandenburg has a draft of 24 feet .
+So the waterline should be 115 feet down .
+From pictures of the ship , it looks like the bridge is about 50 feet above the waterline , so the top of the wreck ought to be no more than 60 feet below the surface .</tokentext>
+<sentencetext>The Vandenburg has a draft of 24 feet.
+So the waterline should be 115 feet down.
+From pictures of the ship, it looks like the bridge is about 50 feet above the waterline, so the top of the wreck ought to be no more than 60 feet below the surface.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093719</id>
+	<title>Re:17000 tons of steel gone to waste</title>
+	<author>drinkypoo</author>
+	<datestamp>1243346520000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>A bigger issue to me is that Steel isn't just iron and nickel, there's all kinds of other stuff in it. This is littering, plain and simple. Remember in <em>Zodiac</em> when they're talking about some transformers or something which were turned into a "habitat for marine life"? When you drop stuff on the bottom of the ocean, of course it will be a habitat for marine life, that's where the marine life <em>is</em>. But will it be a <em>good</em> home, or will it be like some toxic housing projects where the sidewalks and playgrounds are made with the sand used to blast radioactive paint off of ships in the <a href="http://www.ocf.berkeley.edu/~nuclear/preview/nodes/environment/1.html" title="berkeley.edu">Hunter's Point shipyards</a> [berkeley.edu]?</p></htmltext>
+<tokenext>A bigger issue to me is that Steel is n't just iron and nickel , there 's all kinds of other stuff in it .
+This is littering , plain and simple .
+Remember in Zodiac when they 're talking about some transformers or something which were turned into a " habitat for marine life " ?
+When you drop stuff on the bottom of the ocean , of course it will be a habitat for marine life , that 's where the marine life is .
+But will it be a good home , or will it be like some toxic housing projects where the sidewalks and playgrounds are made with the sand used to blast radioactive paint off of ships in the Hunter 's Point shipyards [ berkeley.edu ] ?</tokentext>
+<sentencetext>A bigger issue to me is that Steel isn't just iron and nickel, there's all kinds of other stuff in it.
+This is littering, plain and simple.
+Remember in Zodiac when they're talking about some transformers or something which were turned into a "habitat for marine life"?
+When you drop stuff on the bottom of the ocean, of course it will be a habitat for marine life, that's where the marine life is.
+But will it be a good home, or will it be like some toxic housing projects where the sidewalks and playgrounds are made with the sand used to blast radioactive paint off of ships in the Hunter's Point shipyards [berkeley.edu]?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092861</id>
+	<title>Re:Too deep...</title>
+	<author>slim</author>
+	<datestamp>1243337460000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>The recreational limit is 130 feet. So you won't be able to look at the very bottom of the hull. The rest will be much higher. Even beginners will be able to hover over the deck.</p></htmltext>
+<tokenext>The recreational limit is 130 feet .
+So you wo n't be able to look at the very bottom of the hull .
+The rest will be much higher .
+Even beginners will be able to hover over the deck .</tokentext>
+<sentencetext>The recreational limit is 130 feet.
+So you won't be able to look at the very bottom of the hull.
+The rest will be much higher.
+Even beginners will be able to hover over the deck.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092725</id>
+	<title>Re:Excuse me,</title>
+	<author>Barny</author>
+	<datestamp>1243335540000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Got me, but... Imagine a beowulf cluster of them!<nobr> <wbr></nobr>:P</p></htmltext>
+<tokenext>Got me , but... Imagine a beowulf cluster of them !
+: P</tokentext>
+<sentencetext>Got me, but... Imagine a beowulf cluster of them!
+:P</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092709</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092925</id>
+	<title>Re:Would it make sense to turn the ship into housi</title>
+	<author>santax</author>
+	<datestamp>1243338480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Have you ever been on such a ship? I would guess not. The costs involved would probably make building completely new houses much more economic. Unless you want to share your 'house' with 4 strangers.</htmltext>
+<tokenext>Have you ever been on such a ship ?
+I would guess not .
+The costs involved would probably make building completely new houses much more economic .
+Unless you want to share your 'house ' with 4 strangers .</tokentext>
+<sentencetext>Have you ever been on such a ship?
+I would guess not.
+The costs involved would probably make building completely new houses much more economic.
+Unless you want to share your 'house' with 4 strangers.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094967</id>
+	<title>Re:140 to the Bottom, not the top</title>
+	<author>Malc</author>
+	<datestamp>1243352280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>They're going to prevent it from rolling on to its side?</p></htmltext>
+<tokenext>They 're going to prevent it from rolling on to its side ?</tokentext>
+<sentencetext>They're going to prevent it from rolling on to its side?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093445</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092855</id>
+	<title>What?</title>
+	<author>clint999</author>
+	<datestamp>1243337400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>-1</modscore>
+	<htmltext><b>It's being paid for by people who want to use it.  Most of the preparations required for turning it into a diving target/reef are also required to drag it somewhere to be scrapped.It was a reserve fleet ship;  there's been a big push to dispose of most of them in the past five years or so.  Remember those ships floating about through New Orleans during Hurricane Gustav?  Yep, at a shipyard being prepped for scrapping.</b></htmltext>
+<tokenext>It 's being paid for by people who want to use it .
+Most of the preparations required for turning it into a diving target/reef are also required to drag it somewhere to be scrapped.It was a reserve fleet ship ; there 's been a big push to dispose of most of them in the past five years or so .
+Remember those ships floating about through New Orleans during Hurricane Gustav ?
+Yep , at a shipyard being prepped for scrapping .</tokentext>
+<sentencetext>It's being paid for by people who want to use it.
+Most of the preparations required for turning it into a diving target/reef are also required to drag it somewhere to be scrapped.It was a reserve fleet ship;  there's been a big push to dispose of most of them in the past five years or so.
+Remember those ships floating about through New Orleans during Hurricane Gustav?
+Yep, at a shipyard being prepped for scrapping.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092821</id>
+	<title>Because that ship looked so cool</title>
+	<author>Shivetya</author>
+	<datestamp>1243336860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Otherwise you got me.</p><p>I figure it this way, the interesting point of the story was the ship itself. I really never knew they existed before this announcement and it is very interesting to see in this time and age of being friendly to the environment that the final use of this ship is a reef.</p><p>Consider it has been in service from 1943 to 1993 and has had multiple roles.  The last of which makes one of the coolest looking ships I can recall.  It is part of our technological history.  How we got a better understanding of what we doing today.  Besides, from the environmental angle, it has been used for over fifty years.  Far better than building new ships for each mission and its final resting will give it future use beyond our lifetimes.</p></htmltext>
+<tokenext>Otherwise you got me.I figure it this way , the interesting point of the story was the ship itself .
+I really never knew they existed before this announcement and it is very interesting to see in this time and age of being friendly to the environment that the final use of this ship is a reef.Consider it has been in service from 1943 to 1993 and has had multiple roles .
+The last of which makes one of the coolest looking ships I can recall .
+It is part of our technological history .
+How we got a better understanding of what we doing today .
+Besides , from the environmental angle , it has been used for over fifty years .
+Far better than building new ships for each mission and its final resting will give it future use beyond our lifetimes .</tokentext>
+<sentencetext>Otherwise you got me.I figure it this way, the interesting point of the story was the ship itself.
+I really never knew they existed before this announcement and it is very interesting to see in this time and age of being friendly to the environment that the final use of this ship is a reef.Consider it has been in service from 1943 to 1993 and has had multiple roles.
+The last of which makes one of the coolest looking ships I can recall.
+It is part of our technological history.
+How we got a better understanding of what we doing today.
+Besides, from the environmental angle, it has been used for over fifty years.
+Far better than building new ships for each mission and its final resting will give it future use beyond our lifetimes.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092709</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093005</id>
+	<title>What.</title>
+	<author>Jugalator</author>
+	<datestamp>1243339560000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>How silly.<nobr> <wbr></nobr>:S What's the joy in that? "Oh, here I'm swimming through something that people recently deposited in the ocean, this is awesome".<nobr> <wbr></nobr>:S</p></htmltext>
+<tokenext>How silly .
+: S What 's the joy in that ?
+" Oh , here I 'm swimming through something that people recently deposited in the ocean , this is awesome " .
+: S</tokentext>
+<sentencetext>How silly.
+:S What's the joy in that?
+"Oh, here I'm swimming through something that people recently deposited in the ocean, this is awesome".
+:S</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092747</id>
+	<title>Re:Excuse me,</title>
+	<author>JernejL</author>
+	<datestamp>1243335840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>It is.. Being there.</htmltext>
+<tokenext>It is.. Being there .</tokentext>
+<sentencetext>It is.. Being there.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092709</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093445</id>
+	<title>140 to the Bottom, not the top</title>
+	<author>xlation</author>
+	<datestamp>1243344540000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>The thing is 100 feet tall, so the top of the structure will start at 40ft. There will be plenty to see without deco stops and tri-mix.</p></htmltext>
+<tokenext>The thing is 100 feet tall , so the top of the structure will start at 40ft .
+There will be plenty to see without deco stops and tri-mix .</tokentext>
+<sentencetext>The thing is 100 feet tall, so the top of the structure will start at 40ft.
+There will be plenty to see without deco stops and tri-mix.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093201</id>
+	<title>Re:Too deep...</title>
+	<author>Werkhaus</author>
+	<datestamp>1243341960000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p><div class="quote"><p>The recreational limit is 130 feet. So you won't be able to look at the very bottom of the hull.</p></div><p>Unless you're trained by an agency that includes deeper and more adventurous diving. BSAC, for example, will certify experienced divers down to 55m on air. Decompression stops are introduced (although briefly) to entry-level divers and deco planning is an essential part of training.</p><p>To put the depth in context, one of most popular wrecks, the SS President Coolidge sits at about 70m but there are dives available for all abilities. 45m seems about right for a wreck of this size and I look forward to diving it in a few years time.</p></div>
+	</htmltext>
+<tokenext>The recreational limit is 130 feet .
+So you wo n't be able to look at the very bottom of the hull.Unless you 're trained by an agency that includes deeper and more adventurous diving .
+BSAC , for example , will certify experienced divers down to 55m on air .
+Decompression stops are introduced ( although briefly ) to entry-level divers and deco planning is an essential part of training.To put the depth in context , one of most popular wrecks , the SS President Coolidge sits at about 70m but there are dives available for all abilities .
+45m seems about right for a wreck of this size and I look forward to diving it in a few years time .</tokentext>
+<sentencetext>The recreational limit is 130 feet.
+So you won't be able to look at the very bottom of the hull.Unless you're trained by an agency that includes deeper and more adventurous diving.
+BSAC, for example, will certify experienced divers down to 55m on air.
+Decompression stops are introduced (although briefly) to entry-level divers and deco planning is an essential part of training.To put the depth in context, one of most popular wrecks, the SS President Coolidge sits at about 70m but there are dives available for all abilities.
+45m seems about right for a wreck of this size and I look forward to diving it in a few years time.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092861</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093173</id>
+	<title>Re:Would it make sense to turn the ship into housi</title>
+	<author>An dochasac</author>
+	<datestamp>1243341660000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p><div class="quote"><p>I'm thinking, big ship, used to house hundreds if not thousands of sailors. Why not turn it into some sort of affordable housing?</p></div><p>The U.S. has <a href="http://www.iaconoresearch.com/BlogImages/09-01-29b\_new\_home\_sales.gif" title="iaconoresearch.com" rel="nofollow">more than enough housing inventory.</a> [iaconoresearch.com]  The best way to create 'affordable housing' is to shut down the socialist enterprises Fannie Mae and Freddie Mac  whose charter was to create affordable housing but which instead, through counter-productive anti-capitalist anti-market forces, fed and bloated house prices far beyond reality and created the biggest economic bubble in history. </p><p>In order to fix the economic mess this government created, rather than turn aircraft carriers into houses, you'd have to turn about <b>8000 houses into artificial reefs each month for at least a year!</b> </p><p> <i>"And in the south he saw the golden oranges hanging on the trees, the little golden oranges on the dark green trees; and guards with shotguns patrolling the lines so a man might not pick an orange for a thin child, oranges to be dumped if the price was low."</i> </p><p> -- John Steinbeck, the Grapes of Wrath.
+
+<i>"The nine most terrifying words in the English language are: 'I'm from the government and I'm here to help.'"- Ronald Reagan</i></p></div>
+	</htmltext>
+<tokenext>I 'm thinking , big ship , used to house hundreds if not thousands of sailors .
+Why not turn it into some sort of affordable housing ? The U.S. has more than enough housing inventory .
+[ iaconoresearch.com ] The best way to create 'affordable housing ' is to shut down the socialist enterprises Fannie Mae and Freddie Mac whose charter was to create affordable housing but which instead , through counter-productive anti-capitalist anti-market forces , fed and bloated house prices far beyond reality and created the biggest economic bubble in history .
+In order to fix the economic mess this government created , rather than turn aircraft carriers into houses , you 'd have to turn about 8000 houses into artificial reefs each month for at least a year !
+" And in the south he saw the golden oranges hanging on the trees , the little golden oranges on the dark green trees ; and guards with shotguns patrolling the lines so a man might not pick an orange for a thin child , oranges to be dumped if the price was low .
+" -- John Steinbeck , the Grapes of Wrath .
+" The nine most terrifying words in the English language are : 'I 'm from the government and I 'm here to help .
+' " - Ronald Reagan</tokentext>
+<sentencetext>I'm thinking, big ship, used to house hundreds if not thousands of sailors.
+Why not turn it into some sort of affordable housing?The U.S. has more than enough housing inventory.
+[iaconoresearch.com]  The best way to create 'affordable housing' is to shut down the socialist enterprises Fannie Mae and Freddie Mac  whose charter was to create affordable housing but which instead, through counter-productive anti-capitalist anti-market forces, fed and bloated house prices far beyond reality and created the biggest economic bubble in history.
+In order to fix the economic mess this government created, rather than turn aircraft carriers into houses, you'd have to turn about 8000 houses into artificial reefs each month for at least a year!
+"And in the south he saw the golden oranges hanging on the trees, the little golden oranges on the dark green trees; and guards with shotguns patrolling the lines so a man might not pick an orange for a thin child, oranges to be dumped if the price was low.
+"  -- John Steinbeck, the Grapes of Wrath.
+"The nine most terrifying words in the English language are: 'I'm from the government and I'm here to help.
+'"- Ronald Reagan
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094017</id>
+	<title>Re:What.</title>
+	<author>slim</author>
+	<datestamp>1243347780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>aside from anything else, it will be a good training site for people who want to dive 'real' wrecks.</p></htmltext>
+<tokenext>aside from anything else , it will be a good training site for people who want to dive 'real ' wrecks .</tokentext>
+<sentencetext>aside from anything else, it will be a good training site for people who want to dive 'real' wrecks.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093005</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092945</id>
+	<title>batshit insane</title>
+	<author>macshit</author>
+	<datestamp>1243338720000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext>I wonder if Dick Cheney is going to flip out and start foaming at the mouth about this too?</htmltext>
+<tokenext>I wonder if Dick Cheney is going to flip out and start foaming at the mouth about this too ?</tokentext>
+<sentencetext>I wonder if Dick Cheney is going to flip out and start foaming at the mouth about this too?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093649</id>
+	<title>Re:17000 tons of steel gone to waste</title>
+	<author>mdarksbane</author>
+	<datestamp>1243346160000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Except for apparently about the only way the steel is worth more than the cost of disassembly is when you send it to India. And then you get stuff like this:</p><p><a href="http://www.msnbc.msn.com/id/13443629/" title="msn.com">http://www.msnbc.msn.com/id/13443629/</a> [msn.com]</p><p>Where they pay a bunch of workers the bare minimum to wade through the asbestos and other chemicals, risking fire and falling, and leave the leftovers on the beach. I'm not sure the environmental and human cost of these operations makes the energy savings for the steel really pay off.</p><p>Of course, I'm all for finding better ways to scrap ships, but the cost of steel right now is low enough there isn't a ton of a market.</p></htmltext>
+<tokenext>Except for apparently about the only way the steel is worth more than the cost of disassembly is when you send it to India .
+And then you get stuff like this : http : //www.msnbc.msn.com/id/13443629/ [ msn.com ] Where they pay a bunch of workers the bare minimum to wade through the asbestos and other chemicals , risking fire and falling , and leave the leftovers on the beach .
+I 'm not sure the environmental and human cost of these operations makes the energy savings for the steel really pay off.Of course , I 'm all for finding better ways to scrap ships , but the cost of steel right now is low enough there is n't a ton of a market .</tokentext>
+<sentencetext>Except for apparently about the only way the steel is worth more than the cost of disassembly is when you send it to India.
+And then you get stuff like this:http://www.msnbc.msn.com/id/13443629/ [msn.com]Where they pay a bunch of workers the bare minimum to wade through the asbestos and other chemicals, risking fire and falling, and leave the leftovers on the beach.
+I'm not sure the environmental and human cost of these operations makes the energy savings for the steel really pay off.Of course, I'm all for finding better ways to scrap ships, but the cost of steel right now is low enough there isn't a ton of a market.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093467</id>
+	<title>Re:17000 tons of steel gone to waste</title>
+	<author>mike2R</author>
+	<datestamp>1243344840000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext>I had a look around and found <a href="http://www.google.co.uk/url?sa=t&amp;source=web&amp;ct=res&amp;cd=1&amp;url=http\%3A\%2F\%2Fwww.artificialreef.bc.ca\%2FResources\%2FRemarks\%2520for\%2520Philedelphia\%2520Ship\%2520Recycling\%2520Conference.pdf&amp;ei=7d4bSrukNJSsjAfqtIHtDA&amp;usg=AFQjCNEDl8Dir-BcPJdCaowZw4Gg1fHELg&amp;sig2=Dt2rLxuryml2yQnydgDt7A" title="google.co.uk">this pdf</a> [google.co.uk] addressing it - this is from some artificial reef creation society so is very much the case for..<blockquote><div><p>However, even if one could remove everything from these ships down to the rivets, and obtain
+optimal values, there is likely substantially less than a million dollars worth of value on one of the
+Destroyers. Then there would be the very substantial cost of disassembly, likely more than what
+all the scrap is worth. On the other hand, sinking them as artificial reefs creates jobs, and millions
+of dollars of income for the tourism industry, year after year after year. I mentioned earlier that, in
+1989, the total value of dive tourism in BC was $2.3 million annually. I the past 11 years, it has
+about quadrupled, and we know that the "Saskatchewan", alone, is worth over two and a half
+million dollars a year. This growth can be largely attributed to our artificial reef program.</p></div></blockquote></div>
+	</htmltext>
+<tokenext>I had a look around and found this pdf [ google.co.uk ] addressing it - this is from some artificial reef creation society so is very much the case for..However , even if one could remove everything from these ships down to the rivets , and obtain optimal values , there is likely substantially less than a million dollars worth of value on one of the Destroyers .
+Then there would be the very substantial cost of disassembly , likely more than what all the scrap is worth .
+On the other hand , sinking them as artificial reefs creates jobs , and millions of dollars of income for the tourism industry , year after year after year .
+I mentioned earlier that , in 1989 , the total value of dive tourism in BC was $ 2.3 million annually .
+I the past 11 years , it has about quadrupled , and we know that the " Saskatchewan " , alone , is worth over two and a half million dollars a year .
+This growth can be largely attributed to our artificial reef program .</tokentext>
+<sentencetext>I had a look around and found this pdf [google.co.uk] addressing it - this is from some artificial reef creation society so is very much the case for..However, even if one could remove everything from these ships down to the rivets, and obtain
+optimal values, there is likely substantially less than a million dollars worth of value on one of the
+Destroyers.
+Then there would be the very substantial cost of disassembly, likely more than what
+all the scrap is worth.
+On the other hand, sinking them as artificial reefs creates jobs, and millions
+of dollars of income for the tourism industry, year after year after year.
+I mentioned earlier that, in
+1989, the total value of dive tourism in BC was $2.3 million annually.
+I the past 11 years, it has
+about quadrupled, and we know that the "Saskatchewan", alone, is worth over two and a half
+million dollars a year.
+This growth can be largely attributed to our artificial reef program.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093615</id>
+	<title>Re:soon it will be...</title>
+	<author>sumdumass</author>
+	<datestamp>1243346040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>You don't think a sunken navy ship is worth going and seeing on its own?</p><p>I think it will be the best of both worlds for a while.</p></htmltext>
+<tokenext>You do n't think a sunken navy ship is worth going and seeing on its own ? I think it will be the best of both worlds for a while .</tokentext>
+<sentencetext>You don't think a sunken navy ship is worth going and seeing on its own?I think it will be the best of both worlds for a while.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092891</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093293</id>
+	<title>Re:Too deep...</title>
+	<author>Anonymous</author>
+	<datestamp>1243343220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>You don't have to go to the seabed you know... It's quite a big ship.</p></htmltext>
+<tokenext>You do n't have to go to the seabed you know... It 's quite a big ship .</tokentext>
+<sentencetext>You don't have to go to the seabed you know... It's quite a big ship.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025</id>
+	<title>17000 tons of steel gone to waste</title>
+	<author>Viol8</author>
+	<datestamp>1243339740000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Yes, I'm sure it'll be nice for the fish and a few extreme divers , but wouldn't it have been more use (and possibly be even more envirometally friendly than a new reef) to recycle all that steel? I wonder how much energy it takes to mine and extract 17000 tons of iron from its ore....</p></htmltext>
+<tokenext>Yes , I 'm sure it 'll be nice for the fish and a few extreme divers , but would n't it have been more use ( and possibly be even more envirometally friendly than a new reef ) to recycle all that steel ?
+I wonder how much energy it takes to mine and extract 17000 tons of iron from its ore... .</tokentext>
+<sentencetext>Yes, I'm sure it'll be nice for the fish and a few extreme divers , but wouldn't it have been more use (and possibly be even more envirometally friendly than a new reef) to recycle all that steel?
+I wonder how much energy it takes to mine and extract 17000 tons of iron from its ore....</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28099451</id>
+	<title>Re:Would it make sense to turn the ship into housi</title>
+	<author>An Onerous Coward</author>
+	<datestamp>1243369680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Off topic?  Really?  "What would you do with a free battle cruiser?" seemed perfectly on-topic to me.</p><p>I think the off topic mod is just a code for "I don't like this comment, but there's no -1 Disagree to be found."</p></htmltext>
+<tokenext>Off topic ?
+Really ? " What would you do with a free battle cruiser ?
+" seemed perfectly on-topic to me.I think the off topic mod is just a code for " I do n't like this comment , but there 's no -1 Disagree to be found .
+"</tokentext>
+<sentencetext>Off topic?
+Really?  "What would you do with a free battle cruiser?
+" seemed perfectly on-topic to me.I think the off topic mod is just a code for "I don't like this comment, but there's no -1 Disagree to be found.
+"</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907</id>
+	<title>Would it make sense to turn the ship into housing?</title>
+	<author>Anonymous</author>
+	<datestamp>1243338120000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I'm thinking, big ship, used to house hundreds if not thousands of sailors.  Why not turn it into some sort of affordable housing?</p><p>Maybe not.  Ships need constant repainting to protect them from the elements, so the cost of keeping it afloat could be prohibitive.</p><p>You could also argue that it would have to clog up a harbor somewhere.</p><p>Those are the drawbacks I see.  But having large quantities of housing that could be moved between coastal cities has to have some upsides.  If you could keep the engines running, turn them into portable generators, that would make it all the better.</p></htmltext>
+<tokenext>I 'm thinking , big ship , used to house hundreds if not thousands of sailors .
+Why not turn it into some sort of affordable housing ? Maybe not .
+Ships need constant repainting to protect them from the elements , so the cost of keeping it afloat could be prohibitive.You could also argue that it would have to clog up a harbor somewhere.Those are the drawbacks I see .
+But having large quantities of housing that could be moved between coastal cities has to have some upsides .
+If you could keep the engines running , turn them into portable generators , that would make it all the better .</tokentext>
+<sentencetext>I'm thinking, big ship, used to house hundreds if not thousands of sailors.
+Why not turn it into some sort of affordable housing?Maybe not.
+Ships need constant repainting to protect them from the elements, so the cost of keeping it afloat could be prohibitive.You could also argue that it would have to clog up a harbor somewhere.Those are the drawbacks I see.
+But having large quantities of housing that could be moved between coastal cities has to have some upsides.
+If you could keep the engines running, turn them into portable generators, that would make it all the better.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093989</id>
+	<title>Re:soon it will be...</title>
+	<author>slim</author>
+	<datestamp>1243347660000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p><div class="quote"><p>I'm no reef expert, but these things take a really long time to have coral start growing on these to the point where you'd want to go diving down to see them.</p></div><p>For some time, this will be a recognisable ship - that's a cool thing to dive around in itself. Wreck diving is a fairly popular specialisation.</p><p>In addition, while coral takes a long time to grow, other plant life takes hold much more quickly, and fish will seek refuge anywhere there's shelter. Go snorkeling somewhere sandy - if you want to see fish, you'll need to find a boulder.</p><p>Finally, coral does take hold in human timescales. When Bali started attracting tourists, they quarried coral reefs to build hotels, with diasterous results - not only were the reefs lost, but it resulted in serious beach erosion. The practice was banned but the damage was done. Where I stayed, they had dumped huge concrete blocks where the reef used to be. Already coral was recolonising, anenomes and tropical fish were everywhere. It'll take years before it fully recovers - but not thousands of years, or even hundreds.</p></div>
+	</htmltext>
+<tokenext>I 'm no reef expert , but these things take a really long time to have coral start growing on these to the point where you 'd want to go diving down to see them.For some time , this will be a recognisable ship - that 's a cool thing to dive around in itself .
+Wreck diving is a fairly popular specialisation.In addition , while coral takes a long time to grow , other plant life takes hold much more quickly , and fish will seek refuge anywhere there 's shelter .
+Go snorkeling somewhere sandy - if you want to see fish , you 'll need to find a boulder.Finally , coral does take hold in human timescales .
+When Bali started attracting tourists , they quarried coral reefs to build hotels , with diasterous results - not only were the reefs lost , but it resulted in serious beach erosion .
+The practice was banned but the damage was done .
+Where I stayed , they had dumped huge concrete blocks where the reef used to be .
+Already coral was recolonising , anenomes and tropical fish were everywhere .
+It 'll take years before it fully recovers - but not thousands of years , or even hundreds .</tokentext>
+<sentencetext>I'm no reef expert, but these things take a really long time to have coral start growing on these to the point where you'd want to go diving down to see them.For some time, this will be a recognisable ship - that's a cool thing to dive around in itself.
+Wreck diving is a fairly popular specialisation.In addition, while coral takes a long time to grow, other plant life takes hold much more quickly, and fish will seek refuge anywhere there's shelter.
+Go snorkeling somewhere sandy - if you want to see fish, you'll need to find a boulder.Finally, coral does take hold in human timescales.
+When Bali started attracting tourists, they quarried coral reefs to build hotels, with diasterous results - not only were the reefs lost, but it resulted in serious beach erosion.
+The practice was banned but the damage was done.
+Where I stayed, they had dumped huge concrete blocks where the reef used to be.
+Already coral was recolonising, anenomes and tropical fish were everywhere.
+It'll take years before it fully recovers - but not thousands of years, or even hundreds.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092891</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28097365</id>
+	<title>Re:time changes the name of things</title>
+	<author>Grishnakh</author>
+	<datestamp>1243361940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I would assume that, these days, when they intentionally sink a ship to make a reef, they get rid of all the toxic fluids and such, such as diesel fuel, lubricants, fire-extinguishing chemicals, etc., before sinking it.  In the old days, they probably didn't bother to do that.</p></htmltext>
+<tokenext>I would assume that , these days , when they intentionally sink a ship to make a reef , they get rid of all the toxic fluids and such , such as diesel fuel , lubricants , fire-extinguishing chemicals , etc. , before sinking it .
+In the old days , they probably did n't bother to do that .</tokentext>
+<sentencetext>I would assume that, these days, when they intentionally sink a ship to make a reef, they get rid of all the toxic fluids and such, such as diesel fuel, lubricants, fire-extinguishing chemicals, etc., before sinking it.
+In the old days, they probably didn't bother to do that.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092935</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092971</id>
+	<title>The Wilkes-Barr is longer!</title>
+	<author>Anonymous</author>
+	<datestamp>1243339080000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>and was sunk in 1971 off Key West, while I was stationed there.  608 feet long, while the Vandenberg is only 522 feet long.</p><p>Sorry, Charlie!</p><p>JR</p></htmltext>
+<tokenext>and was sunk in 1971 off Key West , while I was stationed there .
+608 feet long , while the Vandenberg is only 522 feet long.Sorry , Charlie ! JR</tokentext>
+<sentencetext>and was sunk in 1971 off Key West, while I was stationed there.
+608 feet long, while the Vandenberg is only 522 feet long.Sorry, Charlie!JR</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093539</id>
+	<title>Re:17000 tons of steel gone to waste</title>
+	<author>Anonymous</author>
+	<datestamp>1243345560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Well, it isn't just nice for the recreational divers, it's good for the tour companies, hotels, restaurants and bars that cater to them as well.</p><p>In any case, this is not the only ship waiting to be scrapped.  If it were economically valuable to recycle those ships at a higher rate, it would happen.  As it is, there is currently a glut of steel, so the choice would be to keep the vessel dry docked indefinitely until steel prices rise enough to justify scrapping. World annual steel production is something like 1.4 billion tons; the ten thousand tons of steel in this thing is less than one thousandth of one percent of that. It's not like we're throwing away ships left and right, we're just using this steel in a different way.</p><p>That's the mantra: reduce, reuse, recycle.  Recycling is a huge opportunity for our species to reduce its environmental footprint, but that doesn't invalidate <em>reuse</em>.  The important thing is not to create cause celebres out of cases like this, but to reduce the use of resources (we use  9x the steel in this ship annually to make steel caskets in the US), and to build better systems for capturing lost materials. We use 2.9 million tons of steel in food cans annually in the US, 40\% of which are lost: that's 116x the steel in this vessel; a 1\% improvement in that would exceed the amount of steel in this vessel.</p><p>I suspect this ship's interesting superstructure makes it an interesting candidate for artificial reef as well as tourist attraction.  There are museums based on retired navy vessels in many places; this is the same thing only under water.</p></htmltext>
+<tokenext>Well , it is n't just nice for the recreational divers , it 's good for the tour companies , hotels , restaurants and bars that cater to them as well.In any case , this is not the only ship waiting to be scrapped .
+If it were economically valuable to recycle those ships at a higher rate , it would happen .
+As it is , there is currently a glut of steel , so the choice would be to keep the vessel dry docked indefinitely until steel prices rise enough to justify scrapping .
+World annual steel production is something like 1.4 billion tons ; the ten thousand tons of steel in this thing is less than one thousandth of one percent of that .
+It 's not like we 're throwing away ships left and right , we 're just using this steel in a different way.That 's the mantra : reduce , reuse , recycle .
+Recycling is a huge opportunity for our species to reduce its environmental footprint , but that does n't invalidate reuse .
+The important thing is not to create cause celebres out of cases like this , but to reduce the use of resources ( we use 9x the steel in this ship annually to make steel caskets in the US ) , and to build better systems for capturing lost materials .
+We use 2.9 million tons of steel in food cans annually in the US , 40 \ % of which are lost : that 's 116x the steel in this vessel ; a 1 \ % improvement in that would exceed the amount of steel in this vessel.I suspect this ship 's interesting superstructure makes it an interesting candidate for artificial reef as well as tourist attraction .
+There are museums based on retired navy vessels in many places ; this is the same thing only under water .</tokentext>
+<sentencetext>Well, it isn't just nice for the recreational divers, it's good for the tour companies, hotels, restaurants and bars that cater to them as well.In any case, this is not the only ship waiting to be scrapped.
+If it were economically valuable to recycle those ships at a higher rate, it would happen.
+As it is, there is currently a glut of steel, so the choice would be to keep the vessel dry docked indefinitely until steel prices rise enough to justify scrapping.
+World annual steel production is something like 1.4 billion tons; the ten thousand tons of steel in this thing is less than one thousandth of one percent of that.
+It's not like we're throwing away ships left and right, we're just using this steel in a different way.That's the mantra: reduce, reuse, recycle.
+Recycling is a huge opportunity for our species to reduce its environmental footprint, but that doesn't invalidate reuse.
+The important thing is not to create cause celebres out of cases like this, but to reduce the use of resources (we use  9x the steel in this ship annually to make steel caskets in the US), and to build better systems for capturing lost materials.
+We use 2.9 million tons of steel in food cans annually in the US, 40\% of which are lost: that's 116x the steel in this vessel; a 1\% improvement in that would exceed the amount of steel in this vessel.I suspect this ship's interesting superstructure makes it an interesting candidate for artificial reef as well as tourist attraction.
+There are museums based on retired navy vessels in many places; this is the same thing only under water.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092739</id>
+	<title>Re:Excuse me,</title>
+	<author>Anonymous</author>
+	<datestamp>1243335780000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>...because it's information on a very historic ship.  Sure, I'd imagine the number of geek divers might is pretty limited, but I do know a few.</p><p>The wreck will likely be stable for 50+ years, despite the recent photographs.</p><p>(It's also of interest to me, because I work on USNS vessels, and live near the reserve fleet where it spent the past few years)</p></htmltext>
+<tokenext>...because it 's information on a very historic ship .
+Sure , I 'd imagine the number of geek divers might is pretty limited , but I do know a few.The wreck will likely be stable for 50 + years , despite the recent photographs .
+( It 's also of interest to me , because I work on USNS vessels , and live near the reserve fleet where it spent the past few years )</tokentext>
+<sentencetext>...because it's information on a very historic ship.
+Sure, I'd imagine the number of geek divers might is pretty limited, but I do know a few.The wreck will likely be stable for 50+ years, despite the recent photographs.
+(It's also of interest to me, because I work on USNS vessels, and live near the reserve fleet where it spent the past few years)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092709</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094349</id>
+	<title>Re:17000 tons of steel gone to waste</title>
+	<author>slim</author>
+	<datestamp>1243349220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Yes, I'm sure it'll be nice for the fish and a few extreme divers </p></div><p>Why do you say 'extreme' divers?</p><p>I suspect this thing will be swarming with dive tours every day the weather allows.</p></div>
+	</htmltext>
+<tokenext>Yes , I 'm sure it 'll be nice for the fish and a few extreme divers Why do you say 'extreme ' divers ? I suspect this thing will be swarming with dive tours every day the weather allows .</tokentext>
+<sentencetext>Yes, I'm sure it'll be nice for the fish and a few extreme divers Why do you say 'extreme' divers?I suspect this thing will be swarming with dive tours every day the weather allows.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092951</id>
+	<title>Re:Too deep...</title>
+	<author>elijahu</author>
+	<datestamp>1243338900000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext>Except that according to the wiki page on the ship (already linked above) the draft of the Vandenberg is 24' and it's 71.5' wide. Add to that a significant amount of freeboard and superstructure (judging by the picture). Not sure how close that would put the top of the ship to standard recreational diving limits (~60') but PADI Advanced Open Water (AOW) cert allows for diving up to ~100' and the "deep diver" certifications (130') putting most of the ship within reach.</htmltext>
+<tokenext>Except that according to the wiki page on the ship ( already linked above ) the draft of the Vandenberg is 24 ' and it 's 71.5 ' wide .
+Add to that a significant amount of freeboard and superstructure ( judging by the picture ) .
+Not sure how close that would put the top of the ship to standard recreational diving limits ( ~ 60 ' ) but PADI Advanced Open Water ( AOW ) cert allows for diving up to ~ 100 ' and the " deep diver " certifications ( 130 ' ) putting most of the ship within reach .</tokentext>
+<sentencetext>Except that according to the wiki page on the ship (already linked above) the draft of the Vandenberg is 24' and it's 71.5' wide.
+Add to that a significant amount of freeboard and superstructure (judging by the picture).
+Not sure how close that would put the top of the ship to standard recreational diving limits (~60') but PADI Advanced Open Water (AOW) cert allows for diving up to ~100' and the "deep diver" certifications (130') putting most of the ship within reach.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092709</id>
+	<title>Excuse me,</title>
+	<author>Anonymous</author>
+	<datestamp>1243335240000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>but what is this doing on Slashdot?</p></htmltext>
+<tokenext>but what is this doing on Slashdot ?</tokentext>
+<sentencetext>but what is this doing on Slashdot?</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094017
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093005
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093293
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092925
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28099451
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094059
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093719
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094967
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093445
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_28</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093201
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092861
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093019
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28097365
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092935
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093615
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092891
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092821
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092709
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093649
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_26</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092747
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092709
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092951
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093173
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094333
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092861
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092725
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092709
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28096577
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28113329
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092861
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093155
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093989
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092891
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093221
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094765
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_27</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094349
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093539
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092739
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092709
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093467
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2254234_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28095921
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2254234.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093025
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094349
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093467
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094765
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093539
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28095921
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093719
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093649
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2254234.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092907
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093019
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093155
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092925
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093173
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094059
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28099451
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2254234.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092855
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2254234.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092825
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093293
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28096577
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093445
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094967
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092951
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092861
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28113329
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093201
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094333
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093221
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2254234.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092935
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28097365
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2254234.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093005
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28094017
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2254234.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092709
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092821
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092739
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092747
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092725
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2254234.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092891
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093615
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28093989
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2254234.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2254234.28092971
+</commentlist>
+</conversation>

@@ -1,0 +1,11 @@
+<article>
+	<pid>8464</pid>
+	<title>Dell Mini 5 Streak Tablet Gets A Tear Down, Packs Snapdragon | Android Central</title>
+	<url>http://www.androidcentral.com/dell-mini-5-streak-tablet-gets-tear-down-packs-snapdragon</url>
+	<date>   Jan 19 2010  7:34 am   </date>
+	<author>Casey Chan</author>
+	<text>
+  We've known that Dell was making an Android Tablet for quite some time but official details have been rather slim. Luckily, some enterprising user hasn't just gotten their hands on a Dell Mini 5 Tablet but gave it the old fashioned video teardown to boot. We now know that the Dell Mini 5 Tablet will pack a 1GHz Snapdragon Processor, 1530mAh battery, 3G SIM Card slot, 2 MicroSD slots, and Wi-Fi. Basically, this thing has a chance at being very awesome. Other details have yet to become official. Is it headed to AT&T? Will it be affordable? Hopefully we'll know soon. In the meantime, hit the jump to watch the tear down video. The soundtrack is just awesome. [via gizmodo]
+   </text>
+	<score>0</score>
+</article>

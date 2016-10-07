@@ -1,0 +1,289 @@
+<article>
+	<pid>4</pid>
+	<title>Movie Studios Harnessing iTunes Extras For Advanced Features - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/03/movie-studios-harnessing-itunes-extras-for-advanced-features/</url>
+	<date>Monday January 3, 2011 8:50 am PST</date>
+	<author>Eric Slivka</author>
+	<text>Introduced in late 2009 with iTunes 9, iTunes Extras have been billed as a way for movie studios to release additional features and functionalities with their iTunes Store video content, offering a way to compete with and even exceed bonus features found on DVD releases.  But while widespread usage of iTunes Extras has yet to take off,paidContent.orgnotesthat Sony Pictures has started to test some advanced bonus features on its iTunes releases that could begin to turn the tide.In particular, three new iTunes Store releases from Sony, including the Will Ferrell-Mark Wahlberg filmThe Other Guys,Salt, andResident Evil: Afterlife, include a trio of unadvertised features designed to enhance the viewer's experience with interactivity and further iTunes integration.Buy the Will Ferrell comedy The Other Guys and you'll notice three extras that can't be found on DVD or any other digital platform. A search button allows you to input a word, and any mention of it in the script will be retrieved along with a link to the exact moment in the movie in which the line was uttered. A "clip & share" function lets the viewer take select scenes and post them to social networks. There's also a playlist with songs from the film, which are linked to to places on iTunes where those songs can be purchased.The report notes that the features are available only for iTunes Store purchases, and not rentals of the titles where they are being trialled.Despite the apparent efforts of movie studios like Sony to differentiate their iTunes Store content by offering such interactive features, Apple has yet to offer full support for iTunes Extras, with compatibility limited to viewing the additional content through iTunes on Mac or Windows or on a first-generation Apple TV.  While Apple CEO Steve Jobs haspromisedsupport for iTunes Extras and the related iTunes LP format on the new Apple TV, Apple's entire line of iOS-based devices remains incompatible with the bonus features at this time.  The shortcoming has been viewed as a major hindrance to the adoption of the extended features, particularly given that the iPad with its larger screen appears to be particularly enticing for such capabilities.</text>
+	<score>40</score>
+</article>
+<comment>
+	<cid>11658209</cid>
+	<date>Jan 3, 2011, 12:17 PM</date>
+	<author>ECUpirate44</author>
+	<text>The Other Guys was an awful movie.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658224</cid>
+	<date>Jan 3, 2011, 12:20 PM</date>
+	<author>davidwarren</author>
+	<text>Too bad the place most people would view an iTunes movie (AppleTV 2), can't utilize extras yet....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658232</cid>
+	<date>Jan 3, 2011, 12:22 PM</date>
+	<author>ReallyBigFeet</author>
+	<text>While this particular implementation needs a wider audience, this is EXACTLY the kind of stuff studios should be working on to make people want to buy their movies rather than downloading copies illegally off the 'net.  I applaud their (early) efforts here and hope to see a lot more of this stuff and a lot less suing-everyone-with-an-identifiable-IP-address nonsense.Value-add folks....its da future.PS: The Other Guys was, indeed, a god-awful movie.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658233</cid>
+	<date>Jan 3, 2011, 12:22 PM</date>
+	<author>HelveticaNeue</author>
+	<text>Give me Lord of the Rings Extended Edition in HD with all the extras found on the disks and then we'll talk.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658238</cid>
+	<date>Jan 3, 2011, 12:23 PM</date>
+	<author>Roessnakhan</author>
+	<text>Quote:Originally Posted byHelveticaNeueGive me Lord of the Rings Extended Edition in HD with all the extras found on the disks and then we'll talk.Agreed.  The EE DVD sets are incredible.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658239</cid>
+	<date>Jan 3, 2011, 12:23 PM</date>
+	<author>Small White Car</author>
+	<text>Quote:Originally Posted bydavidwarrenToo bad the place most people would view an iTunes movie (AppleTV 2), can't utilize extras yet....This is all cool stuff but I agree that there is just SO MUCH potential in ATV and iTunes waiting to be joined together and fired up.I think all this stuff could be super awesome eventually, but they're still working towards it. But it's coming.First step, why are the buy/rent &amp; SD/HD options different between Apple TVs, iPhones, and computers? This is the first thing to tackle because it just makes no sense and only makes people angry. WHERE I get the movie shouldn't make a difference.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658245</cid>
+	<date>Jan 3, 2011, 12:24 PM</date>
+	<author>Joe-Diver</author>
+	<text>Once that massive new datacenter is fully operational.....we're going to see major changes to the iTunes store, AppleTV and content delivery.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658254</cid>
+	<date>Jan 3, 2011, 12:25 PM</date>
+	<author>dscuber9000</author>
+	<text>Those are some nice features that actually take advantage of iTunes integration! Good job, Sony.... for once.And I liked The Other Guys.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658264</cid>
+	<date>Jan 3, 2011, 12:27 PM</date>
+	<author>Cameront9</author>
+	<text>Won't buy any movies on iTunes unless they are subtitled, closed captioned.  It's 2011.  There is NO EXCUSE for not having your media subtitled.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658269</cid>
+	<date>Jan 3, 2011, 12:28 PM</date>
+	<author>mattwolfmatt</author>
+	<text>All I want is director and/or actor commentary.  Is that too much to ask?  It's just an additional audio track. . . I miss these from DVDs.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658298</cid>
+	<date>Jan 3, 2011, 12:32 PM</date>
+	<author>trainwrecka</author>
+	<text>The Toy Story 3 extras don't fully work on my ATV (1G), and has prevented me from buying other movies like Inception. I want the extras, but not to gather around the computer to watch them.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658346</cid>
+	<date>Jan 3, 2011, 12:39 PM</date>
+	<author>Small White Car</author>
+	<text>Quote:Originally Posted bytrainwreckaThe Toy Story 3 extras don't fully work on my ATV (1G), and has prevented me from buying other movies like Inception. I want the extras, but not to gather around the computer to watch them.Not to mention the iPhone or iPad. It's getting close, but it's not all there yet.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658595</cid>
+	<date>Jan 3, 2011, 01:25 PM</date>
+	<author>Rooskibar03</author>
+	<text>Meh,Just give me HD movies, plain and simple without the extras at a reasonable price and I'll be one happy camper.Heck, just give me more HD choices to purchase.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658621</cid>
+	<date>Jan 3, 2011, 01:30 PM</date>
+	<author>BornAgainMac</author>
+	<text>Quote:Originally Posted byCameront9Won't buy any movies on iTunes unless they are subtitled, closed captioned.  It's 2011.  There is NO EXCUSE for not having your media subtitled.You are right.  I remember reading about the MPEG-4 spec about 5 years ago and I thought it would be a perfect technology to allow for that feature.  Maybe it was the encoding process that wasn't advanced enough to have the separate title track saved separately from the movie for deploying on iTunes.  In theory, you can have French, Spanish, and English as separate tracks that could be overlay with the movie at playback if you wanted it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658644</cid>
+	<date>Jan 3, 2011, 01:34 PM</date>
+	<author>HiRez</author>
+	<text>Quote:Originally Posted byRooskibar03Meh,Just give me HD movies, plain and simple without the extras at a reasonable price and I'll be one happy camper.Heck, just give me more HD choices to purchase.I agree, better selection and possible slightly cheaper prices (especially for movies that are over a year old) is by far the best &quot;extra feature&quot; they could add.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658734</cid>
+	<date>Jan 3, 2011, 01:50 PM</date>
+	<author>Ctrice</author>
+	<text>Quote:Originally Posted byCameront9Won't buy any movies on iTunes unless they are subtitled, closed captioned.  It's 2011.  There is NO EXCUSE for not having your media subtitled.I agree 100%. That's why I just rip all my movies myself.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658746</cid>
+	<date>Jan 3, 2011, 01:53 PM</date>
+	<author>tatonka</author>
+	<text>How about adding something simple that people (aka I) actually care about .. lets say subtitles, different audio tracks, multi language support ...I can't even think of a reason why I would ever fire up iTunes, enter a search phrase and be happy it jumped right to that moment in the movie .. what a useless gimmick.I must say I don't care at all for the very most extra stuff that is on DVD's nowadays. Most of it is horribly produced and doesn't really add much value to the purchase. The Lotr extended set and a few other exception excluded.The same is by the way true for the iTunes LP music feature .. utterly useless. Doesn't add a bit of value in my eyes. &lt;/rant&gt;But hey .. I am glad that the studios are trying out things .. something good may stick in the end.T.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658849</cid>
+	<date>Jan 3, 2011, 02:12 PM</date>
+	<author>Sayer</author>
+	<text>Studios are the ones making content available for iTunes downloads, its not Apple that is adding or not adding extras. Apple would love to have as much content as possible, but they are not creating it, they are merely selling what they are given.Some movies don't have any extra audio options or even a chapter list. That's just how bargain basement or indie stuff gets put out. Studios love making new boxes with &quot;extra deleted scenes&quot; and &quot;extended editions&quot; to get fresh revenue. Can't get away with that in digital downloads.All of the extra audio, language, and closed captioning costs money to create. Creating it for a digital download takes more time/effort/money and some studios are still in the &quot;stick their toe in it to check the water&quot; stage.Sony seems to be &quot;getting it&quot; and is expanding their offerings. Apple is also trying to consolodate all iOS work to bring a grand-unified update that plays back iTunes Extras and digital LP stuff to iPhone, iPad and Apple TV as soon as humanly possible (that stuff is all web site-based tech anyway).FYI: I definitely would love to have commentary audio for digital movies so I can finally understand what the heck they were thinking, like when Sam Raimi made Spider-Man 3, for example.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658873</cid>
+	<date>Jan 3, 2011, 02:17 PM</date>
+	<author>PeterQVenkman</author>
+	<text>That search feature is cool.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658881</cid>
+	<date>Jan 3, 2011, 02:18 PM</date>
+	<author>fxtech</author>
+	<text>Quote:Originally Posted byJoe-DiverOnce that massive new datacenter is fully operational.....we're going to see major changes to the iTunes store, AppleTV and content delivery.You mean the AppleTV will suddenly get 1080P support?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658888</cid>
+	<date>Jan 3, 2011, 02:20 PM</date>
+	<author>MacFly123</author>
+	<text>Quote:Originally Posted bySmall White CarThis is all cool stuff but I agree that there is just SO MUCH potential in ATV and iTunes waiting to be joined together and fired up.I think all this stuff could be super awesome eventually, but they're still working towards it. But it's coming.First step, why are the buy/rent &amp; SD/HD options different between Apple TVs, iPhones, and computers? This is the first thing to tackle because it just makes no sense and only makes people angry. WHERE I get the movie shouldn't make a difference.Agreed!  Apple is working toward these things but the studios have been slowing everything down.  Hopefully they can work together more quickly!I think it is ridiculous that SD is even still an option!  GET RID OF IT!!!  IT IS 2011 FOR CRYING OUT LOUD!  It is bad enough we still have to settle for 720p instead of 1080p let alone SD... COME ON!Give us 1080p with iTunes Extras including the type of special features we are use to on DVD (Commentary, subtitles, etc.) unify it across all devices on the iOS platform and then we are talkin'!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658893</cid>
+	<date>Jan 3, 2011, 02:21 PM</date>
+	<author>ten-oak-druid</author>
+	<text>As a consumer I am a little hesitant to buy video content through itunes yet.I believe some features will be added and eventually the resolution will be improved.  All of this is coming.  And I can understand Steve Job's take on Blu Ray as the more I get used to accessing media through a data base and streaming it to the TV, the less inclined I am to bother with the DVD player.However, I am hesitant to dive into purchasing content through itunes because the future upgrades will mean a second purchasing of the media.  I have already seen this with music.  Itunes upgraded the bit rate of the music while removing DRM.  In my opinion this should have been a free update on previous purchases but instead it cost $0.30 per track.  Most of my music is imported from CDs but I do have a collection of itunes purchases.  Mostly singles from artists I had no intention of purchasing an entire album of work from.I can picture this happening with video.  First you buy the movie.  Then when the DVD extras become available, you will have to purchase those separately.  And then a year or two from now as the resolution of itunes purchases increases to 1080p, an upgrade price will likely be required.If Apple made it clear that upgrades would be free, then I would purchase more video from itunes.At least Apple is kind enough to offer free replacements of defective video.  I did purchases a couple of TV seasons and reported flawed video in an episode or two.  Eventually the video was fixed and I received an email that I had a credit for a new download.   Other people must have reported flaws I missed because once or twice this happened with a purchase that I did not report to Apple.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11658971</cid>
+	<date>Jan 3, 2011, 02:38 PM</date>
+	<author>SandynJosh</author>
+	<text>Quote:Originally Posted byECUpirate44The Other Guys was an awful movie.Maybe they hope that what landed on the cutting room floor will re-animate this zombie.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659050</cid>
+	<date>Jan 3, 2011, 02:55 PM</date>
+	<author>SAIRUS</author>
+	<text>Seems like a &quot;bag of not enough&quot;Apple TV does have a lot of potential (and yes I have one), but sadly its squandered at the moment and it'll only sit beside my bedroom tv, and not near the home theater (Blu-ray).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659221</cid>
+	<date>Jan 3, 2011, 03:29 PM</date>
+	<author>iEvolution</author>
+	<text>Quote:Originally Posted byMacFly123I think it is ridiculous that SD is even still an option!  GET RID OF IT!!!  IT IS 2011 FOR CRYING OUT LOUD!  It is bad enough we still have to settle for 720p instead of 1080p let alone SD... COME ON!LOL, as if 1080P is that big of difference from 720p for 95% of the American population. Apple doesn't cater to the 5 percenters.I'd rather pay $2 for TV Shows in standard def than pay $3..I have a hard enough time justifying $2 for a 40 minute or even 25 minute show. So yes standard def should be a option.Lack of options with the apple content and the ridiculous charging price they ask for movies on iTunes is enough to turn me right off. You can't even burn it to a disc and it is MORE EXPENSIVE than a trip down to Walmart to pick up the same video for $10-$15 and own the physical media without having to worry about hard drive failure or some other data loss problem. No extra features are going to get me to justify their price.iTunes movie section is complete garbage, and the TV show section is right on the edge of being ridiculously overpriced as well.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659224</cid>
+	<date>Jan 3, 2011, 03:30 PM</date>
+	<author>ghostface147</author>
+	<text>I'm waiting for the day that streaming/downloadable content matches the quality of  blu ray.  Then again, once that happens, ISP bandwidth caps will ruin it.  Pick your poison.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659250</cid>
+	<date>Jan 3, 2011, 03:35 PM</date>
+	<author>Chase R</author>
+	<text>Quote:Originally Posted byECUpirate44The Other Guys was an awful movie.I loved it. Especially all of the good financial facts during the credits.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659271</cid>
+	<date>Jan 3, 2011, 03:40 PM</date>
+	<author>iEvolution</author>
+	<text>Quote:Originally Posted byghostface147I'm waiting for the day that streaming/downloadable content matches the quality of  blu ray.  Then again, once that happens, ISP bandwidth caps will ruin it.  Pick your poison.I'm hoping clouds are not the future simply because you'll never own anything..and if anything happens to the company there goes all your money.Thanks, but no thanks.Also if I remember correctly the FCC recently ruled against unfair capping from broadband providers...not sure what &quot;unfair&quot; constitutes but perhaps caps won't be as big of a problem as you think.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659302</cid>
+	<date>Jan 3, 2011, 03:47 PM</date>
+	<author>OllyW</author>
+	<text>Quote:Originally Posted byiEvolutionApple doesn't cater to the 5 percenters.Except for the 5% who own Macs.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659303</cid>
+	<date>Jan 3, 2011, 03:47 PM</date>
+	<author>Cameront9</author>
+	<text>Quote:Originally Posted bySayerStudios are the ones making content available for iTunes downloads, its not Apple that is adding or not adding extras. Apple would love to have as much content as possible, but they are not creating it, they are merely selling what they are given.All of the extra audio, language, and closed captioning costs money to create. Creating it for a digital download takes more time/effort/money and some studios are still in the &quot;stick their toe in it to check the water&quot; stage.I realize it's not Apple doing it.  I realize it's the studios.  Doesn't change my stance.I'm hearing impaired.  I can't enjoy a movie unless it's captioned.  Apple has done EVERYTHING to make it easy for the content providers to display subtitles and captioning.  It's built in to Quicktime.Don't tell me that it cost extra money to create subtitles for digital downloads.  That's Bull.  The subtitle tracks are already there from the DVD!I have the same problem with the &quot;Digital Copies&quot; found in many DVD sets these days...they also are not closed captioned.Extra audio content/Making of features are one thing.  But without captioning I and millions of others who are deaf cannot enjoy the film.So until they have it, I'm not buying it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659472</cid>
+	<date>Jan 3, 2011, 04:21 PM</date>
+	<author>mex4eric</author>
+	<text>Quote:Originally Posted byiEvolutionI'm hoping clouds are not the future simply because you'll never own anything..and if anything happens to the company there goes all your money.Thanks, but no thanks.Also if I remember correctly the FCC recently ruled against unfair capping from broadband providers...not sure what &quot;unfair&quot; constitutes but perhaps caps won't be as big of a problem as you think.&quot;unfair&quot; = money in lawyers pockets.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11659807</cid>
+	<date>Jan 3, 2011, 05:29 PM</date>
+	<author>MacFly123</author>
+	<text>Quote:Originally Posted byiEvolutionLOL, as if 1080P is that big of difference from 720p for 95% of the American population. Apple doesn't cater to the 5 percenters.I'd rather pay $2 for TV Shows in standard def than pay $3..I have a hard enough time justifying $2 for a 40 minute or even 25 minute show. So yes standard def should be a option.Lack of options with the apple content and the ridiculous charging price they ask for movies on iTunes is enough to turn me right off. You can't even burn it to a disc and it is MORE EXPENSIVE than a trip down to Walmart to pick up the same video for $10-$15 and own the physical media without having to worry about hard drive failure or some other data loss problem. No extra features are going to get me to justify their price.iTunes movie section is complete garbage, and the TV show section is right on the edge of being ridiculously overpriced as well.1)  I am a film-maker by profession so I understand the 1080p content.  The point is why are we doing anything but going TRUE HD?2) When I say get rid of SD I also mean that in doing so the pricing tiers should go away.  There shouldn't be any of this stupid crap with SD, HD, SD price, HD price!  All content should just be 1080p and ONE decent price.1080p TV show $0.991080p New Release Movie $14.991080p Library Movie $9.99Make it seamless on any device with all the features we expect on DVD and WOW you will see the future of media!Stop slowing down the progression of media and technology hollywood and stop  being greedy.  You will end up making more money if you learn how to embrace and be reasonable!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660083</cid>
+	<date>Jan 3, 2011, 06:31 PM</date>
+	<author>SandynJosh</author>
+	<text>Quote:Originally Posted byChase RI loved it. Especially all of the good financial facts during the credits.It's pretty ironic that when the final credits begin to scroll that the movie finally starts to get good.Will Ferrell has a hard time even pretending to be himself.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660112</cid>
+	<date>Jan 3, 2011, 06:38 PM</date>
+	<author>Kieranic</author>
+	<text>Quote:Originally Posted byCameront9Won't buy any movies on iTunes unless they are subtitled, closed captioned.  It's 2011.  There is NO EXCUSE for not having your media subtitled.Some movies have subtitles. I brought Team America nearly a year ago and it has subtitles on it (Obviously you can turn them on or off).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11660115</cid>
+	<date>Jan 3, 2011, 06:38 PM</date>
+	<author>Jelite</author>
+	<text>Quote:There's also a playlist with songs from the film, which are linked to to places on iTunes where those songs can be purchased.This is a great idea, im always slo-mo-ing through the credits trying to work out which song is by which artist.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11661759</cid>
+	<date>Jan 4, 2011, 03:29 AM</date>
+	<author>tatonka</author>
+	<text>Quote:Originally Posted byMacFly123Make it seamless on any device with all the features we expect on DVD and WOW you will see the future of media!Stop slowing down the progression of media and technology hollywood and stop  being greedy.  You will end up making more money if you learn how to embrace and be reasonable!The movie content may be available in HD,but a lot of the infrastructure is not there yet. I don't want to download a 4GB HD movie to my iPhone .. simply because there is not enough space available. I want the SD option, because it means I can start watching the movie pretty much right away over HD where I need to give it a good hour headstart so it can finish while I watch the movie.Neither storage capacities nor internet connections are at an HD only level quite yet. So why exclude all that market?T.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662993</cid>
+	<date>Jan 4, 2011, 10:13 AM</date>
+	<author>Cameront9</author>
+	<text>Quote:Originally Posted byKieranicSome movies have subtitles. I brought Team America nearly a year ago and it has subtitles on it (Obviously you can turn them on or off).Yes, I know.  But the non-subtitled content still FAR outweighs the subtitled content.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663011</cid>
+	<date>Jan 4, 2011, 10:18 AM</date>
+	<author>alent1234</author>
+	<text>Quote:Originally Posted byMacFly1231)  I am a film-maker by profession so I understand the 1080p content.  The point is why are we doing anything but going TRUE HD?2) When I say get rid of SD I also mean that in doing so the pricing tiers should go away.  There shouldn't be any of this stupid crap with SD, HD, SD price, HD price!  All content should just be 1080p and ONE decent price.1080p TV show $0.991080p New Release Movie $14.991080p Library Movie $9.99Make it seamless on any device with all the features we expect on DVD and WOW you will see the future of media!Stop slowing down the progression of media and technology hollywood and stop  being greedy.  You will end up making more money if you learn how to embrace and be reasonable!it's not the prices, it's the fact that digital media is a PITA. you have to download it, keep it on your hard drive, back it up, etc. and you have to turn your computer on to watch a movie on your TV.DVD's just sit on the shelf until you need them and you just put them into the player. too easy and none of the issues associated with iTunes contentand physical media can be bought second hand, sold, lent out, borrowed, etc</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665121</cid>
+	<date>Jan 4, 2011, 05:09 PM</date>
+	<author>MacFly123</author>
+	<text>Quote:Originally Posted bytatonkaThe movie content may be available in HD,but a lot of the infrastructure is not there yet. I don't want to download a 4GB HD movie to my iPhone .. simply because there is not enough space available. I want the SD option, because it means I can start watching the movie pretty much right away over HD where I need to give it a good hour headstart so it can finish while I watch the movie.Neither storage capacities nor internet connections are at an HD only level quite yet. So why exclude all that market?T.Quote:Originally Posted byalent1234it's not the prices, it's the fact that digital media is a PITA. you have to download it, keep it on your hard drive, back it up, etc. and you have to turn your computer on to watch a movie on your TV.DVD's just sit on the shelf until you need them and you just put them into the player. too easy and none of the issues associated with iTunes contentand physical media can be bought second hand, sold, lent out, borrowed, etcAll of your complaints are valid and I understand!  This is what you will see Apple address this year.  The problem is having content where you want it, when you want it, how you want it.  You will see Apple take on these issues with the new server farm they have built and through iTunes and MobileMe.  But yes, there still is much room for improvement!  The whole media environment is just very chaotic and messy right now period!  I am seeking simplicity!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665204</cid>
+	<date>Jan 4, 2011, 05:31 PM</date>
+	<author>satcomer</author>
+	<text>This cements my longtime suggestion. As long as the iTunes Store sells movies there will be no Blu-Ray on Macs.</text>
+	<score>0</score>
+</comment>

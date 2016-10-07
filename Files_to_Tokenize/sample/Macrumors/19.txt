@@ -1,0 +1,541 @@
+<article>
+	<pid>19</pid>
+	<title>Twitter for Mac (formerly Tweetie) to Launch with Mac App Store - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/05/twitter-for-mac-formerly-tweetie-to-launch-with-mac-app-store/</url>
+	<date>Wednesday January 5, 2011 4:20 pm PST</date>
+	<author>Arnold Kim</author>
+	<text>RazorianFlyhas outed a screenshot of the Mac App Store which shows an official Mac twitter client.Were pleased to announce we have an exclusive look at the next version of Tweetie (Twitter) for Mac, version 2.0. While we cant go into too much detail, just know that Twitter for Mac version 2.0 will launch with the Mac App Store, tomorrow.The release should look familiar to fans ofAtebits'sTweetie for Mac. The future of Tweetie had been in question after Twitter acquired the developer back inMay.  The primary reason for the acquisition had been for Tweetie for iPhone, but it seems they have now rebranded Tweetie as the official Twitter client for Mac.The Mac App Store is expected to launch at noon eastern on Thursday, Jan 6th.</text>
+	<score>76</score>
+</article>
+<comment>
+	<cid>11671391</cid>
+	<date>Jan 5, 2011, 07:29 PM</date>
+	<author>Joe-Diver</author>
+	<text>I don't really tweet myself....but I'm excited about the app store.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671392</cid>
+	<date>Jan 5, 2011, 07:29 PM</date>
+	<author>headfuzz</author>
+	<text>A Twitter client. Great. How is this a shining example of the benefits of the Mac App Store, exactly...?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671401</cid>
+	<date>Jan 5, 2011, 07:32 PM</date>
+	<author>CristobalHuet</author>
+	<text>Quote:Originally Posted byheadfuzzA Twitter client. Great. How is this a shining example of the benefits of the Mac App Store, exactly...?You obviously know nothing of Tweetie and its development history.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671417</cid>
+	<date>Jan 5, 2011, 07:35 PM</date>
+	<author>mirffy</author>
+	<text>Looking forward to this. Have been waiting for an update for a *long* time!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671443</cid>
+	<date>Jan 5, 2011, 07:40 PM</date>
+	<author>The General</author>
+	<text>Quote:Originally Posted byheadfuzzA Twitter client. Great. How is this a shining example of the benefits of the Mac App Store, exactly...?What did you expect? Photoshop for $4.99?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671444</cid>
+	<date>Jan 5, 2011, 07:40 PM</date>
+	<author>Consultant</author>
+	<text>Hum, I hope it syncs with iOS version</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671446</cid>
+	<date>Jan 5, 2011, 07:40 PM</date>
+	<author>griffd</author>
+	<text>does anyone know how they will handle pricing for apps we already have purchased directly from the developers? I can see myself re-buying upgrades to apps I've already purchased on the same platform.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671469</cid>
+	<date>Jan 5, 2011, 07:45 PM</date>
+	<author>dethmaShine</author>
+	<text>Looks great. I wish it's free.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671472</cid>
+	<date>Jan 5, 2011, 07:45 PM</date>
+	<author>Xavier</author>
+	<text>Quote:Originally Posted byConsultantHum, I hope it syncs with iOS versionYes. Very much so. I have used both versions of Tweetie (iOS and Mac) before they became &quot;official.&quot;I would love to see this.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671484</cid>
+	<date>Jan 5, 2011, 07:48 PM</date>
+	<author>Small White Car</author>
+	<text>Quote:Originally Posted byConsultantHum, I hope it syncs with iOS versionNow THAT would be a killer feature.Even without that this has been a long time coming.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671495</cid>
+	<date>Jan 5, 2011, 07:50 PM</date>
+	<author>kresh</author>
+	<text>And these whole screen, no multitasking, apps from the Mac App Store are a step forward?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671526</cid>
+	<date>Jan 5, 2011, 07:54 PM</date>
+	<author>dethmaShine</author>
+	<text>Quote:Originally Posted bykreshAnd these whole screen, no multitasking, apps from the Mac App Store are a step forward?What?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671544</cid>
+	<date>Jan 5, 2011, 07:59 PM</date>
+	<author>lazyrighteye</author>
+	<text>Finally. And &quot;tomorrow?&quot;Dang.IMHO, Tweetie was hands down the best Twitter client for iOS/Mac OS X. Seemed a smart acquisition for Twitter.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671552</cid>
+	<date>Jan 5, 2011, 08:00 PM</date>
+	<author>kresh</author>
+	<text>Quote:Originally Posted bydethmaShineWhat?The App Store apps will use full screen because of the sand box.  That means that while using the app you can do nothing else at the same time.For example, you can't watch EyeTV and Tweet simultaneously with Mac Store Apps. Sure you can switch between them and I understand that it has to be this way to lock the apps down, but I think it is a step backwards.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671554</cid>
+	<date>Jan 5, 2011, 08:01 PM</date>
+	<author>rwilliams</author>
+	<text>Quote:Originally Posted byConsultantHum, I hope it syncs with iOS versionGod, yes.  Why it didn't have that feature from the start, I don't know.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671557</cid>
+	<date>Jan 5, 2011, 08:01 PM</date>
+	<author>Small White Car</author>
+	<text>Quote:Originally Posted bykreshThe App Store apps will use full screen because of the sand box.  That means that while using the app you can do nothing else at the same time.For example, you can't watch EyeTV and Tweet simultaneously with Mac Store Apps. Sure you can switch between them and I understand that it has to be this way to lock the apps down, but I think it is a step backwards.Are you visiting here from an alternate universe?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671572</cid>
+	<date>Jan 5, 2011, 08:04 PM</date>
+	<author>rorschach</author>
+	<text>Quote:Originally Posted bygriffddoes anyone know how they will handle pricing for apps we already have purchased directly from the developers? I can see myself re-buying upgrades to apps I've already purchased on the same platform.Here's one example:http://realmacsoftware.com/blog/mac-app-store-pricingThey're cutting the price of RapidWeaver 5 to $39.99 for the Mac App Store &quot;for a limited time,&quot; to let 4.0 owners have an upgrade price. I imagine that will be the most popular way. Previous owners get a reduced upgrade price + it's a launch sale.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671595</cid>
+	<date>Jan 5, 2011, 08:08 PM</date>
+	<author>goobot</author>
+	<text>YES! i was hoping for this. i love the ipad and iphone version so much. they are put together amazingly. plus the beta for the web version is really cool too.Quote:Originally Posted byConsultantHum, I hope it syncs with iOS versionunfortunately the current ios version dont sync with each other (ipad to iphone and visa versa.) i agree it would be very cool and hope it comes soon!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671641</cid>
+	<date>Jan 5, 2011, 08:18 PM</date>
+	<author>canyonblue737</author>
+	<text>Quote:Originally Posted bykreshThe App Store apps will use full screen because of the sand box.  That means that while using the app you can do nothing else at the same time.For example, you can't watch EyeTV and Tweet simultaneously with Mac Store Apps. Sure you can switch between them and I understand that it has to be this way to lock the apps down, but I think it is a step backwards.ummmm... you have no idea what you are talking about. the mac app store is not iOS app running sandboxed, nor is it mac apps running standboxed... it is REGULAR, HONEST TO GOD, Mac OS X Apps, just like the ones you buy today from Best Buy or online from a software website. The differences?1. Central location to buy the apps from.2. Apps must have a new way to install so the App Store can handle the install process, no more .dmg files sitting in your download folder on the desktop.3. Apps must be allowed to install on any number of machines as long as they share the same iTunes user id.4. Apps must be approved by Apple for content and various other concerns.That's it, these are the same apps as you bought before just in a new way. For example, RealMac's RapidWeaver, a full up Mac OS X HTML builder will be on the store tomorrow. Twitter for Mac (formely Tweetie for Mac) will be on the store tomorrow, it too is and was a full Mac OS X app.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671660</cid>
+	<date>Jan 5, 2011, 08:22 PM</date>
+	<author>gibbz</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)I'm still ticked at Loren and MacHeist. Many of us purchased last year's bundle because we were promised a free early beta upgrade to Tweetie for Mac 2. I understand there was the acquisition, but not one word of following through with the agreement. Now with the update going live tomorrow, it would seem we were swindled.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671661</cid>
+	<date>Jan 5, 2011, 08:22 PM</date>
+	<author>BulletToothTony</author>
+	<text>even thou i found a few bugs on the iPhone app Tweetdeck syncs both on your iPhone app and Mac client..they're both free btw, and tweetdeck has a VERY impressive interface, if i wasn't so used to using Twitbird tweetdeck would be my app of choice..worth trying out</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671698</cid>
+	<date>Jan 5, 2011, 08:32 PM</date>
+	<author>rorschach</author>
+	<text>Quote:Originally Posted bykreshThe App Store apps will use full screen because of the sand box.  That means that while using the app you can do nothing else at the same time.For example, you can't watch EyeTV and Tweet simultaneously with Mac Store Apps. Sure you can switch between them and I understand that it has to be this way to lock the apps down, but I think it is a step backwards.I think you're getting confused with the full screen feature in Lion. In Lion, the green Zoom button is being re-purposed to provide one-click access to anoptionalFull Screen interface that developers canchooseto implement for their apps (a la iPhoto '11).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671722</cid>
+	<date>Jan 5, 2011, 08:38 PM</date>
+	<author>Eminemdrdre00</author>
+	<text>Quote:Originally Posted byConsultantHum, I hope it syncs with iOS versionEchofon syncs with iOS. I use Echofon on the Mac and it syncs my read/unread tweets with Echofon on the iPhone &amp; iPad. I've never been a fan of Tweetie, I think Echofon is 100x better!http://www.echofon.com/</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671745</cid>
+	<date>Jan 5, 2011, 08:44 PM</date>
+	<author>Willis</author>
+	<text>I'm genuinely excited</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671762</cid>
+	<date>Jan 5, 2011, 08:50 PM</date>
+	<author>wovel</author>
+	<text>Quote:Originally Posted bydethmaShineWhat?Well he both misunderstands the app store and make stuff up, so your confusion is understandable.Quote:Originally Posted bykreshThe App Store apps will use full screen because of the sand box.  That means that while using the app you can do nothing else at the same time.For example, you can't watch EyeTV and Tweet simultaneously with Mac Store Apps. Sure you can switch between them and I understand that it has to be this way to lock the apps down, but I think it is a step backwards.You do of course realize the sand box is a developer tool, there is no requirement for app store apps to run in any kind of locked down sandbox and full screen apps (while some will) is really a 10.7 feature...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671775</cid>
+	<date>Jan 5, 2011, 08:53 PM</date>
+	<author>macridah</author>
+	<text>sweet.  hope the new client support lists.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671905</cid>
+	<date>Jan 5, 2011, 09:26 PM</date>
+	<author>S.Jobs</author>
+	<text>that looks like a great app, cant wait to see them all the great apps in one place tomorrow</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671959</cid>
+	<date>Jan 5, 2011, 09:41 PM</date>
+	<author>Yamcha</author>
+	<text>I can't wait till tomorrow, but I hope we get free apps aswell like on the iphone</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671971</cid>
+	<date>Jan 5, 2011, 09:45 PM</date>
+	<author>cocky jeremy</author>
+	<text>Quote:Originally Posted bydethmaShineLooks great. I wish it's free.It might be now that it's the official Twitter app for Mac. I hope, at least. If not, i'll pay $5 if it's worth it. If not, i'll stick with Echofon for Mac or Kiwi.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672039</cid>
+	<date>Jan 5, 2011, 10:02 PM</date>
+	<author>vincenz</author>
+	<text>I'm only interested if there will be games.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672091</cid>
+	<date>Jan 5, 2011, 10:16 PM</date>
+	<author>razorianfly</author>
+	<text>Hello, I'm Arron. Cheif editor at RazorianFly.Many of you will already likely know me from when I used the frequent these boards daily.I'd just like to thank MacRumors and Arn for covering the story.Can't wait for the store to open later today (GMT).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672092</cid>
+	<date>Jan 5, 2011, 10:17 PM</date>
+	<author>paulypants</author>
+	<text>Quote:Originally Posted bySmall White CarAre you visiting here from an alternate universe?Haha!!! Oh man...Anyway...I've been using tweetie for mac from the beginning, this is great news to me! Something to look forward to tomorrow</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672174</cid>
+	<date>Jan 5, 2011, 10:38 PM</date>
+	<author>DCJ001</author>
+	<text>Quote:Originally Posted byConsultantHum, I hope it syncs with iOS versionWhy are you humming?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672202</cid>
+	<date>Jan 5, 2011, 10:46 PM</date>
+	<author>Michaelgtrusa</author>
+	<text>Soon!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672293</cid>
+	<date>Jan 5, 2011, 11:10 PM</date>
+	<author>millertime021</author>
+	<text>Quote:Originally Posted byThe GeneralWhat did you expect? Photoshop for $4.99?That might be close to how much I got it for.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672295</cid>
+	<date>Jan 5, 2011, 11:11 PM</date>
+	<author>albusseverus</author>
+	<text>Frankly, I was hoping Apple would make RSS, Twitter, and if we must Facebook&hellip; all tabs in Mail.Sure it risks turning Mail into being everything to everyone like iTunes, but it would contain the 'social' stuff to a manageable window on the world, instead of an all attention consuming app, like tweetdeck, for example.It would be nice if Mail became extensible and we could add the tabs we want.Call me old fashioned, but I don't see 'social' consuming more of my total day than email did on its own before.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672384</cid>
+	<date>Jan 5, 2011, 11:34 PM</date>
+	<author>LouieSamman</author>
+	<text>Well this sucks. I have work at 11:30am. 30 min before it's available.But when I am back from work I am going to have fun installing apps.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672424</cid>
+	<date>Jan 5, 2011, 11:44 PM</date>
+	<author>jamespa66</author>
+	<text>Quote:Originally Posted bygibbzWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)I'm still ticked at Loren and MacHeist. Many of us purchased last year's bundle because we were promised a free early beta upgrade to Tweetie for Mac 2. I understand there was the acquisition, but not one word of following through with the agreement. Now with the update going live tomorrow, it would seem we were swindled.Oh yah, I forgot about this. Thanks for reminding me gibbz.I new there where several reason's I didn't care much for Loren anymore.Not expecting much out of this Twitter client.The iPhone version is very feature lacking and has a frequent tendency to crash.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672451</cid>
+	<date>Jan 5, 2011, 11:55 PM</date>
+	<author>Minimoose 360</author>
+	<text>In for trainwreck.The Mac App Store is (a) bad (idea) and you should feel bad.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672456</cid>
+	<date>Jan 5, 2011, 11:56 PM</date>
+	<author>ten-oak-druid</author>
+	<text>What does a twitter app do that the twitter web site doesn't do?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672502</cid>
+	<date>Jan 6, 2011, 12:14 AM</date>
+	<author>Amnak</author>
+	<text>Just started tweeting resintly and already love tweetie cant wait for this update</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672567</cid>
+	<date>Jan 6, 2011, 12:44 AM</date>
+	<author>&#x17D;algiris</author>
+	<text>I'm looking forward to normal Mac apps on the App Store, not this mobile stuff. It can be good on iPhone or iPad, but it's a bad idea on the Mac.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672578</cid>
+	<date>Jan 6, 2011, 12:49 AM</date>
+	<author>Sankersizzle</author>
+	<text>hopefully they come out with some sort of facebook equivalent. i never understood twitter, but i LOVE me some facebook!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672582</cid>
+	<date>Jan 6, 2011, 12:51 AM</date>
+	<author>Individual</author>
+	<text>I am excited. Then I will realize I was let down, once again, like always.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672586</cid>
+	<date>Jan 6, 2011, 12:52 AM</date>
+	<author>Sankersizzle</author>
+	<text>Quote:Originally Posted byIndividualI am excited. Then I will realize I was let down, once again, like always.the mistake you're making is believing in something in the first place.just expect everything to be terrible, that way you are never disappointed.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672606</cid>
+	<date>Jan 6, 2011, 01:01 AM</date>
+	<author>yayitsezekiel</author>
+	<text>Quote:Originally Posted byIndividualI am excited. Then I will realize I was let down, once again, like always.it can't be worse than getting hyped up for the beatles, just think of it that way</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672652</cid>
+	<date>Jan 6, 2011, 01:22 AM</date>
+	<author>Eorlas</author>
+	<text>Will there be a free section of the Mac App Store like on the iOS devices and in iTunes? I was hoping there'd be a version of FAAD for the Mac App Store.Also, is there any word of developers of iOS device games porting their games over to the Mac App Store with support for using the iPhone/ipod touch as a controller via bluetooth or such? That would be AWESOME.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672708</cid>
+	<date>Jan 6, 2011, 01:48 AM</date>
+	<author>MICK.BUDDY</author>
+	<text>Well he both misunderstands the app store and make stuff up, so your confusion is understandable.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672713</cid>
+	<date>Jan 6, 2011, 01:52 AM</date>
+	<author>RobBookPro</author>
+	<text>Quote:Originally Posted byEorlasWill there be a free section of the Mac App Store like on the iOS devices and in iTunes? I was hoping there'd be a version of FAAD for the Mac App Store.Also, is there any word of developers of iOS device games porting their games over to the Mac App Store with support for using the iPhone/ipod touch as a controller via bluetooth or such? That would be AWESOME.I can imagine playing a racing game using my ipad as a steering wheel with speedo etc on it while my 27&quot; imac is my windscreen to the world.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672721</cid>
+	<date>Jan 6, 2011, 01:59 AM</date>
+	<author>skate71290</author>
+	<text>Schwing, first download!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672722</cid>
+	<date>Jan 6, 2011, 01:59 AM</date>
+	<author>headfuzz</author>
+	<text>Quote:Originally Posted byCristobalHuetYou obviously know nothing of Tweetie and its development history.Thanks for the response; and to a point you are correct. I know it's the 3rd party client that was bought by Twitter themselves to be turned into the official client, beyond that I couldn't care less as I use Twitter maybe once a year (for MR's WWDC update tweets). Beyond that I can't stand Twitter so know no more of Tweetie than this.Anyway, I digress. You haven't answered my question; why does another Twitter client, official or not, supposedly highlight the benefits of the new App Store? As has been pointed out, a Twitter client does very little / nothing that can't be achieved in a standard browser anyway.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672736</cid>
+	<date>Jan 6, 2011, 02:08 AM</date>
+	<author>headfuzz</author>
+	<text>Quote:Originally Posted byThe GeneralWhat did you expect? Photoshop for $4.99?No, but based on the iOS App Store I would have thought the talking points would have been independent or lesser known software which is a benefit to the potential App Store customer than another Twitter client which does very little than a browser window pointed at Twitter's website does.The benefit of the iOS App Store to developers is the ability to have your app, once approved, available to millions of potential customers in massively disproportionate fashion to that which would otherwise be by promoting it through traditional channels (SEO, software bundles etc). The benefit to users is finding this software with minimal effort. Apple's website has previously had some excellent &quot;Staff Picks&quot; recommendations of smaller software houses' products with links to the developer's website, but they were often hard to find.I'm not seeing how Twitter's official client makes any real difference to a user, I would have expected more singing and dancing about software which was previously a relatively unknown Staff Pick but likely to do really well with the new distribution channel of the App Store.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672817</cid>
+	<date>Jan 6, 2011, 02:49 AM</date>
+	<author>RichTF</author>
+	<text>Quote:Originally Posted byEorlasWill there be a free section of the Mac App Store like on the iOS devices and in iTunes? I was hoping there'd be a version of FAAD for the Mac App Store.Also, is there any word of developers of iOS device games porting their games over to the Mac App Store with support for using the iPhone/ipod touch as a controller via bluetooth or such? That would be AWESOME.From a previous MR post, it seems that Chopper 2 will be doing this. It works great already using an iPhone + iPad combo, and I can't wait to turn it up a notch and play it using my iPhone + iMac. Should be awesome!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672824</cid>
+	<date>Jan 6, 2011, 02:51 AM</date>
+	<author>baryon</author>
+	<text>How I see the future of computing:You no longer do 90% of your things in the browser, you instead have Apps (clients) for things such as Twitter and Facebook, with built-in notification systems so you don't have to &quot;check your Facebook&quot; all the time. It's also native, not &quot;limited in-the-browser&quot;, so you can benefit from transitions and system optimizations. Also, the interface can look more Mac-like on Macs, and more Windows-like on PCs, since they would have different clients.Instead of Chrome OS, which forces everything such as text editing into the browser, I think everything that's in the browser should go native. That way, you would get much better performance and you would not have to wait for the interface to load each time, since it's on your hard drive, making loading times much shorter.I'm hoping that the App Store will allow for this to happen.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672838</cid>
+	<date>Jan 6, 2011, 02:54 AM</date>
+	<author>yayitsezekiel</author>
+	<text>Quote:Originally Posted bybaryonHow I see the future of computing:You no longer do 90% of your things in the browser, you instead have Apps (clients) for things such as Twitter and Facebook, with built-in notification systems so you don't have to &quot;check your Facebook&quot; all the time. It's also native, not &quot;limited in-the-browser&quot;, so you can benefit from transitions and system optimizations. Also, the interface can look more Mac-like on Macs, and more Windows-like on PCs, since they would have different clients.Instead of Chrome OS, which forces everything such as text editing into the browser, I think everything that's in the browser should go native. That way, you would get much better performance and you would not have to wait for the interface to load each time, since it's on your hard drive, making loading times much shorter.I'm hoping that the App Store will allow for this to happen.That is actually a fantastic idea. I never thought about that for facebook, but it would be really cool if facebook developed a native mac app. who knows? &#63743;</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672964</cid>
+	<date>Jan 6, 2011, 04:02 AM</date>
+	<author>headfuzz</author>
+	<text>Quote:Originally Posted byyayitsezekielThat is actually a fantastic idea. I never thought about that for facebook, but it would be really cool if facebook developed a native mac app. who knows? &#63743;The whole point of web standardisation is to negate the fragmentation caused by having applications designed to perform a common function being developed at different speeds on different platforms.You only have to look at the discrepancies between the native iOS and Android Facebook apps' histories to see this is a bad idea.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672990</cid>
+	<date>Jan 6, 2011, 04:16 AM</date>
+	<author>ikir</author>
+	<text>I can't wait! I needed a good Twitter client but especially i want to try Mac App Store!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672993</cid>
+	<date>Jan 6, 2011, 04:17 AM</date>
+	<author>Winni</author>
+	<text>Quote:Originally Posted bybaryonHow I see the future of computing:You no longer do 90% of your things in the browser, you instead have Apps (clients) for things such as Twitter and Facebook, with built-in notification systems so you don't have to &quot;check your Facebook&quot; all the time. It's also native, not &quot;limited in-the-browser&quot;, so you can benefit from transitions and system optimizations. Also, the interface can look more Mac-like on Macs, and more Windows-like on PCs, since they would have different clients.Instead of Chrome OS, which forces everything such as text editing into the browser, I think everything that's in the browser should go native. That way, you would get much better performance and you would not have to wait for the interface to load each time, since it's on your hard drive, making loading times much shorter.I'm hoping that the App Store will allow for this to happen.&quot;Your&quot; vision of the future is actually what Apple wants, because those native apps will lock their users into the Apple ecosystem. Microsoft always wanted exactly the same thing, only for the Windows platform.Naturally, Google prefers platform-independent, browser-based solutions because they don't care what hard- and software you use, as long as you are using Google's web services. Back in the day, IBM followed a similar approach with their mainframe computers and the connected terminals: All the logic is run on the mainframe - now &quot;the cloud&quot; - and the user only needs a dumb, cheap, thin client.From a technical perspective, those two approaches have been fighting against each other since the invention of the PC, and I don't think that any side will ever win because both have heavy weighting pros and cons.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673001</cid>
+	<date>Jan 6, 2011, 04:20 AM</date>
+	<author>adztaylor</author>
+	<text>Quote:Originally Posted byEorlasAlso, is there any word of developers of iOS device games porting their games over to the Mac App Store with support for using the iPhone/ipod touch as a controller via bluetooth or such? That would be AWESOME.I hope things like this happen.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673013</cid>
+	<date>Jan 6, 2011, 04:26 AM</date>
+	<author>Winni</author>
+	<text>Quote:Originally Posted bywovelWell he both misunderstands the app store and make stuff up, so your confusion is understandable.Partly true, but the guy was right about one thing: It -- IS -- a requirement for AppStore applications to support a full screen mode. Without a full screen mode, Apple won't accept the app.For some apps, like Scrivener, Word, Pages or Aperture, a full screen mode makes perfect sense. However, for a stupid little thing like a Twitter app, it's ridiculous to demand it. But when you look at this &quot;Mission Control&quot; thing, it becomes rather obvious why applications will need a full screen mode -- Mission Control wouldn't work well without full screen apps.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673016</cid>
+	<date>Jan 6, 2011, 04:27 AM</date>
+	<author>headfuzz</author>
+	<text>Quote:Originally Posted byWinni&quot;Your&quot; vision of the future is actually what Apple wants, because those native apps will lock their users into the Apple ecosystem. Microsoft always wanted exactly the same thing, only for the Windows platform.Naturally, Google prefers platform-independent, browser-based solutions because they don't care what hard- and software you use, as long as you are using Google's web services. Back in the day, IBM followed a similar approach with their mainframe computers and the connected terminals: All the logic is run on the mainframe - now &quot;the cloud&quot; - and the user only needs a dumb, cheap, thin client.From a technical perspective, those two approaches have been fighting against each other since the invention of the PC, and I don't think that any side will ever win because both have heavy weighting pros and cons.This.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673017</cid>
+	<date>Jan 6, 2011, 04:28 AM</date>
+	<author>&#x17D;algiris</author>
+	<text>Quote:Originally Posted byadztaylorI hope things like this happen.How long can you play games like Minigore or some race game? iPhone/iPad games are too short 9/10 times. Porting games to the Mac will also require to make them longer to make them better. Many boxes to check.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673066</cid>
+	<date>Jan 6, 2011, 04:52 AM</date>
+	<author>&#x17D;algiris</author>
+	<text>Quote:Originally Posted byWinniMission Control wouldn't work well without full screen apps.I will work with anything you have. It's Spaces with Expose on steroids, if it works now it will work then.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673078</cid>
+	<date>Jan 6, 2011, 04:58 AM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted byJoe-DiverI don't really tweet myself....but I'm excited about the app store.++Don't care about twitter (Guess I'm too old for that - I also won't do Facebook).But the good news is the Mac AppStore comes today and I can't wait to see what is on there ....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673085</cid>
+	<date>Jan 6, 2011, 05:01 AM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted bykreshAnd these whole screen, no multitasking, apps from the Mac App Store are a step forward?You are saying that if you install the AppStore that you no longer can do multitasking on MacOSNice try, but no.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673165</cid>
+	<date>Jan 6, 2011, 05:49 AM</date>
+	<author>Ichneumon</author>
+	<text>I can't wait. I'm very enthusiastic about the Mac App Store. I could use more &quot;cheap&quot; utility apps for Mac and the App Store will provide that and more. It will likely also increase the interest for developers to develop for Mac, which is also good Apple and Mac OS.I also like the idea of twitter, facebook and RSS apps. (I'm already certainly going to buy Reeder for Mac!)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673254</cid>
+	<date>Jan 6, 2011, 06:21 AM</date>
+	<author>SvenSvenson</author>
+	<text>Quote:Originally Posted byheadfuzzAnyway, I digress. You haven't answered my question; why does another Twitter client, official or not, supposedly highlight the benefits of the new App Store? As has been pointed out, a Twitter client does very little / nothing that can't be achieved in a standard browser anyway.It's not supposed to 'highlight the benefits of the new App Store' - the story is about the release of a new version of Tweetie. The information about the App Store is secondary.Steve</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673263</cid>
+	<date>Jan 6, 2011, 06:24 AM</date>
+	<author>GroundLoop</author>
+	<text>-deleted-</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673533</cid>
+	<date>Jan 6, 2011, 07:56 AM</date>
+	<author>DrRadon</author>
+	<text>The Appstore Update is Live.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11674287</cid>
+	<date>Jan 6, 2011, 09:52 AM</date>
+	<author>LimeiBook86</author>
+	<text>I've installed it, it's okay - but it's basically the same thing as Tweetie... kinda. I don't like the &quot;New/Write&quot; icon is hidden. One more step to make a new tweet... good thing it was free.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11674398</cid>
+	<date>Jan 6, 2011, 10:07 AM</date>
+	<author>rdowns</author>
+	<text>Twitter for Mac blows. I can't believe this is what @lorenb put out after all that time.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11674911</cid>
+	<date>Jan 6, 2011, 11:13 AM</date>
+	<author>koobcamuk</author>
+	<text>Quote:Originally Posted bybaryonHow I see the future of computing:You no longer do 90% of your things in the browser, you instead have Apps (clients) for things such as Twitter and Facebook, with built-in notification systems so you don't have to &quot;check your Facebook&quot; all the time. It's also native, not &quot;limited in-the-browser&quot;, so you can benefit from transitions and system optimizations. Also, the interface can look more Mac-like on Macs, and more Windows-like on PCs, since they would have different clients.Instead of Chrome OS, which forces everything such as text editing into the browser, I think everything that's in the browser should go native. That way, you would get much better performance and you would not have to wait for the interface to load each time, since it's on your hard drive, making loading times much shorter.I'm hoping that the App Store will allow for this to happen.Bad idea... this is a step backwards from a web-oriented UI.Quote:Originally Posted by0815++Don't care about twitter (Guess I'm too old for that - I also won't do Facebook).But the good news is the Mac AppStore comes today and I can't wait to see what is on there ....... lots of twitter and facebook apps!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11675084</cid>
+	<date>Jan 6, 2011, 11:36 AM</date>
+	<author>scooterbaga</author>
+	<text>Quote:Originally Posted bygibbzWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)I'm still ticked at Loren and MacHeist. Many of us purchased last year's bundle because we were promised a free early beta upgrade to Tweetie for Mac 2. I understand there was the acquisition, but not one word of following through with the agreement. Now with the update going live tomorrow, it would seem we were swindled.Just got an email from MacHeist with instructions to open up &quot;secret experimental preferences and options&quot;... I was in the same boat as you until I got this email this morning... At this point I'm glad they at least addressed the issue, and I'm stoked to go home and check it out.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11675176</cid>
+	<date>Jan 6, 2011, 11:47 AM</date>
+	<author>The General</author>
+	<text>Quote:Originally Posted byten-oak-druidWhat does a twitter app do that the twitter web site doesn't do?Provides a much richer user experience, has built-in image and video posting, growl and menubar integration for notifications, compose multiple tweets at once, multiple user accounts without logging in and out. It is clear to me that you either don't use Twitter or have never used a Twitter client, because everyone knows that clients are the way to go and the website is basically useless.Quote:Originally Posted byheadfuzzNo, but based on the iOS App Store I would have thought the talking points would have been independent or lesser known software which is a benefit to the potential App Store customer than another Twitter client which does very little than a browser window pointed at Twitter's website does.See my previous paragraph. To say that it does very little more than the website is profoundly ignorant.Quote:Originally Posted byheadfuzzThe benefit of the iOS App Store to developers is the ability to have your app, once approved, available to millions of potential customers in massively disproportionate fashion to that which would otherwise be by promoting it through traditional channels (SEO, software bundles etc). The benefit to users is finding this software with minimal effort. Apple's website has previously had some excellent &quot;Staff Picks&quot; recommendations of smaller software houses' products with links to the developer's website, but they were often hard to find.I'm not seeing how Twitter's official client makes any real difference to a user, I would have expected more singing and dancing about software which was previously a relatively unknown Staff Pick but likely to do really well with the new distribution channel of the App Store.So screw providing great apps that millions of people will find useful, you want some schmuck likethis guycharging $4.99 for something you can find in System Preferences to get rich and famous quick on the App Store? Is that it?To hell with well established, highly anticipated updates to Twitter clients that people have been screaming to have for over a year, you want someone to get 15 minutes of fame by posting the first fart app for Mac? Is that it?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11675225</cid>
+	<date>Jan 6, 2011, 11:52 AM</date>
+	<author>rdowns</author>
+	<text>Quote:Originally Posted byscooterbagaJust got an email from MacHeist with instructions to open up &quot;secret experimental preferences and options&quot;... I was in the same boat as you until I got this email this morning... At this point I'm glad they at least addressed the issue, and I'm stoked to go home and check it out.Lame. I got the email. Once I finally located the serial number (which they could have just included in the damn email) this is what you get.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11676500</cid>
+	<date>Jan 6, 2011, 02:48 PM</date>
+	<author>jmj</author>
+	<text>Eh, it's alright.  Thing I really don't like is when you click the little blue tweet bird in the menu bar it automatically takes you to the top of your feed not the spot where you left off.  You actually have to use the icon in the dock to pick up where you left off.  Kinda annoying.It's better than the old Tweetie but I still prefer Kiwi on OS X.I do like what Loren did with the version for the iPad.</text>
+	<score>0</score>
+</comment>

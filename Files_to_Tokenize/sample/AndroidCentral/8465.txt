@@ -1,0 +1,24 @@
+<article>
+	<pid>8465</pid>
+	<title>Motorola Milestone Has Been Rooted | Android Central</title>
+	<url>http://www.androidcentral.com/motorola-milestone-has-been-rooted</url>
+	<date>   Jan 19 2010  7:39 am   </date>
+	<author>Casey Chan</author>
+	<text>
+ Though it may seem like Android phones are getting rooted faster and faster, rooting the Motorola Milestone actually took a bit of time. But wait no more because the Milestone (GSM version of the Droid that packs multitouch) has been rooted for full access to all the joy, goodies, and fun times that come along with custom ROMs and the like. Run 2.1? Go for it. Run Sense? Even better. Obviously, you have to be careful because bricked Android phones do make for some amazingly expensive paperweights, so tread carefully.But if you're daring enough, the instructions are over at redmondpie.thanks for the tip Taimur! </text>
+	<score>2</score>
+</article>
+<comment>
+	<cid>16138</cid>
+	<date>Jan 19 2010  1:45 pm</date>
+	<author>corydunbar</author>
+	<text>so does this mean that now the multi-touch features of the milestone can be added to a rooted droid for use on droid native apps like google maps?</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16148</cid>
+	<date>Jan 19 2010  3:56 pm</date>
+	<author>minime</author>
+	<text>Will this install 2.0.1? And will it prevent proper access to the market?</text>
+	<score>67</score>
+</comment>

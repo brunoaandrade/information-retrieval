@@ -1,0 +1,849 @@
+<article>
+	<pid>13</pid>
+	<title>Physical Mockup of Next-Generation iPad Appears at CES - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/05/physical-mockup-of-next-generation-ipad-appears-at-ces/</url>
+	<date>Wednesday January 5, 2011 5:19 am PST</date>
+	<author>Eric Slivka</author>
+	<text>With cases claimed to be for the next-generation iPad appearing over the past few weeks, observers have beenexaminingthe cases in detail in their attempts to get an idea of how the second generation of Apple's tablet will differ from the original version.  Based on those cases, it has been noted that the next-generation iPad appears to be slightly thinner than the current model and carries tapered edges more akin to the iPod touch than the current version's flat sides and rounded back.Comparison of current iPad (top) and mockup of claimed next-generation iPad (bottom)Asnoted byEngadget, however, one case manufacturer exhibiting its wares at CES has taken things one step further in aiding our visualization of the next-generation iPad by putting together a physical mockup of the device made out of machined aluminum.It [the case] was so intriguing that we asked to put our own iPad inside, which is when we were told it wouldn't fit, since the case was designed for the next iPad. Indeed, the mockup that we found inside the case was a tad bit slimmer than the first-gen iPad, with a taper leading to the edges that reminds us of the iPod touch, and a home button positioned nearer the bottom edge. We found all the typical cutouts on the case, and their mirror on the machined mockup, including a large square for the speaker.The rumored physical details of the next-generation iPad of course depend on the case mockups being based on accurate information, although such details have generally been fairly accurate in the past as the case manufacturers have been able to obtain advance design information through leaks in Apple's supply chain.  A number of the claimed cases have beenpulledsince their existence was made public, possibly suggesting that Apple has been stepping in to limit access to accurate details of its future products.Aluminum mockup of claimed next-generation iPad (rear view)</text>
+	<score>120</score>
+</article>
+<comment>
+	<cid>11667756</cid>
+	<date>Jan 5, 2011, 08:41 AM</date>
+	<author>GeekLawyer</author>
+	<text>Wonder when Apple will announce iPad 2.  Later this month?  Sometime in February?Looks like these case manufacturers are stealing a little thunder...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667765</cid>
+	<date>Jan 5, 2011, 08:44 AM</date>
+	<author>mrkramer</author>
+	<text>So do these case manufacturers actually know any information, or are they guessing based off of the rumors so they can have a case ready at launch? It seems like if Apple actually gave them information they wouldn't be allowed to show off things like this.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667769</cid>
+	<date>Jan 5, 2011, 08:45 AM</date>
+	<author>eawmp1</author>
+	<text>BFD - I care more about the specs than the form factor.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667770</cid>
+	<date>Jan 5, 2011, 08:45 AM</date>
+	<author>GeekLawyer</author>
+	<text>Quote:Originally Posted bymrkramerSo do these case manufacturers actually know any information, or are they guessing based off of the rumors so they can have a case ready at launch? It seems like if Apple actually gave them information they wouldn't be allowed to show off things like this.If I'm not mistaken, the case manufacturers are getting inside information from Apple's production partners on the sly.  Not from Cupertino.Quote:Originally Posted byeawmp1BFD - I care more about the specs than the form factor.Doesn't the form-factor point to changes in relevant specs?  Thinking specifically about cameras.  Other specs are meaningless in an Apple tablet.  I couldn't care less about the processor or RAM.  Storage, maybe.  Though I've never gotten closed to filling my 32GB iPad.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667773</cid>
+	<date>Jan 5, 2011, 08:46 AM</date>
+	<author>icanboogie</author>
+	<text>hm. for me, this iPad 2 looks somehow more outdated than iPad1.Those kurved edges are relicts of the last decade.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667777</cid>
+	<date>Jan 5, 2011, 08:47 AM</date>
+	<author>aucl</author>
+	<text>not really sure the mockup is the real thing.Apple is a lot about usability, and I doubt that these thin edges are convinient to hold; especially with one hand only.cases might have been removed from alibaba by apple even if they are not the real thing. after all they were posing to be for something (so far) non existing.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667786</cid>
+	<date>Jan 5, 2011, 08:48 AM</date>
+	<author>icanboogie</author>
+	<text>oh, the rear view looks just like a classic 2007/2008 mbp santa rosa.which I quite like.well, aren't we all excited to see more....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667787</cid>
+	<date>Jan 5, 2011, 08:49 AM</date>
+	<author>backdraft</author>
+	<text>Unless this is some viral marketing tactic to keep attention on Apple without an actual presence at CES. If so, very smart!Quote:Originally Posted bymrkramerSo do these case manufacturers actually know any information, or are they guessing based off of the rumors so they can have a case ready at launch? It seems like if Apple actually gave them information they wouldn't be allowed to show off things like this.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667791</cid>
+	<date>Jan 5, 2011, 08:49 AM</date>
+	<author>mikerr</author>
+	<text>Quote:Originally Posted byicanboogiehm. for me, this iPad 2 looks somehow more outdated than iPad1.Those kurved edges are relicts of the last decade.Truetop pic (existing iPad) looks like the side of an iPhone4the bottom pic looks more like the side of an iphone 3G/s</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667792</cid>
+	<date>Jan 5, 2011, 08:50 AM</date>
+	<author>aucl</author>
+	<text>Quote:Originally Posted bymrkramerSo do these case manufacturers actually know any information, or are they guessing based off of the rumors so they can have a case ready at launch? It seems like if Apple actually gave them information they wouldn't be allowed to show off things like this.developer can download exact technical drawings of the idevs, but only after the device is made public.might be that credited 3rd party companies get some headstart, but if, they would not risk that by leaking the info to early.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667798</cid>
+	<date>Jan 5, 2011, 08:50 AM</date>
+	<author>124151155</author>
+	<text>Quote:Originally Posted bymrkramerSo do these case manufacturers actually know any information, or are they guessing based off of the rumors so they can have a case ready at launch? It seems like if Apple actually gave them information they wouldn't be allowed to show off things like this.The article said these things happen because of leaks in Apple's supply chain... so presumably Foxconn workers just grab a shell off the production line and sell it for more than they'd get paid in a year.Seeing as there's no benefit for Apple to allow case manufacturers to have cases ready for launch, I doubt they'd do it, and if they did, it would be only to the higher profile case manufacturers, but this must not happen as usually it will be at least a few weeks before those companies come out with cases after a new product release.I wouldn't mind hearing a few more rumours about what'sinsidethe iPad 2. Apple don't often disappoint me with there designs.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667808</cid>
+	<date>Jan 5, 2011, 08:53 AM</date>
+	<author>Sokratesagogo</author>
+	<text>I for one will be welcoming our new Ipadian overlords</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667814</cid>
+	<date>Jan 5, 2011, 08:54 AM</date>
+	<author>sleepingworker</author>
+	<text>I passed on the first version of the iPad (just like I did on the first version of the iPhone).  As great as the iPad seemed on some levels, it underwhelmed in comparison to the iPhone 4 in almost all features other than size.I really look forward to seeing this version - and buying it.  That, and one day a Macbook Air.  My Macbook Pro feels heavy and clunky lately.  Changing times.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667815</cid>
+	<date>Jan 5, 2011, 08:54 AM</date>
+	<author>talkingfuture</author>
+	<text>Should look quite good with the flat back, looking forward to seeing the real thing.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667817</cid>
+	<date>Jan 5, 2011, 08:55 AM</date>
+	<author>NachoGrande</author>
+	<text>I don't like it. I hope it's not chrome on the back because that would just look like crap.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667825</cid>
+	<date>Jan 5, 2011, 08:56 AM</date>
+	<author>Ping Guo</author>
+	<text>Looks like a regression design-wise, when we consider the MBA going from curved to more angular, same for iPhone 3 to 4. TBH the mockup looks a bit crap. Let's hope the real thing looks a lot better.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667837</cid>
+	<date>Jan 5, 2011, 08:58 AM</date>
+	<author>rossgumbrell</author>
+	<text>ewwww. no thank you!!I do like the flat back though, would miss the flat edges though!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667844</cid>
+	<date>Jan 5, 2011, 09:01 AM</date>
+	<author>Xtremehkr</author>
+	<text>How much different could the form factor really be?It's going to be what's inside that matters most to consumers, and what you'll be able to do with it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667864</cid>
+	<date>Jan 5, 2011, 09:07 AM</date>
+	<author>UTclassof89</author>
+	<text>ooooo... those sharper edges willmake salsa better!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667880</cid>
+	<date>Jan 5, 2011, 09:10 AM</date>
+	<author>Lesser Evets</author>
+	<text>Crumbs from the table of knowledge.I am damn interested to finally find the specs of the actual hardware, INSIDE.  Sometimes Apple tosses a zinger and a next gen is a delightful leap upward in function.  Let's hope iPad2 will be a nice little budge upward in processing/resolution/memory.The odd &quot;low end iMac&quot; rumor from last month is still vexing me.  It might have been a complete red herring, but it would be cool to see a stripped down iMac.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667892</cid>
+	<date>Jan 5, 2011, 09:12 AM</date>
+	<author>vincenz</author>
+	<text>Not a big fan of the current touch's back, so it being translated into the ipad is meh.Apple is having a harder time keeping their products secret.  It's inevitable though.  If you get this popular, there's no way to keep it unknown.  Especially if your manufacturer is overseas.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667895</cid>
+	<date>Jan 5, 2011, 09:13 AM</date>
+	<author>alent1234</author>
+	<text>apple probably has people visiting the show. they probably took their dummy ipad look alikes and had their buddies in the tech media snap a few pics and write up a story for some non-news to take the spotlight off the show's products</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667902</cid>
+	<date>Jan 5, 2011, 09:14 AM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byeawmp1BFD - I care more about the specs than the form factor.whoa.......... thats a rare thing to hear on these forums....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667903</cid>
+	<date>Jan 5, 2011, 09:14 AM</date>
+	<author>WLS</author>
+	<text>Quote:Originally Posted byUTclassof89ooooo... those sharper edges willmake salsa better!Looks like it is designed to cut bread too!!Not a fan of the sharper narrow edge. It's a very dated design.  I really hope the actual ipad looks better than that.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667924</cid>
+	<date>Jan 5, 2011, 09:18 AM</date>
+	<author>0815</author>
+	<text>That would be design wise a step backward ... looks like a blown up iPhone 3G(S) - don't think they will use the 'old' iPhone 3 design for the new iPad. And as mentioned by others, don't think this design of the edges would be very usable for devices bigger than the iPhone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667935</cid>
+	<date>Jan 5, 2011, 09:20 AM</date>
+	<author>slicecom</author>
+	<text>Quote:Originally Posted byicanboogiehm. for me, this iPad 2 looks somehow more outdated than iPad1.Those kurved edges are relicts of the last decade.EXACTLY what I was thinking!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667954</cid>
+	<date>Jan 5, 2011, 09:25 AM</date>
+	<author>Full of Win</author>
+	<text>So its a big iPod Touch. Wow.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667957</cid>
+	<date>Jan 5, 2011, 09:25 AM</date>
+	<author>Popeye206</author>
+	<text>I take this with a grain of salt. It's just a mock up from a vendor who got specs from a 3rd party and no knowledge of the real product. I'm sure when we see the real thing, it will look much more slick.Good way for them to get attention at CES though.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667966</cid>
+	<date>Jan 5, 2011, 09:27 AM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byFull of WinSo its a big iPod Touch. Wow.Seems you said that about the first version... and it's selling like hot-cakes!Why so positive all the time?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667973</cid>
+	<date>Jan 5, 2011, 09:29 AM</date>
+	<author>Full of Win</author>
+	<text>Quote:Originally Posted byPopeye206Seems you said that about the first version... and it's selling like hot-cakes!Why so positive all the time?I meant that the curve of the sides and the flat back are very similar to the 3rd Generation of iPod Touch.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667974</cid>
+	<date>Jan 5, 2011, 09:29 AM</date>
+	<author>Roessnakhan</author>
+	<text>Quote:Originally Posted byicanboogiehm. for me, this iPad 2 looks somehow more outdated than iPad1.Those kurved edges are relicts of the last decade.Do you feel the same way about the iPod touch?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667978</cid>
+	<date>Jan 5, 2011, 09:30 AM</date>
+	<author>Porco</author>
+	<text>I am beginning to think they just like messing about with the shape of cases for kicks. They make flat squared edges, they make rounded tapered edges, they make flat squared edges, they make rounded tapered edges...I have this image in my mind of Jony Ive in a giant hamster's wheel, stopping every year or so and saying to his team 'Wait! ... rounded, tapered edges are in!' then again a year later 'Wait!! ... squared-off flat edges now! And someone bring me some cheese (with squared-off flat edges)!'</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667983</cid>
+	<date>Jan 5, 2011, 09:32 AM</date>
+	<author>AppleGoddess</author>
+	<text>Quote:Originally Posted byPing GuoLooks like a regression design-wise, when we consider the MBA going from curved to more angular, same for iPhone 3 to 4. TBH the mockup looks a bit crap. Let's hope the real thing looks a lot better.Still think iPhone 3was much nicer looking...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667984</cid>
+	<date>Jan 5, 2011, 09:32 AM</date>
+	<author>Yamcha</author>
+	<text>Based on what I've seen on the pictures It doesn't look that great...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667998</cid>
+	<date>Jan 5, 2011, 09:34 AM</date>
+	<author>GQB</author>
+	<text>Quote:Originally Posted byeawmp1BFD - I care more about the specs than the form factor.I tend to agree, particularly since I haven't actually seen mine since it slid it into its case last June.Now weight might be another matter. Liquid Metal maybe?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667999</cid>
+	<date>Jan 5, 2011, 09:35 AM</date>
+	<author>tripjammer</author>
+	<text>Quote:Originally Posted bysleepingworkerI passed on the first version of the iPad (just like I did on the first version of the iPhone).  As great as the iPad seemed on some levels, it underwhelmed in comparison to the iPhone 4 in almost all features other than size.I really look forward to seeing this version - and buying it.  That, and one day a Macbook Air.  My Macbook Pro feels heavy and clunky lately.  Changing times.I bought the Ipad 3G on day one...preordered it. It rocks even today. I will get the IPad 2 also and give my Ipad 1 to my girlfriend.I am hoping that it has around 1GB of ram and a dual core A5 processor....64GB of storage is enough...I have over 450 Ipad apps and have about 45Gb of space left...but if they offer a 128GB Ipad 2 with DualCore A5 and 1Gb of RAM and a HDMI and USB port...I am all over it day one....preorder here we come...Plus hopefully the price will be $100 to $200 cheaper...$399 base price for a 32GB Ipad2 will destroy the rest of the industry.If they can through a retina display in there and ofcourse the dual cameras....maybe 2 MP front and 5 MP rear.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668005</cid>
+	<date>Jan 5, 2011, 09:36 AM</date>
+	<author>slicecom</author>
+	<text>Quote:Originally Posted byPorcoI am beginning to think they just like messing about with the shape of cases for kicks. They make flat squared edges, they make rounded tapered edges, they make flat squared edges, they make rounded tapered edges...I have this image in my mind of Jony Ive in a giant hamster's wheel, stopping every year or so and saying to his team 'Wait! ... rounded, tapered edges are in!' then again a year later 'Wait!! ... squared-off flat edges now! And someone bring me some cheese (with squared-off flat edges)!'Exactly.  Apple no longer seems to have any design consistency across their product line (besides mostly being aluminum).  It's like they pick the designs out of a hat every year.  Jonathan Ive must be getting bored since there's not much room for creativity on touchscreen devices.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668007</cid>
+	<date>Jan 5, 2011, 09:37 AM</date>
+	<author>Full of Win</author>
+	<text>Quote:Originally Posted bytripjammerI bought the Ipad 3G on day one...preordered it. It rocks even today. I will get the IPad 2 also and give my Ipad 1 to my girlfriend.I am hoping that it has around 1GB of ram and a dual core A5 processor....64GB of storage is enough...I have over 450 Ipad apps and have about 45Gb of space left...but if they offer a 128GB Ipad 2 with DualCore A5 and 1Gb of RAM and a HDMI and USB port...I am all over it day one....preorder here we come...Plus hopefully the price will be $100 to $200 cheaper...$399 base price for a 32GB Ipad2 will destroy the rest of the industry.If they can through a retina display in there and ofcourse the dual cameras....maybe 2 MP front and 5 MP rear.Would you like a jetpack with it as well?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668048</cid>
+	<date>Jan 5, 2011, 09:47 AM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted bytripjammerPlus hopefully the price will be $100 to $200 cheaper...$399 base price for a 32GB Ipad2 will destroy the rest of the industry.Apple is more about making lots and lots of money. Destroying the industry with dumping prices will make them only loose money. If there is one thing we can be sure of with the iPad2, than it's that they will make lots of money with it (and I will be one of those who spend their hard earned money the second you can pre-order it)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668057</cid>
+	<date>Jan 5, 2011, 09:49 AM</date>
+	<author>SeattleMoose</author>
+	<text>What adjective is SJ gonna use to create the mojo for this one????Supercalifragilisticexpeealidocious!!!!!????</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668071</cid>
+	<date>Jan 5, 2011, 09:52 AM</date>
+	<author>johnnymg</author>
+	<text>This is a total FUD rumor. That design is ugly and inefficient.JohnG</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668096</cid>
+	<date>Jan 5, 2011, 09:57 AM</date>
+	<author>Chalkperson</author>
+	<text>Quote:Originally Posted byvincenzNot a big fan of the current touch's back, so it being translated into the ipad is meh.Apple is having a harder time keeping their products secret.  It's inevitable though.  If you get this popular, there's no way to keep it unknown.  Especially if your manufacturer is overseas.There are thousands of Worker Bees in China working on these Apple devices, it's inevitable that details leak out, also, is Apple going to dump a multimillion dollar order because case details slip out, even Jobs would admit that they can hardly change manufacturers over stuff like this, they can yell and scream all they like, but, it's not like this is a Gizmodo type leak...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668106</cid>
+	<date>Jan 5, 2011, 09:59 AM</date>
+	<author>Small White Car</author>
+	<text>Quote:Originally Posted byjohnnymgThis is a total FUD rumor. That design is ugly and inefficient.JohnGI'm curious who, exactly, &quot;fears&quot; an iPad with curved edges. I...well, I really can't think of anyone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668113</cid>
+	<date>Jan 5, 2011, 10:01 AM</date>
+	<author>tbucknall</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_0_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Mobile/8A306)Completely. 100%. Agree. This is rubbish. It another way to get more of a &quot;WOW&quot; factors when the iPad &quot;2&quot; actually he's released, or sneak peeked. For some reason, I doubt they will even call it the iPad &quot;2&quot;. Everyone who has said that it looks outdated it correct. Apple wouldn't do this. They steal my money and I don't care. I love apple. Can't wait much longer, because I one of those who had waited for the second gen to come around. Lot of people like me. Just making excuse NOT to buy the iPad because I know another one will be right around the corner. But, that's the game, and unfortunately. I love to play it. Cheers.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668135</cid>
+	<date>Jan 5, 2011, 10:05 AM</date>
+	<author>tbucknall</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_0_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Mobile/8A306)Completely. 100%. Agree. This is rubbish. It another way to get more of a &quot;WOW&quot; factors when the iPad &quot;2&quot; actually he's released, or sneak peeked. For some reason, I doubt they will even call it the iPad &quot;2&quot;. Everyone who has said that it looks outdated it correct. Apple wouldn't do this. They steal my money and I don't care. I love apple. Can't wait much longer, because I one of those who had waited for the second gen to come around. Lot of people like me. Just making excuse NOT to buy the iPad because I know another one will be right around the corner. But, that's the game, and unfortunately. I love to play it. Cheers.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668140</cid>
+	<date>Jan 5, 2011, 10:05 AM</date>
+	<author>jclardy</author>
+	<text>I hope that is the shape of the next one because a flat back would be nice. The current one doesn't wobble a lot but it is just enough to be annoying.I'm still hoping for an SD card slot though so I don't have to carry around the camera connection kit dongle all the time. Of course, I won't really care about it unless they improve the photo app in terms of organization.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668147</cid>
+	<date>Jan 5, 2011, 10:08 AM</date>
+	<author>slicecom</author>
+	<text>Quote:Originally Posted byjclardyI hope that is the shape of the next one because a flat back would be nice. The current one doesn't wobble a lot but it is just enough to be annoying.I'm still hoping for an SD card slot though so I don't have to carry around the camera connection kit dongle all the time. Of course, I won't really care about it unless they improve the photo app in terms of organization.I like the curved back of the current one.  It makes it easier to pick up off a flat surface.  Do you actually use your iPad while its sitting on a table?  I know I never have.  That totally defeats the purpose of a tablet, and its not very ergonomic.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668150</cid>
+	<date>Jan 5, 2011, 10:09 AM</date>
+	<author>Popeye206</author>
+	<text>Is it just me or do the two images on this story not seem to match??? The top looks like a Black back and the bottom show a more squared off aluminum back? Or I'm I just not seeing this right?Ahhh.... does not matter.. it's a 3rd party mock up who is guessing anyway.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668171</cid>
+	<date>Jan 5, 2011, 10:13 AM</date>
+	<author>ctdonath</author>
+	<text>Quote:Originally Posted bySmall White CarI'm curious who, exactly, &quot;fears&quot; an iPad with curved edges.While not &quot;fears&quot; exactly, it's kinda annoying to have a curved back on a device which is often set and used on a table. My iPad kinda rocks around a bit when touch-typing on it; would rather it have a flat back so it stays flat when I lay it flat.The chromed surface has a similar problem: sliding. While the iPad 1's surface is pretty darned smooth, it is textured just enough to provide at least a little friction for holding.Put an iPod Touch on a table and start typing, and it will start flopping and sliding around. It's not made for such use; it's made to be held, with fingers wrapped around two sides, and interacted with for a few seconds at a time.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668176</cid>
+	<date>Jan 5, 2011, 10:15 AM</date>
+	<author>Ping Guo</author>
+	<text>Quote:Originally Posted byAppleGoddessStill think iPhone 3was much nicer looking...I think the 3G/S with its curved back and sides sits more nicely in the hand than the angular iPhone 4. But the shiny plastic body is cheap-looking compared to aluminum or glass. Overall it's a toss up. I think the OG iPhone had the best-looking materials, reception-be-damned, and the 3G had the nicest shape.However in terms of Apple's design progression, this is something of a non-sequitur. Not that a curved aluminum body couldn't be nice, but this mockup just looks quick n' dirty.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668177</cid>
+	<date>Jan 5, 2011, 10:15 AM</date>
+	<author>Jayomat</author>
+	<text>seems legit to me</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668183</cid>
+	<date>Jan 5, 2011, 10:15 AM</date>
+	<author>Lone Deranger</author>
+	<text>Doesn't this fly in the face of the recent iPhone3--&gt;iPhone4 design changes?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668194</cid>
+	<date>Jan 5, 2011, 10:17 AM</date>
+	<author>Roessnakhan</author>
+	<text>Quote:Originally Posted byLone DerangerDoesn't this fly in the face of the recent iPhone3--&gt;iPhone4 design changes?But it falls in line with iPod touch changes.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668195</cid>
+	<date>Jan 5, 2011, 10:17 AM</date>
+	<author>ctdonath</author>
+	<text>Quote:Originally Posted byPopeye206The top looks like a Black back and the bottom show a more squared off aluminum back? Or I'm I just not seeing this right?You're just not seeing this right.That's a cleverness of Ive's design: by curving the back at a very steep angle, the device looks a lot thinner than it really is. When you do catch a glimpse of the back at an angle, it tends to look black. Ergo it's hard to see some 30% of the device's depth.The new design curves the sides more so you get even less visual cues as to its actual thickness.You're not supposed to &quot;see it right&quot;.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668206</cid>
+	<date>Jan 5, 2011, 10:19 AM</date>
+	<author>HarryKeogh</author>
+	<text>My iPad hasn't left the case since day one and before last week when the rumors started flying I didn't even remember if it had flat sides or not.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668209</cid>
+	<date>Jan 5, 2011, 10:20 AM</date>
+	<author>RKpro</author>
+	<text>Quote:Originally Posted byjohnnymgThis is a total FUD rumor. That design is ugly and inefficient.JohnGUgly, that's a matter of opinion. But it's got a flat rear, so the case will have more volume despite being slightly thinner, isn't that more efficient?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668222</cid>
+	<date>Jan 5, 2011, 10:22 AM</date>
+	<author>nunes013</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Mobile/8C148)I think apple will their version of aluminum. It's in very product now from the magic tracked, to the iMac, to the MBA and mbp. That old style mbp aluminum will not be the color and it will be the one that's in the iPad now. I have to see this in person bc judging from a small picture is very hard. I wouldnt mind this if it was ipad 2. But this kind of reminds me of the ip4. We all hated it at first but now it's one of the best looking smart phones out there. Johnny Ive doesn't disappoint</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668228</cid>
+	<date>Jan 5, 2011, 10:23 AM</date>
+	<author>iSee</author>
+	<text>Still trying to wring a little more mileage out of the case angle, eh MR?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668237</cid>
+	<date>Jan 5, 2011, 10:24 AM</date>
+	<author>Yamcha</author>
+	<text>Thinner doesn't mean its necessarily good, I think Apple should focus more on the weight of the ipad and not making it thin as possible.. Anyway I think the design looks pretty bad, but can't say until we see some better pictures..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668264</cid>
+	<date>Jan 5, 2011, 10:29 AM</date>
+	<author>GeekLawyer</author>
+	<text>Quote:Originally Posted byiSeeStill trying to wring a little more mileage out of the case angle, eh MR?There was new news.  All the major sites ran with it.  Including and especially Engadget.  I find it newsworthy here as a rumor.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668273</cid>
+	<date>Jan 5, 2011, 10:31 AM</date>
+	<author>Kwill</author>
+	<text>The important thing Apple must get right this time is to prevent rocking while typing.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668292</cid>
+	<date>Jan 5, 2011, 10:34 AM</date>
+	<author>shartypants</author>
+	<text>I'd rather just wait for the real thing to come out and see it then. Let's have rumors of the official announcement date</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668296</cid>
+	<date>Jan 5, 2011, 10:35 AM</date>
+	<author>cocky jeremy</author>
+	<text>I hope that's not real. If so, the iPad 1 looks much, much nicer.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668298</cid>
+	<date>Jan 5, 2011, 10:35 AM</date>
+	<author>blackpond</author>
+	<text>Quote:Originally Posted bySeattleMooseWhat adjective is SJ gonna use to create the mojo for this one????Supercalifragilisticexpeealidocious!!!!!????Certainly it must be better than just magical! My bet is on:Fantastical</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668305</cid>
+	<date>Jan 5, 2011, 10:36 AM</date>
+	<author>muu</author>
+	<text>Wonder if they managed to cut down on the weight w/ these form factor changes.  I'm used to it now but would certainly not mind a 100g lighter ipad; it would also really screw up the competition, which seems to have kept the weight at the same range as the wifi version.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668322</cid>
+	<date>Jan 5, 2011, 10:40 AM</date>
+	<author>Mirai 11</author>
+	<text>I'm amazed that some people are already judging this as if this is the real iPad 2.it's only a mockup, which only helps users see how it fits into their cases. They don't need to add anything else to this to make it stunning. it's only a mockup, wait for judgement until we actually see the real thing.In my opinion, i reckon that sometime over CES, or by the end of next week, we'll hear something about an event, just a hunch really.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668341</cid>
+	<date>Jan 5, 2011, 10:44 AM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted byHarryKeoghMy iPad hasn't left the case since day one and before last week when the rumors started flying I didn't even remember if it had flat sides or not.++The exact design does not matter too much since it will be always in a case. I want to know the specs, that is what matters. I first didn't have a case, but it 'felt' to dangerous to carry it around without case (too slippery) ... my iPhone 4 on the other hand has no case and won't get one (looks too good and I don't see the downside of not having a case - i can easily transport it in my pocket)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668362</cid>
+	<date>Jan 5, 2011, 10:48 AM</date>
+	<author>res1233</author>
+	<text>The only way for Apple to avoid all these leaks is for them to start their own manufacturing. They ARE too popular now. Chinese workers get paid so little, that you can't blame them for wanting to make a few extra bucks on the side, and at the end of the day, Foxconn isn't Apple.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668368</cid>
+	<date>Jan 5, 2011, 10:49 AM</date>
+	<author>jamesryanbell</author>
+	<text>Remember the quality of the first iPhone compared to the (2nd gen) iPhone 3G?  That's what I'm hoping the quality comparison is like...simply because I have a first gen.LOL.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668373</cid>
+	<date>Jan 5, 2011, 10:49 AM</date>
+	<author>Defender2010</author>
+	<text>Having silly discussions based on a simple mock up (that we dont know is even accurate) are just a waste of time. &quot;I like it&quot; &quot; I hate it&quot; &quot;It looks great&quot; !!Compare this picture of a shoe horn/holder to how your foot looks...look similar? No! The mock up depicts as much as what the new iPad will look like as the I do to a body cast. They may well have put &quot;alleged&quot; speaker grill and tapered sides based on nothing but rumors, to whip up a storm...it worked!Personally,,i feel the iPad 2 would look amazing if it just looked like a 9.7 inch iphone4, not the new iPod touch (it looks kinda cheap). Here's hoping!!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668376</cid>
+	<date>Jan 5, 2011, 10:50 AM</date>
+	<author>slicecom</author>
+	<text>Quote:Originally Posted by0815++The exact design does not matter too much since it will be always in a case. I want to know the specs, that is what matters. I first didn't have a case, but it 'felt' to dangerous to carry it around without case (too slippery) ... my iPhone 4 on the other hand has no case and won't get one (looks too good and I don't see the downside of not having a case - i can easily transport it in my pocket)None of my Apple products will EVER be put in a case, so design matters to me.I've never understood why people buy a device with industry leading industrial design, then put it in an ugly case.  I've never damaged any of my iPhones or my iPad or my MacBook's by not using cases.  In many instances, cases cause more damage than they prevent (scratches etc...).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668416</cid>
+	<date>Jan 5, 2011, 10:55 AM</date>
+	<author>WestonHarvey1</author>
+	<text>Quote:Originally Posted byGeekLawyerIf I'm not mistaken, the case manufacturers are getting inside information from Apple's production partners on the sly.  Not from Cupertino.Doesn't the form-factor point to changes in relevant specs?  Thinking specifically about cameras.  Other specs are meaningless in an Apple tablet.  I couldn't care less about the processor or RAM.  Storage, maybe.  Though I've never gotten closed to filling my 32GB iPad.The only spec I'm really interested in is the screen resolution. Compared to the iPhone 4, it looks pretty bad now. If they can match the DPI, it's going to be a revelation.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668447</cid>
+	<date>Jan 5, 2011, 11:00 AM</date>
+	<author>GroundLoop</author>
+	<text>I am not a fan of the tapered edge. It just seems like it would hurt your hand when holding it (maybe even slice into it).  Maybe this is Apple's way to drive higher sales of its iPad2 cases since you won't be able to hold it without one.GL</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668451</cid>
+	<date>Jan 5, 2011, 11:01 AM</date>
+	<author>slicecom</author>
+	<text>Quote:Originally Posted byWestonHarvey1The only spec I'm really interested in is the screen resolution. Compared to the iPhone 4, it looks pretty bad now. If they can match the DPI, it's going to be a revelation.Same here.  The instant that the iPad has a retina display (most likely iPad 3) is the instant I upgrade.  I don't really care about any of the other features like cameras.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668481</cid>
+	<date>Jan 5, 2011, 11:10 AM</date>
+	<author>Coarseman</author>
+	<text>Quote:Originally Posted byGeekLawyerOther specs are meaningless in an Apple tablet.  I couldn't care less about the processor or RAM.FFS!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668486</cid>
+	<date>Jan 5, 2011, 11:11 AM</date>
+	<author>azentropy</author>
+	<text>Quote:Originally Posted by0815Apple is more about making lots and lots of money. Destroying the industry with dumping prices will make them only loose money. If there is one thing we can be sure of with the iPad2, than it's that they will make lots of money with it (and I will be one of those who spend their hard earned money the second you can pre-order it)True - but I'm thinking Apple will do like they have with various iPhone and iPod Touch releases.  When the &quot;2&quot; is released they will keep the entry iPad &quot;1&quot; 16gb and re-price it at $399.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668491</cid>
+	<date>Jan 5, 2011, 11:13 AM</date>
+	<author>slicecom</author>
+	<text>Quote:Originally Posted byazentropyTrue - but I'm thinking Apple will do like they have with various iPhone and iPod Touch releases.  When the &quot;2&quot; is released they will keep the entry iPad &quot;1&quot; 16gb and re-price it at $399.I strongly doubt that, but we'll see.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668521</cid>
+	<date>Jan 5, 2011, 11:19 AM</date>
+	<author>Full of Win</author>
+	<text>Quote:Originally Posted byAppleGoddessStill think iPhone 3was much nicer looking...I think the original iPhone from January 2007 was the highpoint of the designs.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668525</cid>
+	<date>Jan 5, 2011, 11:20 AM</date>
+	<author>JohnnyQuest</author>
+	<text>Quote:Originally Posted byicanboogiehm. for me, this iPad 2 looks somehow more outdated than iPad1.Those kurved edges are relicts of the last decade.My thoughts exactly. It looks like an iPhone 3G. I think I'll keep my first-gen, unless there are some banging new features not offered in the software update. I upgrade my iPhone yearly, my iPad can wait longer since I use it less.Plus, I've used FaceTime like once. I thought I would use it more, but it just never really caught on with my family and friends</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668538</cid>
+	<date>Jan 5, 2011, 11:22 AM</date>
+	<author>BILLWFT</author>
+	<text>Quote:Originally Posted by0815Apple is more about making lots and lots of money. Destroying the industry with dumping prices will make them only loose money. If there is one thing we can be sure of with the iPad2, than it's that they will make lots of money with it (and I will be one of those who spend their hard earned money the second you can pre-order it)Yelp,  buying my daughter one no matter what it looks like, specs or cost.   For xmas I gave her a card with an IOU for an iPad2.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668559</cid>
+	<date>Jan 5, 2011, 11:26 AM</date>
+	<author>DrRadon</author>
+	<text>Quote:Originally Posted bytripjammerPlus hopefully the price will be $100 to $200 cheaper...$399 base price for a 32GB Ipad2 will destroy the rest of the industry.It would also not make any money.http://news.cnet.com/8301-17938_105-10451132-1.htmlAdd Shipping, the retrailer Cut and Taxes and i don´t see how how 299 or 399 would work. The new models will be expensive, maybe they keep the most bought iPad one to offer it cheaper like they did with the white MacBook.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668560</cid>
+	<date>Jan 5, 2011, 11:26 AM</date>
+	<author>josh8711</author>
+	<text>If this mockup is the design or close to it I will happily choose the iPad1 lol. Cheaper and better design cause that mock up really stinks. I hope iPad2 is not anything like that.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668660</cid>
+	<date>Jan 5, 2011, 11:45 AM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted byazentropyTrue - but I'm thinking Apple will do like they have with various iPhone and iPod Touch releases.  When the &quot;2&quot; is released they will keep the entry iPad &quot;1&quot; 16gb and re-price it at $399.Maybe - but only if there is another competitive iPad alternative. Right now I don't see any reason why they should do that, they have no problems selling what they produce and there is no true alternative out there - but maybe there will be a surprise tablet coming soon from another company.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668668</cid>
+	<date>Jan 5, 2011, 11:47 AM</date>
+	<author>3goldens</author>
+	<text>horse manure is what comes to mind here.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668731</cid>
+	<date>Jan 5, 2011, 11:59 AM</date>
+	<author>Snowy_River</author>
+	<text>Quote:Originally Posted bytbucknall[SIZE=1]...Everyone who has said that it looks outdated it correct. Apple wouldn't do this....Comments like this one remind me so strongly of the discussion about the iPhone 4 when it was leaked.  &quot;That can't be the real thing!  It's a terrible design!&quot; etc.  Then, when it turned out to be the real design, most people changed their tune.So, while I'm sure that there are some people who won't like the design whatever it is, I'm not going to pass judgement until I see the real thing.Quote:Originally Posted byslicecomNone of my Apple products will EVER be put in a case, so design matters to me.I've never understood why people buy a device with industry leading industrial design, then put it in an ugly case.  I've never damaged any of my iPhones or my iPad or my MacBook's by not using cases.  In many instances, cases cause more damage than they prevent (scratches etc...).As someone who does use a case, I don't think that the case that I use is ugly, and it also adds functionality to my iPad, in addition to protecting my iPad against adverse conditions.  While you may choose not to use cases, you don't need to be insulting to those of us you do.Quote:Originally Posted byJohnnyQuestMy thoughts exactly. It looks like an iPhone 3G. I think I'll keep my first-gen, unless there are some banging new features not offered in the software update. I upgrade my iPhone yearly, my iPad can wait longer since I use it less.Plus, I've used FaceTime like once. I thought I would use it more, but it just never really caught on with my family and friendsAh, just wait for kids.  My parents want us to do video chats several times a week so they can see their grandkids.  I'm still working on other friends to get them to v-chat with me more often...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668784</cid>
+	<date>Jan 5, 2011, 12:06 PM</date>
+	<author>deadkennedy</author>
+	<text>Why?Is this an attention deficit disorder, or how's that thing called?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668792</cid>
+	<date>Jan 5, 2011, 12:07 PM</date>
+	<author>JohnnyQuest</author>
+	<text>Quote:Originally Posted bySnowy_RiverAh, just wait for kids.  My parents want us to do video chats several times a week so they can see their grandkids.  I'm still working on other friends to get them to v-chat with me more often...I can assure you I'm a decade away from even consideringI think that FaceTime is great and all, but for my lifestyle and relationships, it just hasn't worked its way in yet. So if FT is reallythefeature of the iPad 2, I think I'll be sticking with old faithful.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668795</cid>
+	<date>Jan 5, 2011, 12:08 PM</date>
+	<author>slicecom</author>
+	<text>Quote:Originally Posted bySnowy_RiverAs someone who does use a case, I don't think that the case that I use is ugly, and it also adds functionality to my iPad, in addition to protecting my iPad against adverse conditions.  While you may choose not to use cases, you don't need to be insulting to those of us you do.How is saying that I don't understand why people would put their beautifully designed Apple products in ugly cases an insult?  Sensitive much?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668810</cid>
+	<date>Jan 5, 2011, 12:10 PM</date>
+	<author>Snowy_River</author>
+	<text>Quote:Originally Posted by0815Maybe - but only if there is another competitive iPad alternative. Right now I don't see any reason why they should do that, they have no problems selling what they produce and there is no true alternative out there - but maybe there will be a surprise tablet coming soon from another company.What I've been thinking about is that we might see something like16GB, 1st gen tech, $44964GB, 2nd gen tech, $599128GB, 2nd gen tech, $699This would echo the transition from the iPod Touch 2nd gen to 3rd gen.Now, I'm not holding my breath for such a thing, but I wouldn't consider it necessarily unlikely, either.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668912</cid>
+	<date>Jan 5, 2011, 12:24 PM</date>
+	<author>griz</author>
+	<text>That is darn ugly. I'd much rather see it look more like a big iPhone 4 with the aluminum edge. But more likely liquid metal to keep it light, thin and strong.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668959</cid>
+	<date>Jan 5, 2011, 12:31 PM</date>
+	<author>AppleFan1984</author>
+	<text>Quote:Originally Posted byctdonathYou're just not seeing this right.That's a cleverness of Ive's design: by curving the back at a very steep angle, the device looks a lot thinner than it really is.It also makes it unnecessarily hard to type on when laid on a flat surface.I noticed at the local Apple store they solved that by displaying them on custom pedestals, I guess hoping no one would lay it on the table next to the Macbooks.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668974</cid>
+	<date>Jan 5, 2011, 12:32 PM</date>
+	<author>kalsta</author>
+	<text>In previous threads people have complained that you can't use the current iPad on a flat surface because of the rounded back.Solution:Give the iPad a flat back.In response to this, others complain that you won't be able to easily lift it from said flat surface because there will be no edge to grip.Solution:Give the iPad a flat back AND a tapered edge.Now that this seems like the way Apple has gone, people are complaining that it's a step backwards.I guess this only proves the old axiom that you can't please everyone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669016</cid>
+	<date>Jan 5, 2011, 12:39 PM</date>
+	<author>johnnymg</author>
+	<text>Quote:Originally Posted byRKproUgly, that's a matter of opinion. But it's got a flat rear, so the case will have more volume despite being slightly thinner, isn't that more efficient?NO, much more volume available with square corners.I'll be astounded if this curved monstrosity is the real deal. If so.........  aapl will get pounded.cheersjohnG</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669028</cid>
+	<date>Jan 5, 2011, 12:41 PM</date>
+	<author>slicecom</author>
+	<text>Quote:Originally Posted byjohnnymgNO, much more volume available with square corners.I'll be astounded if this curved monstrosity is the real deal. If so.........  aapl will get pounded.cheersjohnGI'm quite convinced it is the real deal, and if AAPL does get pounded, it will quickly rebound when it sells like crazy, just like the original iPad.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669036</cid>
+	<date>Jan 5, 2011, 12:42 PM</date>
+	<author>SockRolid</author>
+	<text>Apple avoids CES every year.  And every year it's an epic win of publicity for Apple anyway.  Every single Apple-wannabe product is compared, by the press and by CES attendees, against the real thing.And now a mock-up of iPad 2 is sending shock waves through CES.Free publicity for Apple.All day, every day.Live from CES!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669080</cid>
+	<date>Jan 5, 2011, 12:46 PM</date>
+	<author>slicecom</author>
+	<text>Quote:Originally Posted bySockRolidApple avoids CES every year.  And every year it's an epic win of publicity for Apple anyway.  Every single Apple-wannabe product is compared, by the press and by CES attendees, against the real thing.And now a mock-up of iPad 2 is sending shock waves through CES.Free publicity for Apple.All day, every day.Live from CES!So true, and pathetic.  CES is dominated by companies trying to compete with the product that Apple released the year before.  It would be nice to see some real innovation instead of a bunch of iPad wannabes that are inferior to the year-old product they're trying to copy.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669116</cid>
+	<date>Jan 5, 2011, 12:51 PM</date>
+	<author>David Ormesher</author>
+	<text>I'd like to throw my name into the &quot;hate it&quot; pile&hellip; I think this form factor is ugly and there's no way it's gonna get uglier. It's the screen resolution that's gotta get better, which it will. I just bought the 1st generation iPad this week because I was too impatient. It's being stored nicely in an Apple case and it'll go right on Craigslist the day I get the 2nd GenerationI borrowed my friends iPad and had to give it back, couldn't live without it after that. So the bug bit me, and I droned off to the Apple store.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669189</cid>
+	<date>Jan 5, 2011, 12:59 PM</date>
+	<author>slicecom</author>
+	<text>Quote:Originally Posted byDavid OrmesherI'd like to throw my name into the &quot;hate it&quot; pile&hellip; I think this form factor is ugly and there's no way it's gonna get uglier. It's the screen resolution that's gotta get better, which it will. I just bought the 1st generation iPad this week because I was too impatient. It's being stored nicely in an Apple case and it'll go right on Craigslist the day I get the 2nd GenerationI borrowed my friends iPad and had to give it back, couldn't live without it after that. So the bug bit me, and I droned off to the Apple store.The iPad 2 won't have higher resolution.  You heard it here first folks!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669314</cid>
+	<date>Jan 5, 2011, 01:20 PM</date>
+	<author>HarryKeogh</author>
+	<text>Quote:Originally Posted byslicecomNone of my Apple products will EVER be put in a case, so design matters to me.I've never understood why people buy a device with industry leading industrial design, then put it in an ugly case.  I've never damaged any of my iPhones or my iPad or my MacBook's by not using cases.  In many instances, cases cause more damage than they prevent (scratches etc...).Sure, it's much better looking without the case but it is a little slippery. I'd hate to drop it and in the Apple case it's got a great grip that the cat can't push off the coffee table.And I love the case's ability to tilt the screen which makes using it on a plane more enjoyable.And I place the flap over the display on the elliptical or stationary bike at the gym. That iPad aint falling down for anything and I'm watching Netflix at the gym instead of Oprah.You can &quot;never&quot; understand reasons like these? Oh well.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669990</cid>
+	<date>Jan 5, 2011, 02:59 PM</date>
+	<author>-=XX=-Nephilim</author>
+	<text>1st one was crap and by look of it 2nd one won't be any better...PASS!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670089</cid>
+	<date>Jan 5, 2011, 03:19 PM</date>
+	<author>ctdonath</author>
+	<text>As for the uglification of sleek iPads with cases, may I suggest theSaddleback Leather iPad Sleeve. Protects it well when not in use, fully exposes the device in all its glory when needed, and ages well by acquiring a stylish &quot;distressed&quot; look when scratched, rubbed, etc. I get lots of complements on mine.I agree most cases just look cheap/cheesy, and hide the device's elegant design. Pick a sleeve that complements, not conceals, your expensive purchase.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670402</cid>
+	<date>Jan 5, 2011, 04:10 PM</date>
+	<author>rtdunham</author>
+	<text>Quote:Originally Posted byjclardy...I'm still hoping for an SD card slot though so I don't have to carry around the camera connection kit dongle all the time. Of course, I won't really care about it unless they improve the photo app in terms of organization.Exactly right on both counts.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670498</cid>
+	<date>Jan 5, 2011, 04:23 PM</date>
+	<author>applesith</author>
+	<text>I think the iPad is thin enough. I like the weight it has to it for it's current dimensions. If it gets lighter, then I think it would feel &quot;cheap&quot; or not as substantial. The &quot;heaviness&quot; of the current model reminds me that despite it's thin form factor, it is not a piece of crap.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670515</cid>
+	<date>Jan 5, 2011, 04:26 PM</date>
+	<author>slicecom</author>
+	<text>Quote:Originally Posted byctdonathAs for the uglification of sleek iPads with cases, may I suggest theSaddleback Leather iPad Sleeve. Protects it well when not in use, fully exposes the device in all its glory when needed, and ages well by acquiring a stylish &quot;distressed&quot; look when scratched, rubbed, etc. I get lots of complements on mine.I agree most cases just look cheap/cheesy, and hide the device's elegant design. Pick a sleeve that complements, not conceals, your expensive purchase.Good advice!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670775</cid>
+	<date>Jan 5, 2011, 05:10 PM</date>
+	<author>SandynJosh</author>
+	<text>Quote:Originally Posted byeawmp1BFD - I care more about the specs than the form factor.You are a prime customer for any &quot;no-brand&quot; tablet that has a great looking spec list.Some specs, for example &quot;high clock rate,&quot; can impact battery life. One needs to look at portable devices with a whole different mindset than one would have comparing desk top devices that may function by brute-force power.I think HOW a device carefully handles data to preserve battery life may be designed to trump raw power in getting better performance while not at the cost of portability. At the end of the day it's not just the device specs, it's the whole eco-system that it is part of.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670892</cid>
+	<date>Jan 5, 2011, 05:35 PM</date>
+	<author>Tunster</author>
+	<text>I'm hoping that people will agree with here. Don't people think Apple have benchmarked themselves too high for the iPad 1? Especially for it's sleek design and perfect weight distribution in collaboration with it's size consideration. It's set the tone for other companies to follow and how can Apple beat itself without making serious changes?Any design change is going to be like marmite. You'll either you love it or hate it. At this early stage of these case designs, it's a no-no for me. The 1st iPad has it right in every design hardware and software wise in my opinion.Apple could of just upped the hardware inside a revised case (like 3G to 3GS). Knowing Apple though, it's too early to do that that yet. Let's wait for iPad 3 for that.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671426</cid>
+	<date>Jan 5, 2011, 07:36 PM</date>
+	<author>marconiusrex</author>
+	<text>Of course not really sure it's real, but not fond of the idea of making the back of the iPad look just like the back of the iPod just so Apple can say it's a &quot;family&quot; of products.  The back of the current iPad feels so good in the hands and is pretty easy to grip for a device of it's size and weight.  The matte/satin aluminum feels very nice as well.  God forbid they make it shinny and slick like the iPod.  If they do that - I'll just skip it and hope they learn their lesson for iPad3.the  Form should definitely follow function in this case!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671490</cid>
+	<date>Jan 5, 2011, 07:49 PM</date>
+	<author>macnerd123</author>
+	<text>I don't think I will buy an iPad until it can do the following...- run OS X- act as an actual computer and not have to connect to a computer to update, sync, etc...- have an intel processor- have a built in iSight- have atleast1 USB port- 2 GB RAM- Nvidia graphicsa 1,000 dollar price point would be goodOf course I realize this is a large unreasonable list (at least now) and won't come along for a really long time, but until it reaches this point, I don't think it will ever be very useful to me.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671507</cid>
+	<date>Jan 5, 2011, 07:52 PM</date>
+	<author>Music_Producer</author>
+	<text>Quote:Originally Posted bymacnerd123I don't think I will buy an iPad until it can do the following...- run OS X- act as an actual computer and not have to connect to a computer to update, sync, etc...- have an intel processor- have a built in iSight- have atleast1 USB port- a front facing camera- 2 GB RAM- Nvidia graphicsa 1,000 dollar price point would be goodOf course I realize this is a large unreasonable list (at least now) and won't come along for a really long time, but until it reaches this point, I don't think it will ever be very useful to me.Why don't you buy a macbook? It's cheaper than $1000.. unless you think it's fancy to walk around with a touchscreen computer.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671811</cid>
+	<date>Jan 5, 2011, 09:02 PM</date>
+	<author>macnerd123</author>
+	<text>Quote:Originally Posted byMusic_ProducerWhy don't you buy a macbook? It's cheaper than $1000.. unless you think it's fancy to walk around with a touchscreen computer.It is fancybut the the &quot;potableness&quot; of a tablet seems very attractive too rather then having a keyboard and a screen...It's all in one.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671966</cid>
+	<date>Jan 5, 2011, 09:45 PM</date>
+	<author>HarryKeogh</author>
+	<text>Quote:Originally Posted bymacnerd123I don't think I will buy an iPad until it can do the following...- run OS X- act as an actual computer and not have to connect to a computer to update, sync, etc...- have an intel processor- have a built in iSight- have atleast1 USB port- a front facing camera- 2 GB RAM- Nvidia graphicsa 1,000 dollar price point would be goodOf course I realize this is a large unreasonable list (at least now) and won't come along for a really long time, but until it reaches this point, I don't think it will ever be very useful to me.iSight AND a front-facing camera?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672056</cid>
+	<date>Jan 5, 2011, 10:06 PM</date>
+	<author>macnerd123</author>
+	<text>Quote:Originally Posted byHarryKeoghiSight AND a front-facing camera?whoops, sorry, let me edit that</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672147</cid>
+	<date>Jan 5, 2011, 10:32 PM</date>
+	<author>kalsta</author>
+	<text>Quote:Originally Posted bymacnerd123I don't think I will buy an iPad until it can do the following...- run OS X- act as an actual computer and not have to connect to a computer to update, sync, etc...- have an intel processor- have a built in iSight- have atleast1 USB port- 2 GB RAM- Nvidia graphicsa 1,000 dollar price point would be goodOf course I realize this is a large unreasonable list (at least now) and won't come along for a really long time, but until it reaches this point, I don't think it will ever be very useful to me.A really long time? Sorry, what you want it not coming ever. If you want an Apple touch screen UI, it's iOS.How did you come up with that wish list anyway? What are you trying to do with this device that you can't do with the current iPad or a MacBook? Each is tailored to a different set of needs. If you're mainly just a consumer of content and entertainment, and you enjoy touch screen UIs, go with the iPad. If you need to do more content creation (where the precision of a real keyboard and pointing device with cursor are more efficient than using your chubby digits), go with a MacBook.Often I think these kinds of wish lists have more to do withspec envythan real-world usage needs.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672192</cid>
+	<date>Jan 5, 2011, 10:42 PM</date>
+	<author>paulypants</author>
+	<text>Quote:Originally Posted by-=XX=-Nephilim1st one was crap and by look of it 2nd one won't be any better...PASS!Yea you're so right, that's why no one bought any of th...oh wait. Nice sig, keep living in the past...we'll send you postcards from the future</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672637</cid>
+	<date>Jan 6, 2011, 01:15 AM</date>
+	<author>SandynJosh</author>
+	<text>Quote:Originally Posted byblackpondCertainly it must be better than just magical! My bet is on:FantasticalHow about in keeping with the Russian Orthodox Christmas in a couple days, it will beMiraculous!!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673071</cid>
+	<date>Jan 6, 2011, 04:54 AM</date>
+	<author>champ01</author>
+	<text>Quote:I don't think I will buy an iPad until it can do the following...- run OS Xwait 5 years- act as an actual computer and not have to connect to a computer to update, sync, etc...tablets work because they ar not laptops/desktops- have an intel processorrather let Apple develope their own- have a built in iSightcamera is in the iPad2- have atleast1 USB portiPad already has USB- 2 GB RAMfor doing what?- Nvidia graphicsagain better for Apple to develope their owna 1,000 dollar price point would be goodand you didn't even tell who much storage you wanted....you didn't think it thru did you?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673385</cid>
+	<date>Jan 6, 2011, 07:10 AM</date>
+	<author>yankintx</author>
+	<text>Quote:Originally Posted byicanboogiehm. for me, this iPad 2 looks somehow more outdated than iPad1.Those kurved edges are relicts of the last decade.I agree. Apple needs to stop trying to make everything thinner. My son wanted a new Ipod Touch with the camera in it, and after using it awhile, he and I both preferred the last generation thicker style. It was easier to hold and definitely easier to hit the sleep button and to plug in connector.The current Ipad's shape is nice. Why ruin it and make it thinner yet?I guess if the new design wasn't different enough, then people wouldn't want to buy a new one.Give it a rest Apple!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673391</cid>
+	<date>Jan 6, 2011, 07:12 AM</date>
+	<author>yankintx</author>
+	<text>Quote:Originally Posted bysleepingworkerI passed on the first version of the iPad (just like I did on the first version of the iPhone).  As great as the iPad seemed on some levels, it underwhelmed in comparison to the iPhone 4 in almost all features other than size.I really look forward to seeing this version - and buying it.  That, and one day a Macbook Air.  My Macbook Pro feels heavy and clunky lately.  Changing times.I have an Iphone 4 and had the Ipad first.  I rarely ever use the iphpone 4 for browsing the web anymore. The Ipad is so much nicer with the bigger screen.2 totally different devices for different needs. One does not replace the other.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11677069</cid>
+	<date>Jan 6, 2011, 04:23 PM</date>
+	<author>macnerd123</author>
+	<text>Quote:Originally Posted bykalstaA really long time? Sorry, what you want it not coming ever. If you want an Apple touch screen UI, it's iOS.How did you come up with that wish list anyway? What are you trying to do with this device that you can't do with the current iPad or a MacBook? Each is tailored to a different set of needs. If you're mainly just a consumer of content and entertainment, and you enjoy touch screen UIs, go with the iPad. If you need to do more content creation (where the precision of a real keyboard and pointing device with cursor are more efficient than using your chubby digits), go with a MacBook.Often I think these kinds of wish lists have more to do withspec envythan real-world usage needs.Okay... No need to be so hostile. It is my opinion and I have modest computing needs and I like the idea of an iPad as a primary computer. I was just imputting my own opinion of what I like and by the way, those specs aren't unbelievable. It has nothing to do with &quot;spec envy&quot;. Those are just what I would need for it to run smoothly. And obviously I am not wanting it to come never like you thought. It is just far from what stage the iPad is in right now.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11677107</cid>
+	<date>Jan 6, 2011, 04:29 PM</date>
+	<author>macnerd123</author>
+	<text>Quote:Originally Posted bychamp01- run OS Xwait 5 years- act as an actual computer and not have to connect to a computer to update, sync, etc...tablets work because they ar not laptops/desktops- have an intel processorrather let Apple develope their own- have a built in iSightcamera is in the iPad2- have atleast1 USB portiPad already has USB- 2 GB RAMfor doing what?- Nvidia graphicsagain better for Apple to develope their owna 1,000 dollar price point would be goodand you didn't even tell who much storage you wanted....you didn't think it thru did you?No, I did think it through, I just don't care how much storage because I don't require a lot. The reason I wanted these specs was so it could replace a laptop and that is the reason for the 2GB of RAM which isn't even that much. And I don't know why you are saying the iPad has a USB port because it doesn't. I realize this is not happening soon. I was expressing my own opinion</text>
+	<score>0</score>
+</comment>

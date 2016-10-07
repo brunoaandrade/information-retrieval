@@ -1,0 +1,1624 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_27_2039230</id>
+	<title>A Widescreen Laser Projector In Your Pocket</title>
+	<author>timothy</author>
+	<datestamp>1243417200000</datestamp>
+	<htmltext>Edis Krad writes <i>"Redmond based company <a href="http://www.microvision.com/">Microvision</a> is in the last stages of developing and releasing a portable, laser-based projector, code-named '<a href="http://www.microvision.com/showwx/index.html">Show WX</a>.' The projector has a resolution of 848 by 400 pixels (WVGA) and, since it uses laser-scanning rather than LCD to form the images, it does not require a lens to focus, allowing it to display images virtually in any surface. The device comes with its own user-replaceable battery, which means you could take it with you anywhere you want. Although there is no pricing information on their website, according to this <a href="http://www.youtube.com/watch?v=7UfarRM0BoM">local news video</a>, it could cost at least $200."</i></htmltext>
+<tokenext>Edis Krad writes " Redmond based company Microvision is in the last stages of developing and releasing a portable , laser-based projector , code-named 'Show WX .
+' The projector has a resolution of 848 by 400 pixels ( WVGA ) and , since it uses laser-scanning rather than LCD to form the images , it does not require a lens to focus , allowing it to display images virtually in any surface .
+The device comes with its own user-replaceable battery , which means you could take it with you anywhere you want .
+Although there is no pricing information on their website , according to this local news video , it could cost at least $ 200 .
+"</tokentext>
+<sentencetext>Edis Krad writes "Redmond based company Microvision is in the last stages of developing and releasing a portable, laser-based projector, code-named 'Show WX.
+' The projector has a resolution of 848 by 400 pixels (WVGA) and, since it uses laser-scanning rather than LCD to form the images, it does not require a lens to focus, allowing it to display images virtually in any surface.
+The device comes with its own user-replaceable battery, which means you could take it with you anywhere you want.
+Although there is no pricing information on their website, according to this local news video, it could cost at least $200.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116005</id>
+	<title>Re:Can somebody explain how it works?</title>
+	<author>ab8ten</author>
+	<datestamp>1243421820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Laser projector? How can you project a raster image using a inherently vector system?</p><p>I don't get it. How does it know how big the pixels should be?</p><p>(Or maybe it's obvious and I just need a beating with the clue stick here)</p></div><p>The light from the three RGB lasers is scanned in rows just like the electron beam in a CRT. To sweep the angle, a tiny mirror flexes very fast. The technical challenge for these projectors has been switching the mirror fast enough and getting decent performance from miniature red green and blue lasers. I think the blue one was the tough nut to crack.</p></div>
+	</htmltext>
+<tokenext>Laser projector ?
+How can you project a raster image using a inherently vector system ? I do n't get it .
+How does it know how big the pixels should be ?
+( Or maybe it 's obvious and I just need a beating with the clue stick here ) The light from the three RGB lasers is scanned in rows just like the electron beam in a CRT .
+To sweep the angle , a tiny mirror flexes very fast .
+The technical challenge for these projectors has been switching the mirror fast enough and getting decent performance from miniature red green and blue lasers .
+I think the blue one was the tough nut to crack .</tokentext>
+<sentencetext>Laser projector?
+How can you project a raster image using a inherently vector system?I don't get it.
+How does it know how big the pixels should be?
+(Or maybe it's obvious and I just need a beating with the clue stick here)The light from the three RGB lasers is scanned in rows just like the electron beam in a CRT.
+To sweep the angle, a tiny mirror flexes very fast.
+The technical challenge for these projectors has been switching the mirror fast enough and getting decent performance from miniature red green and blue lasers.
+I think the blue one was the tough nut to crack.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115817</id>
+	<title>Next big thing</title>
+	<author>Anonymous</author>
+	<datestamp>1243421220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>This, combined with something like "The Sixth Sense" That I saw over on TED.com would be amazing, since the only pitfall to their device was that it was an actual projector you had to wear around your neck.</htmltext>
+<tokenext>This , combined with something like " The Sixth Sense " That I saw over on TED.com would be amazing , since the only pitfall to their device was that it was an actual projector you had to wear around your neck .</tokentext>
+<sentencetext>This, combined with something like "The Sixth Sense" That I saw over on TED.com would be amazing, since the only pitfall to their device was that it was an actual projector you had to wear around your neck.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117071</id>
+	<title>One Small Problem</title>
+	<author>Anonymous</author>
+	<datestamp>1243427640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>As freaking cool as this is, it has an inherent problem.
+<br> <br>
+Laser pointers getting aimed at people's faces are bad enough, but this is like having 3 lasers waved around wildly.
+<br> <br>
+A good number of projectors are used to display a screen to a large audience, while a presenter stands in front of it.  For the presenter, getting the light in the eye is nearly unavoidable.  So with lasers, you're talking serious eye damage if you're in the way.</htmltext>
+<tokenext>As freaking cool as this is , it has an inherent problem .
+Laser pointers getting aimed at people 's faces are bad enough , but this is like having 3 lasers waved around wildly .
+A good number of projectors are used to display a screen to a large audience , while a presenter stands in front of it .
+For the presenter , getting the light in the eye is nearly unavoidable .
+So with lasers , you 're talking serious eye damage if you 're in the way .</tokentext>
+<sentencetext>As freaking cool as this is, it has an inherent problem.
+Laser pointers getting aimed at people's faces are bad enough, but this is like having 3 lasers waved around wildly.
+A good number of projectors are used to display a screen to a large audience, while a presenter stands in front of it.
+For the presenter, getting the light in the eye is nearly unavoidable.
+So with lasers, you're talking serious eye damage if you're in the way.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117003</id>
+	<title>For teh lulz</title>
+	<author>4D6963</author>
+	<datestamp>1243427280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It's is SO going into an iPhone in 2 or 3 years. From that point on consider this : people use the motion sensor to stabilise the image, which will be pretty cool, and secondly, people start making a whole bunch of iPhone apps to make all sorts of "pranks".</p><p>Hard to tell what they'll come up with but you just know that kids will have a field day with that. And by day I mean decade.</p></htmltext>
+<tokenext>It 's is SO going into an iPhone in 2 or 3 years .
+From that point on consider this : people use the motion sensor to stabilise the image , which will be pretty cool , and secondly , people start making a whole bunch of iPhone apps to make all sorts of " pranks " .Hard to tell what they 'll come up with but you just know that kids will have a field day with that .
+And by day I mean decade .</tokentext>
+<sentencetext>It's is SO going into an iPhone in 2 or 3 years.
+From that point on consider this : people use the motion sensor to stabilise the image, which will be pretty cool, and secondly, people start making a whole bunch of iPhone apps to make all sorts of "pranks".Hard to tell what they'll come up with but you just know that kids will have a field day with that.
+And by day I mean decade.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116007</id>
+	<title>IMHO . . .</title>
+	<author>hansede</author>
+	<datestamp>1243421820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>. . . iPods are the natural application for ultra-portable projectors. Having a projector built into a portable device that stores all my favorite movies would be sick. Of course, the MPAA would have something to say about that.</htmltext>
+<tokenext>.
+. .
+iPods are the natural application for ultra-portable projectors .
+Having a projector built into a portable device that stores all my favorite movies would be sick .
+Of course , the MPAA would have something to say about that .</tokentext>
+<sentencetext>.
+. .
+iPods are the natural application for ultra-portable projectors.
+Having a projector built into a portable device that stores all my favorite movies would be sick.
+Of course, the MPAA would have something to say about that.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28121867</id>
+	<title>At least $200</title>
+	<author>PeeShootr</author>
+	<datestamp>1243516440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>The article says that it <i>could</i> cost <b>AT LEAST</b> $200. <br>
+I'm not sure what kind of crappy journalism that is.... The author might as well have just said we have no idea how much it will cost, but it will certainly not be free.</htmltext>
+<tokenext>The article says that it could cost AT LEAST $ 200 .
+I 'm not sure what kind of crappy journalism that is.... The author might as well have just said we have no idea how much it will cost , but it will certainly not be free .</tokentext>
+<sentencetext>The article says that it could cost AT LEAST $200.
+I'm not sure what kind of crappy journalism that is.... The author might as well have just said we have no idea how much it will cost, but it will certainly not be free.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115757</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115997</id>
+	<title>Great for bedtime</title>
+	<author>Anonymous</author>
+	<datestamp>1243421820000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Project a movie or an e-book on your ceiling. No more tired arms from holding books up. I'm getting one of these babies!</p></htmltext>
+<tokenext>Project a movie or an e-book on your ceiling .
+No more tired arms from holding books up .
+I 'm getting one of these babies !</tokentext>
+<sentencetext>Project a movie or an e-book on your ceiling.
+No more tired arms from holding books up.
+I'm getting one of these babies!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116047</id>
+	<title>Vaporware</title>
+	<author>Anonymous</author>
+	<datestamp>1243422000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I went to <a href="http://www.microvision.com/" title="microvision.com" rel="nofollow">http://www.microvision.com/</a> [microvision.com] and it seemed to me to be a bunch of photo shopped pictures with promises of working with manufactures maybe, sometime in the future to make things kinda like the ones they were talking about. Vaporware.</htmltext>
+<tokenext>I went to http : //www.microvision.com/ [ microvision.com ] and it seemed to me to be a bunch of photo shopped pictures with promises of working with manufactures maybe , sometime in the future to make things kinda like the ones they were talking about .
+Vaporware .</tokentext>
+<sentencetext>I went to http://www.microvision.com/ [microvision.com] and it seemed to me to be a bunch of photo shopped pictures with promises of working with manufactures maybe, sometime in the future to make things kinda like the ones they were talking about.
+Vaporware.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118607</id>
+	<title>Re:I think I speak for all of us when I ask..</title>
+	<author>tuxicle</author>
+	<datestamp>1243439160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Only if they are scanning sharks...</htmltext>
+<tokenext>Only if they are scanning sharks.. .</tokentext>
+<sentencetext>Only if they are scanning sharks...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116561</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28123867</id>
+	<title>Re:Great for bedtime</title>
+	<author>DanielLC</author>
+	<datestamp>1243526520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Project a movie or an e-book on your ceiling. No more tired arms from holding books up. I'm getting one of these babies!</p></div><p> <a href="http://blag.xkcd.com/2009/04/13/the-pursuit-of-laziness/" title="xkcd.com" rel="nofollow">Obligatory xkcd link.</a> [xkcd.com] The blag is still xkcd, right?</p></div>
+	</htmltext>
+<tokenext>Project a movie or an e-book on your ceiling .
+No more tired arms from holding books up .
+I 'm getting one of these babies !
+Obligatory xkcd link .
+[ xkcd.com ] The blag is still xkcd , right ?</tokentext>
+<sentencetext>Project a movie or an e-book on your ceiling.
+No more tired arms from holding books up.
+I'm getting one of these babies!
+Obligatory xkcd link.
+[xkcd.com] The blag is still xkcd, right?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115997</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116023</id>
+	<title>Smallest netbook?</title>
+	<author>crunch\_ca</author>
+	<datestamp>1243421880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I was thinking about this the other day as I was on a plane jammed into a seat with a laptop.  I'd love to see this hooked up to something like:<br> <br>
+
+The <a href="http://hardware.slashdot.org/article.pl?sid=09/05/22/1410227" title="slashdot.org" rel="nofollow">wall wart</a> [slashdot.org] <br> <br>
+
+This would make netbooks seem bulky by comparison.</htmltext>
+<tokenext>I was thinking about this the other day as I was on a plane jammed into a seat with a laptop .
+I 'd love to see this hooked up to something like : The wall wart [ slashdot.org ] This would make netbooks seem bulky by comparison .</tokentext>
+<sentencetext>I was thinking about this the other day as I was on a plane jammed into a seat with a laptop.
+I'd love to see this hooked up to something like: 
+
+The wall wart [slashdot.org]  
+
+This would make netbooks seem bulky by comparison.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116731</id>
+	<title>Nice name</title>
+	<author>nsayer</author>
+	<datestamp>1243425420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Better Microvision than <a href="http://en.wikipedia.org/wiki/Macrovision" title="wikipedia.org">Macrovision</a> [wikipedia.org].</p></htmltext>
+<tokenext>Better Microvision than Macrovision [ wikipedia.org ] .</tokentext>
+<sentencetext>Better Microvision than Macrovision [wikipedia.org].</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117221</id>
+	<title>Hmmmmm...</title>
+	<author>Anonymous</author>
+	<datestamp>1243428600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Are you happy to see me or do you have A Widescreen Laser Projector In Your Pocket?</p></htmltext>
+<tokenext>Are you happy to see me or do you have A Widescreen Laser Projector In Your Pocket ?</tokentext>
+<sentencetext>Are you happy to see me or do you have A Widescreen Laser Projector In Your Pocket?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117947</id>
+	<title>Re:Next big thing</title>
+	<author>tsm\_sf</author>
+	<datestamp>1243433580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>And then combine those two with something like <a href="http://ge.ecomagination.com/smartgrid/?c\_id=googaugreal#/augmented\_reality" title="ecomagination.com">this</a> [ecomagination.com]**, and connect it to <a href="http://grass.itc.it/" title="grass.itc.it">this</a> [grass.itc.it] and a GPS dealie, and we have a whole new medium.
+<br> <br> <br>
+**((It's really worth the time to print out the marker if you haven't seen this yet))</htmltext>
+<tokenext>And then combine those two with something like this [ ecomagination.com ] * * , and connect it to this [ grass.itc.it ] and a GPS dealie , and we have a whole new medium .
+* * ( ( It 's really worth the time to print out the marker if you have n't seen this yet ) )</tokentext>
+<sentencetext>And then combine those two with something like this [ecomagination.com]**, and connect it to this [grass.itc.it] and a GPS dealie, and we have a whole new medium.
+**((It's really worth the time to print out the marker if you haven't seen this yet))</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115817</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865</id>
+	<title>Can somebody explain how it works?</title>
+	<author>lobiusmoop</author>
+	<datestamp>1243421400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Laser projector? How can you project a raster image using a inherently vector system?</p><p>I don't get it. How does it know how big the pixels should be?</p><p>(Or maybe it's obvious and I just need a beating with the clue stick here)</p></htmltext>
+<tokenext>Laser projector ?
+How can you project a raster image using a inherently vector system ? I do n't get it .
+How does it know how big the pixels should be ?
+( Or maybe it 's obvious and I just need a beating with the clue stick here )</tokentext>
+<sentencetext>Laser projector?
+How can you project a raster image using a inherently vector system?I don't get it.
+How does it know how big the pixels should be?
+(Or maybe it's obvious and I just need a beating with the clue stick here)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115805</id>
+	<title>That's what I keep saying</title>
+	<author>Anonymous</author>
+	<datestamp>1243421160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>It is not about how long it is, it's the aspect ratio that matters.</p></htmltext>
+<tokenext>It is not about how long it is , it 's the aspect ratio that matters .</tokentext>
+<sentencetext>It is not about how long it is, it's the aspect ratio that matters.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28120009</id>
+	<title>Re:Anedcotial experience with laser beamers.</title>
+	<author>Anonymous</author>
+	<datestamp>1243454340000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I do work at a cinema. Your "friend" is talking fantasy. The standard for years past and years to come is and will continue to be Film. Who would have access to a full color movie-capable scanning laser projection system? I can find no evidence to support the claim that any audience in cinematic history has had their faces BURNED from laser projection, not even to say that this has ever existed in a cinema.<br>For those curious about what the !@#$ top poster is going on about and how the Microvision scanning laser projection technology relates to cinema...<br>Maintaining a cinema projector lamp house light source is MUCH LESS expensive for equal hours in operation than the light source for a consumer LCD or DLP projector. It's also much more incredibly bright than anything on the consumer market. Theaters will not be interested in the Microvision technology for showing their movies, because it will not be bright enough and you would inherit all the annoying problems of having a digital print anyways.<br>Film is preferred over Digital because you can pick up a film in a multiplex and move it between booths and platter systems quite readily. Being able to readily move a print around is how you maximize profits... are there really any kids awake at a 9pm showing to go see the latest Disney movie about talking cats and superhero hamsters? Adding lasers into the picture doesn't offer anything lucrative even at a Theater set up for digital projection.<br>Theaters using film projectors often use a consumer projector for on-screen advertising, and so the Microvision technology looks pretty good for this if it is bright enough to fill the screen (from a pretty long throw distance). It doesn't have to be high definition or anything, just watchable and cost less than the existing gear to maintain. Digital equipped theaters would still use their cinema projectors to display advertising because it is cheaper to do so.<br>The Microvision technology will primarily appeal to the home theater market segment, where enthusiasts are paying much higher costs than real cinemas to maintain their projection system light source. After the SHOW WX gains momentum as a first generation product, expect to see this technology compete with consumer projection systems, and to become invasive just as the camera has on cell phones and media devices.</p></htmltext>
+<tokenext>I do work at a cinema .
+Your " friend " is talking fantasy .
+The standard for years past and years to come is and will continue to be Film .
+Who would have access to a full color movie-capable scanning laser projection system ?
+I can find no evidence to support the claim that any audience in cinematic history has had their faces BURNED from laser projection , not even to say that this has ever existed in a cinema.For those curious about what the !
+@ # $ top poster is going on about and how the Microvision scanning laser projection technology relates to cinema...Maintaining a cinema projector lamp house light source is MUCH LESS expensive for equal hours in operation than the light source for a consumer LCD or DLP projector .
+It 's also much more incredibly bright than anything on the consumer market .
+Theaters will not be interested in the Microvision technology for showing their movies , because it will not be bright enough and you would inherit all the annoying problems of having a digital print anyways.Film is preferred over Digital because you can pick up a film in a multiplex and move it between booths and platter systems quite readily .
+Being able to readily move a print around is how you maximize profits... are there really any kids awake at a 9pm showing to go see the latest Disney movie about talking cats and superhero hamsters ?
+Adding lasers into the picture does n't offer anything lucrative even at a Theater set up for digital projection.Theaters using film projectors often use a consumer projector for on-screen advertising , and so the Microvision technology looks pretty good for this if it is bright enough to fill the screen ( from a pretty long throw distance ) .
+It does n't have to be high definition or anything , just watchable and cost less than the existing gear to maintain .
+Digital equipped theaters would still use their cinema projectors to display advertising because it is cheaper to do so.The Microvision technology will primarily appeal to the home theater market segment , where enthusiasts are paying much higher costs than real cinemas to maintain their projection system light source .
+After the SHOW WX gains momentum as a first generation product , expect to see this technology compete with consumer projection systems , and to become invasive just as the camera has on cell phones and media devices .</tokentext>
+<sentencetext>I do work at a cinema.
+Your "friend" is talking fantasy.
+The standard for years past and years to come is and will continue to be Film.
+Who would have access to a full color movie-capable scanning laser projection system?
+I can find no evidence to support the claim that any audience in cinematic history has had their faces BURNED from laser projection, not even to say that this has ever existed in a cinema.For those curious about what the !
+@#$ top poster is going on about and how the Microvision scanning laser projection technology relates to cinema...Maintaining a cinema projector lamp house light source is MUCH LESS expensive for equal hours in operation than the light source for a consumer LCD or DLP projector.
+It's also much more incredibly bright than anything on the consumer market.
+Theaters will not be interested in the Microvision technology for showing their movies, because it will not be bright enough and you would inherit all the annoying problems of having a digital print anyways.Film is preferred over Digital because you can pick up a film in a multiplex and move it between booths and platter systems quite readily.
+Being able to readily move a print around is how you maximize profits... are there really any kids awake at a 9pm showing to go see the latest Disney movie about talking cats and superhero hamsters?
+Adding lasers into the picture doesn't offer anything lucrative even at a Theater set up for digital projection.Theaters using film projectors often use a consumer projector for on-screen advertising, and so the Microvision technology looks pretty good for this if it is bright enough to fill the screen (from a pretty long throw distance).
+It doesn't have to be high definition or anything, just watchable and cost less than the existing gear to maintain.
+Digital equipped theaters would still use their cinema projectors to display advertising because it is cheaper to do so.The Microvision technology will primarily appeal to the home theater market segment, where enthusiasts are paying much higher costs than real cinemas to maintain their projection system light source.
+After the SHOW WX gains momentum as a first generation product, expect to see this technology compete with consumer projection systems, and to become invasive just as the camera has on cell phones and media devices.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117661</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116059</id>
+	<title>Re:Price is expected to be</title>
+	<author>madfgurtbn</author>
+	<datestamp>1243422060000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>5</modscore>
+	<htmltext><p><i>Dang, $200 would have been awesome.</i></p><p>It should get there, in a couple years. The reason it will be so expensive to start with is two new technologies in one: Scanning MEMS mirror which projects the image, and the green lasers inside, which have not been produced before.</p><p>Microvision has been waiting for green laser supplier for a long time. Corning has built a facility and is ramping up production of green lasers now.</p><p>When green lasers are available in quantities of millions, the laser projectors will be built into blackberries, iphones, digital cameras, etc.</p></htmltext>
+<tokenext>Dang , $ 200 would have been awesome.It should get there , in a couple years .
+The reason it will be so expensive to start with is two new technologies in one : Scanning MEMS mirror which projects the image , and the green lasers inside , which have not been produced before.Microvision has been waiting for green laser supplier for a long time .
+Corning has built a facility and is ramping up production of green lasers now.When green lasers are available in quantities of millions , the laser projectors will be built into blackberries , iphones , digital cameras , etc .</tokentext>
+<sentencetext>Dang, $200 would have been awesome.It should get there, in a couple years.
+The reason it will be so expensive to start with is two new technologies in one: Scanning MEMS mirror which projects the image, and the green lasers inside, which have not been produced before.Microvision has been waiting for green laser supplier for a long time.
+Corning has built a facility and is ramping up production of green lasers now.When green lasers are available in quantities of millions, the laser projectors will be built into blackberries, iphones, digital cameras, etc.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115757</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117033</id>
+	<title>Re:Vaporware.</title>
+	<author>Zerth</author>
+	<datestamp>1243427460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>That's normal for Microvision.  I don't think they've ever actually released a consumer product.  I'm still waiting for their super-tiny hi-res wearable displays from circa 1998.</p></htmltext>
+<tokenext>That 's normal for Microvision .
+I do n't think they 've ever actually released a consumer product .
+I 'm still waiting for their super-tiny hi-res wearable displays from circa 1998 .</tokentext>
+<sentencetext>That's normal for Microvision.
+I don't think they've ever actually released a consumer product.
+I'm still waiting for their super-tiny hi-res wearable displays from circa 1998.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116091</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116439</id>
+	<title>Is that a Laser Projector In Your Pocket...?</title>
+	<author>Anonymous</author>
+	<datestamp>1243424100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Or are you just happy to see me?</p></htmltext>
+<tokenext>Or are you just happy to see me ?</tokentext>
+<sentencetext>Or are you just happy to see me?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115983</id>
+	<title>Microvision</title>
+	<author>noidentity</author>
+	<datestamp>1243421760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><blockquote><div><p>Redmond based company <b>Microvision</b> is in the last stages of developing and releasing a portable, laser-based projector, code-named 'Show WV.' The projector has a resolution of 848 by 400 pixels (WVGA)</p></div>
+</blockquote><p>Unfortunately, it drops to 1/4 the resolution and makes the brightness increase and decrease constantly when trying to display any copyrighted material.</p></div>
+	</htmltext>
+<tokenext>Redmond based company Microvision is in the last stages of developing and releasing a portable , laser-based projector , code-named 'Show WV .
+' The projector has a resolution of 848 by 400 pixels ( WVGA ) Unfortunately , it drops to 1/4 the resolution and makes the brightness increase and decrease constantly when trying to display any copyrighted material .</tokentext>
+<sentencetext>Redmond based company Microvision is in the last stages of developing and releasing a portable, laser-based projector, code-named 'Show WV.
+' The projector has a resolution of 848 by 400 pixels (WVGA)
+Unfortunately, it drops to 1/4 the resolution and makes the brightness increase and decrease constantly when trying to display any copyrighted material.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115861</id>
+	<title>Cool!</title>
+	<author>Anonymous</author>
+	<datestamp>1243421400000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext>Now I can project even more realistic UFOs on low clouds near the airport!</htmltext>
+<tokenext>Now I can project even more realistic UFOs on low clouds near the airport !</tokentext>
+<sentencetext>Now I can project even more realistic UFOs on low clouds near the airport!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28122573</id>
+	<title>Re:Price is expected to be</title>
+	<author>marciot</author>
+	<datestamp>1243520340000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>The posting said "it could cost <b>at least</b> $200". So, although it <b>could</b> cost $200, it could also cost $2,000 or maybe even $20,000. In other words, that wasn't the most useful bit of information to begin with<nobr> <wbr></nobr>:)</p></htmltext>
+<tokenext>The posting said " it could cost at least $ 200 " .
+So , although it could cost $ 200 , it could also cost $ 2,000 or maybe even $ 20,000 .
+In other words , that was n't the most useful bit of information to begin with : )</tokentext>
+<sentencetext>The posting said "it could cost at least $200".
+So, although it could cost $200, it could also cost $2,000 or maybe even $20,000.
+In other words, that wasn't the most useful bit of information to begin with :)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115757</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116737</id>
+	<title>Re:Power and brightness...</title>
+	<author>sznupi</author>
+	<datestamp>1243425480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Hm, need for a "darkened room"...that could actually be an advantage when inviting somebody for moviewatching<nobr> <wbr></nobr>;p</p><p>(yes, I eagerly await lower prices, hopefully by this Autumn, on DLP (or what was the name of that TI micromirror technology) based miniprojectors)</p></htmltext>
+<tokenext>Hm , need for a " darkened room " ...that could actually be an advantage when inviting somebody for moviewatching ; p ( yes , I eagerly await lower prices , hopefully by this Autumn , on DLP ( or what was the name of that TI micromirror technology ) based miniprojectors )</tokentext>
+<sentencetext>Hm, need for a "darkened room"...that could actually be an advantage when inviting somebody for moviewatching ;p(yes, I eagerly await lower prices, hopefully by this Autumn, on DLP (or what was the name of that TI micromirror technology) based miniprojectors)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116093</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116103</id>
+	<title>Summary is Wrong</title>
+	<author>phreakhead</author>
+	<datestamp>1243422180000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>It's called the SHOW WX, not SHOW WV. FTFA: "WX stands for "wide experience", referring to the wide image format, wide color range and wide always in-focus operation."</p><p>As a VJ, I could really use one of these instead of hauling around my huge HD projector, since I only project at 320x240 anyway (to keep real-time video mixing fast). Hopefully the battery really lasts as long as a movie though!</p></htmltext>
+<tokenext>It 's called the SHOW WX , not SHOW WV .
+FTFA : " WX stands for " wide experience " , referring to the wide image format , wide color range and wide always in-focus operation .
+" As a VJ , I could really use one of these instead of hauling around my huge HD projector , since I only project at 320x240 anyway ( to keep real-time video mixing fast ) .
+Hopefully the battery really lasts as long as a movie though !</tokentext>
+<sentencetext>It's called the SHOW WX, not SHOW WV.
+FTFA: "WX stands for "wide experience", referring to the wide image format, wide color range and wide always in-focus operation.
+"As a VJ, I could really use one of these instead of hauling around my huge HD projector, since I only project at 320x240 anyway (to keep real-time video mixing fast).
+Hopefully the battery really lasts as long as a movie though!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117661</id>
+	<title>Anedcotial experience with laser beamers.</title>
+	<author>Hurricane78</author>
+	<datestamp>1243431480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I heard from a friend who works at a cinema, that some years ago, they tried to build laser projectors. They were incredibly sharp and brilliant. So brilliant in fact, that the viewers got their faces painfully burned. (Dunno if just from passing by. Or from looking at it, which would mean their eyes got damaged too.)</p><p>It may only be an anecdote. But I do not trust these things. ^^</p><p>Oh, and with the massive parallelism of LCD and DLP displays, I was happy for the not very healthy flickering of line-scan displays being gone. So another point to preferring non-laser devices.</p><p>But I am curious what new knowledge the future brings.<nobr> <wbr></nobr>:)</p></htmltext>
+<tokenext>I heard from a friend who works at a cinema , that some years ago , they tried to build laser projectors .
+They were incredibly sharp and brilliant .
+So brilliant in fact , that the viewers got their faces painfully burned .
+( Dunno if just from passing by .
+Or from looking at it , which would mean their eyes got damaged too .
+) It may only be an anecdote .
+But I do not trust these things .
+^ ^ Oh , and with the massive parallelism of LCD and DLP displays , I was happy for the not very healthy flickering of line-scan displays being gone .
+So another point to preferring non-laser devices.But I am curious what new knowledge the future brings .
+: )</tokentext>
+<sentencetext>I heard from a friend who works at a cinema, that some years ago, they tried to build laser projectors.
+They were incredibly sharp and brilliant.
+So brilliant in fact, that the viewers got their faces painfully burned.
+(Dunno if just from passing by.
+Or from looking at it, which would mean their eyes got damaged too.
+)It may only be an anecdote.
+But I do not trust these things.
+^^Oh, and with the massive parallelism of LCD and DLP displays, I was happy for the not very healthy flickering of line-scan displays being gone.
+So another point to preferring non-laser devices.But I am curious what new knowledge the future brings.
+:)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115933</id>
+	<title>Re:Can somebody explain how it works?</title>
+	<author>Anonymous</author>
+	<datestamp>1243421640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>My guess would be:</p><p>
+&nbsp; &nbsp; http://en.wikipedia.org/wiki/Raster\_scan</p></htmltext>
+<tokenext>My guess would be : Â   Â   http : //en.wikipedia.org/wiki/Raster \ _scan</tokentext>
+<sentencetext>My guess would be:
+Â  Â  http://en.wikipedia.org/wiki/Raster\_scan</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28119117</id>
+	<title>Re:Price is expected to be</title>
+	<author>Culture20</author>
+	<datestamp>1243444560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>848x400 resolution... Buy six and a frame splitter (or series of splitters), and you can get 1696x1200.  Buy nine, and you can get 2544x1200.  Of course, mounting is up to you.  Might be worth it to replace certain projectors.</htmltext>
+<tokenext>848x400 resolution... Buy six and a frame splitter ( or series of splitters ) , and you can get 1696x1200 .
+Buy nine , and you can get 2544x1200 .
+Of course , mounting is up to you .
+Might be worth it to replace certain projectors .</tokentext>
+<sentencetext>848x400 resolution... Buy six and a frame splitter (or series of splitters), and you can get 1696x1200.
+Buy nine, and you can get 2544x1200.
+Of course, mounting is up to you.
+Might be worth it to replace certain projectors.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116167</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116093</id>
+	<title>Power and brightness...</title>
+	<author>bzzfzz</author>
+	<datestamp>1243422120000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>... are the two limitations of small projectors.  They claim 10 lumens while most conventional mains-powered projectors are typically 1000-2000 lumens.  That makes the product usable alone in a darkened room but not much of anywhere else.  Their claim of "movie capable" battery life rather than a specific time period leads me to conclude that they watch shorter than average movies.
+</p><p>
+I predict that, like the <a href="http://planon.com/" title="planon.com">pen scanner,</a> [planon.com] this proves to be a geeky cool but practically useless device.
+</p></htmltext>
+<tokenext>... are the two limitations of small projectors .
+They claim 10 lumens while most conventional mains-powered projectors are typically 1000-2000 lumens .
+That makes the product usable alone in a darkened room but not much of anywhere else .
+Their claim of " movie capable " battery life rather than a specific time period leads me to conclude that they watch shorter than average movies .
+I predict that , like the pen scanner , [ planon.com ] this proves to be a geeky cool but practically useless device .</tokentext>
+<sentencetext>... are the two limitations of small projectors.
+They claim 10 lumens while most conventional mains-powered projectors are typically 1000-2000 lumens.
+That makes the product usable alone in a darkened room but not much of anywhere else.
+Their claim of "movie capable" battery life rather than a specific time period leads me to conclude that they watch shorter than average movies.
+I predict that, like the pen scanner, [planon.com] this proves to be a geeky cool but practically useless device.
+</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28203337</id>
+	<title>Re:Power and brightness...</title>
+	<author>PacoBell</author>
+	<datestamp>1244031360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>"Their claim of "movie capable" battery life rather than a specific time period leads me to conclude that they watch shorter than average movies." <a href="http://microvision.blogspot.com/2009/01/microvision-unveils-pre-production-pico.html" title="blogspot.com" rel="nofollow">You're mistaken</a> [blogspot.com].</htmltext>
+<tokenext>" Their claim of " movie capable " battery life rather than a specific time period leads me to conclude that they watch shorter than average movies .
+" You 're mistaken [ blogspot.com ] .</tokentext>
+<sentencetext>"Their claim of "movie capable" battery life rather than a specific time period leads me to conclude that they watch shorter than average movies.
+" You're mistaken [blogspot.com].</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116093</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116155</id>
+	<title>Wake me up</title>
+	<author>markdavis</author>
+	<datestamp>1243422480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>when the resolution is at least 1024 wide (1280 preferable) and it can project with more than 10 lumens of light!  (Their Macromedia Flash demo thing on the website is waaaaaay optimistic about how bright it will look).  The slashvertisement site "specs" also conveniently leaves off critical information such as what resolutions it can accept (and downscale), what types of cables are included, what type of battery and real estimates of battery life, exactly how much power does it pull (can you operate it live with the usb or just charge), what the image latency/persistence is like, how it deals with 4:3 ratios, etc.</p><p>Neat product though!</p></htmltext>
+<tokenext>when the resolution is at least 1024 wide ( 1280 preferable ) and it can project with more than 10 lumens of light !
+( Their Macromedia Flash demo thing on the website is waaaaaay optimistic about how bright it will look ) .
+The slashvertisement site " specs " also conveniently leaves off critical information such as what resolutions it can accept ( and downscale ) , what types of cables are included , what type of battery and real estimates of battery life , exactly how much power does it pull ( can you operate it live with the usb or just charge ) , what the image latency/persistence is like , how it deals with 4 : 3 ratios , etc.Neat product though !</tokentext>
+<sentencetext>when the resolution is at least 1024 wide (1280 preferable) and it can project with more than 10 lumens of light!
+(Their Macromedia Flash demo thing on the website is waaaaaay optimistic about how bright it will look).
+The slashvertisement site "specs" also conveniently leaves off critical information such as what resolutions it can accept (and downscale), what types of cables are included, what type of battery and real estimates of battery life, exactly how much power does it pull (can you operate it live with the usb or just charge), what the image latency/persistence is like, how it deals with 4:3 ratios, etc.Neat product though!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117441</id>
+	<title>Is that...</title>
+	<author>Anonymous</author>
+	<datestamp>1243430040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>a widescreen projector in your pocket or are you just happy to see me?</p></htmltext>
+<tokenext>a widescreen projector in your pocket or are you just happy to see me ?</tokentext>
+<sentencetext>a widescreen projector in your pocket or are you just happy to see me?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117993</id>
+	<title>Re:Can It Function as a Back-Lit Rear Projector?</title>
+	<author>Anonymous</author>
+	<datestamp>1243433820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>And project an image of my ass onto a car window as I pass someone?</p></div><p>No, but <a href="http://www.oodle.com/view/Mr-C-More-Bunz/1274762411/usa/" title="oodle.com">this</a> [oodle.com] can.<nobr> <wbr></nobr>:)
+<br> <br>What I don't understand is why, in TFS, they claim "...since it uses laser-scanning rather than LCD to form the images, it does not require a lens to focus, allowing it to display images virtually in any surface." What the hell does the method of focussing have to do with the projection surface? I mean, laser projector is cool but it doesn't change the laws o' physics, captain. Small diode lasers only tend to stay coherent for a short distance (sometimes only inches) so this should work just as well with any collimated light source. I'd be interested to know how it scans, though - rotating mirrors seems a bit risky in a device that people are going to be moving around while it's on.</p></div>
+	</htmltext>
+<tokenext>And project an image of my ass onto a car window as I pass someone ? No , but this [ oodle.com ] can .
+: ) What I do n't understand is why , in TFS , they claim " ...since it uses laser-scanning rather than LCD to form the images , it does not require a lens to focus , allowing it to display images virtually in any surface .
+" What the hell does the method of focussing have to do with the projection surface ?
+I mean , laser projector is cool but it does n't change the laws o ' physics , captain .
+Small diode lasers only tend to stay coherent for a short distance ( sometimes only inches ) so this should work just as well with any collimated light source .
+I 'd be interested to know how it scans , though - rotating mirrors seems a bit risky in a device that people are going to be moving around while it 's on .</tokentext>
+<sentencetext>And project an image of my ass onto a car window as I pass someone?No, but this [oodle.com] can.
+:)
+ What I don't understand is why, in TFS, they claim "...since it uses laser-scanning rather than LCD to form the images, it does not require a lens to focus, allowing it to display images virtually in any surface.
+" What the hell does the method of focussing have to do with the projection surface?
+I mean, laser projector is cool but it doesn't change the laws o' physics, captain.
+Small diode lasers only tend to stay coherent for a short distance (sometimes only inches) so this should work just as well with any collimated light source.
+I'd be interested to know how it scans, though - rotating mirrors seems a bit risky in a device that people are going to be moving around while it's on.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115705</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118669</id>
+	<title>Re:Can somebody explain how it works?</title>
+	<author>ChrisMaple</author>
+	<datestamp>1243439640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I don't know what they're doing, but I see two possibilities.<br>
+One is raster scan, which others have mentioned, which involves moving mirrors and modulating the lasers. I've been told this is not practical due to the physical difficulties of controlling fast moving mirrors. (But this advice is 20 years old.)<br>
+The other is the Texas Instruments micromirror approach. The laser beam is diverged to cover the whole mirror chip, and individual micromirror movements modulate each pixel.</htmltext>
+<tokenext>I do n't know what they 're doing , but I see two possibilities .
+One is raster scan , which others have mentioned , which involves moving mirrors and modulating the lasers .
+I 've been told this is not practical due to the physical difficulties of controlling fast moving mirrors .
+( But this advice is 20 years old .
+) The other is the Texas Instruments micromirror approach .
+The laser beam is diverged to cover the whole mirror chip , and individual micromirror movements modulate each pixel .</tokentext>
+<sentencetext>I don't know what they're doing, but I see two possibilities.
+One is raster scan, which others have mentioned, which involves moving mirrors and modulating the lasers.
+I've been told this is not practical due to the physical difficulties of controlling fast moving mirrors.
+(But this advice is 20 years old.
+)
+The other is the Texas Instruments micromirror approach.
+The laser beam is diverged to cover the whole mirror chip, and individual micromirror movements modulate each pixel.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116461</id>
+	<title>Re:Can It Function as a Back-Lit Rear Projector?</title>
+	<author>inode\_buddha</author>
+	<datestamp>1243424220000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>Nope, but you *can* project goatse from your cellphone towards a whole busload of people during rush hour...</htmltext>
+<tokenext>Nope , but you * can * project goatse from your cellphone towards a whole busload of people during rush hour.. .</tokentext>
+<sentencetext>Nope, but you *can* project goatse from your cellphone towards a whole busload of people during rush hour...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115705</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28120481</id>
+	<title>Re:Can somebody explain how it works?</title>
+	<author>Anonymous</author>
+	<datestamp>1243502940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>As long as the laser light spreads out proportional to the distance it has travelled the picture should look good wherever the laser will reach.</p></div><p>How could it not? Light tends to travel through air in straight lines.</p></div>
+	</htmltext>
+<tokenext>As long as the laser light spreads out proportional to the distance it has travelled the picture should look good wherever the laser will reach.How could it not ?
+Light tends to travel through air in straight lines .</tokentext>
+<sentencetext>As long as the laser light spreads out proportional to the distance it has travelled the picture should look good wherever the laser will reach.How could it not?
+Light tends to travel through air in straight lines.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115949</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116565</id>
+	<title>Re:Can somebody explain how it works?</title>
+	<author>IronMagnus</author>
+	<datestamp>1243424760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>This one fits in your pocket, and is happy to see you.</htmltext>
+<tokenext>This one fits in your pocket , and is happy to see you .</tokentext>
+<sentencetext>This one fits in your pocket, and is happy to see you.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116117</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115965</id>
+	<title>Re:Can somebody explain how it works?</title>
+	<author>Joce640k</author>
+	<datestamp>1243421700000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Think: CRTs use an electron beam<nobr> <wbr></nobr>... maybe you can figure the rest out all by yourself.</p></htmltext>
+<tokenext>Think : CRTs use an electron beam ... maybe you can figure the rest out all by yourself .</tokentext>
+<sentencetext>Think: CRTs use an electron beam ... maybe you can figure the rest out all by yourself.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116531</id>
+	<title>Re:Can somebody explain how it works?</title>
+	<author>Edis Krad</author>
+	<datestamp>1243424580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>True, however none have been this tiny. The keyword here is 'portability'. I work with laser projectors and come in these huge metal boxes that weight at least a 5 to 10 kilograms.<br>
+
+This type of portable displaying opens a lot of interest possibilities. Particularly, I'm thinking of Augmented Reality applications.</htmltext>
+<tokenext>True , however none have been this tiny .
+The keyword here is 'portability' .
+I work with laser projectors and come in these huge metal boxes that weight at least a 5 to 10 kilograms .
+This type of portable displaying opens a lot of interest possibilities .
+Particularly , I 'm thinking of Augmented Reality applications .</tokentext>
+<sentencetext>True, however none have been this tiny.
+The keyword here is 'portability'.
+I work with laser projectors and come in these huge metal boxes that weight at least a 5 to 10 kilograms.
+This type of portable displaying opens a lot of interest possibilities.
+Particularly, I'm thinking of Augmented Reality applications.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116117</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28119101</id>
+	<title>Re:Great for bedtime</title>
+	<author>TheVelvetFlamebait</author>
+	<datestamp>1243444260000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>During my bedtime, I also like to look at movies and publications, but my arms get tired for a very different reason. I don't think a laser projector would really help...</p></htmltext>
+<tokenext>During my bedtime , I also like to look at movies and publications , but my arms get tired for a very different reason .
+I do n't think a laser projector would really help.. .</tokentext>
+<sentencetext>During my bedtime, I also like to look at movies and publications, but my arms get tired for a very different reason.
+I don't think a laser projector would really help...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115997</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28120053</id>
+	<title>Re:Price is expected to be</title>
+	<author>vikstar</author>
+	<datestamp>1243541220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Green laser pointers have been around for years, how are they different to the ones that are used in these projectors?</p></htmltext>
+<tokenext>Green laser pointers have been around for years , how are they different to the ones that are used in these projectors ?</tokentext>
+<sentencetext>Green laser pointers have been around for years, how are they different to the ones that are used in these projectors?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116059</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115773</id>
+	<title>in?</title>
+	<author>mgabrys\_sf</author>
+	<datestamp>1243421040000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>"In" any surface? How am I supposed to see it?</p><p>"On" a surface makes sense. "In" a surface would entertain Morlocks.</p><p>Just the thing for Morlock porn tho.</p></htmltext>
+<tokenext>" In " any surface ?
+How am I supposed to see it ?
+" On " a surface makes sense .
+" In " a surface would entertain Morlocks.Just the thing for Morlock porn tho .</tokentext>
+<sentencetext>"In" any surface?
+How am I supposed to see it?
+"On" a surface makes sense.
+"In" a surface would entertain Morlocks.Just the thing for Morlock porn tho.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116701</id>
+	<title>Re:hey mr. DJ</title>
+	<author>sznupi</author>
+	<datestamp>1243425240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Oh, Lords of Kobol, please make it stop!</p><p>(not sure how popular it is at your place, but recently teens here on the stupid side of bell curve tend to listen as loud as possible to crap music on crap loudspeakers of their cellphones while walking on the street/etc.)</p></htmltext>
+<tokenext>Oh , Lords of Kobol , please make it stop !
+( not sure how popular it is at your place , but recently teens here on the stupid side of bell curve tend to listen as loud as possible to crap music on crap loudspeakers of their cellphones while walking on the street/etc .
+)</tokentext>
+<sentencetext>Oh, Lords of Kobol, please make it stop!
+(not sure how popular it is at your place, but recently teens here on the stupid side of bell curve tend to listen as loud as possible to crap music on crap loudspeakers of their cellphones while walking on the street/etc.
+)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116009</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28121325</id>
+	<title>Re:Power and brightness...</title>
+	<author>TheRaven64</author>
+	<datestamp>1243511280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>My guess is that they're still using one or two generation old diode technology in their lasers.  I did some sums a while ago and worked out that, to get the same brighness as my 200W projector, you'd need about a 12W LED.  That's a lot for a handheld device, but it's about the same draw as the screen in my laptop.  Note that this is bright enough for a two meter diagonal display which is visible with the curtains open at any time when the sun isn't shining directly on to the screen.  If you just want a 20" display in a coffee shop, you could probably dial the power back to closer to 2W.  <p>
+Ideally, you'd be able to switch between these two modes depending on whether the machine had power.  Imagine a pocket computer that you could use with a smallish (but still bigger than most laptops) projected display while you were mobile and then plug in when you got home and have it use bluetooth input devices and project a display that covered a wall.</p></htmltext>
+<tokenext>My guess is that they 're still using one or two generation old diode technology in their lasers .
+I did some sums a while ago and worked out that , to get the same brighness as my 200W projector , you 'd need about a 12W LED .
+That 's a lot for a handheld device , but it 's about the same draw as the screen in my laptop .
+Note that this is bright enough for a two meter diagonal display which is visible with the curtains open at any time when the sun is n't shining directly on to the screen .
+If you just want a 20 " display in a coffee shop , you could probably dial the power back to closer to 2W .
+Ideally , you 'd be able to switch between these two modes depending on whether the machine had power .
+Imagine a pocket computer that you could use with a smallish ( but still bigger than most laptops ) projected display while you were mobile and then plug in when you got home and have it use bluetooth input devices and project a display that covered a wall .</tokentext>
+<sentencetext>My guess is that they're still using one or two generation old diode technology in their lasers.
+I did some sums a while ago and worked out that, to get the same brighness as my 200W projector, you'd need about a 12W LED.
+That's a lot for a handheld device, but it's about the same draw as the screen in my laptop.
+Note that this is bright enough for a two meter diagonal display which is visible with the curtains open at any time when the sun isn't shining directly on to the screen.
+If you just want a 20" display in a coffee shop, you could probably dial the power back to closer to 2W.
+Ideally, you'd be able to switch between these two modes depending on whether the machine had power.
+Imagine a pocket computer that you could use with a smallish (but still bigger than most laptops) projected display while you were mobile and then plug in when you got home and have it use bluetooth input devices and project a display that covered a wall.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116093</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117287</id>
+	<title>Re:hey mr. DJ</title>
+	<author>Anonymous</author>
+	<datestamp>1243428900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>You know they'll "blast" their music from half inch speakers in their mobile phones... If that trend doesn't die off soon, I'll buy a ghettoblaster and show those young whippersnappers how it's done.</p></htmltext>
+<tokenext>You know they 'll " blast " their music from half inch speakers in their mobile phones... If that trend does n't die off soon , I 'll buy a ghettoblaster and show those young whippersnappers how it 's done .</tokentext>
+<sentencetext>You know they'll "blast" their music from half inch speakers in their mobile phones... If that trend doesn't die off soon, I'll buy a ghettoblaster and show those young whippersnappers how it's done.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116009</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115931</id>
+	<title>Obligatory</title>
+	<author>noidentity</author>
+	<datestamp>1243421640000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>-1</modscore>
+	<htmltext>Is that a widescreen laser projector in your pocket, or are you just happy to see me?</htmltext>
+<tokenext>Is that a widescreen laser projector in your pocket , or are you just happy to see me ?</tokentext>
+<sentencetext>Is that a widescreen laser projector in your pocket, or are you just happy to see me?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118017</id>
+	<title>848 x 400?</title>
+	<author>Jane Q. Public</author>
+	<datestamp>1243434000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>That is not "widescreen". Well, except in contrast to old-style analog television. But by today's standards, that is downright shitty resolution.</htmltext>
+<tokenext>That is not " widescreen " .
+Well , except in contrast to old-style analog television .
+But by today 's standards , that is downright shitty resolution .</tokentext>
+<sentencetext>That is not "widescreen".
+Well, except in contrast to old-style analog television.
+But by today's standards, that is downright shitty resolution.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116091</id>
+	<title>Vaporware.</title>
+	<author>Craig Davison</author>
+	<datestamp>1243422120000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>There's no price, and demo of this thing working, because it doesn't exist yet. But they do have CG mockups in 10 different colors!</p></htmltext>
+<tokenext>There 's no price , and demo of this thing working , because it does n't exist yet .
+But they do have CG mockups in 10 different colors !</tokentext>
+<sentencetext>There's no price, and demo of this thing working, because it doesn't exist yet.
+But they do have CG mockups in 10 different colors!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118383</id>
+	<title>Re:hey mr. DJ</title>
+	<author>jellomizer</author>
+	<datestamp>1243437300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>They exist people who don't care to party all night long.  I am sure after coming home from a long day of work and some dude turns your subway in to a rave, you will find someone "accidentally" smashing it.</p></htmltext>
+<tokenext>They exist people who do n't care to party all night long .
+I am sure after coming home from a long day of work and some dude turns your subway in to a rave , you will find someone " accidentally " smashing it .</tokentext>
+<sentencetext>They exist people who don't care to party all night long.
+I am sure after coming home from a long day of work and some dude turns your subway in to a rave, you will find someone "accidentally" smashing it.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116009</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116539</id>
+	<title>When?</title>
+	<author>mkro</author>
+	<datestamp>1243424640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>The Youtube video was posted January 12, 2008<nobr> <wbr></nobr>:\</htmltext>
+<tokenext>The Youtube video was posted January 12 , 2008 : \</tokentext>
+<sentencetext>The Youtube video was posted January 12, 2008 :\</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117801</id>
+	<title>Re:Great for bedtime</title>
+	<author>Anonymous</author>
+	<datestamp>1243432500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>LOL flabby arms.</p></htmltext>
+<tokenext>LOL flabby arms .</tokentext>
+<sentencetext>LOL flabby arms.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115997</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116167</id>
+	<title>Re:Price is expected to be</title>
+	<author>WarlockD</author>
+	<datestamp>1243422600000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext>$400-$500 IS awesome!  God do you know how much bulbs cost for even the "cheap" projectors?  Hell, even if you WANT to get a bulb, try to get one for just a 4 year old projector.  Its worst than god damn ink cartridges. <br> <br> Its why I have been looking at the LED based ones, but they are just not bright enough for my purposes.  Give me one of these with just a 10k laser life AND an HD out?  I am as good as sold.</htmltext>
+<tokenext>$ 400- $ 500 IS awesome !
+God do you know how much bulbs cost for even the " cheap " projectors ?
+Hell , even if you WANT to get a bulb , try to get one for just a 4 year old projector .
+Its worst than god damn ink cartridges .
+Its why I have been looking at the LED based ones , but they are just not bright enough for my purposes .
+Give me one of these with just a 10k laser life AND an HD out ?
+I am as good as sold .</tokentext>
+<sentencetext>$400-$500 IS awesome!
+God do you know how much bulbs cost for even the "cheap" projectors?
+Hell, even if you WANT to get a bulb, try to get one for just a 4 year old projector.
+Its worst than god damn ink cartridges.
+Its why I have been looking at the LED based ones, but they are just not bright enough for my purposes.
+Give me one of these with just a 10k laser life AND an HD out?
+I am as good as sold.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115757</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115757</id>
+	<title>Price is expected to be</title>
+	<author>Anonymous</author>
+	<datestamp>1243420980000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext>$400 to $500 USD according to the manufacturer site; not $200.  Dang, $200 would have been awesome.</htmltext>
+<tokenext>$ 400 to $ 500 USD according to the manufacturer site ; not $ 200 .
+Dang , $ 200 would have been awesome .</tokentext>
+<sentencetext>$400 to $500 USD according to the manufacturer site; not $200.
+Dang, $200 would have been awesome.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116595</id>
+	<title>Re:Meetings</title>
+	<author>sznupi</author>
+	<datestamp>1243424820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I'd argue there's more to making a presentation that simply available technology.</p><p>Sadly, the amount of horrible Powerpoint presentations one has to witness in this world means my views are not very common... (at least at the point when average person, bored during presentation while on the audience, has to be a presenter and simply uses Powerpoint as a cheat-sheet)</p></htmltext>
+<tokenext>I 'd argue there 's more to making a presentation that simply available technology.Sadly , the amount of horrible Powerpoint presentations one has to witness in this world means my views are not very common... ( at least at the point when average person , bored during presentation while on the audience , has to be a presenter and simply uses Powerpoint as a cheat-sheet )</tokentext>
+<sentencetext>I'd argue there's more to making a presentation that simply available technology.Sadly, the amount of horrible Powerpoint presentations one has to witness in this world means my views are not very common... (at least at the point when average person, bored during presentation while on the audience, has to be a presenter and simply uses Powerpoint as a cheat-sheet)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115781</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28121357</id>
+	<title>Re:848 x 400?</title>
+	<author>TheRaven64</author>
+	<datestamp>1243511760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Huh?  It's 2.12:1, which is roughly the same aspect ratio as cinemas.  In what way is that not widescreen?  Most widescreen TV is 16:9, which is 1.78:1.  If the other poster is correct and the resolution should have been 848x480 then the aspect ratio is the same as a widescreen TV.</p><p>
+Unless you're from the US and believe the TV company marketing over there that says high definition, widescreen, and digital are all terms that can be used interchangeably.</p></htmltext>
+<tokenext>Huh ?
+It 's 2.12 : 1 , which is roughly the same aspect ratio as cinemas .
+In what way is that not widescreen ?
+Most widescreen TV is 16 : 9 , which is 1.78 : 1 .
+If the other poster is correct and the resolution should have been 848x480 then the aspect ratio is the same as a widescreen TV .
+Unless you 're from the US and believe the TV company marketing over there that says high definition , widescreen , and digital are all terms that can be used interchangeably .</tokentext>
+<sentencetext>Huh?
+It's 2.12:1, which is roughly the same aspect ratio as cinemas.
+In what way is that not widescreen?
+Most widescreen TV is 16:9, which is 1.78:1.
+If the other poster is correct and the resolution should have been 848x480 then the aspect ratio is the same as a widescreen TV.
+Unless you're from the US and believe the TV company marketing over there that says high definition, widescreen, and digital are all terms that can be used interchangeably.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118017</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116505</id>
+	<title>Re:in?</title>
+	<author>Anonymous</author>
+	<datestamp>1243424460000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>offtopic? Attention retarded mod - read the fucking summary - see the words in a row? One of them is wrong.</p><p>Virgin nerds depress me.</p></htmltext>
+<tokenext>offtopic ?
+Attention retarded mod - read the fucking summary - see the words in a row ?
+One of them is wrong.Virgin nerds depress me .</tokentext>
+<sentencetext>offtopic?
+Attention retarded mod - read the fucking summary - see the words in a row?
+One of them is wrong.Virgin nerds depress me.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115773</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115781</id>
+	<title>Meetings</title>
+	<author>XPeter</author>
+	<datestamp>1243421100000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>This could be very useful in the cooperate world.  Instead of dragging around charts projectors and things alike; have this nifty device in your pocket and your presentation is ready.</p></htmltext>
+<tokenext>This could be very useful in the cooperate world .
+Instead of dragging around charts projectors and things alike ; have this nifty device in your pocket and your presentation is ready .</tokentext>
+<sentencetext>This could be very useful in the cooperate world.
+Instead of dragging around charts projectors and things alike; have this nifty device in your pocket and your presentation is ready.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115963</id>
+	<title>Re:Can It Function as a Back-Lit Rear Projector?</title>
+	<author>madfgurtbn</author>
+	<datestamp>1243421700000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Yes it can: <a href="http://www.youtube.com/watch?v=fFmWAwttqZ8" title="youtube.com">http://www.youtube.com/watch?v=fFmWAwttqZ8</a> [youtube.com]</p></htmltext>
+<tokenext>Yes it can : http : //www.youtube.com/watch ? v = fFmWAwttqZ8 [ youtube.com ]</tokentext>
+<sentencetext>Yes it can: http://www.youtube.com/watch?v=fFmWAwttqZ8 [youtube.com]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115705</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116567</id>
+	<title>Can I get it...</title>
+	<author>PortHaven</author>
+	<datestamp>1243424760000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>In 1080p and capable of 120hz refresh rate?</p><p>???</p></htmltext>
+<tokenext>In 1080p and capable of 120hz refresh rate ? ? ?
+?</tokentext>
+<sentencetext>In 1080p and capable of 120hz refresh rate???
+?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28119497</id>
+	<title>Re:Summary is Wrong</title>
+	<author>Chitlenz</author>
+	<datestamp>1243448400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Man no kidding, we're just buying a second projector to play out with (we as a 3 man crew mix Dnb and psytrance) after the first one fried.  A pocketsized projector that matches the lazers? Totally win, even at 500$.  I remember seeing really cool demos done with lazer projection and fog machines too.  I wonder what one of these looks like through haze.</p></htmltext>
+<tokenext>Man no kidding , we 're just buying a second projector to play out with ( we as a 3 man crew mix Dnb and psytrance ) after the first one fried .
+A pocketsized projector that matches the lazers ?
+Totally win , even at 500 $ .
+I remember seeing really cool demos done with lazer projection and fog machines too .
+I wonder what one of these looks like through haze .</tokentext>
+<sentencetext>Man no kidding, we're just buying a second projector to play out with (we as a 3 man crew mix Dnb and psytrance) after the first one fried.
+A pocketsized projector that matches the lazers?
+Totally win, even at 500$.
+I remember seeing really cool demos done with lazer projection and fog machines too.
+I wonder what one of these looks like through haze.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116103</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28126755</id>
+	<title>Use it with the Virtual Keyboard!!!</title>
+	<author>progliberty</author>
+	<datestamp>1243537560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Holy cow! All we need to do is have this working with the virtual keyboard ( <a href="http://www.virtual-laser-keyboard.com/" title="virtual-la...yboard.com" rel="nofollow">http://www.virtual-laser-keyboard.com/</a> [virtual-la...yboard.com] ), and we have a computer that has input/output devices that are mostly light!</htmltext>
+<tokenext>Holy cow !
+All we need to do is have this working with the virtual keyboard ( http : //www.virtual-laser-keyboard.com/ [ virtual-la...yboard.com ] ) , and we have a computer that has input/output devices that are mostly light !</tokentext>
+<sentencetext>Holy cow!
+All we need to do is have this working with the virtual keyboard ( http://www.virtual-laser-keyboard.com/ [virtual-la...yboard.com] ), and we have a computer that has input/output devices that are mostly light!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115963</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116117</id>
+	<title>Re:Can somebody explain how it works?</title>
+	<author>Myriad</author>
+	<datestamp>1243422240000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>This has been done before, IIRC Samsung released one of the first TV quality raster scanning system for laser shows.</p><p>Basically a standard laser show setup uses multiple lasers (to get your RGB) combined into a single beam then passed through a device, such as a PCAOM, which acts as rather like a programmable colour filter. (this isn't the only way it can be done with solid state lasers).</p><p>Two sets of mirrors can be steered in the X and Y axis to draw your shapes, beam effects, etc.</p><p>In the case of a TV or other raster displays the beam is steered much like you would an electron beam on a regular TV. It scans a horizontal line, moves down scans across, repeat. You can switch the direction of the scan (left to right, then right to left) on alternating lines to speed up the scan rate.</p><p>Wikipedia has some info on Laser TV's in general: <a href="http://en.wikipedia.org/wiki/Laser\_TV" title="wikipedia.org">http://en.wikipedia.org/wiki/Laser\_TV</a> [wikipedia.org]  and LaserFX has some info on PCAOM's if you're interested in the older tech: <a href="http://www.laserfx.com/Backstage.LaserFX.com/Archives/Archives6.html" title="laserfx.com">http://www.laserfx.com/Backstage.LaserFX.com/Archives/Archives6.html</a> [laserfx.com]
+</p><p>Early systems actually used multiple projectors overlapping or drawing the first 3rd, 2nd third, etc of the image to make up for slower scan rates.</p></htmltext>
+<tokenext>This has been done before , IIRC Samsung released one of the first TV quality raster scanning system for laser shows.Basically a standard laser show setup uses multiple lasers ( to get your RGB ) combined into a single beam then passed through a device , such as a PCAOM , which acts as rather like a programmable colour filter .
+( this is n't the only way it can be done with solid state lasers ) .Two sets of mirrors can be steered in the X and Y axis to draw your shapes , beam effects , etc.In the case of a TV or other raster displays the beam is steered much like you would an electron beam on a regular TV .
+It scans a horizontal line , moves down scans across , repeat .
+You can switch the direction of the scan ( left to right , then right to left ) on alternating lines to speed up the scan rate.Wikipedia has some info on Laser TV 's in general : http : //en.wikipedia.org/wiki/Laser \ _TV [ wikipedia.org ] and LaserFX has some info on PCAOM 's if you 're interested in the older tech : http : //www.laserfx.com/Backstage.LaserFX.com/Archives/Archives6.html [ laserfx.com ] Early systems actually used multiple projectors overlapping or drawing the first 3rd , 2nd third , etc of the image to make up for slower scan rates .</tokentext>
+<sentencetext>This has been done before, IIRC Samsung released one of the first TV quality raster scanning system for laser shows.Basically a standard laser show setup uses multiple lasers (to get your RGB) combined into a single beam then passed through a device, such as a PCAOM, which acts as rather like a programmable colour filter.
+(this isn't the only way it can be done with solid state lasers).Two sets of mirrors can be steered in the X and Y axis to draw your shapes, beam effects, etc.In the case of a TV or other raster displays the beam is steered much like you would an electron beam on a regular TV.
+It scans a horizontal line, moves down scans across, repeat.
+You can switch the direction of the scan (left to right, then right to left) on alternating lines to speed up the scan rate.Wikipedia has some info on Laser TV's in general: http://en.wikipedia.org/wiki/Laser\_TV [wikipedia.org]  and LaserFX has some info on PCAOM's if you're interested in the older tech: http://www.laserfx.com/Backstage.LaserFX.com/Archives/Archives6.html [laserfx.com]
+Early systems actually used multiple projectors overlapping or drawing the first 3rd, 2nd third, etc of the image to make up for slower scan rates.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116077</id>
+	<title>Re:Can somebody explain how it works?</title>
+	<author>serutan</author>
+	<datestamp>1243422060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>You know how a TV tube works? The electron beam sweeps back and forth really fast, painting each dot on the screen? Well the laser in this thing is like the beam and the wall is like the screen. Since the laser beam can travel a great distance and still make just a small dot, so the image are in focus at different distances. Of course the farther away the screen is, the farther apart the dots are, so the image would become grainy at some point.</p></htmltext>
+<tokenext>You know how a TV tube works ?
+The electron beam sweeps back and forth really fast , painting each dot on the screen ?
+Well the laser in this thing is like the beam and the wall is like the screen .
+Since the laser beam can travel a great distance and still make just a small dot , so the image are in focus at different distances .
+Of course the farther away the screen is , the farther apart the dots are , so the image would become grainy at some point .</tokentext>
+<sentencetext>You know how a TV tube works?
+The electron beam sweeps back and forth really fast, painting each dot on the screen?
+Well the laser in this thing is like the beam and the wall is like the screen.
+Since the laser beam can travel a great distance and still make just a small dot, so the image are in focus at different distances.
+Of course the farther away the screen is, the farther apart the dots are, so the image would become grainy at some point.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115733</id>
+	<title>Or...</title>
+	<author>Anonymous</author>
+	<datestamp>1243420920000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Are you just happy to see me?</p></htmltext>
+<tokenext>Are you just happy to see me ?</tokentext>
+<sentencetext>Are you just happy to see me?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115991</id>
+	<title>Re:Can somebody explain how it works?</title>
+	<author>acrobg</author>
+	<datestamp>1243421820000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext>My guess would be that it projects as three scanning lasers: for red, green, and blue.  Because they would be scanning across, the field of view as the beams of light move away from projector gets larger (hence larger projection at a larger distance).  However, it also gets dimmer, meaning a 12" projection distance will havea brighter image than a 100" projection distance.  Also, if you're projecting closer, it looks like it will have more definition to the image as well.  Not that the pixel-count will change, but the amount of space each pixel takes up wil be larger, so if it's 100" away, but the image is viewed from 3' away from the screen, the image should look pixelated, as opposed to viewing it from a farther distance.</htmltext>
+<tokenext>My guess would be that it projects as three scanning lasers : for red , green , and blue .
+Because they would be scanning across , the field of view as the beams of light move away from projector gets larger ( hence larger projection at a larger distance ) .
+However , it also gets dimmer , meaning a 12 " projection distance will havea brighter image than a 100 " projection distance .
+Also , if you 're projecting closer , it looks like it will have more definition to the image as well .
+Not that the pixel-count will change , but the amount of space each pixel takes up wil be larger , so if it 's 100 " away , but the image is viewed from 3 ' away from the screen , the image should look pixelated , as opposed to viewing it from a farther distance .</tokentext>
+<sentencetext>My guess would be that it projects as three scanning lasers: for red, green, and blue.
+Because they would be scanning across, the field of view as the beams of light move away from projector gets larger (hence larger projection at a larger distance).
+However, it also gets dimmer, meaning a 12" projection distance will havea brighter image than a 100" projection distance.
+Also, if you're projecting closer, it looks like it will have more definition to the image as well.
+Not that the pixel-count will change, but the amount of space each pixel takes up wil be larger, so if it's 100" away, but the image is viewed from 3' away from the screen, the image should look pixelated, as opposed to viewing it from a farther distance.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116513</id>
+	<title>Sharks</title>
+	<author>CrashandDie</author>
+	<datestamp>1243424520000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>Sharks with Freakin' lasers attached to their heads!</htmltext>
+<tokenext>Sharks with Freakin ' lasers attached to their heads !</tokentext>
+<sentencetext>Sharks with Freakin' lasers attached to their heads!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116009</id>
+	<title>hey mr. DJ</title>
+	<author>Lord Ender</author>
+	<datestamp>1243421820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>mini laser projector + netbook = crazy disco scene that can fit in your pocket. whip it out on the subway on friday night with some dance techno and colorful visualizations to have the swingin'est ride to the bar ever.</p></htmltext>
+<tokenext>mini laser projector + netbook = crazy disco scene that can fit in your pocket .
+whip it out on the subway on friday night with some dance techno and colorful visualizations to have the swingin'est ride to the bar ever .</tokentext>
+<sentencetext>mini laser projector + netbook = crazy disco scene that can fit in your pocket.
+whip it out on the subway on friday night with some dance techno and colorful visualizations to have the swingin'est ride to the bar ever.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28122613</id>
+	<title>Re:848 x 400?</title>
+	<author>dave420</author>
+	<datestamp>1243520580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Widescreen describes the aspect ratio, not the number of pixels.  So yes, it's widescreen.</htmltext>
+<tokenext>Widescreen describes the aspect ratio , not the number of pixels .
+So yes , it 's widescreen .</tokentext>
+<sentencetext>Widescreen describes the aspect ratio, not the number of pixels.
+So yes, it's widescreen.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118017</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115949</id>
+	<title>Re:Can somebody explain how it works?</title>
+	<author>Anonymous</author>
+	<datestamp>1243421700000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Use the scan-line technique to scan each line with a rapidly adjustable mix of red, green and blue lasers.
+</p><p>As long as the laser light spreads out proportional to the distance it has travelled the picture should look good wherever the laser will reach. My only worry is the battery life.</p></htmltext>
+<tokenext>Use the scan-line technique to scan each line with a rapidly adjustable mix of red , green and blue lasers .
+As long as the laser light spreads out proportional to the distance it has travelled the picture should look good wherever the laser will reach .
+My only worry is the battery life .</tokentext>
+<sentencetext>Use the scan-line technique to scan each line with a rapidly adjustable mix of red, green and blue lasers.
+As long as the laser light spreads out proportional to the distance it has travelled the picture should look good wherever the laser will reach.
+My only worry is the battery life.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116349</id>
+	<title>Re:Vaporware.</title>
+	<author>anomnomnomymous</author>
+	<datestamp>1243423560000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext>Check the <a href="http://www.microvision.com/showwx/buzz.html" title="microvision.com">Buzz section</a> [microvision.com] of the site: So much for your vaporware...</htmltext>
+<tokenext>Check the Buzz section [ microvision.com ] of the site : So much for your vaporware.. .</tokentext>
+<sentencetext>Check the Buzz section [microvision.com] of the site: So much for your vaporware...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116091</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116561</id>
+	<title>I think I speak for all of us when I ask..</title>
+	<author>Anonymous</author>
+	<datestamp>1243424700000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Does it run on sharks?</p></htmltext>
+<tokenext>Does it run on sharks ?</tokentext>
+<sentencetext>Does it run on sharks?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118075</id>
+	<title>Re:That's what I keep saying</title>
+	<author>Anonymous</author>
+	<datestamp>1243434540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>There's only one reason to say it doesn't matter how long it is.</htmltext>
+<tokenext>There 's only one reason to say it does n't matter how long it is .</tokentext>
+<sentencetext>There's only one reason to say it doesn't matter how long it is.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115805</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116261</id>
+	<title>awesome</title>
+	<author>Anonymous</author>
+	<datestamp>1243423020000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>great, now teenagers will be able to project their HILARIOUS youtube videos on the big screen every time you go to the movies.</p><p>It'll be like laser pointers x 1000</p></htmltext>
+<tokenext>great , now teenagers will be able to project their HILARIOUS youtube videos on the big screen every time you go to the movies.It 'll be like laser pointers x 1000</tokentext>
+<sentencetext>great, now teenagers will be able to project their HILARIOUS youtube videos on the big screen every time you go to the movies.It'll be like laser pointers x 1000</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115705</id>
+	<title>Can It Function as a Back-Lit Rear Projector?</title>
+	<author>Anonymous</author>
+	<datestamp>1243420800000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext>
+
+And project an image of my ass onto a car window as I pass someone?  <br> <br>
+
+Because you're sitting on a goldmine if it can.  <br> <br>
+
+What?  It can't? <i>*sigh*</i> Oh well.  A man can dream, can't he?  A man can dream<nobr> <wbr></nobr>...</htmltext>
+<tokenext>And project an image of my ass onto a car window as I pass someone ?
+Because you 're sitting on a goldmine if it can .
+What ? It ca n't ?
+* sigh * Oh well .
+A man can dream , ca n't he ?
+A man can dream .. .</tokentext>
+<sentencetext>
+
+And project an image of my ass onto a car window as I pass someone?
+Because you're sitting on a goldmine if it can.
+What?  It can't?
+*sigh* Oh well.
+A man can dream, can't he?
+A man can dream ...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116201</id>
+	<title>An improvement from the 1st generation</title>
+	<author>swanzilla</author>
+	<datestamp>1243422780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Gen-1 was limited to near-the-pocket use
+
+
+<a href="http://www.thinkgeek.com/gadgets/electronic/7c60/" title="thinkgeek.com" rel="nofollow"> [Think Geek]</a> [thinkgeek.com]</htmltext>
+<tokenext>Gen-1 was limited to near-the-pocket use [ Think Geek ] [ thinkgeek.com ]</tokentext>
+<sentencetext>Gen-1 was limited to near-the-pocket use
+
+
+ [Think Geek] [thinkgeek.com]</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_28</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116077
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_33</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28121867
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115757
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115991
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117287
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116009
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117801
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115997
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28126755
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115963
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115705
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_26</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116737
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116093
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117993
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115705
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116349
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118669
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115933
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28120481
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115949
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116595
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115781
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115965
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_29</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28121325
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116093
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_32</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28120053
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116059
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115757
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28121357
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118017
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_31</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118607
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116561
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117033
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_27</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28203337
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116093
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_30</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116005
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117947
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115817
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28119117
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116167
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115757
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28119101
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115997
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28122573
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115757
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28122613
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118017
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116505
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115773
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116565
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116117
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116461
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115705
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118383
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116009
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_35</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28123867
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115997
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28120009
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117661
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_34</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116531
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116117
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28119497
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116103
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118075
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115805
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_2039230_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116701
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116009
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116023
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115781
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116595
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115805
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118075
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118017
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28122613
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28121357
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117071
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116091
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117033
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116349
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116093
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28121325
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116737
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28203337
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116561
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118607
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116539
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116007
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117661
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28120009
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116009
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116701
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117287
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118383
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115705
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116461
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117993
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115963
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28126755
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115817
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117947
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115865
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116117
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116531
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116565
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115991
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115965
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115933
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115949
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28120481
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116005
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28118669
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116077
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116567
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115983
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115997
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28123867
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28119101
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28117801
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116261
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115773
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116505
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115757
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28121867
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116059
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28120053
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116167
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28119117
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28122573
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116731
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116513
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.26</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115733
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28115861
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116103
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28119497
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_2039230.24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_2039230.28116047
+</commentlist>
+</conversation>

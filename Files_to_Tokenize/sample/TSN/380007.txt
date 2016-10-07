@@ -1,0 +1,124 @@
+<article>
+	<pid>380007</pid>
+	<title>
+	Heinz wins $8.72-million World Series of Poker main event
+</title>
+	<url>http://www.tsn.ca/nhl/story/?id=380007</url>
+	<date>11/9/2011 10:49:26 AM</date>
+	<author>Associated Press</author>
+	<text>LAS VEGAS -- Earlier this year, Pius Heinz was deciding whether to play cards full time.Now that the 22-year-old German has won the US$8.72-million prize at the World Series of Poker, he can steer his life in pretty much whatever direction he wants.&quot;Honestly I'm not sure what I'm going to do with the money,&quot; Heinz said early Wednesday after winning the main event in a marathon session of Texas Hold 'em. &quot;Probably my family is going to get a couple gifts.&quot;Heinz won with an ace high, just nine hands after using the same hand to boost himself from a nearly insurmountable disadvantage against 35-year-old Martin Staszko.Heinz called an all-in bet from Staszko with an ace and a king. Staszko held a seven-10 of clubs.The board was a five of clubs, deuce of diamonds, nine of spades, jack of hearts and four of diamonds, helping neither player but cementing Heinz's win in the $10,000 buy-in tournament that started in July.Staskzo won $5.43 million for second place, a nice consolation prize, but it comes without a bracelet -- the prize given to WSOP event winners and coveted by all serious card players.&quot;Have you ever worn it?&quot; Heinz asked 2010 title winner Jonathan Duhamel as the Canadian handed him the bracelet.&quot;It's got to be the happiest day of my life,&quot; Heinz said. &quot;But I can't believe what happened -- it's unreal.&quot;Staszko, a chess whiz who once worked for three years at an auto paint shop, said he thought his finish would help poker in his native country.&quot;I'm never happy if I don't win,&quot; Staszko said. &quot;But it's not too bad. Second place is OK.&quot;Staszko, who mainly plays online, said he'll be back to Sin City and the series.&quot;I'll come back next year,&quot; he said. &quot;I hope I can win a bracelet.&quot;Asked before the final table began whether they'd accept second place money right then and forgo a shot at the title, Heinz said yes; Staszko said no.Now, Heinz is happy they played the game.Once it was down to the two players, they exchanged the lead nine times over 119 hands. At one point, Staszko had a nearly 4-1 chip edge on Heinz.But Heinz, who started the day with just over half the chips in play, convinced Staszko to gamble with less-than-ideal hands in an attempt to put the no-limit Texas Hold 'em tournament away.&quot;I tried not to lose my nerve,&quot; Heinz said. &quot;At some point I was not making a hand. I was getting frustrated, honestly. I just tried to play my game.&quot;Las Vegas poker professional Ben Lamb was eliminated early Tuesday night in four hands. He pushed all-in on the first hand of play with a king-jack, hoping to induce Staszko to fold pocket sevens.But Staszko called and kept his marginal advantage as the five community cards were dealt.&quot;I got the sense he wasn't like super strong, but he actually was stronger than I thought he was,&quot; Lamb said.That left Lamb very short on chips, and he pushed all-in again three hands later with a queen-six. This time, Staszko had pocket jacks and eliminated Lamb.&quot;Every poker player dreams of having the year I had, so I don't want to sit here and have people like cry for me,&quot; he said. &quot;I'll be OK.&quot;The 26-year-old Lamb won $4 million for finishing in third place.Each player must lose all his chips to be eliminated from the $10,000 buy-in tournament, and win all the chips in play to take the crown.Heinz, who said he had a rough six-month run in poker before the series and was thinking about whether to go back to college, aggressively stormed from seventh in chips to first at the nine-hand final table on Sunday.He went from 16.4 million in chips to 107.8 million in just more than 7 1/2 hours of play, propelling to a higher finish than at least six of his competitors.Lamb, an experienced professional who made his mark at the 58-tournament series this year by winning Player of the Year honours, had a large contingent of rowdy supporters and a smaller group of friends and poker experts feeding him information about his play and his opponents.For the first time, every hand at the final table was playing out nearly live on ESPN, including tense stretches of several minutes during which players mulled difficult decisions.The play was aired on a 15-minute delay with hole cards revealed once hands ended -- enough time to ensure gambling regulators that players couldn't cheat.The game was played in front of a crowd of hundreds at the Rio All-Suite Hotel &amp; Casino near the Las Vegas Strip, in the same theatre where magicians Penn &amp; Teller regularly perform.&quot;It was just awesome to have so many of your friends and family following you, cheering you,&quot; Heinz said.</text>
+	<score>863</score>
+</article>
+<comment>
+	<cid>2698062</cid>
+	<date>11/9/2011 11:06:22 AM</date>
+	<author>PatFoley</author>
+	<text>Is playing cards really a sport.</text>
+	<score>3</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698084</cid>
+	<date>11/9/2011 11:10:49 AM</date>
+	<author>Suli Yashar</author>
+	<text>I stayed up until 1:40 am with Heinz way behind...$150 million to $50 million. Really surprised to read this morning that Heinz won. Second youngest to win? Loved the format of not being able to see the hole cards. albanian3</text>
+	<score>5</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698110</cid>
+	<date>11/9/2011 11:15:18 AM</date>
+	<author>ayrman</author>
+	<text>I watched this last night on TSN and could not turn away. Excellent coverage and showing the hole cards after was much better than knowing in advance. A great tournament - congratulations to all players and the announcers who provided insight that was educational as well as entertaining.</text>
+	<score>8</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698154</cid>
+	<date>11/9/2011 11:25:27 AM</date>
+	<author>SanJoe</author>
+	<text>I"m no poker fan, but that was some intense heads up poker last night. Crazy to think that the World Series of Poker purse is $65 million, WAY more than any sporting event. 8th place still pays over a million bucks!</text>
+	<score>3</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698196</cid>
+	<date>11/9/2011 11:32:49 AM</date>
+	<author>bud110</author>
+	<text>really wanted the other guy to win....o well, its all good</text>
+	<score>0</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698199</cid>
+	<date>11/9/2011 11:33:14 AM</date>
+	<author>binzer24</author>
+	<text>Thank you TSN for broadcasting this ........ poker popularity is on the rise :
+not bluffing either lol</text>
+	<score>-1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698219</cid>
+	<date>11/9/2011 11:37:19 AM</date>
+	<author>lamgms</author>
+	<text>PatFoley, no.</text>
+	<score>2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698292</cid>
+	<date>11/9/2011 11:49:57 AM</date>
+	<author>onchoo</author>
+	<text>if stasko looks back at the film. im sure he will wish he call some all ins when he had the chip lead.. the one i remember for sure. was 50 million in the pot and heinz shoved for his last 30 million with pair of 7"s.. and stasko had a flush draw Q 6hearts with 2 cards to go. odds are that hand might have won it for him.. didnt want to gamble when it was an all in. until he got behind of course with his 10 7 of clubs</text>
+	<score>-1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698342</cid>
+	<date>11/9/2011 12:01:03 PM</date>
+	<author>golf_leafs_golf_</author>
+	<text>I"m not a great poker player but I do plan one day to play in one or two of the smaller $1,000 events at this tourney.  I think it would be a blast to have my butt handed to me by Negreanu, Ivy or the poker Brat.  Who knows.......maybe I"d win.</text>
+	<score>-12</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698343</cid>
+	<date>11/9/2011 12:01:52 PM</date>
+	<author>1963HABS</author>
+	<text>what a great sport.... not</text>
+	<score>0</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698488</cid>
+	<date>11/9/2011 12:35:54 PM</date>
+	<author>thescribe</author>
+	<text>@SanJoe: The only reason poker has a larger purse than any other sport - can we really call poker a sport? - is because the participants pay to play in the tournament.</text>
+	<score>2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698553</cid>
+	<date>11/9/2011 12:48:44 PM</date>
+	<author>Hecklerz</author>
+	<text>I play and love the game as well but I can tell you that A Poker is a game, not a sport; and that B the players involved are by no means atheletes.</text>
+	<score>9</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698593</cid>
+	<date>11/9/2011 12:57:12 PM</date>
+	<author>Huntley</author>
+	<text>golf_leafs_golf - Your obviously a Habs fan so you stand no chance at winning anything this year. I don"t think they have a lottery pick in Poker.</text>
+	<score>0</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698956</cid>
+	<date>11/9/2011 2:18:39 PM</date>
+	<author>Hab_fan_stuck_in_leaf_nation</author>
+	<text>Winner winner chicken dinner!</text>
+	<score>1</score>
+	<parent>0</parent>
+</comment>

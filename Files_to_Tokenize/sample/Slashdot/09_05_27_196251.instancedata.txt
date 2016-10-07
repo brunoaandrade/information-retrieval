@@ -1,0 +1,758 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_27_196251</id>
+	<title>Wikipedia Launches a New Mobile Interface, Seeks Help</title>
+	<author>timothy</author>
+	<datestamp>1243451460000</datestamp>
+	<htmltext><a href="mailto:hcatlin@wikimedia.org" rel="nofollow">hampton2600</a> writes <i>"The Wikimedia Foundation is proud to present our new  <a href="http://m.wikipedia.org/">mobile site optimized for modern high-end phones</a>. The interface is focused on being clean and easy to read on your mobile device. We currently officially support reading on the iPhone and Android phones. The new gateway is written entirely in Ruby (using the Merb framework) and the  <a href="http://github.com/hcatlin/wikimedia-mobile/tree/master">Git repository can be found here</a>. We are looking for open source help with supporting other phone types and translations into new languages. Currently 8 languages are supported, but we'd like to support all languages Wikipedia supports. This is an active project and we are looking for new features, etc. from the community."</i></htmltext>
+<tokenext>hampton2600 writes " The Wikimedia Foundation is proud to present our new mobile site optimized for modern high-end phones .
+The interface is focused on being clean and easy to read on your mobile device .
+We currently officially support reading on the iPhone and Android phones .
+The new gateway is written entirely in Ruby ( using the Merb framework ) and the Git repository can be found here .
+We are looking for open source help with supporting other phone types and translations into new languages .
+Currently 8 languages are supported , but we 'd like to support all languages Wikipedia supports .
+This is an active project and we are looking for new features , etc .
+from the community .
+"</tokentext>
+<sentencetext>hampton2600 writes "The Wikimedia Foundation is proud to present our new  mobile site optimized for modern high-end phones.
+The interface is focused on being clean and easy to read on your mobile device.
+We currently officially support reading on the iPhone and Android phones.
+The new gateway is written entirely in Ruby (using the Merb framework) and the  Git repository can be found here.
+We are looking for open source help with supporting other phone types and translations into new languages.
+Currently 8 languages are supported, but we'd like to support all languages Wikipedia supports.
+This is an active project and we are looking for new features, etc.
+from the community.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114631</id>
+	<title>Re:CSS?</title>
+	<author>Elwood P Dowd</author>
+	<datestamp>1243417200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><ul> <li>URLs sent from mobile users to desktop users will send desktop users to the mobile site.</li><li>Deep links from one platform sent to users on the other platform will redirect to the front page</li></ul><p>These are avoidable, but I run into them constantly.</p></htmltext>
+<tokenext>URLs sent from mobile users to desktop users will send desktop users to the mobile site.Deep links from one platform sent to users on the other platform will redirect to the front pageThese are avoidable , but I run into them constantly .</tokentext>
+<sentencetext> URLs sent from mobile users to desktop users will send desktop users to the mobile site.Deep links from one platform sent to users on the other platform will redirect to the front pageThese are avoidable, but I run into them constantly.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114083</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114083</id>
+	<title>CSS?</title>
+	<author>roemcke</author>
+	<datestamp>1243457580000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Instead of using a different url for handhelds, why not use a customized CSS together with the "handheld" media type?</p><p>See <a href="http://www.w3.org/TR/CSS2/media.html" title="w3.org" rel="nofollow">http://www.w3.org/TR/CSS2/media.html</a> [w3.org]</p><p>Having two different urls for the same content, but for different target devices breaks the concept of linking. Google and other webpages linking to Wikipedia can not know (and should not know) what kind of device the users have.</p></htmltext>
+<tokenext>Instead of using a different url for handhelds , why not use a customized CSS together with the " handheld " media type ? See http : //www.w3.org/TR/CSS2/media.html [ w3.org ] Having two different urls for the same content , but for different target devices breaks the concept of linking .
+Google and other webpages linking to Wikipedia can not know ( and should not know ) what kind of device the users have .</tokentext>
+<sentencetext>Instead of using a different url for handhelds, why not use a customized CSS together with the "handheld" media type?See http://www.w3.org/TR/CSS2/media.html [w3.org]Having two different urls for the same content, but for different target devices breaks the concept of linking.
+Google and other webpages linking to Wikipedia can not know (and should not know) what kind of device the users have.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114037</id>
+	<title>Re:FINALLY!</title>
+	<author>verbalcontract</author>
+	<datestamp>1243457100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The most frustrating thing about the <a href="http://mobile.wikipedia.org/" title="wikipedia.org">old mobile site</a> [wikipedia.org] was that it straight-up <em>doesn't display tables</em>. Which makes it tough when you want to, say, look up the songs that appear in Guitar Hero, or want to browse the episode information of a TV show.</p><p>Thank fuck they made this version! Much better!</p></htmltext>
+<tokenext>The most frustrating thing about the old mobile site [ wikipedia.org ] was that it straight-up does n't display tables .
+Which makes it tough when you want to , say , look up the songs that appear in Guitar Hero , or want to browse the episode information of a TV show.Thank fuck they made this version !
+Much better !</tokentext>
+<sentencetext>The most frustrating thing about the old mobile site [wikipedia.org] was that it straight-up doesn't display tables.
+Which makes it tough when you want to, say, look up the songs that appear in Guitar Hero, or want to browse the episode information of a TV show.Thank fuck they made this version!
+Much better!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113637</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28116779</id>
+	<title>Re:Accelerometer support?</title>
+	<author>TheRaven64</author>
+	<datestamp>1243425780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Well, if you want to configure your phone to turn the shake event into a click on the refresh button, no one's stopping you...</htmltext>
+<tokenext>Well , if you want to configure your phone to turn the shake event into a click on the refresh button , no one 's stopping you.. .</tokentext>
+<sentencetext>Well, if you want to configure your phone to turn the shake event into a click on the refresh button, no one's stopping you...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113919</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28119591</id>
+	<title>Re:CSS?</title>
+	<author>SoupIsGoodFood\_42</author>
+	<datestamp>1243449360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It's not really the same content. The normal page simply has too much stuff for a good interface on something as small as a mobile device. Much of the UI is missing, such as the left nav bars and the tabs for article history and discussion. Sure, you could hide the extra stuff with CSS, but on a mobile device, where CPU and bandwidth are bigger issues, that's not a good solution. It's just a case of the right tool for the right job. Some sites <i>are</i> better off making use of CSS for mobile devices and sending the same XHTML, but I don't think this case is one of them.</p></htmltext>
+<tokenext>It 's not really the same content .
+The normal page simply has too much stuff for a good interface on something as small as a mobile device .
+Much of the UI is missing , such as the left nav bars and the tabs for article history and discussion .
+Sure , you could hide the extra stuff with CSS , but on a mobile device , where CPU and bandwidth are bigger issues , that 's not a good solution .
+It 's just a case of the right tool for the right job .
+Some sites are better off making use of CSS for mobile devices and sending the same XHTML , but I do n't think this case is one of them .</tokentext>
+<sentencetext>It's not really the same content.
+The normal page simply has too much stuff for a good interface on something as small as a mobile device.
+Much of the UI is missing, such as the left nav bars and the tabs for article history and discussion.
+Sure, you could hide the extra stuff with CSS, but on a mobile device, where CPU and bandwidth are bigger issues, that's not a good solution.
+It's just a case of the right tool for the right job.
+Some sites are better off making use of CSS for mobile devices and sending the same XHTML, but I don't think this case is one of them.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114083</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28120151</id>
+	<title>Re:Great!</title>
+	<author>lamasquerade</author>
+	<datestamp>1243542360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Actually of all news sites I find Slashdot loads the best. I'm using a Nokia with a fairly small screen, not an iPhone sized one, and it manages to get the column of stories the right width so I don't have to scroll around (well, other than down), and the same with comments. It could be a lot smaller bandwidth wise of course, and I'd love an m.slashdot.org. But compared to mainstream news sites it is magnificent.
+<p>
+And what the FUCK is with mainstream news sites' mobile version being so pathetic? m.theage.com.au is just about worthless - it shows about 6-10 stories in a few categories. Why not show the whole paper like the regular site? If I'm on a long train journey I get through the interesting stories (if any) in about 5 minutes...</p></htmltext>
+<tokenext>Actually of all news sites I find Slashdot loads the best .
+I 'm using a Nokia with a fairly small screen , not an iPhone sized one , and it manages to get the column of stories the right width so I do n't have to scroll around ( well , other than down ) , and the same with comments .
+It could be a lot smaller bandwidth wise of course , and I 'd love an m.slashdot.org .
+But compared to mainstream news sites it is magnificent .
+And what the FUCK is with mainstream news sites ' mobile version being so pathetic ?
+m.theage.com.au is just about worthless - it shows about 6-10 stories in a few categories .
+Why not show the whole paper like the regular site ?
+If I 'm on a long train journey I get through the interesting stories ( if any ) in about 5 minutes.. .</tokentext>
+<sentencetext>Actually of all news sites I find Slashdot loads the best.
+I'm using a Nokia with a fairly small screen, not an iPhone sized one, and it manages to get the column of stories the right width so I don't have to scroll around (well, other than down), and the same with comments.
+It could be a lot smaller bandwidth wise of course, and I'd love an m.slashdot.org.
+But compared to mainstream news sites it is magnificent.
+And what the FUCK is with mainstream news sites' mobile version being so pathetic?
+m.theage.com.au is just about worthless - it shows about 6-10 stories in a few categories.
+Why not show the whole paper like the regular site?
+If I'm on a long train journey I get through the interesting stories (if any) in about 5 minutes...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28118449</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28118157</id>
+	<title>Re:Please don't cripple the iPhone</title>
+	<author>cmelbye</author>
+	<datestamp>1243435380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I'm curious, what about the regular interface do you like that isn't present on the obile interface for Wikipedia?</htmltext>
+<tokenext>I 'm curious , what about the regular interface do you like that is n't present on the obile interface for Wikipedia ?</tokentext>
+<sentencetext>I'm curious, what about the regular interface do you like that isn't present on the obile interface for Wikipedia?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28116289</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114269</id>
+	<title>Re:CSS?</title>
+	<author>Anonymous</author>
+	<datestamp>1243415640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Two Reasons:</p><p>1) Not all mobile devices heed the media attribute when linking style sheets. For delivering content styled for a mobile platform, the most effective method at this time is browser sniffing. Which is possible through the User-Agent header.</p><p>2) It's common practice to not send some media to a mobile device (large images, video) or to send lower quality media to reduce load times. This cannot be achieved through CSS alone. CSS can hide the content, but the browser will still spend time downloading it.</p></htmltext>
+<tokenext>Two Reasons : 1 ) Not all mobile devices heed the media attribute when linking style sheets .
+For delivering content styled for a mobile platform , the most effective method at this time is browser sniffing .
+Which is possible through the User-Agent header.2 ) It 's common practice to not send some media to a mobile device ( large images , video ) or to send lower quality media to reduce load times .
+This can not be achieved through CSS alone .
+CSS can hide the content , but the browser will still spend time downloading it .</tokentext>
+<sentencetext>Two Reasons:1) Not all mobile devices heed the media attribute when linking style sheets.
+For delivering content styled for a mobile platform, the most effective method at this time is browser sniffing.
+Which is possible through the User-Agent header.2) It's common practice to not send some media to a mobile device (large images, video) or to send lower quality media to reduce load times.
+This cannot be achieved through CSS alone.
+CSS can hide the content, but the browser will still spend time downloading it.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114083</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113807</id>
+	<title>Fuck Wikipedia</title>
+	<author>Anonymous</author>
+	<datestamp>1243456020000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>Willy on Wheels.</p><p>Wikipedia is communism.</p></htmltext>
+<tokenext>Willy on Wheels.Wikipedia is communism .</tokentext>
+<sentencetext>Willy on Wheels.Wikipedia is communism.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28116563</id>
+	<title>Re:Why another mobile version?!</title>
+	<author>Kelson</author>
+	<datestamp>1243424760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Because this one is aimed at <b>high-functioning</b> mobile browsers, not at bare-minimum browsers.  The old mobile site is practically text-only and breaks each article into dozens of tiny pages in order handle low-bandwidth and low-memory devices. The newer site is more focused on formatting the page to maximize space and readability on a device that can handle modern web pages, but has a teeny tiny screen.</p><p>Compare:</p><p><a href="http://en.m.wikipedia.org/wiki?search=mona+lisa" title="wikipedia.org">Mona Lisa on new mobile site</a> [wikipedia.org].<br><a href="http://mobile.wikipedia.org/transcode.php?go=mona+lisa" title="wikipedia.org">Mona Lisa on old mobile site</a> [wikipedia.org].</p><p>Now tell me which one you'd rather read, assuming you had a device that could handle both.</p></htmltext>
+<tokenext>Because this one is aimed at high-functioning mobile browsers , not at bare-minimum browsers .
+The old mobile site is practically text-only and breaks each article into dozens of tiny pages in order handle low-bandwidth and low-memory devices .
+The newer site is more focused on formatting the page to maximize space and readability on a device that can handle modern web pages , but has a teeny tiny screen.Compare : Mona Lisa on new mobile site [ wikipedia.org ] .Mona Lisa on old mobile site [ wikipedia.org ] .Now tell me which one you 'd rather read , assuming you had a device that could handle both .</tokentext>
+<sentencetext>Because this one is aimed at high-functioning mobile browsers, not at bare-minimum browsers.
+The old mobile site is practically text-only and breaks each article into dozens of tiny pages in order handle low-bandwidth and low-memory devices.
+The newer site is more focused on formatting the page to maximize space and readability on a device that can handle modern web pages, but has a teeny tiny screen.Compare:Mona Lisa on new mobile site [wikipedia.org].Mona Lisa on old mobile site [wikipedia.org].Now tell me which one you'd rather read, assuming you had a device that could handle both.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28115969</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113919</id>
+	<title>Accelerometer support?</title>
+	<author>Sockatume</author>
+	<datestamp>1243456500000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>Shake phone to shuffle "citation needed" tags around page.</htmltext>
+<tokenext>Shake phone to shuffle " citation needed " tags around page .</tokentext>
+<sentencetext>Shake phone to shuffle "citation needed" tags around page.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114797</id>
+	<title>Re:FINALLY!</title>
+	<author>Quantos</author>
+	<datestamp>1243417920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>And here I thought that they were beyond help.....</htmltext>
+<tokenext>And here I thought that they were beyond help.... .</tokentext>
+<sentencetext>And here I thought that they were beyond help.....</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113637</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113931</id>
+	<title>Help making it not shit?</title>
+	<author>Anonymous</author>
+	<datestamp>1243456560000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>Help making it not shit?  Assistance in reducing it faecosity factor?  Sorry, that is beyond my powers.</p><p>Now if Buddah, Jesus and that blue Indian dude with an elephant head and shedloads of arms were to help, it might  be different.  But not really.  It'd still be beyond our collective powers.</p><p>What it comes down to is this: even with polydeistic assistance, turds cannot be polished.  Here endeth the lesson, and may several deities have mercy on you all.</p></htmltext>
+<tokenext>Help making it not shit ?
+Assistance in reducing it faecosity factor ?
+Sorry , that is beyond my powers.Now if Buddah , Jesus and that blue Indian dude with an elephant head and shedloads of arms were to help , it might be different .
+But not really .
+It 'd still be beyond our collective powers.What it comes down to is this : even with polydeistic assistance , turds can not be polished .
+Here endeth the lesson , and may several deities have mercy on you all .</tokentext>
+<sentencetext>Help making it not shit?
+Assistance in reducing it faecosity factor?
+Sorry, that is beyond my powers.Now if Buddah, Jesus and that blue Indian dude with an elephant head and shedloads of arms were to help, it might  be different.
+But not really.
+It'd still be beyond our collective powers.What it comes down to is this: even with polydeistic assistance, turds cannot be polished.
+Here endeth the lesson, and may several deities have mercy on you all.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28123557</id>
+	<title>Grawp</title>
+	<author>Anonymous</author>
+	<datestamp>1243524900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>So that explains why I saw Grawp at the Apple Store the other day buying 10 iphones.</p></htmltext>
+<tokenext>So that explains why I saw Grawp at the Apple Store the other day buying 10 iphones .</tokentext>
+<sentencetext>So that explains why I saw Grawp at the Apple Store the other day buying 10 iphones.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113863</id>
+	<title>vs m.google</title>
+	<author>just\_another\_sean</author>
+	<datestamp>1243456260000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>It will be interesting to see how it compares to going to m.google.com and linking to a site through a search result. My experience so far is that m.google does a pretty good job of reformatting sites for mobile devices on the fly.</p><p>I'll probably be able to submit some feedback based on testing on the PSP.</p></htmltext>
+<tokenext>It will be interesting to see how it compares to going to m.google.com and linking to a site through a search result .
+My experience so far is that m.google does a pretty good job of reformatting sites for mobile devices on the fly.I 'll probably be able to submit some feedback based on testing on the PSP .</tokentext>
+<sentencetext>It will be interesting to see how it compares to going to m.google.com and linking to a site through a search result.
+My experience so far is that m.google does a pretty good job of reformatting sites for mobile devices on the fly.I'll probably be able to submit some feedback based on testing on the PSP.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113681</id>
+	<title>I'll help!</title>
+	<author>Anonymous</author>
+	<datestamp>1243455420000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>-1</modscore>
+	<htmltext>Just as soon as the editors take off their ass hats and lay down  the douche nozzles.</htmltext>
+<tokenext>Just as soon as the editors take off their ass hats and lay down the douche nozzles .</tokentext>
+<sentencetext>Just as soon as the editors take off their ass hats and lay down  the douche nozzles.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113643</id>
+	<title>bike, nigga stole my bike</title>
+	<author>Anonymous</author>
+	<datestamp>1243455240000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>adddriaaaaannnnn</p></htmltext>
+<tokenext>adddriaaaaannnnn</tokentext>
+<sentencetext>adddriaaaaannnnn</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114529</id>
+	<title>Re:FINALLY!</title>
+	<author>Swizec</author>
+	<datestamp>1243416840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Not to sound dense or anything, but accessing wikipedia on my default blackberry browser was rather<nobr> <wbr></nobr>... well it worked very well. The thing I've found especially nice is that for whatever reason the content always came first and the menus and crap last so you didn't even have to scroll past all the cruft like on most websites out there to get to the content.<br> <br>What's the point of these mobile sites again? Why are they different? Isn't this what's supposed to be solved by different stylesheets for different viewing devices anyway? Far as I know support for this is even already built into most browsers mobile and otherwise.</htmltext>
+<tokenext>Not to sound dense or anything , but accessing wikipedia on my default blackberry browser was rather ... well it worked very well .
+The thing I 've found especially nice is that for whatever reason the content always came first and the menus and crap last so you did n't even have to scroll past all the cruft like on most websites out there to get to the content .
+What 's the point of these mobile sites again ?
+Why are they different ?
+Is n't this what 's supposed to be solved by different stylesheets for different viewing devices anyway ?
+Far as I know support for this is even already built into most browsers mobile and otherwise .</tokentext>
+<sentencetext>Not to sound dense or anything, but accessing wikipedia on my default blackberry browser was rather ... well it worked very well.
+The thing I've found especially nice is that for whatever reason the content always came first and the menus and crap last so you didn't even have to scroll past all the cruft like on most websites out there to get to the content.
+What's the point of these mobile sites again?
+Why are they different?
+Isn't this what's supposed to be solved by different stylesheets for different viewing devices anyway?
+Far as I know support for this is even already built into most browsers mobile and otherwise.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113637</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28136651</id>
+	<title>Re:Great!</title>
+	<author>Mr\_Silver</author>
+	<datestamp>1243598160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>And a good mobile version of Slashdot is coming... when?</p></div></blockquote><p> <a href="http://www.fourteenminutes.com/code/avantslash/" title="fourteenminutes.com">Avantslash</a> [fourteenminutes.com] is what you need. It'll produce a mobile version which is perfect for Windows Mobile, Smartphones, Blackberries and iPhone. I use it every day to read Slashdot on the train. Disclaimer: I wrote it.</p><p>I did read the site linked in your signature and commend you for a making a good effort. To be honest, although mine is more convoluted, I think it produces a better result. However if you've got some ideas on how to improve it then do let me know.</p><p>I'm aware than h1 tags aren't rendering properly on the iPhone causing the headline to be smaller than the actual text in landscape mode. I'm not sure why that is, but I'm working on it.</p></div>
+	</htmltext>
+<tokenext>And a good mobile version of Slashdot is coming... when ? Avantslash [ fourteenminutes.com ] is what you need .
+It 'll produce a mobile version which is perfect for Windows Mobile , Smartphones , Blackberries and iPhone .
+I use it every day to read Slashdot on the train .
+Disclaimer : I wrote it.I did read the site linked in your signature and commend you for a making a good effort .
+To be honest , although mine is more convoluted , I think it produces a better result .
+However if you 've got some ideas on how to improve it then do let me know.I 'm aware than h1 tags are n't rendering properly on the iPhone causing the headline to be smaller than the actual text in landscape mode .
+I 'm not sure why that is , but I 'm working on it .</tokentext>
+<sentencetext>And a good mobile version of Slashdot is coming... when? Avantslash [fourteenminutes.com] is what you need.
+It'll produce a mobile version which is perfect for Windows Mobile, Smartphones, Blackberries and iPhone.
+I use it every day to read Slashdot on the train.
+Disclaimer: I wrote it.I did read the site linked in your signature and commend you for a making a good effort.
+To be honest, although mine is more convoluted, I think it produces a better result.
+However if you've got some ideas on how to improve it then do let me know.I'm aware than h1 tags aren't rendering properly on the iPhone causing the headline to be smaller than the actual text in landscape mode.
+I'm not sure why that is, but I'm working on it.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28118449</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114963</id>
+	<title>Don't show all that 'featured article' crap</title>
+	<author>SuiteSisterMary</author>
+	<datestamp>1243418520000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Put it on another page.  Mobile isn't just about displaying on a small screen; it's about not wasting your user's bandwidth.  The page at 'm.wikipedia.org' should have a search box.  Done.  Put a link to a 'featured article' or some such if you must.</p></htmltext>
+<tokenext>Put it on another page .
+Mobile is n't just about displaying on a small screen ; it 's about not wasting your user 's bandwidth .
+The page at 'm.wikipedia.org ' should have a search box .
+Done. Put a link to a 'featured article ' or some such if you must .</tokentext>
+<sentencetext>Put it on another page.
+Mobile isn't just about displaying on a small screen; it's about not wasting your user's bandwidth.
+The page at 'm.wikipedia.org' should have a search box.
+Done.  Put a link to a 'featured article' or some such if you must.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114475</id>
+	<title>Wikipedia dot communism</title>
+	<author>Anonymous</author>
+	<datestamp>1243416660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Wikipedia is communism.</p></div><p> <a href="http://news.slashdot.org/story/09/05/27/1444217/Dot-Communism-Is-Already-Here?art\_pos=9" title="slashdot.org">As is the rest of the Internet</a> [slashdot.org], comrade.</p></div>
+	</htmltext>
+<tokenext>Wikipedia is communism .
+As is the rest of the Internet [ slashdot.org ] , comrade .</tokentext>
+<sentencetext>Wikipedia is communism.
+As is the rest of the Internet [slashdot.org], comrade.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113807</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28115969</id>
+	<title>Why another mobile version?!</title>
+	<author>Anonymous</author>
+	<datestamp>1243421760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>See http://mobile.wikipedia.org Up since December 2008</p></htmltext>
+<tokenext>See http : //mobile.wikipedia.org Up since December 2008</tokentext>
+<sentencetext>See http://mobile.wikipedia.org Up since December 2008</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28117329</id>
+	<title>Minification is not a bad thing</title>
+	<author>greenreaper</author>
+	<datestamp>1243429260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>If they focussed on stripping down the size of the Javascript and CSS, and ran it through the <a href="http://developer.yahoo.com/yui/compressor/" title="yahoo.com">YUI compressor</a> [yahoo.com], they could make a big difference to site responsiveness for everyone, not just mobile users. It probably wouldn't hurt their bandwidth bill, either.
+
+As it is, there are two CSS/JS files that, uncompressed, are larger than 25kb (and two others that come perilously close). Guess what? This means they <a href="http://yuiblog.com/blog/2008/02/06/iphone-cacheability/" title="yuiblog.com">don't go into the iPhone cache</a> [yuiblog.com], and have to be reloaded every time.</htmltext>
+<tokenext>If they focussed on stripping down the size of the Javascript and CSS , and ran it through the YUI compressor [ yahoo.com ] , they could make a big difference to site responsiveness for everyone , not just mobile users .
+It probably would n't hurt their bandwidth bill , either .
+As it is , there are two CSS/JS files that , uncompressed , are larger than 25kb ( and two others that come perilously close ) .
+Guess what ?
+This means they do n't go into the iPhone cache [ yuiblog.com ] , and have to be reloaded every time .</tokentext>
+<sentencetext>If they focussed on stripping down the size of the Javascript and CSS, and ran it through the YUI compressor [yahoo.com], they could make a big difference to site responsiveness for everyone, not just mobile users.
+It probably wouldn't hurt their bandwidth bill, either.
+As it is, there are two CSS/JS files that, uncompressed, are larger than 25kb (and two others that come perilously close).
+Guess what?
+This means they don't go into the iPhone cache [yuiblog.com], and have to be reloaded every time.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28118449</id>
+	<title>Great!</title>
+	<author>Anonymous</author>
+	<datestamp>1243437960000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>And a good mobile version of Slashdot is coming... when?</p></htmltext>
+<tokenext>And a good mobile version of Slashdot is coming... when ?</tokentext>
+<sentencetext>And a good mobile version of Slashdot is coming... when?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28117093</id>
+	<title>Re:Native App</title>
+	<author>commodoresloat</author>
+	<datestamp>1243427760000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Is there an app you can use to edit wikipedia or just read it?  The mobile site doesn't allow editing or logging in.</p></htmltext>
+<tokenext>Is there an app you can use to edit wikipedia or just read it ?
+The mobile site does n't allow editing or logging in .</tokentext>
+<sentencetext>Is there an app you can use to edit wikipedia or just read it?
+The mobile site doesn't allow editing or logging in.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113951</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113709</id>
+	<title>This site violates Wikipedia's NPOV</title>
+	<author>Anonymous</author>
+	<datestamp>1243455480000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Biased towards mobile devices.</p></htmltext>
+<tokenext>Biased towards mobile devices .</tokentext>
+<sentencetext>Biased towards mobile devices.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28121943</id>
+	<title>Re:Great!</title>
+	<author>Zebedeu</author>
+	<datestamp>1243516920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Opera Mini formats Slashdot perfectly on my mobile phone.</p><p>I don't know if the magic is being done by Slashdot using some sort of browser indentification, or by Opera (Opera Mini accesses the web through a proxy run by Opera), but the resulting page looks nothing like the normal Slashdot page, and is much smaller too.</p><p>In fact, you can configure Opera Mini to get the full page (deselect "Mobile View") and you can see the difference both in layout and in size.</p></htmltext>
+<tokenext>Opera Mini formats Slashdot perfectly on my mobile phone.I do n't know if the magic is being done by Slashdot using some sort of browser indentification , or by Opera ( Opera Mini accesses the web through a proxy run by Opera ) , but the resulting page looks nothing like the normal Slashdot page , and is much smaller too.In fact , you can configure Opera Mini to get the full page ( deselect " Mobile View " ) and you can see the difference both in layout and in size .</tokentext>
+<sentencetext>Opera Mini formats Slashdot perfectly on my mobile phone.I don't know if the magic is being done by Slashdot using some sort of browser indentification, or by Opera (Opera Mini accesses the web through a proxy run by Opera), but the resulting page looks nothing like the normal Slashdot page, and is much smaller too.In fact, you can configure Opera Mini to get the full page (deselect "Mobile View") and you can see the difference both in layout and in size.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28118449</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113637</id>
+	<title>FINALLY!</title>
+	<author>kaizendojo</author>
+	<datestamp>1243455240000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext>I have been waiting for this for a long time and will gladly test the hell out of it.  If you've ever tried accessing WIKIpedia with Mobile IE you'd know it was an exercise in futility.</htmltext>
+<tokenext>I have been waiting for this for a long time and will gladly test the hell out of it .
+If you 've ever tried accessing WIKIpedia with Mobile IE you 'd know it was an exercise in futility .</tokentext>
+<sentencetext>I have been waiting for this for a long time and will gladly test the hell out of it.
+If you've ever tried accessing WIKIpedia with Mobile IE you'd know it was an exercise in futility.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28120641</id>
+	<title>Re:FINALLY!</title>
+	<author>Anonymous</author>
+	<datestamp>1243504560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>Why didn't you use one of the mobile versions of Wikipedia that have been available for a while? There's a <a href="http://en.wikipedia.org/wiki/Wikipedia:Mobile\_access" title="wikipedia.org" rel="nofollow">number of links on Wikipedia itself</a> [wikipedia.org]</htmltext>
+<tokenext>Why did n't you use one of the mobile versions of Wikipedia that have been available for a while ?
+There 's a number of links on Wikipedia itself [ wikipedia.org ]</tokentext>
+<sentencetext>Why didn't you use one of the mobile versions of Wikipedia that have been available for a while?
+There's a number of links on Wikipedia itself [wikipedia.org]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113637</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28115237</id>
+	<title>Re:Native App</title>
+	<author>Anonymous</author>
+	<datestamp>1243419300000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext>By amazing coincidence, the mobile reformatter serves as the backend for our upcoming native app (and probably other peoples' unofficial native apps once they realize they don't have to run their own reformatter proxy).</htmltext>
+<tokenext>By amazing coincidence , the mobile reformatter serves as the backend for our upcoming native app ( and probably other peoples ' unofficial native apps once they realize they do n't have to run their own reformatter proxy ) .</tokentext>
+<sentencetext>By amazing coincidence, the mobile reformatter serves as the backend for our upcoming native app (and probably other peoples' unofficial native apps once they realize they don't have to run their own reformatter proxy).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113951</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113823</id>
+	<title>cool?</title>
+	<author>Anonymous</author>
+	<datestamp>1243456080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>i never really had a problem with it on my iphone before but i suppose its always nice to have sites optimized for mobile use (like youporn did hehe)</htmltext>
+<tokenext>i never really had a problem with it on my iphone before but i suppose its always nice to have sites optimized for mobile use ( like youporn did hehe )</tokentext>
+<sentencetext>i never really had a problem with it on my iphone before but i suppose its always nice to have sites optimized for mobile use (like youporn did hehe)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28126037</id>
+	<title>Re:FINALLY!</title>
+	<author>Mr. Slippery</author>
+	<datestamp>1243535220000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><blockquote><div><p> <i>What's the point of these mobile sites again? Why are they different?</i></p></div> </blockquote><p>Low bandwidth, for one. This weekend I was at a campground, right on the edge of having no  signal at all (had to walk a half mile from our campsite to get out of totally dead space), and wanted to check the weather report to see if a storm would hit us. <a href="http://m.wund.com/" title="wund.com" rel="nofollow">m.wund.com</a> [wund.com] is much more useful than <a href="http://www.wunderground.com/" title="wunderground.com" rel="nofollow">www.wunderground.com</a> [wunderground.com] in such a circumstance.</p><blockquote><div><p> <i>Isn't this what's supposed to be solved by different stylesheets for different viewing devices anyway?</i></p></div> </blockquote><p>Of course stylesheets help, but often you want to send different content to mobile users.</p></div>
+	</htmltext>
+<tokenext>What 's the point of these mobile sites again ?
+Why are they different ?
+Low bandwidth , for one .
+This weekend I was at a campground , right on the edge of having no signal at all ( had to walk a half mile from our campsite to get out of totally dead space ) , and wanted to check the weather report to see if a storm would hit us .
+m.wund.com [ wund.com ] is much more useful than www.wunderground.com [ wunderground.com ] in such a circumstance .
+Is n't this what 's supposed to be solved by different stylesheets for different viewing devices anyway ?
+Of course stylesheets help , but often you want to send different content to mobile users .</tokentext>
+<sentencetext> What's the point of these mobile sites again?
+Why are they different?
+Low bandwidth, for one.
+This weekend I was at a campground, right on the edge of having no  signal at all (had to walk a half mile from our campsite to get out of totally dead space), and wanted to check the weather report to see if a storm would hit us.
+m.wund.com [wund.com] is much more useful than www.wunderground.com [wunderground.com] in such a circumstance.
+Isn't this what's supposed to be solved by different stylesheets for different viewing devices anyway?
+Of course stylesheets help, but often you want to send different content to mobile users.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114529</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113645</id>
+	<title>VFD: Not Noteworthy - Delete</title>
+	<author>Anonymous</author>
+	<datestamp>1243455240000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>This article is about a subject that is not noteworthy.</p><p>I know what is and isn't noteworthy because I am a worthless piece of shit.</p><p>Somebody should just delete Wikipedia already.</p></htmltext>
+<tokenext>This article is about a subject that is not noteworthy.I know what is and is n't noteworthy because I am a worthless piece of shit.Somebody should just delete Wikipedia already .</tokentext>
+<sentencetext>This article is about a subject that is not noteworthy.I know what is and isn't noteworthy because I am a worthless piece of shit.Somebody should just delete Wikipedia already.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28116289</id>
+	<title>Please don't cripple the iPhone</title>
+	<author>einTier</author>
+	<datestamp>1243423260000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext>If this automatically redirects the iPhone to the wikipedia mobile site, I hope that there will be an easy link to click back to the "real" fully enabled site.
+<p>
+I am extremely tired of websites suddenly realizing that the iPhone is a cell phone and immediately redirecting me to the "useful" mobile site, which is usually optimized for WAP devices.  Even worse, the majority of them do not allow you to access the fully enabled site in any way, shape, or form.  Look, I can understand that <i>some</i> iPhone users would prefer to see the WAP site.  However, one of the selling points of the iPhone for me is that it has a web browser that allows me to navigate and read any site.  Please allow me to keep using the full functionality of the iPhone and your website and quit trying to dumb it down for me.</p></htmltext>
+<tokenext>If this automatically redirects the iPhone to the wikipedia mobile site , I hope that there will be an easy link to click back to the " real " fully enabled site .
+I am extremely tired of websites suddenly realizing that the iPhone is a cell phone and immediately redirecting me to the " useful " mobile site , which is usually optimized for WAP devices .
+Even worse , the majority of them do not allow you to access the fully enabled site in any way , shape , or form .
+Look , I can understand that some iPhone users would prefer to see the WAP site .
+However , one of the selling points of the iPhone for me is that it has a web browser that allows me to navigate and read any site .
+Please allow me to keep using the full functionality of the iPhone and your website and quit trying to dumb it down for me .</tokentext>
+<sentencetext>If this automatically redirects the iPhone to the wikipedia mobile site, I hope that there will be an easy link to click back to the "real" fully enabled site.
+I am extremely tired of websites suddenly realizing that the iPhone is a cell phone and immediately redirecting me to the "useful" mobile site, which is usually optimized for WAP devices.
+Even worse, the majority of them do not allow you to access the fully enabled site in any way, shape, or form.
+Look, I can understand that some iPhone users would prefer to see the WAP site.
+However, one of the selling points of the iPhone for me is that it has a web browser that allows me to navigate and read any site.
+Please allow me to keep using the full functionality of the iPhone and your website and quit trying to dumb it down for me.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113951</id>
+	<title>Native App</title>
+	<author>ShadyG</author>
+	<datestamp>1243456680000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Sorry, but wherever possible I avoid booting up the iPhone browser, and prefer to use native apps. There are such apps for Wikipedia available, and free, so I don't see myself using the mobile site. Am I alone in this? I don't go to Netflix, or Facebook, or any other sites anymore where there is an application I can boot up more quickly.</p></htmltext>
+<tokenext>Sorry , but wherever possible I avoid booting up the iPhone browser , and prefer to use native apps .
+There are such apps for Wikipedia available , and free , so I do n't see myself using the mobile site .
+Am I alone in this ?
+I do n't go to Netflix , or Facebook , or any other sites anymore where there is an application I can boot up more quickly .</tokentext>
+<sentencetext>Sorry, but wherever possible I avoid booting up the iPhone browser, and prefer to use native apps.
+There are such apps for Wikipedia available, and free, so I don't see myself using the mobile site.
+Am I alone in this?
+I don't go to Netflix, or Facebook, or any other sites anymore where there is an application I can boot up more quickly.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28120011</id>
+	<title>Re:FINALLY!</title>
+	<author>PGillingwater</author>
+	<datestamp>1243454340000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I don't see the point of this when we already have <a href="http://www.vtap.com/wikitap/" title="vtap.com">WikiTap</a> [vtap.com] for the G1 and the iPhone.</p></htmltext>
+<tokenext>I do n't see the point of this when we already have WikiTap [ vtap.com ] for the G1 and the iPhone .</tokentext>
+<sentencetext>I don't see the point of this when we already have WikiTap [vtap.com] for the G1 and the iPhone.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113637</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113637
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28121943
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28118449
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114475
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113807
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28118157
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28116289
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28115237
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113951
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114631
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114083
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28119591
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114083
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114269
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114083
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114797
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113637
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28120011
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113637
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28116779
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113919
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28136651
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28118449
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28120151
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28118449
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28120641
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113637
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28126037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114529
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113637
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28117093
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113951
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_196251_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28116563
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28115969
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_196251.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113637
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114797
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114529
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28126037
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28120011
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114037
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28120641
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_196251.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28115969
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28116563
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_196251.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113951
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28117093
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28115237
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_196251.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114083
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114269
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28119591
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114631
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_196251.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113807
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114475
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_196251.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28116289
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28118157
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_196251.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28114963
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_196251.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28118449
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28121943
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28136651
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28120151
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_196251.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113709
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_196251.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113919
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28116779
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_196251.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113823
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_196251.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_196251.28113931
+</commentlist>
+</conversation>

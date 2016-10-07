@@ -1,0 +1,10 @@
+<article>
+	<pid>8457</pid>
+	<title>Motorola Announces MOTOROI Android Phone For Korea | Android Central</title>
+	<url>http://www.androidcentral.com/motorola-announces-motoroi-android-phone-korea</url>
+	<date>   Jan 18 2010  7:46 am   </date>
+	<author>Casey Chan</author>
+	<text>
+ Why hello there Motorola Motoroi. Didn't we once know you as the Motorola Sholes Tablet? Yeah, we're pretty sure we'd never forget that odd bump you have--that thing is still unsightly to us. In any case, the Motorola Motoroi has become the first official Motorola Android phone that's launching in...Korea! The wonderful specs are in line with what we've seen earlier, which is a 3.7 inch WVGA screen, 8 megapixel camera, 720p video recording, and HDMI out. It runs regular Android 2.0 (no mention of Motoblur) but adds five homescreens for your swiping and viewing pleasure.According to Motorola, the Motoroi will have multitouch and five distinct text input methods: a 3X4 keypad, full QWERTY, half QWERTY, hand writing and writing pad. It'll be available in South Korea on SK Telecom, no official pricing announced yet.What do you guys think? We love the specs of the device but we can't imagine that the bump would fly here in the US, it'd be the chin-drama all over again![motorola] </text>
+	<score>0</score>
+</article>

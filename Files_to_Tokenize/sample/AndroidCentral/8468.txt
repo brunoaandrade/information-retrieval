@@ -1,0 +1,26 @@
+<article>
+	<pid>8468</pid>
+	<title>Sony Ericsson working on 3D mapping | Android Central</title>
+	<url>http://www.androidcentral.com/sony-ericsson-working-3d-mapping</url>
+	<date>   Jan 19 2010  11:42 am   </date>
+	<author>Phil Nickinson</author>
+	<text>
+Here's something on the Sony Ericsson Xperia X10 that wasn't part of the hands-on demo we got at CES: 3D satellite maps. SE has an Android 3D Landscape SDK that &quot;uses unique maps in 3D and fast methods for rendering the maps which makes it possible to show realtime 3D maps in high quality. The maps for the SDKs are downloaded from a backend server and buffered in the mobile as needed.&quot; Right now they only have Stokholm, Sweden, worked up, but SE says more should be added later. Check out the video after the break. [SE Labs via Android and Me]
+ </text>
+	<score>2</score>
+</article>
+<comment>
+	<cid>16139</cid>
+	<date>Jan 19 2010  2:17 pm</date>
+	<author>charlie#wp</author>
+	<text>Cool!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>16154</cid>
+	<date>Jan 19 2010  6:13 pm</date>
+	<author>Tor</author>
+	<text>Hi
+Just to sort things out. The SDK is by Ericsson one of the mother companies of SonyEricsson. </text>
+	<score>100</score>
+</comment>

@@ -1,0 +1,17 @@
+<article>
+	<pid>8471</pid>
+	<title>Waiting in the T-Mobile wings: Zeppelin, myTouch Slide, myTouch 3G refresh | Android Central</title>
+	<url>http://www.androidcentral.com/waiting-t-mobile-wings-zeppelin-mytouch-slide-mytouch-3g-refresh</url>
+	<date>   Jan 19 2010  3:42 pm   </date>
+	<author>Phil Nickinson</author>
+	<text>
+Our pals at TMoNews have been busy, and they're nailing down some rumored T-Mobile Android devices (some of which we've seen as recently as yesterday), bringing us dates. In a nutshell:The myTouch &quot;Slide&quot; (aka the Espresso) should be coming on May 17 in either red, white or black.The Motorola Zeppelin could make an appearance on March 10.And the Boy Genius Report says the original myTouch 3G is having a 3.5mm headphone jack added (huzzah!) and should be available on Feb. 10. </text>
+	<score>1</score>
+</article>
+<comment>
+	<cid>16162</cid>
+	<date>Jan 19 2010  9:04 pm</date>
+	<author>remixfa000</author>
+	<text>the 3.5mm jack is on the new  mytouch Fender edition.  It also comes with a 16gig card as well and some new software.  initial reports from my colleagues say it actually runs better than the original mytouch... even though the hardware is basically the same. it is launching on the 20th.</text>
+	<score>100</score>
+</comment>

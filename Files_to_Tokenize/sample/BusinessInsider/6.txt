@@ -1,0 +1,27 @@
+<article>
+	<pid>6</pid>
+	<title>The CEO Of Israel's Largest Bank Is Retiring After 16 Years At The Helm - Business Insider</title>
+	<url>http://www.businessinsider.com//head-of-bank-leumi-to-step-down-after-16-years-2012-1</url>
+	<date>Jan.  1, 2012, 12:58 PM</date>
+	<author>AP</author>
+	<text>AP ImagesGalia MaorJERUSALEM (AP) &mdash; The head of Israel's largest bank has announced she is retiring.Galia Maor has been the CEO of Bank Leumi for more than 16 years. Under her management, the bank emerged from the 2008 financial crisis almost unscathed. It also reclaimed the title of Israel's largest bank in terms of assets, surpassing Bank Hapoalim.Forbesmagazine has recognized her performance in past years by placing her on its list of the world's 100 most powerful women.The 68-year-old Maor told the bank's board of directors Sunday that she planned to retire during the second quarter of 2012. In her announcement, Maor said that after finalizing the bank's multiyear plan she was ready to retire.</text>
+	<score>37</score>
+</article>
+<comment>
+	<date>Tue, 10 Jan 2012 13:02:52</date>
+	<author>Og&amp;#322;oszenia Kielce</author>
+	<text>These are genuinely fantastic ideas in about blogging. You have touched some nice factors here. Any way keep up wrinting.</text>
+	<score>3</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 14:43:19</date>
+	<author>Primo</author>
+	<text>if you're going to be a sarcastic bigot, the correct response is that the US taxpayer is Israel's largest bank.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 14:05:03</date>
+	<author>smoke</author>
+	<text>I thought israels biggest bank was goldman sachs, who knew.</text>
+	<score>-1</score>
+</comment>

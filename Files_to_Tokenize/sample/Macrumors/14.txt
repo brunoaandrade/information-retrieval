@@ -1,0 +1,527 @@
+<article>
+	<pid>14</pid>
+	<title>Mac OS X Hacked Onto Intel's Sandy Bridge Platform - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/05/mac-os-x-hacked-onto-intels-sandy-bridge-platform/</url>
+	<date>Wednesday January 5, 2011 7:36 am PST</date>
+	<author>Eric Slivka</author>
+	<text>Earlier this week, Intelofficially unveiledits next-generation "Sandy Bridge" processor architecture, marking a significant performance improvement, especially for notebook computers.  Apple is expected to utilize Sandy Bridge in upcoming revisions of a number of its Mac computers.Unwilling to wait for Apple to make the move to Sandy Bridge, Hackintosh fans have already managed tosuccessfully installMac OS X Snow Leopard on systems with Sandy Bridge hardware.  By using a patched Darwin kernel, users are able to bring Mac OS X to Sandy Bridge, although the technique is obviously officially unsupported and may result in system instability.The good news is, we've already successfully installed Mac OS X Snow Leopard!The bad news is, until Apple uses these CPUs, it's a bit of a science experiment, as you'll need to use a "patched" non-standard Darwin kernel in order to boot the system.Areportfrom early last month indicated that Apple is preparing to initially make the leap to Sandy Bridge on some of its smaller notebook computers, opting to use the all-in-one platform with much-improved graphics performance compared to the company earlier offerings.  Unsatisfied with Intel's earlier offerings, Apple has continued to use older Core 2 Duo chips paired with custom NVIDIA integrated graphics in its smaller form factors where discrete graphics have not been an option due to space constraints.</text>
+	<score>74</score>
+</article>
+<comment>
+	<cid>11668418</cid>
+	<date>Jan 5, 2011, 10:55 AM</date>
+	<author>Yamcha</author>
+	<text>Already knew this :P, I've got a Hackintosh myself.. Sold my iMac.. But I don't think we will see native support for the Sandybridge anytime soon.. At least thats my prediction, Apple is usually very slow to jump to new technologies...The really cool thing is the new Sandybridge's entry level processor (Quad Core) outperforms all the current Core i7 series and its only priced at $184..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668439</cid>
+	<date>Jan 5, 2011, 10:59 AM</date>
+	<author>Santabean2000</author>
+	<text>Gotta think these new processors will be pretty darn good.Please Apple, please, make sure they're supported with discrete graphics in ALL models...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668446</cid>
+	<date>Jan 5, 2011, 11:00 AM</date>
+	<author>Carlson-online</author>
+	<text>why is this using DDR2 RAM and not DDR3 ?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668459</cid>
+	<date>Jan 5, 2011, 11:05 AM</date>
+	<author>w00t951</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Apple has been really diligent in adopting new Intel processor technologies...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668464</cid>
+	<date>Jan 5, 2011, 11:06 AM</date>
+	<author>coder12</author>
+	<text>Regardless of how fast it is ... I still can't get over the name..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668468</cid>
+	<date>Jan 5, 2011, 11:07 AM</date>
+	<author>N10248</author>
+	<text>Quote:Originally Posted byCarlson-onlinewhy is this using DDR2 RAM and not DDR3 ?Probably just an error, it would have been DDR3 that was used.I doubt there are any Socket 1155 boards with DDR2 slots.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668473</cid>
+	<date>Jan 5, 2011, 11:08 AM</date>
+	<author>hscottm</author>
+	<text>Since the OP didn't say it, and I wondered, I am posting this here.  This is an amazing preliminary geekbench score.  The list of recents for mac is at:http://www.primatelabs.ca/geekbench/mac-benchmarks/In short, this performance would be near the low-end of 4-core MacPros in terms of performance, and would rival the 27&quot; imac.  It would be far above (50%?) any existing Macbook pros.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668476</cid>
+	<date>Jan 5, 2011, 11:09 AM</date>
+	<author>Dr.Pants</author>
+	<text>Not surprised, but its good news anyways.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668485</cid>
+	<date>Jan 5, 2011, 11:11 AM</date>
+	<author>GroundLoop</author>
+	<text>Quote:Originally Posted byhscottmSince the OP didn't say it, and I wondered, I am posting this here.  This is an amazing preliminary geekbench score.  The list of recents for mac is at:http://www.primatelabs.ca/geekbench/mac-benchmarks/In short, this performance would be near the low-end of 4-core MacPros in terms of performance, and would rival the 27&quot; imac.  It would be far above (50%?) any existing Macbook pros.The i5-2500K is a desktop processor that would potentially be used in the iMac, not a notebook.GL</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668506</cid>
+	<date>Jan 5, 2011, 11:15 AM</date>
+	<author>Yamcha</author>
+	<text>Quote:Originally Posted byN10248Probably just an error, it would have been DDR3 that was used.I doubt there are any Socket 1155 boards with DDR2 slots.Yup thats an error, 1155 socket only supports DDR3</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668544</cid>
+	<date>Jan 5, 2011, 11:23 AM</date>
+	<author>Hellhammer</author>
+	<text>Quote:Originally Posted byCarlson-onlinewhy is this using DDR2 RAM and not DDR3 ?That's a common error with Hackintoshes. OS X sees the RAM as DDR2 or the CPU clock speeds are reported wrong etc. Can be fixed with a plist editing IIRCQuote:Originally Posted byGroundLoopThe i5-2500K is a desktop processor that would potentially be used in the iMac, not a notebook.GLLikely just the normal i5-2500, no reason for Apple to pay for unlocked CPU since you can't OC it anyway</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668550</cid>
+	<date>Jan 5, 2011, 11:24 AM</date>
+	<author>AC705</author>
+	<text>Will these new processors make it into the next MacBook Pro updates due March/April 2011?  What do you think?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668557</cid>
+	<date>Jan 5, 2011, 11:25 AM</date>
+	<author>0815</author>
+	<text>This will come soon to an official Apple Hardware near you ... until than I don't care. From the few people I know that tried Hackintoshes, they were not running as stable as on the Apple Hardware - And one of the reasons I use mac/apple is to have a stable system where I don't have to hunt around for drivers to make things work. Great news for people of have the time and fun to do that - I wait for the official support.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668568</cid>
+	<date>Jan 5, 2011, 11:28 AM</date>
+	<author>GroundLoop</author>
+	<text>Quote:Originally Posted byHellhammerLikely just the normal i5-2500, no reason for Apple to pay for unlocked CPU since you can't OC it anywayWhich would also mean that you get the HD2000 graphics vs the HD3000 with the 2500K (not sure there is much of a difference though since there would be a discrete chip in there too).GL</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668586</cid>
+	<date>Jan 5, 2011, 11:32 AM</date>
+	<author>Hellhammer</author>
+	<text>Quote:Originally Posted byGroundLoopWhich would also mean that you get the HD2000 graphics vs the HD3000 with the 2500K (not sure there is much of a difference though since there would be a discrete card in there too).GLYeah, there would be no difference. I still don't get it why Intel included HD 3000 in K-series because only H67 chipset supports Intel IGP but it does not support CPU overclocking so buyers of K-series CPUs have to get mobo with P67 chipset where they cannot use the IGP. Why include something that will never be used? Z68 will support both, OCing and Intel IGP though</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668588</cid>
+	<date>Jan 5, 2011, 11:32 AM</date>
+	<author>azentropy</author>
+	<text>Quote:Originally Posted byw00t951Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Apple has been really diligent in adopting new Intel processor technologies...Are you being sarcastic or did you mean delinquent?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668592</cid>
+	<date>Jan 5, 2011, 11:33 AM</date>
+	<author>Consultant</author>
+	<text>Maybe Steve will announce new Macs in a few weeks?Quote:Originally Posted byYamchaAlready knew this :P, I've got a Hackintosh myself.. Sold my iMac.. But I don't think we will see native support for the Sandybridge anytime soon.. At least thats my prediction, Apple is usually very slow to jump to new technologies...The really cool thing is the new Sandybridge's entry level processor (Quad Core) outperforms all the current Core i7 series and its only priced at $184..Wrong. Apple had some of the fastest Xeon for Mac Pro FIRST.Apple had USB, Wifi, Firewire, and many other new technology first. (And Magsafe, a large trackpad that works well, etc. are exclusively Apple)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668619</cid>
+	<date>Jan 5, 2011, 11:37 AM</date>
+	<author>MaxBurn</author>
+	<text>That's neat, I kind of want to get into the whole hckintosh scene.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668636</cid>
+	<date>Jan 5, 2011, 11:40 AM</date>
+	<author>nxent</author>
+	<text>Quote:Originally Posted byhscottmSince the OP didn't say it, and I wondered, I am posting this here.  This is an amazing preliminary geekbench score.  The list of recents for mac is at:http://www.primatelabs.ca/geekbench/mac-benchmarks/In short, this performance would be near the low-end of 4-core MacPros in terms of performance, and would rival the 27&quot; imac.  It would be far above (50%?) any existing Macbook pros.interesting link. as far as power, it seems like laptops are historically about 3 years behind desktops.  yet for the last year or two, the laptop/desktop gap has increased.  this processor update for the mbp's would restore the three year performance gap.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668638</cid>
+	<date>Jan 5, 2011, 11:41 AM</date>
+	<author>Small White Car</author>
+	<text>Quote:Originally Posted byConsultantWrong. Apple had some of the fastest Xeon for Mac Pro FIRST.Apple had USB, Wifi, Firewire, and many other new technology first. (And Magsafe, a large trackpad that works well, etc. are exclusively Apple)In fact, weren't most of the Core Duo chips in Macs before most anybody else got them? Or, at least, before they were widespread.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668649</cid>
+	<date>Jan 5, 2011, 11:43 AM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byConsultantMaybe Steve will announce new Macs in a few weeks?Wrong. Apple had some of the fastest Xeon for Mac Pro FIRST.Apple had USB, Wifi, Firewire, and many other new technology first. (And Magsafe, a large trackpad that works well, etc. are exclusively Apple)yeah that was waaaaaaaay back when?now they are missingquad core i7s in laptops12 core in work stationsDDR3 ram that runs at DDR3 speeds not DDR2 (1066 is not DDR3 speeds)BD anythingUSB 3eSATA / eSATApSATA 6GBHD video camsbluetooth 3WiDianything related to video performance, no 6xxx ati or 5xx nvidia video cardsand a bunch of others</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668677</cid>
+	<date>Jan 5, 2011, 11:49 AM</date>
+	<author>Gemütlichkeit</author>
+	<text>Would love a MacBook Air with one of those in it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668684</cid>
+	<date>Jan 5, 2011, 11:50 AM</date>
+	<author>gorjan</author>
+	<text>Quote:Originally Posted bypr5owneryeah that was waaaaaaaay back when?now they are missingquad core i7s in laptops12 core in work stationsDDR3 ram that runs at DDR3 speeds not DDR2 (1066 is not DDR3 speeds)BD anythingUSB 3eSATA / eSATApSATA 6GBHD video camsbluetooth 3WiDianything related to video performance, no 6xxx ati or 5xx nvidia video cardsand a bunch of othersIt feels like they're far behind hardware wise at least.Quote:Originally Posted byConsultantApplehadUSB, Wifi, Firewire, and many other new technology first. (And Magsafe, a large trackpad that works well, etc. are exclusively Apple)Maybe that's the clue? But anyway, my early 2008 nVidiaTimeBomb(tm) MBP still runs great *knock on wood* and so far is the best computer I've ever had. (The supercool-newestofthenewest hardware chase gets old pretty fast and after a while you just want a computer that does what it's supposed to do.)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668689</cid>
+	<date>Jan 5, 2011, 11:50 AM</date>
+	<author>Gemütlichkeit</author>
+	<text>Quote:Originally Posted bypr5owneryeah that was waaaaaaaay back when?now they are missingquad core i7s in laptops12 core in work stationsDDR3 ram that runs at DDR3 speeds not DDR2 (1066 is not DDR3 speeds)BD anythingUSB 3eSATA / eSATApSATA 6GBHD video camsbluetooth 3WiDianything related to video performance, no 6xxx ati or 5xx nvidia video cardsand a bunch of othersWould your average user take advantage of any of that?  Is their a necessity for i7 laptops?  That's like saying all cars should come with v12 engines.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668699</cid>
+	<date>Jan 5, 2011, 11:52 AM</date>
+	<author>Yamcha</author>
+	<text>Quote:Originally Posted byConsultantMaybe Steve will announce new Macs in a few weeks?Wrong. Apple had some of the fastest Xeon for Mac Pro FIRST.Apple had USB, Wifi, Firewire, and many other new technology first. (And Magsafe, a large trackpad that works well, etc. are exclusively Apple)Mac Pro's weren't the first ones to use Xeon's, as you probably know Apple was using its G5 Processors for Mac Pro's.. I don't know what you mean by the rest.. Yes Magsafe, Large trackpad is something that came to Macs first..But what I'm talking about is hardware, for example, Apple still hasn't adopted to USB 3, SATA 6GB, Apple is still using Core 2 Duo's which were first available in 2006. From what I know Macs cannot take advantage Multi-GPU technology like Crossfire &amp; SLI, No 3D or Physx support on Mac OS.. Steve jobs still refuses to support Bluray.. Apple certainly wasn't the first to use DirectX 11 GPU's, they just recently did, but these were available on Sept 2009..As far as I'm concerned Apple doesn't adopt new technologies quickly:P.. I do think as far as the OS goes Apple is ahead, but when it comes to Hardware Apple isn't quite there yet.. Hopefully this will change in the future.. New hardware comes really quickly, Apple just a while back started using HD5000 series, but now theres HD6000 series cards..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668711</cid>
+	<date>Jan 5, 2011, 11:54 AM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted bypr5owneryeah that was waaaaaaaay back when?now they are missingquad core i7s in laptops12 core in work stationsDDR3 ram that runs at DDR3 speeds not DDR2 (1066 is not DDR3 speeds)BD anythingUSB 3eSATA / eSATApSATA 6GBHD video camsbluetooth 3WiDianything related to video performance, no 6xxx ati or 5xx nvidia video cardsand a bunch of othersSomeone seems to have Featuritis ! Hope there is a cure for it</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668727</cid>
+	<date>Jan 5, 2011, 11:58 AM</date>
+	<author>Mr. Chewbacca</author>
+	<text>Awesome! That does it, I dont need a laptop now so I am waiting for the new one. Gives me time to put aside some extra cash for upgrades.Hopefully it wont cost to much more than the current units.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668733</cid>
+	<date>Jan 5, 2011, 11:59 AM</date>
+	<author>gorjan</author>
+	<text>Quote:Originally Posted byGemütlichkeitWould your average user take advantage of any of that?  Is their a necessity for i7 laptops?  That's like saying all cars should come with v12 engines.There are two sides to that argument. My C2D 2.4GHz MBP is great for my needs right now, but does that mean that Intel should stop R&amp;D and we should all continue using C2D forever? Of course not. (though I do agree with other posters here that the processor isn't the bottleneck in everyday performance and that focus should to turned to HDD/SSDs.)Or what about USB3? I don't understand why there's such a resistance against USB3 on these forums just because Jobs doesn't like it. I would always prefer faster to slower if you don't loose anything in the process.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668740</cid>
+	<date>Jan 5, 2011, 12:00 PM</date>
+	<author>Yamcha</author>
+	<text>Quote:Originally Posted byGemütlichkeitWould your average user take advantage of any of that?  Is their a necessity for i7 laptops?  That's like saying all cars should come with v12 engines.I think the average user could take advantage of USB3 &amp; Sata 6GB/s.. It means much faster random reads and writes for external &amp; internal hard drives. A professional could also take advantage of Crossfire and SLI technology, sometimes one GPU isn't enough, not to mention with a HD6000 series card you can use up to 4 displays, so these things I think any Mac user would be happy to have..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668744</cid>
+	<date>Jan 5, 2011, 12:01 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted byGemütlichkeitWould your average user take advantage of any of that?  Is their a necessity for i7 laptops?  That's like saying all cars should come with v12 engines.++Most moderen processors are fast enough for most laptop uses (exceptions apply) --&gt; I rather have a processor that is a bit slower but gives me way more battery time (and this slower processor will still be faster than what I need). The bottle neck these days is not the processor speed anymore - when I upgraded my MacBook with an 256GB SSD (and 8GB memory) I was amazed how 'fast' it became ('feels'). Typical laptop users wait most of the time for stuff being loaded from the harddrive (or web) -&gt; no V12 engine needed for that. Improve performance where it makes sense - no need to show off unneeded 'features'.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668768</cid>
+	<date>Jan 5, 2011, 12:04 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted bygorjanThere are two sides to that argument. My C2D 2.4GHz MBP works great for me right now, but does that means that Intel should stop R&amp;D and we should all continue using C2D forever? I think you agree that that wouldn't be a good solution? Or what abour USB3? I don't understand why there's such a resistance against USB3 on these forums just because Jobs doesn't like it. I would always prefer faster to slower.R&amp;D is needed and welcomed - as long as you don't expect that every little thing coming out of there is getting adopted right away by everyone out there. No need to upgrade well working tech for minor performance increase (realistic performance, not on paper) at a higher cost. Bring the nextbignew thing out of R&amp;D and it will get used - but not everything tiny bit of improvement is worth getting used right away.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668809</cid>
+	<date>Jan 5, 2011, 12:10 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byGemütlichkeitWould your average user take advantage of any of that?  Is their a necessity for i7 laptops?  That's like saying all cars should come with v12 engines.no, its the current standard, also it would be morelike engines should all have GDI, variable valve timing and electronic liftGDI - some cars have itVVT - most cars have iLift - only honda porsche and 1 other i cant rememberengine size or power is like i3/i5/i7Quote:Originally Posted by0815++Most moderen processors are fast enough for most laptop uses (exceptions apply) --&gt; I rather have a processor that is a bit slower but gives me way more battery time (and this slower processor will still be faster than what I need). The bottle neck these days is not the processor speed anymore - when I upgraded my MacBook with an 256GB SSD (and 8GB memory) I was amazed how 'fast' it became ('feels'). Typical laptop users wait most of the time for stuff being loaded from the harddrive (or web) -&gt; no V12 engine needed for that. Improve performance where it makes sense - no need to show off unneeded 'features'.no, not what apple is charging, a core2duo laptop should be $300-$400 bux, not $1200core2duo's are 100% perfect for email, surfing, general stuff most people use, but when charging 1000+ prices, its becomes wrong</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668826</cid>
+	<date>Jan 5, 2011, 12:11 PM</date>
+	<author>gorjan</author>
+	<text>Quote:Originally Posted by0815R&amp;D is needed and welcomed - as long as you don't expect that every little thing coming out of there is getting adopted right away by everyone out there. No need to upgrade well working tech for minor performance increase (realistic performance, not on paper) at a higher cost. Bring the nextbignew thing out of R&amp;D and it will get used - but not everything tiny bit of improvement is worth getting used right away.I absolutely agree. But I don't see how implementing USB3 would hurt in any way, or BD for that matter. Both would be nice for fast backups i.e. I haven't tried the new Core i Macs, so I can't say if there's a great performance upgrade compared to the C2D.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668832</cid>
+	<date>Jan 5, 2011, 12:12 PM</date>
+	<author>Hellhammer</author>
+	<text>Quote:Originally Posted byYamchaMac Pro's weren't the first ones to use Xeon's, as you probably know Apple was using its G5 Processors for Mac Pro's.Apple was the first one to use Nehalem Xeons. Apple got them on March 3rd while the release date for others was March 31st IIRC. However, non-Xeon Nehalems had been available for months so Apple was most likely the last OEM to use Nehalem CPUs in their products.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668835</cid>
+	<date>Jan 5, 2011, 12:12 PM</date>
+	<author>lilo777</author>
+	<text>Quote:Originally Posted bypr5owneryeah that was waaaaaaaay back when?now they are missingquad core i7s in laptops12 core in work stationsDDR3 ram that runs at DDR3 speeds not DDR2 (1066 is not DDR3 speeds)BD anythingUSB 3eSATA / eSATApSATA 6GBHD video camsbluetooth 3WiDianything related to video performance, no 6xxx ati or 5xx nvidia video cardsand a bunch of othersYou can add a few more features:RGB backlit LCD panelsIPS panels for laptopsbuilt-in GPS in laptopsbuilt-in 3G in laptopsRAID SSDs in laptopsHDMI ports in laptopsreal servers</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668836</cid>
+	<date>Jan 5, 2011, 12:12 PM</date>
+	<author>Mackilroy</author>
+	<text>Quote:Originally Posted by0815From the few people I know that tried Hackintoshes, they were not running as stable as on the Apple Hardware - And one of the reasons I use mac/apple is to have a stable system where I don't have to hunt around for drivers to make things work.It depends on what you do. My hackintosh is as stable as my Mac Pro and MacBook &ndash; which is to say, extremely stable.I read about this a couple days ago &ndash; looking forward to seeing SNB hardware from Apple.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668837</cid>
+	<date>Jan 5, 2011, 12:12 PM</date>
+	<author>Yamcha</author>
+	<text>Quote:Originally Posted by0815R&amp;D is needed and welcomed - as long as you don't expect that every little thing coming out of there is getting adopted right away by everyone out there. No need to upgrade well working tech for minor performance increase (realistic performance, not on paper) at a higher cost. Bring the nextbignew thing out of R&amp;D and it will get used - but not everything tiny bit of improvement is worth getting used right away.Sure I guess its not really required to always adopt to new technologies right away, but remember that Apple is still using Core 2 Duo's, these were released in 2006, Its about time to get rid of them on all Macs.. Also integrated GPU's on entry level iMacs were horrible, Apple has been using 9400M's for a long time, they just recently replaced them with a dedicated GPU, which is great but again the point I'm trying to make is that Apple does indeed take a long time to adopt new technologies.. And anyways things like USB3/Sata6GB and dedicated GPU's make a real impact, same goes for SSD's, which have also been around for a long time, and Apple has made a good step to start using them on Macbook Airs..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668839</cid>
+	<date>Jan 5, 2011, 12:13 PM</date>
+	<author>shartypants</author>
+	<text>I'm ready for the MBP upgrade!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668858</cid>
+	<date>Jan 5, 2011, 12:16 PM</date>
+	<author>Ade-iMac-177</author>
+	<text>Quote:Originally Posted byYamchaMac Pro's weren't the first ones to use Xeon's, as you probably know Apple was using its G5 Processors for Mac Pro's.They were some of the first to use the &quot;woodcrest&quot; xeons, the latest xeon chips when the mac pro was released. Mac Pro's have never used G5, the older Power Mac G5 used them, they only look similar.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668868</cid>
+	<date>Jan 5, 2011, 12:18 PM</date>
+	<author>Yamcha</author>
+	<text>Quote:Originally Posted by0815This will come soon to an official Apple Hardware near you ... until than I don't care. From the few people I know that tried Hackintoshes, they were not running as stable as on the Apple Hardware - And one of the reasons I use mac/apple is to have a stable system where I don't have to hunt around for drivers to make things work. Great news for people of have the time and fun to do that - I wait for the official support.Not true, it depends on the hardware you use.. If you buy compatible hardware you get really good results &amp; setting up is quite easy.. Especially these days.. And it is 100% stable, I've got a HD 5770, Core i3 &amp; DDR3 Memory, you don't need drivers to make these work, they are included in 10.6.5 update, next step is just install Chameleon boot loader, which is what enables the drivers..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668908</cid>
+	<date>Jan 5, 2011, 12:24 PM</date>
+	<author>White Dragon</author>
+	<text>I agree, Apple is really beyond in adopting new hardware.  Come on Apple get with the 21st century.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668968</cid>
+	<date>Jan 5, 2011, 12:32 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted byYamchaNot true, it depends on the hardware you use..sentences like &quot;Not true, it depends ...&quot; mean &quot;YES TRUE&quot;Anyway: I don't argue that a stable hackintosh can be build. It depends on how much time one is willing to invest. I used to build my own PC's and tweaked them to get the last bit of performance. I am no longer willing to invest that time - I think my time is worth more that the potential savings and with having my kids around the time is better spend playing with them. But this is *my* opinion. Many people have fun and time doing that stuff (I used to have that many moons ago). But point is: if you are not careful the result will be unstable and looking at what is needed to get this working, chances are you will end up with an not so stable system.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668984</cid>
+	<date>Jan 5, 2011, 12:34 PM</date>
+	<author>swarmster</author>
+	<text>Quote:Originally Posted byhscottmSince the OP didn't say it, and I wondered, I am posting this here.  This is an amazing preliminary geekbench score.  The list of recents for mac is at:http://www.primatelabs.ca/geekbench/mac-benchmarks/In short, this performance would be near the low-end of 4-core MacPros in terms of performance, and would rival the 27&quot; imac.  It would be far above (50%?) any existing Macbook pros.Quote:Originally Posted byGroundLoopThe i5-2500K is a desktop processor that would potentially be used in the iMac, not a notebook.Right, so in short, &quot;new iMac chip rivals performance of old iMac chip.&quot;Does anyone see what the big deal is here? Weird that the OP prominently displays a performance rating with absolutely no point of reference. Should we just assume it's a big number and get excited?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669006</cid>
+	<date>Jan 5, 2011, 12:37 PM</date>
+	<author>technowizard</author>
+	<text>Quote:Originally Posted bypr5owner...12 core in work stationsDDR3 ram that runs at DDR3 speeds not DDR2 (1066 is not DDR3 speeds)...The Mac Pro (Workstation) is available in a 12 core (2x6) configuration.The Current iMac ships with DDR3 1333mhz Ram.All your other points were correct however no quad core i7 in laptop's is for heat and power consumption reasons.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669045</cid>
+	<date>Jan 5, 2011, 12:43 PM</date>
+	<author>Mackilroy</author>
+	<text>Quote:Originally Posted by0815&lt;FUD snip&gt;It doesn't take that long to get a stable system. As I said, mine is just as stable as my genuine Macs, and the only time I invested was installing the OS.Also, the TonyMac guys have overclocked SNB to 6.31 GHz.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669106</cid>
+	<date>Jan 5, 2011, 12:50 PM</date>
+	<author>Bregalad</author>
+	<text>Quote:Originally Posted byAC705Will these new processors make it into the next MacBook Pro updates due March/April 2011?  What do you think?MacBook Pros are already overdue for a refresh. As soon as mobile Sandy Bridge is shipping in quantity they need to get new models out the door.By March/April they need to get Sandy Bridge into every model for which Intel is shipping a processor (everything except the Mac Pro and MBAir).I know some would argue &quot;need&quot; is the wrong word and I'm willing to forgive Apple for being a few months behind the bleeding edge, but Sandy Bridge is a huge leap forward in the performance per dollar equation. Apple is a premium priced brand and some of their products have major components that are two years old. I expect that in a $400 Dell, not a $1000 Apple.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669124</cid>
+	<date>Jan 5, 2011, 12:52 PM</date>
+	<author>Bregalad</author>
+	<text>Quote:Originally Posted byswarmsterRight, so in short, &quot;new iMac chip rivals performance of old iMac chip.&quot;New $184 iMac chip blows old $384 iMac chip out of the water is more accurate.Apple applies roughly a 100% markup so you should be able to get better performance and save $400 at the same time. I'd say that's cause for anticipation.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669215</cid>
+	<date>Jan 5, 2011, 01:03 PM</date>
+	<author>gorjan</author>
+	<text>Quote:Originally Posted bylilo777built-in 3G in laptopsYes!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669232</cid>
+	<date>Jan 5, 2011, 01:07 PM</date>
+	<author>Yamcha</author>
+	<text>Quote:Originally Posted by0815sentences like &quot;Not true, it depends ...&quot; mean &quot;YES TRUE&quot;Anyway: I don't argue that a stable hackintosh can be build. It depends on how much time one is willing to invest. I used to build my own PC's and tweaked them to get the last bit of performance. I am no longer willing to invest that time - I think my time is worth more that the potential savings and with having my kids around the time is better spend playing with them. But this is *my* opinion. Many people have fun and time doing that stuff (I used to have that many moons ago). But point is: if you are not careful the result will be unstable and looking at what is needed to get this working, chances are you will end up with an not so stable system.Lol :P, well what I meant is it depends if your going to get an AMD setup or not.. If you've got a Core 2 Duo, Core i3/i5/i7 (LGA1156) and a supported GPU then your good to go..I've built a hackintosh a few times with no stability issues.. Fact is Apple uses the same hardware thats available on PC's, same hard drive, memory, processor, chipset &amp; gpu's..So yeah its no secret that i'll work correctly.. You won't have any stability issues.. I had an iMac before, there is no way I'd go back to a Hackintosh if it wasn't stable..I know a lot of Mac users don't look favourably towards Hackintoshes :P, but it being unstable is not true.. After all you do install it with a retail Snow Leopard disc.. And its become so easy to install OSX now..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669237</cid>
+	<date>Jan 5, 2011, 01:07 PM</date>
+	<author>mrblack927</author>
+	<text>Quote:Originally Posted byMackilroyIt doesn't take that long to get a stable system. As I said, mine is just as stable as my genuine Macs, and the only time I invested was installing the OS.Agreed, I installed SL on my core i7 media center box (previously running Ubuntu) just as a &quot;wonder if it will work&quot; afterthought, and the installation was actually faster than installing it on my macbook pro.The hackintosh process used to be complicated, but no longer so. Nowadays you can just pop in a bootloader and install from a regular old retail Snow Leopard CD.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669261</cid>
+	<date>Jan 5, 2011, 01:12 PM</date>
+	<author>0815</author>
+	<text>glad to hear it got easier ...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669347</cid>
+	<date>Jan 5, 2011, 01:25 PM</date>
+	<author>swarmster</author>
+	<text>Quote:Originally Posted byBregaladNew $184 iMac chip blows old $384 iMac chip out of the water is more accurate.Apple applies roughly a 100% markup so you should be able to get better performance and save $400 at the same time. I'd say that's cause for anticipation.Okay, significantly cheaper is a good thing. Maybe if that's the benefit it should have been mentioned in the OP?I'm not seeing where you're getting &quot;blows...out of the water,&quot; though. This new 3.3GHz part gets 8874 points, according to the OP. According to the PrimateLabs list from hscottm, an old i7 2.8GHz gets 8312.I'm not sure whether Geekbench scores scale linearly with clock speed, but that implies an old i7 at 3.3GHz would have gotten 9796. So the new i5s are a bit less far behind the old i7s than the old i5s were. Is that not what we're left to conclude? I'm really not sure, and neither this news article nor anyone's comments have clarified anything.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669766</cid>
+	<date>Jan 5, 2011, 02:24 PM</date>
+	<author>Durendal</author>
+	<text>Wow, I just love clueless bozos who throw this crap out without having a friggin' clue. Let's review, shall we?Quote:Originally Posted bypr5owneryeah that was waaaaaaaay back when?now they are missingquad core i7s in laptopsThermal/power constraints. They'd have run too hot and reduced battery life significantly. Macbook Pros run hot enough as it is. It'd be nice to have them, but Apple aims for a certain tradeoff between overall speed and portability. They don't want to make brickbooks.Quote:12 core in work stationsGee, where were you six months ago when Apple put 2x6 core Xeons in the Mac Pro? Furthermore, Intel doesn't even MAKE a 12 core Xeon. 8 is the highest they go. Since Apple isn't using AMD, it's kind of impossible to use 12 core chips. A 2x6 core is a friggin' monstrosity as it is.Quote:DDR3 ram that runs at DDR3 speeds not DDR2 (1066 is not DDR3 speeds)You fail yet again. Apple's consumer-grade Macs use SO-DIMMs. SO-DIMMs only go up to DDR3 1600 speeds, but those are pretty rare. DDR3 1333 is the feasible top end, which the iMac currently uses. The same goes for ECC RAM in the Mac Pro. It only goes up to 1333mhz right now.Quote:BD anythingAnd Apple has already given their reasons as to why they aren't going with BluRay.Quote:USB 3Which is still very slow to catch on. I'd wager that Apple is banking on Light Peak sometime this year to overtake USB3 and adapters will fill the void until then. Time will tell.Quote:eSATA / eSATApI can agree with this much. I would like eSATA on some Macs. eSATAp really hasn't caught on, though.Quote:SATA 6GBUtterly friggin' useless on anything but a Mac Pro, and there are add-in cards for that. The ONLY time SATA3 is even worth it is when you're either using top-end SSDs or RAID arrays on a port multiplier. None of that applies to consumer Macs.Quote:HD video camsIt would be nice, but is this really a huge selling point? It's kinda pointless for video chatting in the first place as SD gets garbled enough as it is.Quote:bluetooth 3Right, because this is a huge leap and consumers are just clambering for it, aren't they?Quote:WiDiRight, because this has really caught on...except that it hasn't. I don't think I've ever seen it used beyond some very niche products.Quote:anything related to video performance, no 6xxx ati or 5xx nvidia video cardsand a bunch of othersSo Apple should get on video cards the moment they come out? Radeon 6000 series support is actually in 10.6.6 minus a framebuffer. It's coming soon. I can agree somewhat with this point, but I don't expect Apple to stuff a GTX 580 into the Mac Pros the day the card launches. The certainly took their sweet time with the Radeon 5000 series. If rumblings are to be believed, Apple may finally be coming around to this now that Steam is on OS X and Valve is kicking Apple in the butt to get on the ball already. Still, people don't exactly buy Macs for their 3D gaming performance.You have a few points and a lot of ignorant crap. Next time exercise a little rational thought and trim the list a little bit. Apple does indeed lag in some areas, but some areas are really not that important to begin with. Some are.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669942</cid>
+	<date>Jan 5, 2011, 02:51 PM</date>
+	<author>vipergts2207</author>
+	<text>Quote:Originally Posted byDurendalAnd Apple has already given their reasons as to why they aren't going with BluRay.Which is still very slow to catch on. I'd wager that Apple is banking on Light Peak sometime this year to overtake USB3 and adapters will fill the void until then. Time will tell.I can agree with this much. I would like eSATA on some Macs. eSATAp really hasn't caught on, though.Utterly friggin' useless on anything but a Mac Pro, and there are add-in cards for that. The ONLY time SATA3 is even worth it is when you're either using top-end SSDs or RAID arrays on a port multiplier. None of that applies to consumer Macs.It would be nice, but is this really a huge selling point? It's kinda pointless for video chatting in the first place as SD gets garbled enough as it is.You're correct in many of your points, but there are a few I'd argue against. Apple should have included Blu-ray a long time ago. Apple says it's a DOA technology, but its rate of adoption is higher than that of DVD. Not to mention, nothing can compete with the quality of Blu-ray. Also, not everyone has ultra fast internet connections where streaming or downloading is a viable option. A lot of people will say that you don't need Blu-ray in a laptop because the screen isn't big enough. This is mostly true, but people don't want to have to buy a Blu-ray copy for their home theater and a DVD copy for travel or watching a movie in bed on their laptop. You would also get the slight picture quality benefit of not having to upscale like laptops have to do with DVDs.In regards to USB 3, Apple could throw in a third party solution like pretty much every other computer manufacturer will be doing this year. Just because Apple will be supporting LP a year from now, doesn't mean people buying SB computers in a few weeks or months want to be stuck with USB 2 for the next 3-4 years of their computer's life. It's a good interim solution with absolutely no negatives to it. Even if LP takes off, USB 3 will probably coexist with LP for a few years.The iSight camera needs an update. Throw an iPhone camera in there, I don't care. SD, garbled or not, is long over. Hopefully they'll upgrade it considering they have FaceTime for Mac now.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669998</cid>
+	<date>Jan 5, 2011, 03:00 PM</date>
+	<author>-=XX=-Nephilim</author>
+	<text>Cool stuff!Increasingly thinking of Hackintosh way...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670165</cid>
+	<date>Jan 5, 2011, 03:32 PM</date>
+	<author>Durendal</author>
+	<text>Quote:Originally Posted byvipergts2207You're correct in many of your points, but there are a few I'd argue against. Apple should have included Blu-ray a long time ago. Apple says it's a DOA technology, but its rate of adoption is higher than that of DVD. Not to mention, nothing can compete with the quality of Blu-ray. Also, not everyone has ultra fast internet connections where streaming or downloading is a viable option. A lot of people will say that you don't need Blu-ray in a laptop because the screen isn't big enough. This is mostly true, but people don't want to have to buy a Blu-ray copy for their home theater and a DVD copy for travel or watching a movie in bed on their laptop. You would also get the slight picture quality benefit of not having to upscale like laptops have to do with DVDs.Oh, don't get me wrong, I'd love to see BluRay in Macs. In a way, Apple is dropping the ball, but I can also see where Steve is coming from. Sony has turned BluRay licensing into a labyrinthine mess. I think Jobs is banking on BluRay not picking up much (and growth has been slow, although with players finally getting cheap enough, it might pick up more, but BluRay movies at B&amp;M stores are still too expensive) and is instead hoping people will buy/rent HD movies online. You don't necessary need to stream your movies. He has competing ideas. Time will tell if it pans out. I wish we could get both.Quote:In regards to USB 3, Apple could throw in a third party solution like pretty much every other computer manufacturer will be doing this year. Just because Apple will be supporting LP a year from now, doesn't mean people buying SB computers in a few weeks or months want to be stuck with USB 2 for the next 3-4 years of their computer's life. It's a good interim solution with absolutely no negatives to it. Even if LP takes off, USB 3 will probably coexist with LP for a few years.Maybe they figured it would be pointless to stick USB3 on Macs for about a year before going to Light Peak and letting people use inexpensive LP -&gt; USB3 adapters at that point. It's another thing that would be nice, but isn't a serious dealbreaker as USB3 adoption has been pretty sluggish. USB2 was around for far too long and the USB3 B connector differences aren't helping adoption, either.Quote:The iSight camera needs an update. Throw an iPhone camera in there, I don't care. SD, garbled or not, is long over. Hopefully they'll upgrade it considering they have FaceTime for Mac now.I seem to remember Apple updating it to 1.3MP years ago, but that may have just been overall capability, not what is actually utilized. However, FaceTime is still SD video regardless of the camera being used. I'd like to see better iSight capabilities in regard to what you can do with it locally, but I'm not really shedding tears on whether or not I can get HD on video chat. It's like compressing and HD video into SD and 720p variants, but you still try to keep the bitrates really low. The 720p has higher resolution, but it still looks like ass. You don't get nearly as much benefit as you'd think.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670268</cid>
+	<date>Jan 5, 2011, 03:47 PM</date>
+	<author>gorjan</author>
+	<text>Quote:Originally Posted byDurendalMaybe they figured it would be pointless to stick USB3 on Macs for about a year before going to Light Peak and letting people use inexpensive LP -&gt; USB3 adapters at that point. It's another thing that would be nice, but isn't a serious dealbreaker as USB3 adoption has been pretty sluggish. USB2 was around for far too long and the USB3 B connector differences aren't helping adoption, either.LP is probably going to be great, but the thought of adapters, adapters and even more adapters isn't too tempting. And that's the problem, Apple will have to include USB2/3 for some time intill LP is mainstream.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670500</cid>
+	<date>Jan 5, 2011, 04:24 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Gee, where were you six months ago when Apple put 2x6 core Xeons in the Mac Pro? Furthermore, Intel doesn't even MAKE a 12 core Xeon. 8 is the highest they go. Since Apple isn't using AMD, it's kind of impossible to use 12 core chips. A 2x6 core is a friggin' monstrosity as it is.sorry i guess i was looking at the 12core i7 but either way 8 cores arent available as you stated (but your already paying top dollar)Quote:You fail yet again. Apple's consumer-grade Macs use SO-DIMMs. SO-DIMMs only go up to DDR3 1600 speeds, but those are pretty rare. DDR3 1333 is the feasible top end, which the iMac currently uses. The same goes for ECC RAM in the Mac Pro. It only goes up to 1333mhz right now.what about every thing else? again, apple, top dollar, low end performancei dont recall any of their laptops using DDR3 speed ram, as for desktops there are ram sticks that can run at 2.1GHzApple - 8.5GB/s - more expensivePC - 18GB/s - less expensiveQuote:And Apple has already given their reasons as to why they aren't going with BluRay.lol they gave their reasons? WTF again your paying top dollar, and you get nothing for itQuote:Which is still very slow to catch on. I'd wager that Apple is banking on Light Peak sometime this year to overtake USB3 and adapters will fill the void until then. Time will tell.usb 3 slow to catch on? WTF every new notebook,netbook and motherboard has USB 3, MSI even announced their new big bang series mobo ONLY has USB3 (8 of them)go to new egg and type in USB3 into the search field, 4000+ USB 3 products show up, i take it no one is buying them right?http://www.newegg.com/Product/Produc...=usb+3&amp;x=0&amp;y=0Quote:I can agree with this much. I would like eSATA on some Macs. eSATAp really hasn't caught on, though.every HP elitebook has esatap, esatap is just USB + eSATA Combo portQuote:Utterly friggin' useless on anything but a Mac Pro, and there are add-in cards for that. The ONLY time SATA3 is even worth it is when you're either using top-end SSDs or RAID arrays on a port multiplier. None of that applies to consumer Macs.faster sata is useless? a C300 SSD can be had for $130 which reads up to 355MB/s only SATA 6GB can utilize this speed, SATA 6GB is also backwards compatible as is SATA 3a top end SSD is a PCIe card that reads close to 1TB/s, the C300 is a consumer SSD thats readily available and cheap.Quote:It would be nice, but is this really a huge selling point? It's kinda pointless for video chatting in the first place as SD gets garbled enough as it is.top dollar, low end products....Quote:Right, because this is a huge leap and consumers are just clambering for it, aren't they?BT 3 is the current standard, the samsung wave which came out 3-4 months ago even has itQuote:Right, because this has really caught on...except that it hasn't. I don't think I've ever seen it used beyond some very niche products.all you need is a core i series cpu and one of the followingIntel® Centrino® Wireless-N 1000Intel® Centrino® Advanced-N 6200, 6205, 6230, or 1030Intel® Centrino® Advanced-N + WiMAX 6250 or 6150Intel® Centrino® Ultimate-N 6300which is pretty much all new laptopsQuote:So Apple should get on video cards the moment they come out? Radeon 6000 series support is actually in 10.6.6 minus a framebuffer. It's coming soon. I can agree somewhat with this point, but I don't expect Apple to stuff a GTX 580 into the Mac Pros the day the card launches. The certainly took their sweet time with the Radeon 5000 series. If rumblings are to be believed, Apple may finally be coming around to this now that Steam is on OS X and Valve is kicking Apple in the butt to get on the ball already. Still, people don't exactly buy Macs for their 3D gaming performance.top dollar, low end performanceQuote:You have a few points and a lot of ignorant crap. Next time exercise a little rational thought and trim the list a little bit. Apple does indeed lag in some areas, but some areas are really not that important to begin with. Some are.whats rational is that apple users should vote with their wallets, unless your ok with paying more than you have too and getting less. if apple users actually cared, apple would have all the up todate tech in their products or they would have no business</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670648</cid>
+	<date>Jan 5, 2011, 04:48 PM</date>
+	<author>r00fus</author>
+	<text>Quote:Originally Posted bypr5owner...no, not what apple is charging, a core2duo laptop should be $300-$400 bux, not $1200core2duo's are 100% perfect for email, surfing, general stuff most people use, but when charging 1000+ prices, its becomes wrongUh please show me an existing C2D for $300.  Right now, $300 gets you a &quot;Pentium Dual Core&quot;, &quot;Atom&quot;, or &quot;AMD Turion II Neo&quot; chip, which is usually not even C2D tech, much less Core-i.To get a C2D shoddy dell or HP plastic laptop with substandard trackpad and Windows, you'll need to shell out at least $600-700.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670696</cid>
+	<date>Jan 5, 2011, 04:57 PM</date>
+	<author>mr.steevo</author>
+	<text>Quote:Originally Posted bypr5ownertop dollar, low end performanceIn Steve's world &quot;Performance&quot; is measured by more than just the highest possible Ghz and GB available to the market.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670799</cid>
+	<date>Jan 5, 2011, 05:14 PM</date>
+	<author>ericschmerick</author>
+	<text>Quote:Originally Posted byMackilroyIt doesn't take that long to get a stable system. As I said, mine is just as stable as my genuine Macs, and the only time I invested was installing the OS.Also, the TonyMac guys have overclocked SNB to 6.31 GHz.Totally agree.  I've been running a hackintosh for about a year.  Perfectly stable.  Software updates just work.  I'm on the latest 10.6.5 build.  Running Final Cut Pro, Aperture, PS CS4, etc.  3-drive raid stripe.  SDD boot drive.  Blah blah blah.In fact, I'm a good customer for Apple, because everything I'm running is legit legal stuff.  I guess I paid $1600 SGD for Final Cut or something like that.  Just not willing to shell out $5-6k SGD (or more, like $10k SGD on the high end) for a mac pro, when I can build (have built) an i7 System that has equivalent performance for about $1k SGD.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670834</cid>
+	<date>Jan 5, 2011, 05:22 PM</date>
+	<author>batchtaster</author>
+	<text>It's just a pity all their copies of Mac OS X are pirated.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670854</cid>
+	<date>Jan 5, 2011, 05:28 PM</date>
+	<author>Mackilroy</author>
+	<text>Quote:Originally Posted byswarmsterOkay, significantly cheaper is a good thing. Maybe if that's the benefit it should have been mentioned in the OP?I'm not seeing where you're getting &quot;blows...out of the water,&quot; though. This new 3.3GHz part gets 8874 points, according to the OP. According to the PrimateLabs list from hscottm, an old i7 2.8GHz gets 8312.I'm not sure whether Geekbench scores scale linearly with clock speed, but that implies an old i7 at 3.3GHz would have gotten 9796. So the new i5s are a bit less far behind the old i7s than the old i5s were. Is that not what we're left to conclude? I'm really not sure, and neither this news article nor anyone's comments have clarified anything.I'll note that Sandy Bridge benchmark was running in 32-bit, whereas the old i7 (which I have) needs to be at 64-bit to get about that score.That, and Geekbench isn't the most reliable test of speed. You should take a look at some benchmarks of actual applications and games to see the improvement.pr5owner: Your argument seems to consist solely of &quot;I&quot;m right, and you're wrong&quot; and &quot;top dollar/low performance.&quot; Fortunately for the rest of us, specs aren't everything, and most of what you stated is outright trash. The 6870 is actually slower than the 5870, and the 6970 is very recent.As far as WiDi goes, you say &quot;Pretty much all new laptops&quot; but you offer no proof. Proof, please.Quote:Originally Posted bybatchtasterIt's just a pity all their copies of Mac OS X are pirated.If only you were even close to right. They encourage people to buy OS X (I did, though I had a copy long before I had a hackintosh) and they don't allow posts about how to steal OS X. So try again, and next time think before you post.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670939</cid>
+	<date>Jan 5, 2011, 05:45 PM</date>
+	<author>AidenShaw</author>
+	<text>Quote:Originally Posted bymr.steevoIn Steve's world &quot;Performance&quot; is measured by more than just the highest possible Ghz and GB available to the market.I thought that the only critical spec was how thin the case is - function be damned.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672825</cid>
+	<date>Jan 6, 2011, 02:51 AM</date>
+	<author>Mal67</author>
+	<text>Quote:Originally Posted bycoder12Regardless of how fast it is ... I still can't get over the name..Like it might get washed away. Better not use liquid cooling.....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673322</cid>
+	<date>Jan 6, 2011, 06:52 AM</date>
+	<author>emulator</author>
+	<text>Quote:Originally Posted byYamchaHopefully this will change in the future.. New hardware comes really quickly, Apple just a while back started using HD5000 series, but now theres HD6000 series cards..That's what people said when Apple switched to Intel yet nothing changed.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11674076</cid>
+	<date>Jan 6, 2011, 09:22 AM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byr00fusUh please show me an existing C2D for $300.  Right now, $300 gets you a &quot;Pentium Dual Core&quot;, &quot;Atom&quot;, or &quot;AMD Turion II Neo&quot; chip, which is usually not even C2D tech, much less Core-i.To get a C2D shoddy dell or HP plastic laptop with substandard trackpad and Windows, you'll need to shell out at least $600-700.well #1 nobody sells crappy c2d's anymore, its all over stock and reduced prices now to get rid of inventory, i3 laptops start at $450ish-$500ish#2 here is one for $480http://www.newegg.com/Product/Produc...82E16834157456(this one is brand new)#3 here is a bunch starting at $309http://www.tigerdirect.com/applicati...79_45852_45852</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11674184</cid>
+	<date>Jan 6, 2011, 09:38 AM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byMackilroyI'll note that Sandy Bridge benchmark was running in 32-bit, whereas the old i7 (which I have) needs to be at 64-bit to get about that score.That, and Geekbench isn't the most reliable test of speed. You should take a look at some benchmarks of actual applications and games to see the improvement.pr5owner: Your argument seems to consist solely of &quot;I&quot;m right, and you're wrong&quot; and &quot;top dollar/low performance.&quot; Fortunately for the rest of us, specs aren't everything, and most of what you stated is outright trash. The 6870 is actually slower than the 5870, and the 6970 is very recent.As far as WiDi goes, you say &quot;Pretty much all new laptops&quot; but you offer no proof. Proof, please.If only you were even close to right. They encourage people to buy OS X (I did, though I had a copy long before I had a hackintosh) and they don't allow posts about how to steal OS X. So try again, and next time think before you post.im sorry what?5870 = $370ish6970 = $370ishin that benchmark the 6970 beats the 5870 Dollar for DollarATi changed the numbering for their cards, a 6870 card is more like a midrange card while the 69xx series is the high end card (the 5870 was the previous high end card)it would be retarded for Ati to come out with a slower GPU,same with intel, All i3's beat c2d's of the same level/priceas for the WiDi, i said any i3 laptop with the wireless cards i listed, the rest is 100% software/drivers from intel, if your laptop has an i cpu but doesnt have one of the wireless cards listed you can just buy it seperately for like $20-$30 bux and upgrade it to WiDi spec.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11677399</cid>
+	<date>Jan 6, 2011, 05:17 PM</date>
+	<author>BrokenChairs</author>
+	<text>Quote:Originally Posted bypr5owneryeah that was waaaaaaaay back when?now they are missingquad core i7s in laptops12 core in work stationsDDR3 ram that runs at DDR3 speeds not DDR2 (1066 is not DDR3 speeds)BD anythingUSB 3eSATA / eSATApSATA 6GBHD video camsbluetooth 3WiDianything related to video performance, no 6xxx ati or 5xx nvidia video cardsand a bunch of othersOf course, this is Apple, who has many hands in many pies. Other companies such as Dell, HP, Acer, Toshiba etc., don't have to focus on the OS, phones, tablets and other hardwareas muchas Apple appear to have. Yet the more Apple are exposing themselves, the more complaints I personally hear about new models appearing and then upgrades almost immediately.However I do look forward to the next desktop upgrade. Even though my machine is 2 years old and works great, I'm keen to see the next step.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11677460</cid>
+	<date>Jan 6, 2011, 05:28 PM</date>
+	<author>Durendal</author>
+	<text>Quote:Originally Posted bypr5ownersorry i guess i was looking at the 12core i7 but either way 8 cores arent available as you stated (but your already paying top dollar)The prices on high-end Mac Pros (as in dual CPU) are actually fairly competitive with other OEMs. Xeons aren't cheap. You won't find the 8 core Xeons in anything but MASSIVE workstations or servers. They don't even fit socket 1366. They're for a market even higher end than the Mac Pro and the price is insane.Quote:what about every thing else? again, apple, top dollar, low end performancei dont recall any of their laptops using DDR3 speed ram, as for desktops there are ram sticks that can run at 2.1GHzApple - 8.5GB/s - more expensivePC - 18GB/s - less expensiveYou completely and utterly missed the point. Laptops won't go higher than 1333mhz on the RAM unless you're getting a seriously souped-up one with 1600mhz (which is beyond spec for Intel chipsets), and those are rare. Furthermore, ECC doesn't go beyond 1333mhz. Did you somehow miss that? The iMac is also using laptop RAM. And to say that 1066mhz isn't &quot;DDR3 speed&quot; is just plain retarded as, you know, tons of DDR3 runs at that speed. 2.1ghz+ DDR3 is ludicrously expensive, goes outside of spec for any Intel chipset out there, and you'll see virtually no difference in performance over 1800mhz anyway. Apple's not interested in feeding people with minidick computer syndrome. If you want to piss money into something that will give you virtually no benefit then go build a PC. Apple doesn't give a crap.Quote:lol they gave their reasons? WTF again your paying top dollar, and you get nothing for itYes, they did. Try doing some reading.Quote:usb 3 slow to catch on? WTF every new notebook,netbook and motherboard has USB 3, MSI even announced their new big bang series mobo ONLY has USB3 (8 of them)go to new egg and type in USB3 into the search field, 4000+ USB 3 products show up, i take it no one is buying them right?http://www.newegg.com/Product/Produc...=usb+3&amp;x=0&amp;y=0No, not every new notebook, netbook, and motherboard has USB3. In fact, there are barely ANY netbooks that currently have it and most laptops don't have it, either. I'm looking at a new Alienware $1500 laptop right now that doesn't even have USB3. You can talk about boards on Newegg until you're blue in the face, but you know what? The vast majority of consumers don't build their own boxes. They buy OEMs, and OEMs have been pretty sluggish in picking it up as well. I'm also getting less than 700 products on Newegg when punching in &quot;USB3&quot;. Way to pull a number out of your ass. Come back when you can get your facts straight instead of making **** up, kiddo.USB3 PERIPHERALS have been slow to catch on. The difference in the USB3 cable connector is putting some people off (the average consumer isn't exactly eager to buy all the newest crap). And how many people are buying all this stuff beyond the enthusiast crowd, exactly? Most people don't upgrade their computers every six months. There are still a massive truckload of USB2 boards and peripherals out there and tons of people who don't know what it is and don't care because their 3 year old Gateway is working just fine as it is.Quote:every HP elitebook has esatap, esatap is just USB + eSATA Combo portThat's nice. How many external drives use it?Quote:faster sata is useless? a C300 SSD can be had for $130 which reads up to 355MB/s only SATA 6GB can utilize this speed, SATA 6GB is also backwards compatible as is SATA 3a top end SSD is a PCIe card that reads close to 1TB/s, the C300 is a consumer SSD thats readily available and cheap.And I'm sure people are really eager to put a 64GB drive in. The thing is, there are very few laptops that support SATA 3, which means that you could put these SSDs in a Mac Pro, a Mac Mini, or an iMac. The latter two are out for the VAST majority of people as it voids the warranty to replace those drives without taking them to a shop and it's a pain in the ass to do it yourself on both models. The Mac Pro can take a PCIe card for it.I'm sorry, what was your point here again?Quote:top dollar, low end products....Nice rebuttal. Come back when you actually have a point to make.Quote:BT 3 is the current standard, the samsung wave which came out 3-4 months ago even has itAnd the advantages are...?Quote:all you need is a core i series cpu and one of the followingIntel® Centrino® Wireless-N 1000Intel® Centrino® Advanced-N 6200, 6205, 6230, or 1030Intel® Centrino® Advanced-N + WiMAX 6250 or 6150Intel® Centrino® Ultimate-N 6300which is pretty much all new laptopsAnd barely anyone is using it or even cares. Come back when this is actually a selling point to more than a few small niche markets.Quote:top dollar, low end performanceOnce again, you have zero point to make and just hide behind this yet again. I'd hardly call a 5750 or 5870 &quot;low end performance&quot;. Low end performance is Intel integrated graphics.Quote:whats rational is that apple users should vote with their wallets, unless your ok with paying more than you have too and getting less. if apple users actually cared, apple would have all the up todate tech in their products or they would have no businessAnd this is where the rest of you pathetic arguments fall apart: THE AVERAGE CONSUMER KNOWS JACK **** ABOUT SPECS AND DOESN'T CARE. Most people don't play more than games on Yahoo. Most users barely know what clock speed is. Most users won't ever tax their system. You know what most users want? A computer that works. That's it. You can cry about specs all day long, but most people won't give a damn. They want a computer that will let them do what they want to do and they want good support if anything goes wrong. What computer company consistently blows everyone else out of the water when it comes to surveys on customer support? Apple. They're very good at it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11677574</cid>
+	<date>Jan 6, 2011, 05:49 PM</date>
+	<author>Durendal</author>
+	<text>Quote:Originally Posted bypr5owner5870 = $370ish6970 = $370ishin that benchmark the 6970 beats the 5870 Dollar for DollarATi changed the numbering for their cards, a 6870 card is more like a midrange card while the 69xx series is the high end card (the 5870 was the previous high end card)This argument completely falls apart when you check the price on a 5870 and find that it's more like $270 these days.Quote:it would be retarded for Ati to come out with a slower GPU,same with intel, All i3's beat c2d's of the same level/priceThe 6870 came out months before the 6970, which only became available a few weeks ago, and in poor volumes.And the i3/C2D controversy stems from Apple not having room enough on the Macbook logic board for an i3, a dedicated video card (as the i3 video would've been a downgrade in performance), and all the necessary controllers. Nvidia had the advantage of a faster integrated video card in their chipset, which means an overall reduction in the amount of logic board real estate used. This isn't exactly a big secret.It's likely that we'll see Sandy Bridge Macbook Pros within a few months.Quote:as for the WiDi, i said any i3 laptop with the wireless cards i listed, the rest is 100% software/drivers from intel, if your laptop has an i cpu but doesnt have one of the wireless cards listed you can just buy it seperately for like $20-$30 bux and upgrade it to WiDi spec.And WiDi is still a nothing market.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11799623</cid>
+	<date>Jan 27, 2011, 01:40 PM</date>
+	<author>elmateo487</author>
+	<text>Quote:Originally Posted bygorjanI absolutely agree. But I don't see how implementing USB3 would hurt in any way, or BD for that matter. Both would be nice for fast backups i.e. I haven't tried the new Core i Macs, so I can't say if there's a great performance upgrade compared to the C2D.Steve Jobs isnt supporting USB 3 because they will support Light Peak, which is much faster, not as backwards compatible, or has the ability to power a device. But any protocol can be ran over the cable. HDMI, DVI etc.http://apcmag.com/intel-demos-light-...-30-killer.htm</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11799657</cid>
+	<date>Jan 27, 2011, 01:45 PM</date>
+	<author>elmateo487</author>
+	<text>Quote:Originally Posted byDurendalThis argument completely falls apart when you check the price on a 5870 and find that it's more like $270 these days.And that is on the modest side. Just bought one brand new for 200 bucks (230 with rebate), running it in my 2006 Mac Pro</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11799742</cid>
+	<date>Jan 27, 2011, 01:59 PM</date>
+	<author>elmateo487</author>
+	<text>Quote:Originally Posted byDurendalAnd this is where the rest of you pathetic arguments fall apart: THE AVERAGE CONSUMER KNOWS JACK **** ABOUT SPECS AND DOESN'T CARE. Most people don't play more than games on Yahoo. Most users barely know what clock speed is. Most users won't ever tax their system. You know what most users want? A computer that works. That's it. You can cry about specs all day long, but most people won't give a damn. They want a computer that will let them do what they want to do and they want good support if anything goes wrong. What computer company consistently blows everyone else out of the water when it comes to surveys on customer support? Apple. They're very good at it.I agree with this. My last job I worked was for my school selling Macs and PCs. Selling 15-20 computers a day, I could easily say without anything weighing me down, that 95% of all people who bought computers from me knew NOTHING about specs.Ram and Hard Drive space were regularly confused, let alone knowing what either was. Processor speed was only relative, as in 2.4 must be better than 2.2. Unless heaven forbid you try to explain to them an i7. Ram? More=better (1033,1333,1600? Yeah right)People want functionality, good looks and longevity. Out of those 15-20 computers a day, 13-18 of them were macs. Now... given this is a college demographic. But are they not the media consumers of our current population?I have used PCs from age 6 to 18. 18-23 I have used macs. I currently bootcamp Windows 7 for gaming and thats it, and I do enjoy the OS, but it is not as functional of an OS as OS X.Specs? People don't care, they enjoy their Macs better.</text>
+	<score>0</score>
+</comment>

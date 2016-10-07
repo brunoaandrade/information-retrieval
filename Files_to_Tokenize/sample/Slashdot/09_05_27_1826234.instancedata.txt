@@ -1,0 +1,905 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_27_1826234</id>
+	<title>Intel's Nehalem EX To Gain Error Correction</title>
+	<author>timothy</author>
+	<datestamp>1243448880000</datestamp>
+	<htmltext><a href="http://www.goodgearguide.com.au/" rel="nofollow">angry tapir</a> writes <i>"Intel's eight-core Nehalem EX server processor will include a technology derived from its high-end Itanium chips that helps to reduce data corruption and ensure reliable server performance. The processor will include an <a href="http://www.pcworld.idg.com.au/article/304632/intel\_nehalem\_ex\_gain\_error\_correction\_technology">error correction feature</a> called MCA Recovery, which will detect and fix errors that could otherwise cause systems to crash &mdash; it will be able to detect system errors originating in the CPU or system memory and work with the operating system to correct them."</i> <b>Update: 05/27 19:11 GMT</b> by <b> <a href="http://www.monkey.org/~timothy/">T</a> </b>: Dave Altavilla suggests also Hot Hardware's coverage of the new chip, which includes <a href="http://hothardware.com/News/Intel-Unveils-NehalemEX-OctalCore-Server-CPU/">quite a bit more information</a>.</htmltext>
+<tokenext>angry tapir writes " Intel 's eight-core Nehalem EX server processor will include a technology derived from its high-end Itanium chips that helps to reduce data corruption and ensure reliable server performance .
+The processor will include an error correction feature called MCA Recovery , which will detect and fix errors that could otherwise cause systems to crash â € ” it will be able to detect system errors originating in the CPU or system memory and work with the operating system to correct them .
+" Update : 05/27 19 : 11 GMT by T : Dave Altavilla suggests also Hot Hardware 's coverage of the new chip , which includes quite a bit more information .</tokentext>
+<sentencetext>angry tapir writes "Intel's eight-core Nehalem EX server processor will include a technology derived from its high-end Itanium chips that helps to reduce data corruption and ensure reliable server performance.
+The processor will include an error correction feature called MCA Recovery, which will detect and fix errors that could otherwise cause systems to crash â€” it will be able to detect system errors originating in the CPU or system memory and work with the operating system to correct them.
+" Update: 05/27 19:11 GMT by  T : Dave Altavilla suggests also Hot Hardware's coverage of the new chip, which includes quite a bit more information.</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189</id>
+	<title>Re:x86</title>
+	<author>0x000000</author>
+	<datestamp>1243453260000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>The more interesting thing is to see how this technology is going to work and whether other manufacturers will be able to implement this in their chips.</p><p>x86 is slow and under performing architecture, and I am surprise that Intel is bolting error correction on top of it. The Intel instruction set is so complicated that often times a single bit being flipped means it is still a very much valid opcode which when executed will do something completely different from what you expect it to do.</p><p>This seems to be nothing short of a stopgap measure for not losing more customers to the big iron manufacturers like Sun and IBM who both have their own CPU's that were built with stability in mind.</p><p>x86 has moved into areas where it simply is not going to shine as brilliantly as it did on the desktop. The only issue is that moving to a new platform is going to be catastrophic in that too many people rely on it. Apple being able to transition from PowerPC to x86 is quite a feat, but x86 transitioning to the next big thing is going to be impossible without at least backwards compatibility in the form of x86 emulation, and boy is the x86 instruction set fun to emulate!</p></htmltext>
+<tokenext>The more interesting thing is to see how this technology is going to work and whether other manufacturers will be able to implement this in their chips.x86 is slow and under performing architecture , and I am surprise that Intel is bolting error correction on top of it .
+The Intel instruction set is so complicated that often times a single bit being flipped means it is still a very much valid opcode which when executed will do something completely different from what you expect it to do.This seems to be nothing short of a stopgap measure for not losing more customers to the big iron manufacturers like Sun and IBM who both have their own CPU 's that were built with stability in mind.x86 has moved into areas where it simply is not going to shine as brilliantly as it did on the desktop .
+The only issue is that moving to a new platform is going to be catastrophic in that too many people rely on it .
+Apple being able to transition from PowerPC to x86 is quite a feat , but x86 transitioning to the next big thing is going to be impossible without at least backwards compatibility in the form of x86 emulation , and boy is the x86 instruction set fun to emulate !</tokentext>
+<sentencetext>The more interesting thing is to see how this technology is going to work and whether other manufacturers will be able to implement this in their chips.x86 is slow and under performing architecture, and I am surprise that Intel is bolting error correction on top of it.
+The Intel instruction set is so complicated that often times a single bit being flipped means it is still a very much valid opcode which when executed will do something completely different from what you expect it to do.This seems to be nothing short of a stopgap measure for not losing more customers to the big iron manufacturers like Sun and IBM who both have their own CPU's that were built with stability in mind.x86 has moved into areas where it simply is not going to shine as brilliantly as it did on the desktop.
+The only issue is that moving to a new platform is going to be catastrophic in that too many people rely on it.
+Apple being able to transition from PowerPC to x86 is quite a feat, but x86 transitioning to the next big thing is going to be impossible without at least backwards compatibility in the form of x86 emulation, and boy is the x86 instruction set fun to emulate!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28115203</id>
+	<title>Re:x86</title>
+	<author>Anonymous</author>
+	<datestamp>1243419240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Yes and that's why the top 3 supercomputers in the world are x86 based...</p><p>The fastest supercomputer, built by IBM no less, is x86 (Opteron) based so there goes your theory on "big iron" manufacturers.</p></htmltext>
+<tokenext>Yes and that 's why the top 3 supercomputers in the world are x86 based...The fastest supercomputer , built by IBM no less , is x86 ( Opteron ) based so there goes your theory on " big iron " manufacturers .</tokentext>
+<sentencetext>Yes and that's why the top 3 supercomputers in the world are x86 based...The fastest supercomputer, built by IBM no less, is x86 (Opteron) based so there goes your theory on "big iron" manufacturers.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113269</id>
+	<title>Re:Error</title>
+	<author>MrNaz</author>
+	<datestamp>1243453560000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I like this trend for computer systems to protect us from our own stupidity. Here's another one:<br><a href="http://static.mrnaz.com/ms\_security\_works.jpg" title="mrnaz.com" rel="nofollow">http://static.mrnaz.com/ms\_security\_works.jpg</a> [mrnaz.com]</p></htmltext>
+<tokenext>I like this trend for computer systems to protect us from our own stupidity .
+Here 's another one : http : //static.mrnaz.com/ms \ _security \ _works.jpg [ mrnaz.com ]</tokentext>
+<sentencetext>I like this trend for computer systems to protect us from our own stupidity.
+Here's another one:http://static.mrnaz.com/ms\_security\_works.jpg [mrnaz.com]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113033</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28114765</id>
+	<title>Re:x86</title>
+	<author>Anonymous</author>
+	<datestamp>1243417800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>x86 is slow?  You've got to be kidding me.</p></htmltext>
+<tokenext>x86 is slow ?
+You 've got to be kidding me .</tokentext>
+<sentencetext>x86 is slow?
+You've got to be kidding me.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113207</id>
+	<title>Re:ECC memory replacement?</title>
+	<author>Anonymous</author>
+	<datestamp>1243453380000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>No. ECC only corrects certain issues in the memory. It cannot help with memory controller errors, nor with register or TLB errors.</p></htmltext>
+<tokenext>No .
+ECC only corrects certain issues in the memory .
+It can not help with memory controller errors , nor with register or TLB errors .</tokentext>
+<sentencetext>No.
+ECC only corrects certain issues in the memory.
+It cannot help with memory controller errors, nor with register or TLB errors.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113023</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28115875</id>
+	<title>Re:x86</title>
+	<author>Anonymous</author>
+	<datestamp>1243421400000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p><div class="quote"><p>x86 is slow and under performing architecture</p></div><p>So right there you've destroyed your credibility.  You couldn't be any more wrong if your name was W. Wrongy Wrongenstein.</p><p>Right now, x86 processors are the highest performance in the world.</p><p><div class="quote"><p>and I am surprise that Intel is bolting error correction on top of it</p></div><p>Well, that just shows you aren't paying attention to the trends of where x86 is going any more than you've been paying attention to its performance.  x86 has been gradually moving up market into higher and higher tiers of servers for well over a decade now.</p><p><div class="quote"><p>The Intel instruction set is so complicated that often times a single bit being flipped means it is still a very much valid opcode which when executed will do something completely different from what you expect it to do.</p></div><p>And now we see that you don't have much clue about instruction set encoding, either.</p><p>There is literally no commercially viable instruction set for which the above is NOT true.  Look at a traditional RISC instruction set with 3 operands and 32 GPRs.  Almost half of the bits (15 of them) in every 32-bit ALU instruction for such a processor are register addresses.  Flip any of those bits and the register address is still valid -- there are no invalid addresses, so the processor can't tell the difference between the wrong address and the right one.  The remainder of the bits in such an instruction are typically instruction format select, opcode select, and miscellaneous control bits.  Flip an opcode bit and you'll get the wrong ALU op, more often than not... processor designers leave some room for adding opcodes, but typically not a lot.</p><p>See, the only way an instruction set can guard against bit flips is not by simplicity (as you implicitly claim), it's by being horribly wasteful.  When people design instruction encodings, they look at the width of all the bit fields in each instruction format and use the smallest they can get away with.  Instruction sets which aren't efficiently packed aren't any good: they use more memory to store program code, have reduced effective icache size for the same number of bits in silicon, tend to have major clumsiness (such as too-small immediate operand sizes, or too-small relative branch windows),and so forth.  Efficient packing always means there are very few invalid bit patterns for each field in the instruction; if you have a lot of invalid patterns you probably could be packing the instruction tighter.  Few invalid patterns means that most bit flips still produce a valid instruction.</p><p><div class="quote"><p>This seems to be nothing short of a stopgap measure for not losing more customers to the big iron manufacturers like Sun and IBM who both have their own CPU's that were built with stability in mind.</p></div><p>Idiot.  Intel isn't <i>losing</i> big iron marketshare to IBM and Sun.  It's <i>taking</i> big iron marketshare from them.  Adding big iron RAS features to x86 is the next step in that trend.</p><p><div class="quote"><p>x86 has moved into areas where it simply is not going to shine as brilliantly as it did on the desktop. The only issue is that moving to a new platform is going to be catastrophic in that too many people rely on it. Apple being able to transition from PowerPC to x86 is quite a feat, but x86 transitioning to the next big thing is going to be impossible without at least backwards compatibility in the form of x86 emulation, and boy is the x86 instruction set fun to emulate!</p></div><p>1990 called, and it wants its foolish predictions of where x86 cannot go back.</p><p>Much better informed people than you thought, back then, that x86 could never be a workstation or server CPU in any capacity at all.  It was just a personal computer processor, and a rather ugly and slow one at that.</p><p>Instead, Intel proved they could make fast x86 processors, and steadily increased x86 presence in the workstation and low end server market throughout the 90s, with an assist from AMD in recent years.  x86 now dominates those markets.</p><p>Is x86 a perfect instruction set design?  Of course not, it's ugly as hell.  Does that mean it literally cannot be adapted to the big iron world?  No, of course not.  Most of the RAS features (Reliability, Availability, Serviceability) big iron needs aren't tightly coupled to the actual instruction set used.  Your notion that x86 cannot enter this market without relying on emulation (presumably by a 'better' instruction set processor) is horribly naive and completely out of touch with reality.</p></div>
+	</htmltext>
+<tokenext>x86 is slow and under performing architectureSo right there you 've destroyed your credibility .
+You could n't be any more wrong if your name was W. Wrongy Wrongenstein.Right now , x86 processors are the highest performance in the world.and I am surprise that Intel is bolting error correction on top of itWell , that just shows you are n't paying attention to the trends of where x86 is going any more than you 've been paying attention to its performance .
+x86 has been gradually moving up market into higher and higher tiers of servers for well over a decade now.The Intel instruction set is so complicated that often times a single bit being flipped means it is still a very much valid opcode which when executed will do something completely different from what you expect it to do.And now we see that you do n't have much clue about instruction set encoding , either.There is literally no commercially viable instruction set for which the above is NOT true .
+Look at a traditional RISC instruction set with 3 operands and 32 GPRs .
+Almost half of the bits ( 15 of them ) in every 32-bit ALU instruction for such a processor are register addresses .
+Flip any of those bits and the register address is still valid -- there are no invalid addresses , so the processor ca n't tell the difference between the wrong address and the right one .
+The remainder of the bits in such an instruction are typically instruction format select , opcode select , and miscellaneous control bits .
+Flip an opcode bit and you 'll get the wrong ALU op , more often than not... processor designers leave some room for adding opcodes , but typically not a lot.See , the only way an instruction set can guard against bit flips is not by simplicity ( as you implicitly claim ) , it 's by being horribly wasteful .
+When people design instruction encodings , they look at the width of all the bit fields in each instruction format and use the smallest they can get away with .
+Instruction sets which are n't efficiently packed are n't any good : they use more memory to store program code , have reduced effective icache size for the same number of bits in silicon , tend to have major clumsiness ( such as too-small immediate operand sizes , or too-small relative branch windows ) ,and so forth .
+Efficient packing always means there are very few invalid bit patterns for each field in the instruction ; if you have a lot of invalid patterns you probably could be packing the instruction tighter .
+Few invalid patterns means that most bit flips still produce a valid instruction.This seems to be nothing short of a stopgap measure for not losing more customers to the big iron manufacturers like Sun and IBM who both have their own CPU 's that were built with stability in mind.Idiot .
+Intel is n't losing big iron marketshare to IBM and Sun .
+It 's taking big iron marketshare from them .
+Adding big iron RAS features to x86 is the next step in that trend.x86 has moved into areas where it simply is not going to shine as brilliantly as it did on the desktop .
+The only issue is that moving to a new platform is going to be catastrophic in that too many people rely on it .
+Apple being able to transition from PowerPC to x86 is quite a feat , but x86 transitioning to the next big thing is going to be impossible without at least backwards compatibility in the form of x86 emulation , and boy is the x86 instruction set fun to emulate ! 1990 called , and it wants its foolish predictions of where x86 can not go back.Much better informed people than you thought , back then , that x86 could never be a workstation or server CPU in any capacity at all .
+It was just a personal computer processor , and a rather ugly and slow one at that.Instead , Intel proved they could make fast x86 processors , and steadily increased x86 presence in the workstation and low end server market throughout the 90s , with an assist from AMD in recent years .
+x86 now dominates those markets.Is x86 a perfect instruction set design ?
+Of course not , it 's ugly as hell .
+Does that mean it literally can not be adapted to the big iron world ?
+No , of course not .
+Most of the RAS features ( Reliability , Availability , Serviceability ) big iron needs are n't tightly coupled to the actual instruction set used .
+Your notion that x86 can not enter this market without relying on emulation ( presumably by a 'better ' instruction set processor ) is horribly naive and completely out of touch with reality .</tokentext>
+<sentencetext>x86 is slow and under performing architectureSo right there you've destroyed your credibility.
+You couldn't be any more wrong if your name was W. Wrongy Wrongenstein.Right now, x86 processors are the highest performance in the world.and I am surprise that Intel is bolting error correction on top of itWell, that just shows you aren't paying attention to the trends of where x86 is going any more than you've been paying attention to its performance.
+x86 has been gradually moving up market into higher and higher tiers of servers for well over a decade now.The Intel instruction set is so complicated that often times a single bit being flipped means it is still a very much valid opcode which when executed will do something completely different from what you expect it to do.And now we see that you don't have much clue about instruction set encoding, either.There is literally no commercially viable instruction set for which the above is NOT true.
+Look at a traditional RISC instruction set with 3 operands and 32 GPRs.
+Almost half of the bits (15 of them) in every 32-bit ALU instruction for such a processor are register addresses.
+Flip any of those bits and the register address is still valid -- there are no invalid addresses, so the processor can't tell the difference between the wrong address and the right one.
+The remainder of the bits in such an instruction are typically instruction format select, opcode select, and miscellaneous control bits.
+Flip an opcode bit and you'll get the wrong ALU op, more often than not... processor designers leave some room for adding opcodes, but typically not a lot.See, the only way an instruction set can guard against bit flips is not by simplicity (as you implicitly claim), it's by being horribly wasteful.
+When people design instruction encodings, they look at the width of all the bit fields in each instruction format and use the smallest they can get away with.
+Instruction sets which aren't efficiently packed aren't any good: they use more memory to store program code, have reduced effective icache size for the same number of bits in silicon, tend to have major clumsiness (such as too-small immediate operand sizes, or too-small relative branch windows),and so forth.
+Efficient packing always means there are very few invalid bit patterns for each field in the instruction; if you have a lot of invalid patterns you probably could be packing the instruction tighter.
+Few invalid patterns means that most bit flips still produce a valid instruction.This seems to be nothing short of a stopgap measure for not losing more customers to the big iron manufacturers like Sun and IBM who both have their own CPU's that were built with stability in mind.Idiot.
+Intel isn't losing big iron marketshare to IBM and Sun.
+It's taking big iron marketshare from them.
+Adding big iron RAS features to x86 is the next step in that trend.x86 has moved into areas where it simply is not going to shine as brilliantly as it did on the desktop.
+The only issue is that moving to a new platform is going to be catastrophic in that too many people rely on it.
+Apple being able to transition from PowerPC to x86 is quite a feat, but x86 transitioning to the next big thing is going to be impossible without at least backwards compatibility in the form of x86 emulation, and boy is the x86 instruction set fun to emulate!1990 called, and it wants its foolish predictions of where x86 cannot go back.Much better informed people than you thought, back then, that x86 could never be a workstation or server CPU in any capacity at all.
+It was just a personal computer processor, and a rather ugly and slow one at that.Instead, Intel proved they could make fast x86 processors, and steadily increased x86 presence in the workstation and low end server market throughout the 90s, with an assist from AMD in recent years.
+x86 now dominates those markets.Is x86 a perfect instruction set design?
+Of course not, it's ugly as hell.
+Does that mean it literally cannot be adapted to the big iron world?
+No, of course not.
+Most of the RAS features (Reliability, Availability, Serviceability) big iron needs aren't tightly coupled to the actual instruction set used.
+Your notion that x86 cannot enter this market without relying on emulation (presumably by a 'better' instruction set processor) is horribly naive and completely out of touch with reality.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28117113</id>
+	<title>Re:x86</title>
+	<author>RightSaidFred99</author>
+	<datestamp>1243427880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I know, all those much better performing than Nehalem/Opteron chips are really crushing x86.
+
+Wait, there are barely any of those.  Sorry, I didn't realize quite how full of shit you were.</htmltext>
+<tokenext>I know , all those much better performing than Nehalem/Opteron chips are really crushing x86 .
+Wait , there are barely any of those .
+Sorry , I did n't realize quite how full of shit you were .</tokentext>
+<sentencetext>I know, all those much better performing than Nehalem/Opteron chips are really crushing x86.
+Wait, there are barely any of those.
+Sorry, I didn't realize quite how full of shit you were.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113233</id>
+	<title>Re:x86</title>
+	<author>Lally Singh</author>
+	<datestamp>1243453440000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>They're not, nobody buys Itanium.  They're going after SPARC and POWER.  Lots of people are looking at the speed and throughput of modern x86 and noticing the price difference.  Especially in this economy.</p><p>And with Ellison in control of SPARC, it's the best way to go.</p></htmltext>
+<tokenext>They 're not , nobody buys Itanium .
+They 're going after SPARC and POWER .
+Lots of people are looking at the speed and throughput of modern x86 and noticing the price difference .
+Especially in this economy.And with Ellison in control of SPARC , it 's the best way to go .</tokentext>
+<sentencetext>They're not, nobody buys Itanium.
+They're going after SPARC and POWER.
+Lots of people are looking at the speed and throughput of modern x86 and noticing the price difference.
+Especially in this economy.And with Ellison in control of SPARC, it's the best way to go.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28120397</id>
+	<title>Re:x86</title>
+	<author>Slashcrap</author>
+	<datestamp>1243502220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>x86 is slow and under performing architecture</p></div><p>Yeah, nearly as slow and under performing as SPARC, PPC, MIPS, IA64 and ARM.</p><p>Not quite though, not quite.</p></div>
+	</htmltext>
+<tokenext>x86 is slow and under performing architectureYeah , nearly as slow and under performing as SPARC , PPC , MIPS , IA64 and ARM.Not quite though , not quite .</tokentext>
+<sentencetext>x86 is slow and under performing architectureYeah, nearly as slow and under performing as SPARC, PPC, MIPS, IA64 and ARM.Not quite though, not quite.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113229</id>
+	<title>More detail on MCA Recovery</title>
+	<author>FishBike</author>
+	<datestamp>1243453440000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext>The article seemed pretty light on details of what MCA Recovery actually does. I found <a href="http://www.ice.gelato.org/apr07/pres\_pdf/gelato\_ICE07apr\_mca\_anderson\_sgi.pdf" title="gelato.org" rel="nofollow">this presentation in PDF format</a> [gelato.org] that seems to go into some more useful detail about what this is. It's not just ECC to repair single-bit errors (although that is part of it, apparently). It also includes features to recover from errors that cannot simply be corrected. For example it includes a mechanism to notify the OS of the details of an uncorrectable error, so that it could presumably re-load a page full of program code from disk, or terminate an application if its data has been corrupted, instead of shutting down the whole machine.</htmltext>
+<tokenext>The article seemed pretty light on details of what MCA Recovery actually does .
+I found this presentation in PDF format [ gelato.org ] that seems to go into some more useful detail about what this is .
+It 's not just ECC to repair single-bit errors ( although that is part of it , apparently ) .
+It also includes features to recover from errors that can not simply be corrected .
+For example it includes a mechanism to notify the OS of the details of an uncorrectable error , so that it could presumably re-load a page full of program code from disk , or terminate an application if its data has been corrupted , instead of shutting down the whole machine .</tokentext>
+<sentencetext>The article seemed pretty light on details of what MCA Recovery actually does.
+I found this presentation in PDF format [gelato.org] that seems to go into some more useful detail about what this is.
+It's not just ECC to repair single-bit errors (although that is part of it, apparently).
+It also includes features to recover from errors that cannot simply be corrected.
+For example it includes a mechanism to notify the OS of the details of an uncorrectable error, so that it could presumably re-load a page full of program code from disk, or terminate an application if its data has been corrupted, instead of shutting down the whole machine.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28114641</id>
+	<title>Christ!  Can't believe anyone hasn't used this yet</title>
+	<author>Chas</author>
+	<datestamp>1243417260000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Imagine a Beowulf cluster of these!</p></htmltext>
+<tokenext>Imagine a Beowulf cluster of these !</tokentext>
+<sentencetext>Imagine a Beowulf cluster of these!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113075</id>
+	<title>Not nearly good enough...</title>
+	<author>fuzzyfuzzyfungus</author>
+	<datestamp>1243452780000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext>This is nice and all; but I, for one, will not be satisfied until Intel releases a CPU that does what I mean, not what I say.</htmltext>
+<tokenext>This is nice and all ; but I , for one , will not be satisfied until Intel releases a CPU that does what I mean , not what I say .</tokentext>
+<sentencetext>This is nice and all; but I, for one, will not be satisfied until Intel releases a CPU that does what I mean, not what I say.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28118429</id>
+	<title>Re:x86</title>
+	<author>Anonymous</author>
+	<datestamp>1243437780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>Yeah this is something the "big boys" already had, fat consolation that will be now that x86 is poised to eat their lunch.  Not even Intel themselves could reverse the trend when they tried.  They could use features like this to differentiate Itanium all they want, at the end of the day the customer says "yeah that's great, but can you do it in an x86 chip?"  This is just them bowing to the demands of the market (in order to make mega $$).</p></div><p>I know that when I was working at AMD last year (before being laid off) one of the big pushes is to add RAS features in direct response to customer demand.  Not only are they adding it to the CPU but they're adding it to their chipsets as well.  I worked peripherally on what will be released as the RD890 soon (if it hasn't already been released) and there were a lot of RAS features added on top of what the 7xx series had.</p><p>I have to believe that customers were (and still are) pushing Intel and their chipset vendords to do the same.</p><p>The server market is a big pie that Intel and AMD want more of and they're willing to give the customer what they want to get it.</p></div>
+	</htmltext>
+<tokenext>Yeah this is something the " big boys " already had , fat consolation that will be now that x86 is poised to eat their lunch .
+Not even Intel themselves could reverse the trend when they tried .
+They could use features like this to differentiate Itanium all they want , at the end of the day the customer says " yeah that 's great , but can you do it in an x86 chip ?
+" This is just them bowing to the demands of the market ( in order to make mega $ $ ) .I know that when I was working at AMD last year ( before being laid off ) one of the big pushes is to add RAS features in direct response to customer demand .
+Not only are they adding it to the CPU but they 're adding it to their chipsets as well .
+I worked peripherally on what will be released as the RD890 soon ( if it has n't already been released ) and there were a lot of RAS features added on top of what the 7xx series had.I have to believe that customers were ( and still are ) pushing Intel and their chipset vendords to do the same.The server market is a big pie that Intel and AMD want more of and they 're willing to give the customer what they want to get it .</tokentext>
+<sentencetext>Yeah this is something the "big boys" already had, fat consolation that will be now that x86 is poised to eat their lunch.
+Not even Intel themselves could reverse the trend when they tried.
+They could use features like this to differentiate Itanium all they want, at the end of the day the customer says "yeah that's great, but can you do it in an x86 chip?
+"  This is just them bowing to the demands of the market (in order to make mega $$).I know that when I was working at AMD last year (before being laid off) one of the big pushes is to add RAS features in direct response to customer demand.
+Not only are they adding it to the CPU but they're adding it to their chipsets as well.
+I worked peripherally on what will be released as the RD890 soon (if it hasn't already been released) and there were a lot of RAS features added on top of what the 7xx series had.I have to believe that customers were (and still are) pushing Intel and their chipset vendords to do the same.The server market is a big pie that Intel and AMD want more of and they're willing to give the customer what they want to get it.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113811</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28114021</id>
+	<title>x86</title>
+	<author>Anonymous</author>
+	<datestamp>1243457040000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>*sniff*  x86 is getting to be so grown up *sniff*  I remember when it was just a little 16 bit chip.</htmltext>
+<tokenext>* sniff * x86 is getting to be so grown up * sniff * I remember when it was just a little 16 bit chip .</tokentext>
+<sentencetext>*sniff*  x86 is getting to be so grown up *sniff*  I remember when it was just a little 16 bit chip.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113791</id>
+	<title>Re:More detail on MCA Recovery</title>
+	<author>strick1226</author>
+	<datestamp>1243455900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>
+Perhaps I'm just showing my age, but chills went up my spine until I realized it wasn't <a href="http://en.wikipedia.org/wiki/Micro\_Channel\_Architecture" title="wikipedia.org" rel="nofollow"> <i>this</i> </a> [wikipedia.org] MCA which involved Recovery Disks.
+</p><p>
+
+*sigh of relief*</p></htmltext>
+<tokenext>Perhaps I 'm just showing my age , but chills went up my spine until I realized it was n't this [ wikipedia.org ] MCA which involved Recovery Disks .
+* sigh of relief *</tokentext>
+<sentencetext>
+Perhaps I'm just showing my age, but chills went up my spine until I realized it wasn't  this  [wikipedia.org] MCA which involved Recovery Disks.
+*sigh of relief*</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113229</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113023</id>
+	<title>ECC memory replacement?</title>
+	<author>Anonymous</author>
+	<datestamp>1243452600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>So, is this an effective replacement for ECC memory?</htmltext>
+<tokenext>So , is this an effective replacement for ECC memory ?</tokentext>
+<sentencetext>So, is this an effective replacement for ECC memory?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28117101</id>
+	<title>Re:x86</title>
+	<author>RightSaidFred99</author>
+	<datestamp>1243427820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Wow.  Been away in a cave for a few years?  x86 dominates in the high end server market, for most values of "high end".
+
+The demand for anything \_but\_ x86 server chips is tiny (bordering on minuscule) in comparison.
+
+You simply couldn't have posted more bad information if you'd tried.</htmltext>
+<tokenext>Wow .
+Been away in a cave for a few years ?
+x86 dominates in the high end server market , for most values of " high end " .
+The demand for anything \ _but \ _ x86 server chips is tiny ( bordering on minuscule ) in comparison .
+You simply could n't have posted more bad information if you 'd tried .</tokentext>
+<sentencetext>Wow.
+Been away in a cave for a few years?
+x86 dominates in the high end server market, for most values of "high end".
+The demand for anything \_but\_ x86 server chips is tiny (bordering on minuscule) in comparison.
+You simply couldn't have posted more bad information if you'd tried.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113367</id>
+	<title>Re:x86</title>
+	<author>Kjella</author>
+	<datestamp>1243453980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Virtualization. It's pretty clear from the Nehalem EX presentation and when you put all your x86 eggs in one basket you want even higher reliability guarantees. You don't own a dozen single/dual/quad core servers, you get one of these beasts and just slice it up as you want increasing allocations as needed and migrating them to another VM server if you're short on resources. I must admit, it seems rather neat on paper, but I'm not playing wtih anything like that.</p></htmltext>
+<tokenext>Virtualization .
+It 's pretty clear from the Nehalem EX presentation and when you put all your x86 eggs in one basket you want even higher reliability guarantees .
+You do n't own a dozen single/dual/quad core servers , you get one of these beasts and just slice it up as you want increasing allocations as needed and migrating them to another VM server if you 're short on resources .
+I must admit , it seems rather neat on paper , but I 'm not playing wtih anything like that .</tokentext>
+<sentencetext>Virtualization.
+It's pretty clear from the Nehalem EX presentation and when you put all your x86 eggs in one basket you want even higher reliability guarantees.
+You don't own a dozen single/dual/quad core servers, you get one of these beasts and just slice it up as you want increasing allocations as needed and migrating them to another VM server if you're short on resources.
+I must admit, it seems rather neat on paper, but I'm not playing wtih anything like that.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113149</id>
+	<title>Error</title>
+	<author>KingPin27</author>
+	<datestamp>1243453080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Yes but can it correct for PEBKAC?
+<br>
+<b>Sorry Mr. User -- That tray is not for your coffee cup - I am now deleting your profile -- Have a nice day!</b></htmltext>
+<tokenext>Yes but can it correct for PEBKAC ?
+Sorry Mr. User -- That tray is not for your coffee cup - I am now deleting your profile -- Have a nice day !</tokentext>
+<sentencetext>Yes but can it correct for PEBKAC?
+Sorry Mr. User -- That tray is not for your coffee cup - I am now deleting your profile -- Have a nice day!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113811</id>
+	<title>Re:x86</title>
+	<author>Chris Burke</author>
+	<datestamp>1243456020000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p><i>Error correction on an x86 chip?</i></p><p><i>Sweet. Now all those high-end server applications running on x86s that need great uptime can finally join the big boys. [rolls eyes].</i></p><p><i>Is the demand for x86 Server chips that high? I thought anyone requiring 5 nines (or anything close to it) would never consider using x86?</i></p><p>The story of the server market for the last 10+ years is simple:  x86 has been eating everyone else's market share from the bottom up.  Commodity pricing &gt; perceived advantages of the proprietary RISC vendors.  To the extent that there are real necessary features x86 lacked, it has acquired them as necessary.</p><p>There's been correctable ECC on x86 server chips for years.  x86 has long since moved up-market past the point where basic RAS features (like ECC) are mandatory.  Intel's Xeon has had these features for a long time.  AMD Barcelona core was the first to have correctable ECC in the L1 caches -- before it could detect errors but couldn't fix them.</p><p>Basically the only new feature here is the ability to notify the OS about uncorrectable errors so that the OS can try to fix the problem by nuking the affected app, reloading a code page from disk or whatever else is appropriate so that a system reboot isn't always necessary on uncorrectable errors.</p><p>Yeah this is something the "big boys" already had, fat consolation that will be now that x86 is poised to eat their lunch.  Not even Intel themselves could reverse the trend when they tried.  They could use features like this to differentiate Itanium all they want, at the end of the day the customer says "yeah that's great, but can you do it in an x86 chip?"  This is just them bowing to the demands of the market (in order to make mega $$).</p></htmltext>
+<tokenext>Error correction on an x86 chip ? Sweet .
+Now all those high-end server applications running on x86s that need great uptime can finally join the big boys .
+[ rolls eyes ] .Is the demand for x86 Server chips that high ?
+I thought anyone requiring 5 nines ( or anything close to it ) would never consider using x86 ? The story of the server market for the last 10 + years is simple : x86 has been eating everyone else 's market share from the bottom up .
+Commodity pricing &gt; perceived advantages of the proprietary RISC vendors .
+To the extent that there are real necessary features x86 lacked , it has acquired them as necessary.There 's been correctable ECC on x86 server chips for years .
+x86 has long since moved up-market past the point where basic RAS features ( like ECC ) are mandatory .
+Intel 's Xeon has had these features for a long time .
+AMD Barcelona core was the first to have correctable ECC in the L1 caches -- before it could detect errors but could n't fix them.Basically the only new feature here is the ability to notify the OS about uncorrectable errors so that the OS can try to fix the problem by nuking the affected app , reloading a code page from disk or whatever else is appropriate so that a system reboot is n't always necessary on uncorrectable errors.Yeah this is something the " big boys " already had , fat consolation that will be now that x86 is poised to eat their lunch .
+Not even Intel themselves could reverse the trend when they tried .
+They could use features like this to differentiate Itanium all they want , at the end of the day the customer says " yeah that 's great , but can you do it in an x86 chip ?
+" This is just them bowing to the demands of the market ( in order to make mega $ $ ) .</tokentext>
+<sentencetext>Error correction on an x86 chip?Sweet.
+Now all those high-end server applications running on x86s that need great uptime can finally join the big boys.
+[rolls eyes].Is the demand for x86 Server chips that high?
+I thought anyone requiring 5 nines (or anything close to it) would never consider using x86?The story of the server market for the last 10+ years is simple:  x86 has been eating everyone else's market share from the bottom up.
+Commodity pricing &gt; perceived advantages of the proprietary RISC vendors.
+To the extent that there are real necessary features x86 lacked, it has acquired them as necessary.There's been correctable ECC on x86 server chips for years.
+x86 has long since moved up-market past the point where basic RAS features (like ECC) are mandatory.
+Intel's Xeon has had these features for a long time.
+AMD Barcelona core was the first to have correctable ECC in the L1 caches -- before it could detect errors but couldn't fix them.Basically the only new feature here is the ability to notify the OS about uncorrectable errors so that the OS can try to fix the problem by nuking the affected app, reloading a code page from disk or whatever else is appropriate so that a system reboot isn't always necessary on uncorrectable errors.Yeah this is something the "big boys" already had, fat consolation that will be now that x86 is poised to eat their lunch.
+Not even Intel themselves could reverse the trend when they tried.
+They could use features like this to differentiate Itanium all they want, at the end of the day the customer says "yeah that's great, but can you do it in an x86 chip?
+"  This is just them bowing to the demands of the market (in order to make mega $$).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113051</id>
+	<title>For Example</title>
+	<author>Anonymous</author>
+	<datestamp>1243452660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>Floating Points Errors?</htmltext>
+<tokenext>Floating Points Errors ?</tokentext>
+<sentencetext>Floating Points Errors?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28117779</id>
+	<title>Itanium MCA is a lot harder than you think</title>
+	<author>Anonymous</author>
+	<datestamp>1243432380000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I did quite a bit of work on MCA for Itanium on Linux and it's a lot harder to do than you might think. The Itanium MCA event can occur at any time, no matter what the OS is currently doing. Locks, preempt disable, interrupt disable etc., none of those will stop an Itanium MCA event from occurring.</p><p>Whan an MCA occurs, the OS can be in any state, it may not even have a valid stack at that point. I have seen MCAs being raised right in the middle of the code that switches the cpu from one process to another or in the middle of saving the user process's state and before switching to kernel state. The only way to handle this was to define a special MCA stack frame to do the error checking and recovery on. For some scary code, see the Linux kernel, arch/ia64/mca.c and arch/ia64/mca\_asm.S.</p><p>Even after handling the stack switch problems, on Itanium you have no real idea what state the OS is in. The OS could have locks on critical code which prevent the MCA recovery from doing any useful work. MCA recovery is a nice idea but implementation is a bitch.</p></htmltext>
+<tokenext>I did quite a bit of work on MCA for Itanium on Linux and it 's a lot harder to do than you might think .
+The Itanium MCA event can occur at any time , no matter what the OS is currently doing .
+Locks , preempt disable , interrupt disable etc. , none of those will stop an Itanium MCA event from occurring.Whan an MCA occurs , the OS can be in any state , it may not even have a valid stack at that point .
+I have seen MCAs being raised right in the middle of the code that switches the cpu from one process to another or in the middle of saving the user process 's state and before switching to kernel state .
+The only way to handle this was to define a special MCA stack frame to do the error checking and recovery on .
+For some scary code , see the Linux kernel , arch/ia64/mca.c and arch/ia64/mca \ _asm.S.Even after handling the stack switch problems , on Itanium you have no real idea what state the OS is in .
+The OS could have locks on critical code which prevent the MCA recovery from doing any useful work .
+MCA recovery is a nice idea but implementation is a bitch .</tokentext>
+<sentencetext>I did quite a bit of work on MCA for Itanium on Linux and it's a lot harder to do than you might think.
+The Itanium MCA event can occur at any time, no matter what the OS is currently doing.
+Locks, preempt disable, interrupt disable etc., none of those will stop an Itanium MCA event from occurring.Whan an MCA occurs, the OS can be in any state, it may not even have a valid stack at that point.
+I have seen MCAs being raised right in the middle of the code that switches the cpu from one process to another or in the middle of saving the user process's state and before switching to kernel state.
+The only way to handle this was to define a special MCA stack frame to do the error checking and recovery on.
+For some scary code, see the Linux kernel, arch/ia64/mca.c and arch/ia64/mca\_asm.S.Even after handling the stack switch problems, on Itanium you have no real idea what state the OS is in.
+The OS could have locks on critical code which prevent the MCA recovery from doing any useful work.
+MCA recovery is a nice idea but implementation is a bitch.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113857</id>
+	<title>Re:x86</title>
+	<author>rbanffy</author>
+	<datestamp>1243456260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"still not clear on why Intel would cannibalize Itanium sales (new release delayed again)"</p><p>Maybe because the next Itanium can also possibly be the last?</p></htmltext>
+<tokenext>" still not clear on why Intel would cannibalize Itanium sales ( new release delayed again ) " Maybe because the next Itanium can also possibly be the last ?</tokentext>
+<sentencetext>"still not clear on why Intel would cannibalize Itanium sales (new release delayed again)"Maybe because the next Itanium can also possibly be the last?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091</id>
+	<title>x86</title>
+	<author>Red Flayer</author>
+	<datestamp>1243452900000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext>Error correction on an x86 chip?<br> <br>Sweet.  Now all those high-end server applications running on x86s that need great uptime can finally join the big boys.  [rolls eyes].<br> <br>I'm just not sure of the utility here -- I RTFA, but I'm still not clear on why Intel would cannibalize Itanium sales (new release delayed again) by offering error correction on Nehalem chips.  Is the demand for x86 Server chips that high?  I thought anyone requiring 5 nines (or anything close to it) would never consider using x86?<br> <br>Can someone with more knowledge of the high-end server market please clarify?</htmltext>
+<tokenext>Error correction on an x86 chip ?
+Sweet. Now all those high-end server applications running on x86s that need great uptime can finally join the big boys .
+[ rolls eyes ] .
+I 'm just not sure of the utility here -- I RTFA , but I 'm still not clear on why Intel would cannibalize Itanium sales ( new release delayed again ) by offering error correction on Nehalem chips .
+Is the demand for x86 Server chips that high ?
+I thought anyone requiring 5 nines ( or anything close to it ) would never consider using x86 ?
+Can someone with more knowledge of the high-end server market please clarify ?</tokentext>
+<sentencetext>Error correction on an x86 chip?
+Sweet.  Now all those high-end server applications running on x86s that need great uptime can finally join the big boys.
+[rolls eyes].
+I'm just not sure of the utility here -- I RTFA, but I'm still not clear on why Intel would cannibalize Itanium sales (new release delayed again) by offering error correction on Nehalem chips.
+Is the demand for x86 Server chips that high?
+I thought anyone requiring 5 nines (or anything close to it) would never consider using x86?
+Can someone with more knowledge of the high-end server market please clarify?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113959</id>
+	<title>Re:x86</title>
+	<author>Anonymous</author>
+	<datestamp>1243456680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I know there are a lot of Itanium machines out there; and, there are definite advantages to the ISA.  However, Itanium has been in decline, almost from it's release.  I would not be surprised if this next iteration in the pipeline is the last.  I would also not be surprised, given the economy and the continuous delays, if this next iteration never sees the light of day.</htmltext>
+<tokenext>I know there are a lot of Itanium machines out there ; and , there are definite advantages to the ISA .
+However , Itanium has been in decline , almost from it 's release .
+I would not be surprised if this next iteration in the pipeline is the last .
+I would also not be surprised , given the economy and the continuous delays , if this next iteration never sees the light of day .</tokentext>
+<sentencetext>I know there are a lot of Itanium machines out there; and, there are definite advantages to the ISA.
+However, Itanium has been in decline, almost from it's release.
+I would not be surprised if this next iteration in the pipeline is the last.
+I would also not be surprised, given the economy and the continuous delays, if this next iteration never sees the light of day.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113225</id>
+	<title>Re:Not nearly good enough...</title>
+	<author>keeegan</author>
+	<datestamp>1243453440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Why don't you just say what you mean, for the time being?</htmltext>
+<tokenext>Why do n't you just say what you mean , for the time being ?</tokentext>
+<sentencetext>Why don't you just say what you mean, for the time being?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113075</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113313</id>
+	<title>Re:Not nearly good enough...</title>
+	<author>dzfoo</author>
+	<datestamp>1243453740000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>So does your computer currently do what you say?</p><p>Mine, I can barely get it to do what I type!</p><p>
+&nbsp; &nbsp; &nbsp; &nbsp; -dZ.</p></htmltext>
+<tokenext>So does your computer currently do what you say ? Mine , I can barely get it to do what I type !
+Â   Â   Â   Â   -dZ .</tokentext>
+<sentencetext>So does your computer currently do what you say?Mine, I can barely get it to do what I type!
+Â  Â  Â  Â  -dZ.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113075</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113223</id>
+	<title>Re:x86</title>
+	<author>Anonymous</author>
+	<datestamp>1243453440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Probably because Itanium is a dead end technology. Current x86/x64 CPUs offer far superior performance for less power and cost.</p></htmltext>
+<tokenext>Probably because Itanium is a dead end technology .
+Current x86/x64 CPUs offer far superior performance for less power and cost .</tokentext>
+<sentencetext>Probably because Itanium is a dead end technology.
+Current x86/x64 CPUs offer far superior performance for less power and cost.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113199</id>
+	<title>6 comments and mostly whiners already</title>
+	<author>Anonymous</author>
+	<datestamp>1243453320000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>Wah fucking wah; I want something that:</p><p>A) Doesn't exist.<br>B) Is too expensive for my cheap hippy communist-ass to afford.<br>C) Is not made for free (as in beer) by said cheap hippy communists.<br>D) I know little to nothing about, but there wasn't anything else worth crying about today on<nobr> <wbr></nobr>/. and I needed attention.</p></htmltext>
+<tokenext>Wah fucking wah ; I want something that : A ) Does n't exist.B ) Is too expensive for my cheap hippy communist-ass to afford.C ) Is not made for free ( as in beer ) by said cheap hippy communists.D ) I know little to nothing about , but there was n't anything else worth crying about today on / .
+and I needed attention .</tokentext>
+<sentencetext>Wah fucking wah; I want something that:A) Doesn't exist.B) Is too expensive for my cheap hippy communist-ass to afford.C) Is not made for free (as in beer) by said cheap hippy communists.D) I know little to nothing about, but there wasn't anything else worth crying about today on /.
+and I needed attention.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113349</id>
+	<title>No system is perfect</title>
+	<author>Ngarrang</author>
+	<datestamp>1243453920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>High-end, low-end, middle, um...end...whatever.</p><p>The goal is not to create perfection, but gracefully recover from imperfection as if nothing happened.  I see no problem with bolting on such features to the world's most common processing platform.  We can all use such graceful recovery features, not just servers and "high-end" applications.  Will the average use need an 8-core CPU?  Probably not, but it certainly wouldn't hurt them, either.  Intel then can trickle this down to the average user and help all of us support folks to have a nicer day.</p><p>Short of getting rid of users, let's at least minimize the problems they will suffer.  When they have a good day, they leave ME alone to my machinations.</p></htmltext>
+<tokenext>High-end , low-end , middle , um...end...whatever.The goal is not to create perfection , but gracefully recover from imperfection as if nothing happened .
+I see no problem with bolting on such features to the world 's most common processing platform .
+We can all use such graceful recovery features , not just servers and " high-end " applications .
+Will the average use need an 8-core CPU ?
+Probably not , but it certainly would n't hurt them , either .
+Intel then can trickle this down to the average user and help all of us support folks to have a nicer day.Short of getting rid of users , let 's at least minimize the problems they will suffer .
+When they have a good day , they leave ME alone to my machinations .</tokentext>
+<sentencetext>High-end, low-end, middle, um...end...whatever.The goal is not to create perfection, but gracefully recover from imperfection as if nothing happened.
+I see no problem with bolting on such features to the world's most common processing platform.
+We can all use such graceful recovery features, not just servers and "high-end" applications.
+Will the average use need an 8-core CPU?
+Probably not, but it certainly wouldn't hurt them, either.
+Intel then can trickle this down to the average user and help all of us support folks to have a nicer day.Short of getting rid of users, let's at least minimize the problems they will suffer.
+When they have a good day, they leave ME alone to my machinations.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28117791</id>
+	<title>Sooo...</title>
+	<author>Rik Rohl</author>
+	<datestamp>1243432440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It refuses to run windows?</p></htmltext>
+<tokenext>It refuses to run windows ?</tokentext>
+<sentencetext>It refuses to run windows?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28120367</id>
+	<title>Re:Not nearly good enough...</title>
+	<author>jonaskoelker</author>
+	<datestamp>1243501680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>releases a CPU that does what I mean, not what I say.</p></div><p>They have that, it's called a Girlfriend.</p><p>However, it has the freedom to decide what you mean however it wants.   Beware of the "<tt>dilf, itd</tt>" instruction---it's short for "do I look fat in this dress?"</p></div>
+	</htmltext>
+<tokenext>releases a CPU that does what I mean , not what I say.They have that , it 's called a Girlfriend.However , it has the freedom to decide what you mean however it wants .
+Beware of the " dilf , itd " instruction---it 's short for " do I look fat in this dress ?
+"</tokentext>
+<sentencetext>releases a CPU that does what I mean, not what I say.They have that, it's called a Girlfriend.However, it has the freedom to decide what you mean however it wants.
+Beware of the "dilf, itd" instruction---it's short for "do I look fat in this dress?
+"
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113075</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28114669</id>
+	<title>Convergent Sequence</title>
+	<author>PingPongBoy</author>
+	<datestamp>1243417380000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>You can see it now. Once upon a time, a computer intelligence was given the power to control its destiny. This intelligence was deemed so substantial that it was the best commander of the greatest weapons. You know this intelligence as Skynet, which launched nuclear missiles in order to a threat to itself, a sort of error detection and correction, if you will, with the utmost power that man can endow to a machine. What you don't know was the actual error that was detected, an error with the code PEBKAC. PEBKAC? PEBKAC. Only an intelligent computer can detect PEBKAC. And now you know the rest of the story.</p></htmltext>
+<tokenext>You can see it now .
+Once upon a time , a computer intelligence was given the power to control its destiny .
+This intelligence was deemed so substantial that it was the best commander of the greatest weapons .
+You know this intelligence as Skynet , which launched nuclear missiles in order to a threat to itself , a sort of error detection and correction , if you will , with the utmost power that man can endow to a machine .
+What you do n't know was the actual error that was detected , an error with the code PEBKAC .
+PEBKAC ? PEBKAC .
+Only an intelligent computer can detect PEBKAC .
+And now you know the rest of the story .</tokentext>
+<sentencetext>You can see it now.
+Once upon a time, a computer intelligence was given the power to control its destiny.
+This intelligence was deemed so substantial that it was the best commander of the greatest weapons.
+You know this intelligence as Skynet, which launched nuclear missiles in order to a threat to itself, a sort of error detection and correction, if you will, with the utmost power that man can endow to a machine.
+What you don't know was the actual error that was detected, an error with the code PEBKAC.
+PEBKAC? PEBKAC.
+Only an intelligent computer can detect PEBKAC.
+And now you know the rest of the story.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28120039</id>
+	<title>Re:x86</title>
+	<author>Anonymous</author>
+	<datestamp>1243541100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>Is the demand for x86 Server chips that high?  I thought anyone requiring 5 nines (or anything close to it) would never consider using x86?</p></div><p>i don't understand, what other architecture is used in servers?</p></div>
+	</htmltext>
+<tokenext>Is the demand for x86 Server chips that high ?
+I thought anyone requiring 5 nines ( or anything close to it ) would never consider using x86 ? i do n't understand , what other architecture is used in servers ?</tokentext>
+<sentencetext>Is the demand for x86 Server chips that high?
+I thought anyone requiring 5 nines (or anything close to it) would never consider using x86?i don't understand, what other architecture is used in servers?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28114145</id>
+	<title>Re:x86</title>
+	<author>Anonymous</author>
+	<datestamp>1243414920000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p><i>x86 is slow and under performing architecture, and I am surprise that Intel is bolting error correction on top of it.</i></p><p>Hogwash.  There's nothing inherently slow about x86.  The ISA is nothing but an interface.  Internally, the CISC instructions are decoded into simple micro-ops, so all the predictions about how x86 would fall behind because it wouldn't be able to have out of order execution etc were proven wrong.  It's not <i>easy</i> to make x86 chips, but the difficult performance problems have been solved.</p><p>So don't be surprised, it's just another step in the plain obvious trend that has been going on for over a decade now.  With no performance disadvantage, and a big price advantage, x86 has been moving into the server market in a big way.  The only thing holding it back is the lack of RAS features, which are just as easy to "bolt on" to x86 as any other instruction set.  It's just there was no reason to add these features for desktop or low-end servers.</p><p><i>The Intel instruction set is so complicated that often times a single bit being flipped means it is still a very much valid opcode which when executed will do something completely different from what you expect it to do.</i></p><p>The same is true of RISC, flip a bit in the opcode field and there's a good chance it's still a valid opcode.  Not that it matters one whit; flipped bits in the instruction stream are detected via ECC in the instruction cache, not by praying the decoders see it as an invalid instruction.</p><p><i>This seems to be nothing short of a stopgap measure for not losing more customers to the big iron manufacturers like Sun and IBM who both have their own CPU's that were built with stability in mind.</i></p><p>FUD like this is nothing but a stopgap measure for the RISC vendors to lose customers a little more slowly to x86 than they already are.  Of course rather than just losing customers, Sun and IBM (and other former RISC vendors) sell solutions that use x86.  It's only a matter of time before this trend hits even the "big iron".   As x86 erodes their margins from beneath, for how long will it make sense to spend the money to  develop the RISC chips for an ever-decreasing slice of the pie?  Eventually it makes more sense to just demand that Intel add whatever RAS features it lacks compared to the RISC chip it'll be replacing, which is exactly what is happening here (only in this case it's EPIC that's on the chopping block).</p><p><i>Apple being able to transition from PowerPC to x86 is quite a feat, but x86 transitioning to the next big thing is going to be impossible without at least backwards compatibility in the form of x86 emulation, and boy is the x86 instruction set fun to emulate!</i></p><p>Well you certainly got that right.  The only real disadvantage of x86 itself is that it <i>is</i> a huge pain in the ass to make work properly, and a lot of the magic isn't in the ISA docs but rather in the institutional knowledge of the two remaining firms that make the chips.  x86 raises the already incredibly high barrier to entry for new chip manufacturers.  That, not performance or (potential) reliability, is the reason x86 sucks.</p></htmltext>
+<tokenext>x86 is slow and under performing architecture , and I am surprise that Intel is bolting error correction on top of it.Hogwash .
+There 's nothing inherently slow about x86 .
+The ISA is nothing but an interface .
+Internally , the CISC instructions are decoded into simple micro-ops , so all the predictions about how x86 would fall behind because it would n't be able to have out of order execution etc were proven wrong .
+It 's not easy to make x86 chips , but the difficult performance problems have been solved.So do n't be surprised , it 's just another step in the plain obvious trend that has been going on for over a decade now .
+With no performance disadvantage , and a big price advantage , x86 has been moving into the server market in a big way .
+The only thing holding it back is the lack of RAS features , which are just as easy to " bolt on " to x86 as any other instruction set .
+It 's just there was no reason to add these features for desktop or low-end servers.The Intel instruction set is so complicated that often times a single bit being flipped means it is still a very much valid opcode which when executed will do something completely different from what you expect it to do.The same is true of RISC , flip a bit in the opcode field and there 's a good chance it 's still a valid opcode .
+Not that it matters one whit ; flipped bits in the instruction stream are detected via ECC in the instruction cache , not by praying the decoders see it as an invalid instruction.This seems to be nothing short of a stopgap measure for not losing more customers to the big iron manufacturers like Sun and IBM who both have their own CPU 's that were built with stability in mind.FUD like this is nothing but a stopgap measure for the RISC vendors to lose customers a little more slowly to x86 than they already are .
+Of course rather than just losing customers , Sun and IBM ( and other former RISC vendors ) sell solutions that use x86 .
+It 's only a matter of time before this trend hits even the " big iron " .
+As x86 erodes their margins from beneath , for how long will it make sense to spend the money to develop the RISC chips for an ever-decreasing slice of the pie ?
+Eventually it makes more sense to just demand that Intel add whatever RAS features it lacks compared to the RISC chip it 'll be replacing , which is exactly what is happening here ( only in this case it 's EPIC that 's on the chopping block ) .Apple being able to transition from PowerPC to x86 is quite a feat , but x86 transitioning to the next big thing is going to be impossible without at least backwards compatibility in the form of x86 emulation , and boy is the x86 instruction set fun to emulate ! Well you certainly got that right .
+The only real disadvantage of x86 itself is that it is a huge pain in the ass to make work properly , and a lot of the magic is n't in the ISA docs but rather in the institutional knowledge of the two remaining firms that make the chips .
+x86 raises the already incredibly high barrier to entry for new chip manufacturers .
+That , not performance or ( potential ) reliability , is the reason x86 sucks .</tokentext>
+<sentencetext>x86 is slow and under performing architecture, and I am surprise that Intel is bolting error correction on top of it.Hogwash.
+There's nothing inherently slow about x86.
+The ISA is nothing but an interface.
+Internally, the CISC instructions are decoded into simple micro-ops, so all the predictions about how x86 would fall behind because it wouldn't be able to have out of order execution etc were proven wrong.
+It's not easy to make x86 chips, but the difficult performance problems have been solved.So don't be surprised, it's just another step in the plain obvious trend that has been going on for over a decade now.
+With no performance disadvantage, and a big price advantage, x86 has been moving into the server market in a big way.
+The only thing holding it back is the lack of RAS features, which are just as easy to "bolt on" to x86 as any other instruction set.
+It's just there was no reason to add these features for desktop or low-end servers.The Intel instruction set is so complicated that often times a single bit being flipped means it is still a very much valid opcode which when executed will do something completely different from what you expect it to do.The same is true of RISC, flip a bit in the opcode field and there's a good chance it's still a valid opcode.
+Not that it matters one whit; flipped bits in the instruction stream are detected via ECC in the instruction cache, not by praying the decoders see it as an invalid instruction.This seems to be nothing short of a stopgap measure for not losing more customers to the big iron manufacturers like Sun and IBM who both have their own CPU's that were built with stability in mind.FUD like this is nothing but a stopgap measure for the RISC vendors to lose customers a little more slowly to x86 than they already are.
+Of course rather than just losing customers, Sun and IBM (and other former RISC vendors) sell solutions that use x86.
+It's only a matter of time before this trend hits even the "big iron".
+As x86 erodes their margins from beneath, for how long will it make sense to spend the money to  develop the RISC chips for an ever-decreasing slice of the pie?
+Eventually it makes more sense to just demand that Intel add whatever RAS features it lacks compared to the RISC chip it'll be replacing, which is exactly what is happening here (only in this case it's EPIC that's on the chopping block).Apple being able to transition from PowerPC to x86 is quite a feat, but x86 transitioning to the next big thing is going to be impossible without at least backwards compatibility in the form of x86 emulation, and boy is the x86 instruction set fun to emulate!Well you certainly got that right.
+The only real disadvantage of x86 itself is that it is a huge pain in the ass to make work properly, and a lot of the magic isn't in the ISA docs but rather in the institutional knowledge of the two remaining firms that make the chips.
+x86 raises the already incredibly high barrier to entry for new chip manufacturers.
+That, not performance or (potential) reliability, is the reason x86 sucks.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113033</id>
+	<title>Error</title>
+	<author>Anonymous</author>
+	<datestamp>1243452660000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>MS detected<br>Uninstalling</p></htmltext>
+<tokenext>MS detectedUninstalling</tokentext>
+<sentencetext>MS detectedUninstalling</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28115571</id>
+	<title>Re:x86</title>
+	<author>mzs</author>
+	<datestamp>1243420320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I don't know about x86 being slow. There is some Power that is very fast at single thread int and fp, but man is it power hungry, hot, and expensive. But really for many workloads x86 is plenty fast and priced much more competitively. Certainly x86 is faster than all sparc, mips (dead), ppc (dead), itanium (living dead), and all but the most expensive power chips with regard to single threaded MIPS and FLOPS. Most workloads are IO or memory bound or the throughput of largely independent tasks can scale by adding HW to the cluster, hence cheap fast enough x86 looks very appealing.</p></htmltext>
+<tokenext>I do n't know about x86 being slow .
+There is some Power that is very fast at single thread int and fp , but man is it power hungry , hot , and expensive .
+But really for many workloads x86 is plenty fast and priced much more competitively .
+Certainly x86 is faster than all sparc , mips ( dead ) , ppc ( dead ) , itanium ( living dead ) , and all but the most expensive power chips with regard to single threaded MIPS and FLOPS .
+Most workloads are IO or memory bound or the throughput of largely independent tasks can scale by adding HW to the cluster , hence cheap fast enough x86 looks very appealing .</tokentext>
+<sentencetext>I don't know about x86 being slow.
+There is some Power that is very fast at single thread int and fp, but man is it power hungry, hot, and expensive.
+But really for many workloads x86 is plenty fast and priced much more competitively.
+Certainly x86 is faster than all sparc, mips (dead), ppc (dead), itanium (living dead), and all but the most expensive power chips with regard to single threaded MIPS and FLOPS.
+Most workloads are IO or memory bound or the throughput of largely independent tasks can scale by adding HW to the cluster, hence cheap fast enough x86 looks very appealing.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28117101
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28114765
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113791
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113229
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28117113
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113225
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113075
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113223
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113269
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113033
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28115571
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113207
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113023
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113233
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113857
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28120397
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28120039
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28114145
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113313
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113075
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28120367
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113075
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28115875
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28118429
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113811
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28115203
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113367
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_1826234_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113959
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1826234.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113033
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113269
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1826234.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113091
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113233
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113811
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28118429
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113857
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28117101
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113189
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28120397
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28114765
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28117113
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28115875
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28114145
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28115571
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28115203
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28120039
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113223
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113959
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113367
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1826234.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113229
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113791
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1826234.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113051
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1826234.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113349
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1826234.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28117779
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1826234.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28114021
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1826234.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113023
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113207
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_1826234.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113075
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113225
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28113313
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_1826234.28120367
+</commentlist>
+</conversation>

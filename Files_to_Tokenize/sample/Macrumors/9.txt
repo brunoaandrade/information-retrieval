@@ -1,0 +1,1234 @@
+<article>
+	<pid>9</pid>
+	<title>iPhone Continues to Hold Off Android in U.S. Smartphone Market Share - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/04/iphone-continues-to-hold-off-android-in-u-s-smartphone-market-share/</url>
+	<date>Tuesday January 4, 2011 8:54 am PST</date>
+	<author>Eric Slivka</author>
+	<text>Last month,we pointedto research from media firm Nielsen indicating that Apple's iPhone had finally surpassed Research in Motion's BlackBerry operating system in smartphone market share in the United States in October.  In afollow-up postyesterday, Nielsen released numbers for November indicating that Apple has widened its lead over Research in Motion, which is now in danger of falling behind Google's Android operating system.It has been a remarkable turnaround over the past six months, with Apple's share of new smartphone purchases in the U.S. holding relatively steady in the ~26% range for purchases over each preceding six-month period while Android has surged to over 40% and Research in Motion has fallen to under 20%.  As recently as July, all three operating systems had been tightly clustered in the 25-28% range.In another look at market share among the various smartphone platforms, Net Applications has released itsbrowser usage numbersfor December 2010, which examine worldwide browser usage and incorporate all iOS devices instead of just the iPhone as limited by smartphone studies.In its study, Net Applications finds that iOS usage surged across the board between November and December as new customers came on board in the holiday season, with iOS usage share growing 24.3% month-to-month to claim 1.69% of total Internet browser usage.  The iPad led Apple's charge with 33.3% share growth, with the iPod claiming 25% growth and the iPhone 20% growth.  While Android experienced a slightly higher rate of share growth of 29%, its overall share of 0.40% remained far behind that of iOS, illustrating the impact of Apple's broader iOS ecosystem that extends well beyond smartphones.</text>
+	<score>175</score>
+</article>
+<comment>
+	<cid>11663591</cid>
+	<date>Jan 4, 2011, 12:14 PM</date>
+	<author>NebulaClash</author>
+	<text>Bottom line:Android will have a large share of the market.iOS will have a large share of the market.Blackberry is in trouble.Windows who?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663597</cid>
+	<date>Jan 4, 2011, 12:15 PM</date>
+	<author>theheadguy</author>
+	<text>While the title sounds really nice, it looks like it won't hold off Android for long... unless they do something like widen carrier availability.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663604</cid>
+	<date>Jan 4, 2011, 12:16 PM</date>
+	<author>elppa</author>
+	<text>It is funny how the popular perception for months has been that Android has already overtaken iOS in the US.Now obviously that day will come very soon, but it is funny how the perception differs from reality.In Europe I believe iOS still leads over Android. And it a few other territories as well. And of course the other platforms (notably Symbian and Blackberry) are strong in their areas as well.Apple is playing the platform game with iOS in set top boxes, media players and tablets. In terms tackling the whole eco system Android has yet to really get started.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663619</cid>
+	<date>Jan 4, 2011, 12:19 PM</date>
+	<author>&#x17D;algiris</author>
+	<text>It's funny to read &quot;iphone continues ... android&quot;. Phone vs OS again?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663623</cid>
+	<date>Jan 4, 2011, 12:20 PM</date>
+	<author>rorschach</author>
+	<text>&quot;For Apple to win,MicrosoftGoogle doesn't have to lose.&quot;</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663629</cid>
+	<date>Jan 4, 2011, 12:21 PM</date>
+	<author>elppa</author>
+	<text>Quote:Originally Posted byNebulaClashWindows who?I still think many smartphone OEMs without an OS of their own will be keen to support Windows Phone 7. Because it keeps Google honest and innovative.If their was one licensed platform with market dominance (Android) then all the OEMs really have left to compete with is how thin they can make their margins (see the PC market).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663640</cid>
+	<date>Jan 4, 2011, 12:25 PM</date>
+	<author>jclardy</author>
+	<text>Quote:Originally Posted bytheheadguyWhile the title sounds really nice, it looks like it won't hold off Android for long... unless they do something like widen carrier availability.And then what?Both platforms are still gaining market share, which means that both are flourishing. If Android finally does overtake iOS in total market share then iOS will still be right behind them, they are not going to magically drop to 0% once surpassed by Android.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663644</cid>
+	<date>Jan 4, 2011, 12:26 PM</date>
+	<author>aristotle</author>
+	<text>Quote:Originally Posted by&#x17D;algirisIt's funny to read &quot;iphone continues ... android&quot;. Phone vs OS again?Maybe because Android is basically non-existent on non-phone devices up to this point?If you wanted to compare iOS to Android, that would make Apple look even more dominant when you consider that iOS is on iPod Touch, iPad, iPhones and now the new Apple TV.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663648</cid>
+	<date>Jan 4, 2011, 12:27 PM</date>
+	<author>NKT</author>
+	<text>Quote:Originally Posted byjclardyAnd then what?Both platforms are still gaining market share, which means that both are flourishing. If Android finally does overtake iOS in total market share then iOS will still be right behind them, they are not going to magically drop to 0% once surpassed by Android.It's all about ePeen...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663649</cid>
+	<date>Jan 4, 2011, 12:27 PM</date>
+	<author>NebulaClash</author>
+	<text>Quote:Originally Posted byelppaIt is funny how the popular perception for months has been that Android has already overtaken iOS in the US.Popular perception is formed by the press.  The press routinely prints anti-Apple pieces (for prejudice or money).  People read them.  People believe them.  People get fooled.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663659</cid>
+	<date>Jan 4, 2011, 12:29 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byrorschach&quot;For Apple to win,MicrosoftGoogle doesn't have to lose.&quot;+1 Exactly! It goes without saying there will be more than one major OS in the smart phone market.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663665</cid>
+	<date>Jan 4, 2011, 12:31 PM</date>
+	<author>aristotle</author>
+	<text>Quote:Originally Posted byNebulaClashPopular perception is formed by the press.  The press routinely prints anti-Apple pieces (for prejudice or money).  People read them.  People believe them.  People get fooled.This is really no different than how you still see some people believe that MSFT still owns part of Apple stock when they sold their stock back in 2002.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663666</cid>
+	<date>Jan 4, 2011, 12:31 PM</date>
+	<author>SandboxGeneral</author>
+	<text>That's pretty good considering that it's one OS on one piece of hardware (iPhone) compared to many flavors of Android and many different hardware devices.I wonder how the numbers would look if there was only one flavor of Android and one hardware device like the iPhone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663669</cid>
+	<date>Jan 4, 2011, 12:31 PM</date>
+	<author>shartypants</author>
+	<text>Personally I don't care much if Android takes over the iPhone, I love iOS and will stick with that (not sure how all those people use Android devices, yuck).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663686</cid>
+	<date>Jan 4, 2011, 12:34 PM</date>
+	<author>yg17</author>
+	<text>Quote:Originally Posted byNebulaClashWindows who?Windows Phone 7 has only been out for 2 months, and it looks quite promising. Don't write it off yet.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663688</cid>
+	<date>Jan 4, 2011, 12:34 PM</date>
+	<author>OllyW</author>
+	<text>Quote:Originally Posted byelppaIt is funny how the popular perception for months has been that Android has already overtaken iOS in the US.Perhaps they are confusing it with Android outselling the iPhone?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663690</cid>
+	<date>Jan 4, 2011, 12:34 PM</date>
+	<author>imikem</author>
+	<text>Quote:Originally Posted byNebulaClashPopular perception is formed by the press.  The press routinely prints anti-Apple pieces (for prejudice or money).  People read them.  People believe them.  People get fooled.I suggest that the press (quaint term that, nowadays) will latch onto ANY story involving Apple, and Android, good or bad, because people suck it up. Fanbois, trolls, basement geeks, even rather normal individuals. It's simply what's hot today.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663695</cid>
+	<date>Jan 4, 2011, 12:35 PM</date>
+	<author>ten-oak-druid</author>
+	<text>Android will gain on iOS until Apple iphones move to more carriers.  Then I would expect iOS usage to jump quite a bit.  Probably not quite a majority but a plurality of quite a margin.  Probably 45%.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663707</cid>
+	<date>Jan 4, 2011, 12:37 PM</date>
+	<author>BigJimmyC</author>
+	<text>In what way is iOS continuing to hold off android? All this shows is that android hasn't yet surpassed iOS and that RIM is dropping the ball. What those graphs do show is that this will likely happen within the next few months. Headline should really read: iOS soon to be surpassed by android.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663716</cid>
+	<date>Jan 4, 2011, 12:39 PM</date>
+	<author>&#x17D;algiris</author>
+	<text>Quote:Originally Posted byaristotleMaybe because Android is basically non-existent on non-phone devices up to this point?If you wanted to compare iOS to Android, that would make Apple look even more dominant when you consider that iOS is on iPod Touch, iPad, iPhones and now the new Apple TV.Either it's OS vs OS or manufacturer vs manufacturer. Now it's apples and oranges.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663724</cid>
+	<date>Jan 4, 2011, 12:40 PM</date>
+	<author>NebulaClash</author>
+	<text>Quote:Originally Posted byBigJimmyCIn what way is iOS continuing to hold off android? All this shows is that android hasn't yet surpassed iOSUm, that's exactly what &quot;hold off&quot; means.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663731</cid>
+	<date>Jan 4, 2011, 12:41 PM</date>
+	<author>Full of Win</author>
+	<text>The trend is your friend, and those lines projected forward spell trouble for Apple.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663734</cid>
+	<date>Jan 4, 2011, 12:42 PM</date>
+	<author>jmarques</author>
+	<text>This is just in US, I think that in the entire world, iOS has far more than Android</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663737</cid>
+	<date>Jan 4, 2011, 12:42 PM</date>
+	<author>OllyW</author>
+	<text>Quote:Originally Posted by&#x17D;algirisEither it's OS vs OS or manufacturer vs manufacturer. Now it's apples and oranges.When talking about smartphones iOS and the iPhone is exactly the same thing.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663802</cid>
+	<date>Jan 4, 2011, 12:53 PM</date>
+	<author>&#x17D;algiris</author>
+	<text>Quote:Originally Posted byOllyWWhen talking about smartphones iOS and the iPhone is exactly the same thing.And in what way for example iPod touch is not so smart? Minus the calling and SMS.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663805</cid>
+	<date>Jan 4, 2011, 12:53 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted by&#x17D;algirisEither it's OS vs OS or manufacturer vs manufacturer. Now it's apples and oranges.Let's put it this way: iOS based phones vs. Android based phonesbut honestly: those numbers don't matter too much. They show that iOS Phones does not suffer due to Android Phones and Android Phones does not suffer due to iOS Phones - the only looser is RIM. Yes, Android Phones will take over the iOS Phones - with a bigger variety of hardware chances are more Android based phones are soled - so what? - the market for smart phones is growing and has room for both. Everybody can select what fits their needs. Android Phones and iOS Phones are very similar, and for the user it is a matter of preferences based on rather small details.  Good thing everybody can select what they want and that those two don't kill each other - that way both will keep up adding more features - good for everyone. I personally love my iPhone 4 and won't trade it for any Android based one, but that is my opinion and others might prefer the Android.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663809</cid>
+	<date>Jan 4, 2011, 12:54 PM</date>
+	<author>NebulaClash</author>
+	<text>Quote:Originally Posted byFull of WinThe trend is your friend, and those lines projected forward spell trouble for Apple.No, it doesn't, your anti-Apple comment aside.  The trend shows trouble for non-Android, non-iOS companies.  No one company will ever control the entire smartphone market.  Ever.  But there will be giants who hold major market share.  And Apple will be one of them.Android's problem is that they are flooding the market with so many different manufacturers (hundreds across Asia), their brand value is being diluted.  Sure when you have hundreds of phone models everywhere, people will buy them, but that's not because they are loyal to your brand, it's just that's what phones are lying around in the shop.  Long term, this is not the best approach to take if you care about Android.Google, of course, does not care about Android so much as it cares about eyeballs for their ads.  Whatever gives them that is fine by them.  If it's Android, cool.  If it's something else, that's cool too.  Not the best foundation to rest upon.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663817</cid>
+	<date>Jan 4, 2011, 12:55 PM</date>
+	<author>OllyW</author>
+	<text>Quote:Originally Posted by&#x17D;algirisAnd in what way for example iPod touch is not so smart? Minus the calling and SMS.The story is about Smartphones. The iPod touch isn't a phone so it isn't included in the figures. Simple.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663821</cid>
+	<date>Jan 4, 2011, 12:56 PM</date>
+	<author>pr5owner</author>
+	<text>umm the title is completly inaccurate, the iphone is holding steady while android will over take them, this chart clearly indicates apple will loose out next round.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663825</cid>
+	<date>Jan 4, 2011, 12:57 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted byFull of WinThe trend is your friend, and those lines projected forward spell trouble for Apple.I think you meant to write they spell trouble for RIM ....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663844</cid>
+	<date>Jan 4, 2011, 12:59 PM</date>
+	<author>NebulaClash</author>
+	<text>Quote:Originally Posted bypr5ownerumm the title is completly inaccurate, the iphone is holding steady while android will over take them, this chart clearly indicates apple will loose out next round.So Apple &quot;continues to hold off&quot; Android, as the title says and you just implied.  You are talking about future events.  Could happen, or maybe the trend will change.  Right now we don't know.The title is perfectly accurate no matter how breathlessly people keep waiting for Android to &quot;win,&quot; whatever that means.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663853</cid>
+	<date>Jan 4, 2011, 01:01 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byNebulaClashSo Apple &quot;continues to hold off&quot; Android, as the title says and you just implied.  You are talking about future events.  Could happen, or maybe the trend will change.  Right now we don't know.The title is perfectly accurate no matter how breathlessly people keep waiting for Android to &quot;win,&quot; whatever that means.http://forums.macrumors.com/showthread.php?t=1046459Android surpassed iOS a long time ago, now the US the follow&quot;win&quot; means you have the majority of the market share&quot;</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663855</cid>
+	<date>Jan 4, 2011, 01:02 PM</date>
+	<author>Vulpinemac</author>
+	<text>Quote:Originally Posted byBigJimmyCIn what way is iOS continuing to hold off android? All this shows is that android hasn't yet surpassed iOS and that RIM is dropping the ball. What those graphs do show is that this will likely happen within the next few months. Headline should really read: iOS soon to be surpassed by android.... assuming, of course, that the status quo remain the status quo. Any change--say, by the iPhone adding Verizon to its market path--could accelerate iOS and slow Android for more than a year and perhaps even permanently if when Android contracts begin to expire, users choose not to buy another one. Brand or platform loyalty is as important as the 'innovation.' Android is the new kid on the block right now, but unless it's done a good enough job to generate loyal users, that new kid could become a pariah once the newness wears off.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663856</cid>
+	<date>Jan 4, 2011, 01:02 PM</date>
+	<author>ChazUK</author>
+	<text>Wirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Quote:Originally Posted byNebulaClashQuote:Originally Posted byFull of WinThe trend is your friend, and those lines projected forward spell trouble for Apple.No, it doesn't, your anti-Apple comment aside.  The trend shows trouble for non-Android, non-iOS companies.  No one company will ever control the entire smartphone market.  Ever.  But there will be giants who hold major market share.  And Apple will be one of them.Android's problem is that they are flooding the market with so many different manufacturers (hundreds across Asia), their brand value is being diluted.  Sure when you have hundreds of phone models everywhere, people will buy them, but that's not because they are loyal to your brand, it's just that's what phones are lying around in the shop.  Long term, this is not the best approach to take if you care about Android.Google, of course, does not care about Android so much as it cares about eyeballs for their ads.  Whatever gives them that is fine by them.  If it's Android, cool.  If it's something else, that's cool too.  Not the best foundation to rest upon.Is there any brand value in a free, open source operating system?Most of the manufacturers who have started manufacturing Android phones have seen profits increase based on it. Motorola were in the gutter, Samsung have recently hit the 10 million milestone with their Galaxy S line of phones and HTC have come on in strides in brand awareness and profits. I don't see any of that as a bad thing for those companies.Google are at a distinct advantage too because it doesn't really matter what platform you use thir services on be it iOS, Windows Phone, Symbian or any other platform. They still get their share of data and advertising.Both Google and Apple will continue to do well I think.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663858</cid>
+	<date>Jan 4, 2011, 01:02 PM</date>
+	<author>gnasher729</author>
+	<text>Quote:Originally Posted byNebulaClashAndroid's problem is that they are flooding the market with so many different manufacturers (hundreds across Asia), their brand value is being diluted.  Sure when you have hundreds of phone models everywhere, people will buy them, but that's not because they are loyal to your brand.  Long term, this is not the best approach to take if you care about Android.Just one observation: There are plenty of people who are not interested in a smartphone at all, just a mobile phone to make and receive phone calls. And many of those people don't want to look cheap and be seen with a £15 phone, because most of them are just ugly. There are plenty of Android phones that are cheap enough for this group of people. If you don't want any smart features at all, and have enough money to easily afford a £99 phone without contract, then you might end up with an Android phone, but not with an iPhone. Not that Apple loses out much, just as they didn't lose any sales to netbooks. That's also the reason why the iPhone share in browser use is much higher than Android's.The point is that you can sell four very cheap Android phones and make the same revenue as Apple makes with one iPhone, and a tiny fraction of the profit.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663866</cid>
+	<date>Jan 4, 2011, 01:03 PM</date>
+	<author>7o7munoz7o7</author>
+	<text>Quote:Originally Posted byrorschach&quot;For Apple to win,MicrosoftGoogle doesn't have to lose.&quot;Great quote!! Finally some smart replies on here!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663876</cid>
+	<date>Jan 4, 2011, 01:05 PM</date>
+	<author>foodog</author>
+	<text>As both an iPhone and Android (EVO) user I can tell you the Android phone is a second class platform. Android has lots of apps, some are even free vs paid on IOS. The usability is where Android really loses its luster. One newly discovered difference is when you have to replace one Android phone with another. It is frustrating and based on the responses from HTC impossible to completely restore the config from one phone to another. Sure, contacts and calenders are easy to recover. Paid for applications are right in the market to be re-downloaded. Everything else has to be restored manually and that is a MAJOR oversight. Compare that with when I replaced my 1 gen iPhone with a 3G. I plugged in the 1 gen iPhone, and iTunes backed it up, swapped SIM cards and plugged in the new iPhone. Activated it, and it asked if I wanted to do a restore and what back up I wanted to restore. I chose the recent one and walked away. I came back at some point later the phone was ready to go, every setting, every app, every photo, all the contacts and my calender were up to date. There are several other shortcomings, none so glaring as this one. AT&amp;T still sucks which is why I got an EVO in the first place.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663878</cid>
+	<date>Jan 4, 2011, 01:05 PM</date>
+	<author>dethmaShine</author>
+	<text>Quote:Originally Posted byyg17Windows Phone 7 has only been out for 2 months, and it looks quite promising. Don't write it off yet..</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663879</cid>
+	<date>Jan 4, 2011, 01:06 PM</date>
+	<author>Stella</author>
+	<text>I'd like to see the most important market - the worldwide figures.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663899</cid>
+	<date>Jan 4, 2011, 01:08 PM</date>
+	<author>Full of Win</author>
+	<text>Quote:Originally Posted byNebulaClashNo, it doesn't, your anti-Apple comment aside.  The trend shows trouble for non-Android, non-iOS companies.  No one company will ever control the entire smartphone market.  Ever.  But there will be giants who hold major market share.  And Apple will be one of them.Android's problem is that they are flooding the market with so many different manufacturers (hundreds across Asia), their brand value is being diluted.  Sure when you have hundreds of phone models everywhere, people will buy them, but that's not because they are loyal to your brand, it's just that's what phones are lying around in the shop.  Long term, this is not the best approach to take if you care about Android.Google, of course, does not care about Android so much as it cares about eyeballs for their ads.  Whatever gives them that is fine by them.  If it's Android, cool.  If it's something else, that's cool too.  Not the best foundation to rest upon.When I look at those lines I see three things- RIM is failing- Apple is stagnant- Android is in ascendancyWhile Apple may be one the one players left standing, they will in the minority position. As time goes on, app developers will begin to favor Android, thereby making iOS even less attractive.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663902</cid>
+	<date>Jan 4, 2011, 01:08 PM</date>
+	<author>NebulaClash</author>
+	<text>Quote:Originally Posted byChazUKIs there any brand value in a free, open source operating system?I agree with you that both Google and Apple will do well, but I highlight this one sentence because I think that's how most people think of Android.  The problem is that Android is not really free or open source in any meaningful way to the consumer.  For the programmer, you bet, it's open.  For cell phone manufacturers, hehe, it's free to them all right.  But unless you are a developer, what do you get when you buy an Android phone?You get whatever Motorola or Samsung let you have, plus whatever Verizon decides to foist upon you.  Want the latest version of Android?  You wait.  And wait.  Maybe forever, if the cell providers want you to upgrade your hardware instead.  How is this free again?It isn't.  Not in any real sense that benefits the consumer.  The ones who benefit are the phone manufacturers and cell providers.  They are like pigs at the trough grabbing this free software.  Then they lock it up.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663903</cid>
+	<date>Jan 4, 2011, 01:08 PM</date>
+	<author>foodog</author>
+	<text>The only way they are closing the gap on total number of devices in use is by selling more per quarter.... that's kind of a DUH, really.Quote:Originally Posted bypr5ownerhttp://forums.macrumors.com/showthread.php?t=1046459Android surpassed iOS a long time ago, now the US the follow&quot;win&quot; means you have the majority of the market share&quot;</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663905</cid>
+	<date>Jan 4, 2011, 01:08 PM</date>
+	<author>Fraaaa</author>
+	<text>Quote:Originally Posted byFull of WinThe trend is your friend, and those lines projected forward spell trouble for Apple.Sorry, but doesn't the trend actually say that Android is steady but slowly going up and Apple has peaks up of insanity? It seems &quot;trouble&quot; to Android to me...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663907</cid>
+	<date>Jan 4, 2011, 01:08 PM</date>
+	<author>ten-oak-druid</author>
+	<text>Quote:Originally Posted byFull of WinThe trend is your friend, and those lines projected forward spell trouble for Apple.Most android users on other networks secretly want an iphone.But they wont admit it.With Android having more carriers one would think it would be more competitive.What will likely happen is that Android will briefly take the top spot for a year or two until newly signed contracts end and the iphone is available on more carriers.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663908</cid>
+	<date>Jan 4, 2011, 01:08 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byFull of WinThe trend is your friend, and those lines projected forward spell trouble for Apple.In what way? Apple's trend is still trending up. Yes so is Android, but it's 20 devices vs one device. Plus, since these are US numbers its 5 carriers vs 1 carrier. I think we'd see a different chart if the iPhone was available on more carriers... which should be happening soon. The only &quot;trouble&quot; I see in the trends is RIM... they are trending down.As always... thanks for the positive input!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663910</cid>
+	<date>Jan 4, 2011, 01:09 PM</date>
+	<author>archer75</author>
+	<text>All the data i've seen for almost the past year has shown android in the lead in the US and just recently gained the world wide lead.  Then we get this that says something different.  Don't know who to believe.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663916</cid>
+	<date>Jan 4, 2011, 01:10 PM</date>
+	<author>NebulaClash</author>
+	<text>Quote:Originally Posted byFull of WinWhen I look at those lines I see three things- RIM is failing- Apple is stagnant- Android is in ascendancyThen you need to look more closely and take off your anti-Apple glasses (as seen in so many of your comments).  The smartphone market is exploding.  For Apple to stay at their market share means they are selling phones like crazy.  Your comment would only be true if the smartphone market was static in size.  It's not.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663922</cid>
+	<date>Jan 4, 2011, 01:11 PM</date>
+	<author>ChazUK</author>
+	<text>Wirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Quote:Originally Posted byStellaI'd like to see the most important market - the worldwide figures.That is all about Symbian still surely?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663930</cid>
+	<date>Jan 4, 2011, 01:12 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byfoodogAs both an iPhone and Android (EVO) user I can tell you the Android phone is a second class platform. Android has lots of apps, some are even free vs paid on IOS. The usability is where Android really loses its luster. One newly discovered difference is when you have to replace one Android phone with another. It is frustrating and based on the responses from HTC impossible to completely restore the config from one phone to another. Sure, contacts and calenders are easy to recover. Paid for applications are right in the market to be re-downloaded. Everything else has to be restored manually and that is a MAJOR oversight. Compare that with when I replaced my 1 gen iPhone with a 3G. I plugged in the 1 gen iPhone, and iTunes backed it up, swapped SIM cards and plugged in the new iPhone. Activated it, and it asked if I wanted to do a restore and what back up I wanted to restore. I chose the recent one and walked away. I came back at some point later the phone was ready to go, every setting, every app, every photo, all the contacts and my calender were up to date. There are several other shortcomings, none so glaring as this one. AT&amp;T still sucks which is why I got an EVO in the first place.i really dont know what the hell your talking about, you pop your MicroSD with your stuff on it and throw it in the new phone..... ive gone through 8+ android phones like this. didnt loose anything (contacts, calender, email are on exchange, rest of my stuff is on MicroSD)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663942</cid>
+	<date>Jan 4, 2011, 01:14 PM</date>
+	<author>ChazUK</author>
+	<text>Wirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Quote:Originally Posted byNebulaClashQuote:Originally Posted byChazUKIs there any brand value in a free, open source operating system?I agree with you that both Google and Apple will do well, but I highlight this one sentence because I think that's how most people think of Android.  The problem is that Android is not really free or open source in any meaningful way to the consumer.  For the programmer, you bet, it's open.  For cell phone manufacturers, hehe, it's free to them all right.  But unless you are a developer, what do you get when you buy an Android phone?You get whatever Motorola or Samsung let you have, plus whatever Verizon decides to foist upon you.  Want the latest version of Android?  You wait.  And wait.  Maybe forever, if the cell providers want you to upgrade your hardware instead.  How is this free again?It isn't.  Not in any real sense that benefits the consumer.  The ones who benefit are the phone manufacturers and cell providers.  They are like pigs at the trough grabbing this free software.  Then they lock it up.Carrier branding is the thing I absolutely detest about the platform (hence the ownership of Nexus phones).I think you're right in the consumer not really caring (or knowing) what Android is specifically because of that was true, the Google sanctioned Nexus phones would be top sellers. I'd guess plenty of Android owners want a phone &quot;like an iPhone&quot; without the premium price that comes along with it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663952</cid>
+	<date>Jan 4, 2011, 01:16 PM</date>
+	<author>NebulaClash</author>
+	<text>You've gone through 8 Android phones?  How long have there been Android phones, about a year right?  Wow, that's some churning.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663953</cid>
+	<date>Jan 4, 2011, 01:16 PM</date>
+	<author>Fraaaa</author>
+	<text>Quote:Originally Posted byten-oak-druidMost android users on other networks secretly want an iphone.But they wont admit it.With Android having more carriers one would think it would be more competitive.What will likely happen is that Android will briefly take the top spot for a year or two until newly signed contracts end and the iphone is available on more carriers.Also is hard to argue this when Android has an entry price on Smartphones of a third of the &quot;cheapest&quot; iPhone(3GS).However to understand this data we have to look the market for what it is, apples to apples is not the baseline the market is adopting either.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663955</cid>
+	<date>Jan 4, 2011, 01:16 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byNebulaClashI agree with you that both Google and Apple will do well, but I highlight this one sentence because I think that's how most people think of Android.  The problem is that Android is not really free or open source in any meaningful way to the consumer.  For the programmer, you bet, it's open.  For cell phone manufacturers, hehe, it's free to them all right.  But unless you are a developer, what do you get when you buy an Android phone?seriously? heres a picture to help you</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663963</cid>
+	<date>Jan 4, 2011, 01:18 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byarcher75All the data i've seen for almost the past year has shown android in the lead in the US and just recently gained the world wide lead.  Then we get this that says something different.  Don't know who to believe.Given that Android is on so many phones... many already heavily discounted down to two for $100 kind of deals, it goes without saying that Android driven phones will overtake the iPhone.However, take any one Android based phone and put it up against the iPhone... sorry... I don't see one single Android phone capturing 25%+ market share. Again, Motorola, Samsung and the rest are still playing the quantity and variety game. Models will come and go so fast you won't know which is the best phone this week. In the mean time, I'm sure Apple will stay the course and keep releasing 1 major upgrade per-year that has the rest of the market scrambling.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663970</cid>
+	<date>Jan 4, 2011, 01:19 PM</date>
+	<author>NebulaClash</author>
+	<text>Quote:Originally Posted byChazUKCarrier branding is the thing I absolutely detest about the platform (hence the ownership of Nexus phones).I think you're right in the consumer not really caring (or knowing) what Android is specifically because of that was true, the Google sanctioned Nexus phones would be top sellers. I'd guess plenty of Android owners want a phone &quot;like an iPhone&quot; without the premium price that comes along with it.I was rooting for the Nexus phone because I wanted someone as strong as Google to break the monopoly the cell service providers have over the market.  Alas, the cell providers won that fight.You are in the UK where the price structure is different.  In the U.S. you can get an iPhone for $99, just like Android phones (though without the buy one-get one deals), so the idea that iPhones carry a premium price is not so true here.  Here it's about availability.  If the average consumer is a Verizon customer, it's Android for them whether they want it or not.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663974</cid>
+	<date>Jan 4, 2011, 01:20 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byNebulaClashYou've gone through 8 Android phones?  How long have there been Android phones, about a year right?  Wow, that's some churning.ive fully used/tested/ripped apart/reflashed the followingDesireDesire ZLiquid ECaptivateG1LegendHeroMilestonei used each for a couple weeks to a monthall of them work well however none of them have what i needed (office 2010 support, Task and SMS sync on exchange, so it was back to my WM6.5 Sony X1)but now i can support android phones if i need too at work.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663980</cid>
+	<date>Jan 4, 2011, 01:20 PM</date>
+	<author>Fraaaa</author>
+	<text>Quote:Originally Posted bypr5ownerseriously? heres a picture to help youSorry but this doesn't say really anything to me.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663993</cid>
+	<date>Jan 4, 2011, 01:22 PM</date>
+	<author>NebulaClash</author>
+	<text>Quote:Originally Posted bypr5ownerseriously? heres a picture to help youSeriously?  How does that invalidate anything I said?  The average consumer (non-developer, non-techie) won't have a clue about that stuff.  As I said.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663996</cid>
+	<date>Jan 4, 2011, 01:23 PM</date>
+	<author>Fraaaa</author>
+	<text>Quote:Originally Posted byFraaaaAlso is hard to argue this whenAndroid has an entry price on Smartphones of a third of the &quot;cheapest&quot; iPhone(3GS).However to understand this data we have to look the market for what it is, apples to apples is not the baseline the market is adopting either.Quote:Originally Posted byNebulaClashI was rooting for the Nexus phone because I wanted someone as strong as Google to break the monopoly the cell service providers have over the market.  Alas, the cell providers won that fight.You are in the UK where the price structure is different.In the U.S. you can get an iPhone for $99, just like Android phones(though without the buy one-get one deals), so the idea that iPhones carry a premium price is not so true here.  Here it's about availability.  If the average consumer is a Verizon customer, it's Android for them whether they want it or not.Actually, I forgot about that. That's a good point.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663997</cid>
+	<date>Jan 4, 2011, 01:23 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted bypr5ownerive gone through 8+ android phones like this. didnt loose anythingGeeee, are the androids phone so bad that you have to buy a new one every other month?[sorry, couldn't resist]---------------------------------------------send from my computer</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663998</cid>
+	<date>Jan 4, 2011, 01:23 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byFraaaaSorry but this doesn't say really anything to me.wow..........really?... no really...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663999</cid>
+	<date>Jan 4, 2011, 01:24 PM</date>
+	<author>archer75</author>
+	<text>Quote:Originally Posted byPopeye206Given that Android is on so many phones... many already heavily discounted down to two for $100 kind of deals, it goes without saying that Android driven phones will overtake the iPhone.However, take any one Android based phone and put it up against the iPhone... sorry... I don't see one single Android phone capturing 25%+ market share. Again, Motorola, Samsung and the rest are still playing the quantity and variety game. Models will come and go so fast you won't know which is the best phone this week. In the mean time, I'm sure Apple will stay the course and keep releasing 1 major upgrade per-year that has the rest of the market scrambling.I know people love to say the only reason android does well is because of all the carriers and manufacturers as if that's a bad thing. I just don't see it that way. Variety is a good thing.  And maybe it has less to do with variety and more with people just prefer it?  I see more and more people switching from iphones to android and saying they prefer it.  I mean, they aren't necessarily buying the phones but rather buying the OS and isn't that what is really compared?Whatever the case I have no stake in either. I don't even own a cell phone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664003</cid>
+	<date>Jan 4, 2011, 01:24 PM</date>
+	<author>tripjammer</author>
+	<text>Quote:Originally Posted byelppaIt is funny how the popular perception for months has been that Android has already overtaken iOS in the US.Now obviously that day will come very soon, but it is funny how the perception differs from reality.In Europe I believe iOS still leads over Android. And it a few other territories as well. And of course the other platforms (notably Symbian and Blackberry) are strong in their areas as well.Apple is playing the platform game with iOS in set top boxes, media players and tablets. In terms tackling the whole eco system Android has yet to really get started.You know you are right? There is already an IOS phone, PMP, Tablet, Set Top Box....and they all integrate with each other perfectly and there are more ways for them to integrate in the months and years to come. Plus apple stuff is worth some money after a year of use, unlike android and all other electronics in this space.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664006</cid>
+	<date>Jan 4, 2011, 01:25 PM</date>
+	<author>ChazUK</author>
+	<text>Wirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Quote:Originally Posted byNebulaClashQuote:Originally Posted byChazUKCarrier branding is the thing I absolutely detest about the platform (hence the ownership of Nexus phones).I think you're right in the consumer not really caring (or knowing) what Android is specifically because of that was true, the Google sanctioned Nexus phones would be top sellers. I'd guess plenty of Android owners want a phone &quot;like an iPhone&quot; without the premium price that comes along with it.I was rooting for the Nexus phone because I wanted someone as strong as Google to break the monopoly the cell service providers have over the market.  Alas, the cell providers won that fight.You are in the UK where the price structure is different.  In the U.S. you can get an iPhone for $99, just like Android phones (though without the buy one-get one deals), so the idea that iPhones carry a premium price is not so true here.  Here it's about availability.  If the average consumer is a Verizon customer, it's Android for them whether they want it or not.Ash yes. I always forget the carrier first model. Were lucky enough to be using the same GSM standard across all networks over here (being such a tiny island must help).A Verizon iPhone would be a massive twist to the Smartphone marketshare in the US I feel. But we won't beat that dead horse again will we?(I'd love to see it happen for the discussions here and on other forums)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664013</cid>
+	<date>Jan 4, 2011, 01:26 PM</date>
+	<author>yg17</author>
+	<text>Quote:Originally Posted byten-oak-druidMost android users on other networks secretly want an iphone.But they wont admit it.With Android having more carriers one would think it would be more competitive.What will likely happen is that Android will briefly take the top spot for a year or two until newly signed contracts end and the iphone is available on more carriers.So what about someone like myself, an Android user on AT&amp;T, satisfied with their service, not under contract and upgrade eligible, and with $200 in disposable income to spend on a phone? You're assuming I secretly want an iPhone, but I don't. All of the right pieces are in place for me to get an iPhone, and yet, I still don't want one. I have an Android phone and love it, and will only be upgrading to a new Android phone in the future.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664014</cid>
+	<date>Jan 4, 2011, 01:27 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted by0815Geeee, are the androids phone so bad that you have to buy a new one every other month?[sorry, couldn't resist]---------------------------------------------send from my computernope, android doesnt do what i need it too, thats all, i posted above which phones ive used.Quote:Originally Posted byNebulaClashSeriously?  How does that invalidate anything I said?  The average consumer (non-developer, non-techie) won't have a clue about that stuff.  As I said.the avg consumer? the avg consumer is usually too dumb to even know what phone they bought.the &quot;techie&quot; consumers will know if they want an app from the store or a 3rd partythe &quot;enthusiast&quot; consumer will want to have full control over their phone, if they want to transfer a file over bluetooth, they WILL. if they want to install another rom on their phone, they WILL.android make it easy to customize and make the device your own, iOS is locked down and annoying.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664020</cid>
+	<date>Jan 4, 2011, 01:29 PM</date>
+	<author>ChazUK</author>
+	<text>Wirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Quote:Originally Posted bypr5ownerQuote:Originally Posted by0815Geeee, are the androids phone so bad that you have to buy a new one every other month?[sorry, couldn't resist]---------------------------------------------send from my computernope, android doesnt do what i need it too, thats all, i posted above which phones ive used.Quote:Originally Posted byNebulaClashSeriously?  How does that invalidate anything I said?  The average consumer (non-developer, non-techie) won't have a clue about that stuff.  As I said.the avg consumer? the avg consumer is usually too dumb to even know what phone they bought.the &quot;techie&quot; consumers will know if they want an app from the store or a 3rd partythe &quot;enthusiast&quot; consumer will want to have full control over their phone, if they want to transfer a file over bluetooth, they WILL. if they want to install another rom on their phone, they WILL.android make it easy to customize and make the device your own, iOS is locked down and annoying.Those that want more power over iOS Jailbreak. Us Android users Root for more control.No difference in either platform in that respect.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664024</cid>
+	<date>Jan 4, 2011, 01:29 PM</date>
+	<author>reckless2k2</author>
+	<text>The scenario in the US:Various Android phones (by different manufacturers) are available on every carrier (including pay-as-you-go) and are heavily subsidized across many (buy one get one free, etc.).What do you expect?What's impressive is that the iPhone (one manufacturer) is available on only one carrier (AT&amp;T) with a subsidy not even comparable and it still puts up numbers like that. That's impressive.Didn't a recent poll show that most users want an iPhone and either can't afford it or it's not available on their carrier. Pretty simple to me.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664025</cid>
+	<date>Jan 4, 2011, 01:29 PM</date>
+	<author>deadkennedy</author>
+	<text>It's good that iOS will be a strong second and Android first. That way the industry will always have a mad man pushing the boundaries but will not have the mad man controlling it. It's how it should be.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664034</cid>
+	<date>Jan 4, 2011, 01:32 PM</date>
+	<author>i.mac</author>
+	<text>Quote:Originally Posted bytheheadguyWhile the title sounds really nice, it looks like it won't hold off Android for long... unless they do something like widen carrier availability.Let.me.see...iPhone:   One and only one phone release a year, one manufacturer, one network (in the US of course)every.one.else: too many yearly releases to keep trackYup.  Shame on every one else for not obliterating the iPhone out of the market...   It has taken over three years, and iPhone is still king.  Remarkable.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664036</cid>
+	<date>Jan 4, 2011, 01:32 PM</date>
+	<author>Fraaaa</author>
+	<text>Quote:Originally Posted bypr5ownerwow..........really?... no really...You can explain if you'd like to...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664040</cid>
+	<date>Jan 4, 2011, 01:33 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byChazUKWirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Those that want more power over iOS Jailbreak. Us Android users Root for more control.No difference in either platform in that respect.Jailbreak / Root = same thing, YES... buti ment some people (like the 3 million on XDA Developers) want to install a CUSTOM OS, none of the carrier crap, no garbage programs, some want BASE OS, some want flashy, some want loaded.android allows this because you can build the rom yourself, same with windows mobile, this is the only thing that saved WM from getting wiped out, WM doesnt even work out of the box, but once you flash a custom wm6.5 rom it runs blazing fast, 100% more stable, tons of functionality, totally new phone</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664042</cid>
+	<date>Jan 4, 2011, 01:33 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byFraaaaYou can explain if you'd like to...http://forums.macrumors.com/showpost...4&amp;postcount=68</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664043</cid>
+	<date>Jan 4, 2011, 01:33 PM</date>
+	<author>firewood</author>
+	<text>The Android numbers can climb to a clear majority without affecting the iOS ecosystem.  Why?Android customers don't spend anywhere near as much money per person on apps.  Many don't buy paid apps at all.  Developers usually follow the money, so iOS is where most of the cool new stuff and creative apps will happen first.  Customers who want the cool apps will continue to buy enough devices from Apple and apps from the App store to keep iOS with a healthy and profitable market share, even if Android use climbs to 50%+.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664046</cid>
+	<date>Jan 4, 2011, 01:33 PM</date>
+	<author>arkhanjel</author>
+	<text>If you think about it this is really a non story really. Looking at these numbers this had better be true for Android OS. Android is on how many phones? On how many carriers? Now if Android OS and iOS were to swap numbers that would be something to post about.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664060</cid>
+	<date>Jan 4, 2011, 01:37 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted byreckless2k2The scenario in the US:Various Android phones (by different manufacturers) are available on every carrier (including pay-as-you-go) and are heavily subsidized across many (buy one get one free, etc.).What do you expect?What's impressive is that the iPhone (one manufacturer) is available on only one carrier (AT&amp;T) with a subsidy not even comparable and it still puts up numbers like that. That's impressive.Didn't a recent poll show that most users want an iPhone and either can't afford it or it's not available on their carrier. Pretty simple to me.Agree.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664061</cid>
+	<date>Jan 4, 2011, 01:37 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byfirewoodThe Android numbers can climb to a clear majority without affecting the iOS ecosystem.  Why?Android customers don't spend anywhere near as much money per person on apps.  Many don't buy paid apps at all.  Developers usually follow the money, so iOS is where most of the cool new stuff and creative apps will happen first.  Customers who want the cool apps will continue to buy enough devices from Apple and apps from the App store to keep iOS with a healthy and profitable market share, even if Android use climbs to 50%+.not really, developers want a large customer base as well (more ads seen = more money in alot of cases)if android has more users, your chance of more users that download your program is on android.but your partially correct, people that use iOS dont usually have a problem with paying (just look at how much apple stuff costs)so paid program = iOSfree ad program = Android</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664064</cid>
+	<date>Jan 4, 2011, 01:37 PM</date>
+	<author>Fraaaa</author>
+	<text>Quote:Originally Posted bypr5ownernope, android doesnt do what i need it too, thats all, i posted above which phones ive used.the avg consumer? the avg consumer is usually too dumb to even know what phone they bought.the &quot;techie&quot; consumers will know if they want an app from the store or a 3rd partythe &quot;enthusiast&quot; consumer will want to have full control over their phone, if they want to transfer a file over bluetooth, they WILL. if they want to install another rom on their phone, they WILL.android make it easy to customize and make the device your own, iOS is locked down and annoying.So you still saying the same thing on and on.He was saying that avg consumer won't bother with those things anyways or are too complicated for them. THAT was the whole point.The &quot;techie&quot; or the &quot;enthusiast&quot; that want to have full control on their iPhone, I am sure they have no difficulties on Jailbreak in it. How long it takes to JB an iPhone? Let's say 10 sec?Don't start with the argument that Apple is not allowing people on doing it because as all we know is really a non-issue JB an iPhone as well as for Android people to get 3rd party Apps.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664065</cid>
+	<date>Jan 4, 2011, 01:37 PM</date>
+	<author>ten-oak-druid</author>
+	<text>Quote:Originally Posted byyg17So what about someone like myself, an Android user on AT&amp;T, satisfied with their service, not under contract and upgrade eligible, and with $200 in disposable income to spend on a phone? You're assuming I secretly want an iPhone, but I don't. All of the right pieces are in place for me to get an iPhone, and yet, I still don't want one. I have an Android phone and love it, and will only be upgrading to a new Android phone in the future.You do not get an iphone out of spite it seems.  Strange.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664077</cid>
+	<date>Jan 4, 2011, 01:40 PM</date>
+	<author>ChazUK</author>
+	<text>Wirelessly posted (Mozilla/5.0 (Linux; U; Android 2.3.1; en-gb; Nexus One Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Quote:Originally Posted bypr5ownerQuote:Originally Posted byChazUKWirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Those that want more power over iOS Jailbreak. Us Android users Root for more control.No difference in either platform in that respect.Jailbreak / Root = same thing, YES... buti ment some people (like the 3 million on XDA Developers) want to install a CUSTOM OS, none of the carrier crap, no garbage programs, some want BASE OS, some want flashy, some want loaded.android allows this because you can build the rom yourself, same with windows mobile, this is the only thing that saved WM from getting wiped out, WM doesnt even work out of the box, but once you flash a custom wm6.5 rom it runs blazing fast, 100% more stable, tons of functionality, totally new phoneThat is a strength to Android if you want to go through the steps of a custom ROM. I love XDA and the people who do all their magic with custom Roms.Hell, thanks Micromod777 and his adaptation of Chris Soyers Nexus One aosp Gingerbread ROM I already have a perfectly working install of Gingerbread on my N1.That type of power and control is great to some but companies like Motorola are openly stifling open development with locked bootloaders and the such. It isn't the open Utopia we all wish for across the board.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664079</cid>
+	<date>Jan 4, 2011, 01:41 PM</date>
+	<author>0815</author>
+	<text>From the perspective of a company, what is more important - Market Share or Profit?Higher market share does not lead automatically to higher profits. You can dump your stuff for almost free on the market but make almost no money or you sell it for the price it's worth (or more, but so that enough people still buy it) and make lots of money (but loose out on market share). But profits is all that those companies are about (they are not charities). Would be interesting to see a breakdown by (phone based) profits across the phone manufactures.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664111</cid>
+	<date>Jan 4, 2011, 01:46 PM</date>
+	<author>NebulaClash</author>
+	<text>Quote:Originally Posted bypr5ownerthe avg consumer? the avg consumer is usually too dumb to even know what phone they bought.the &quot;techie&quot; consumers will know if they want an app from the store or a 3rd partythe &quot;enthusiast&quot; consumer will want to have full control over their phone, if they want to transfer a file over bluetooth, they WILL. if they want to install another rom on their phone, they WILL.android make it easy to customize and make the device your own, iOS is locked down and annoying.Then why on earth did you condescendingly post that picture for me when what you wrote above is precisely what I was talking about?I said the tech audience can make any OS free.  Even iOS is no wall to them.  But for the non-enthusiast, non-techie audience (the vast majority of humanity), the openness of Android is meaningless to them.  They get no value from it.  It's not open to them at all, but locked up any way their carrier wants them to be locked up.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664119</cid>
+	<date>Jan 4, 2011, 01:47 PM</date>
+	<author>Kan-O-Z</author>
+	<text>Quote:Originally Posted byyg17Windows Phone 7 has only been out for 2 months, and it looks quite promising. Don't write it off yet.The problem with Windows 7 is that even if it is decent, it's too little too late. What would compel someone (particularly existing user of iPhone or Android) to go to Windows 7? Windows 7 has nothing to offer over the iPhone and Android and doesn't have the app offerings that Apple and Android has.Once people get used to a particular system and it gains a lot of support and popularity, it's hard to shift from that. Look at the personal computer and how long the PC ruled that market...and still is the dominant force.Kan-O-Z</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664140</cid>
+	<date>Jan 4, 2011, 01:51 PM</date>
+	<author>LOLaMac</author>
+	<text>Quote:Originally Posted by&#x17D;algirisIt's funny to read &quot;iphone continues ... android&quot;. Phone vs OS again?Aren't they the same thing?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664142</cid>
+	<date>Jan 4, 2011, 01:51 PM</date>
+	<author>inlovewithi</author>
+	<text>I just bought a Droid X. It's freaking awesome. In fact I have it connected to my computer right now, and I use it as my internet connection. So I'm a new Android customer. But that's ok, the girl that sat next to me in class, her father bought her an iPhone. I didn't say it, but she said that the iPhone is a girl's phone, and I thought that was interesting since the Droid X is promoted more towards guys, because it has a big screen.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664143</cid>
+	<date>Jan 4, 2011, 01:51 PM</date>
+	<author>Digitalclips</author>
+	<text>Quote:Originally Posted byrorschach&quot;For Apple to win,MicrosoftGoogle doesn't have to lose.&quot;That is funny, I recall that mantra in the distant past (the original version that is).  That didn't work out too well for Microsoft in the end though did it?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664156</cid>
+	<date>Jan 4, 2011, 01:54 PM</date>
+	<author>fxtech</author>
+	<text>Quote:Originally Posted bypr5ownerwow..........really?... no really...That guy is drunk on the Kool-aid. Forget it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664164</cid>
+	<date>Jan 4, 2011, 01:56 PM</date>
+	<author>fxtech</author>
+	<text>Quote:Originally Posted byten-oak-druidYou do not get an iphone out of spite it seems.  Strange.Or &quot;because everyone else is doing it&quot;. I respect that.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664165</cid>
+	<date>Jan 4, 2011, 01:56 PM</date>
+	<author>davidgrimm</author>
+	<text>That's pretty good performance for an OS found only on 1 phone from 1 carrier (the carrier with the WORST customer service).Imagine what iOS' share would be if the iPhone was offered by 2 (or more) carriers?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664168</cid>
+	<date>Jan 4, 2011, 01:58 PM</date>
+	<author>Kan-O-Z</author>
+	<text>Quote:Originally Posted bypr5ownerJailbreak / Root = same thing, YES... buti ment some people (like the 3 million on XDA Developers) want to install a CUSTOM OS, none of the carrier crap, no garbage programs, some want BASE OS, some want flashy, some want loaded.android allows this because you can build the rom yourself, same with windows mobile, this is the only thing that saved WM from getting wiped out, WM doesnt even work out of the box, but once you flash a custom wm6.5 rom it runs blazing fast, 100% more stable, tons of functionality, totally new phoneWell you are now talking about a user population less than 1%. I'm a techie and I just don't really care to do all that crap to my iphone even if I could. It works nice as it is and I can just about do everything. I don't care to spend my weekends hacking it, tweaking it and having a buggy phone...and after all the work Apple comes out with a new feature like Airplay and I can't have it and have to do it all over again after I can jailbreak the new version. I have better things to do and so do 99% of the rest of America. I mean seriously...don't people have better things to do than to re-write their own operating system?Kan-O-Z</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664182</cid>
+	<date>Jan 4, 2011, 01:59 PM</date>
+	<author>inlovewithi</author>
+	<text>Quote:Originally Posted byaristotleThis is really no different than how you still see some people believe that MSFT still owns part of Apple stock when they sold their stock back in 2002.I thought this comment was very funny. But number 1, the media talks mostly positive, so you guys shouldn't be so paranoid about your favorite corporation.And as for your comment. The world does not revolved around Apple, what sane person out there would even give it a half a second thought over Microsoft owning Apple shares, or that they did and sold it. Who would think about that. It's projection, a person really loves something, so they think everyone else spends as much time caring about it. Why even care if 3 people in the universe think that Microsoft owns Apple stock?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664212</cid>
+	<date>Jan 4, 2011, 02:05 PM</date>
+	<author>NebulaClash</author>
+	<text>Quote:Originally Posted byinlovewithiI didn't say it, but she said that the iPhone is a girl's phone, and I thought that was interesting since the Droid X is promoted more towards guys, because it has a big screen.This idea gets traction because the Verizon Droid ads are the most blatant examples I've ever seen of playing on male insecurities to sell products.  The ads practically scream, &quot;if you are a young male, you'd better get this phone.  Everyone else, stay away.&quot;People, being people, tend to internalize such propaganda, and thus you get the stereotypes that girl mentioned.  It's not true, but it's what people believe when they don't think for themselves.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664214</cid>
+	<date>Jan 4, 2011, 02:05 PM</date>
+	<author>CFreymarc</author>
+	<text>Quote:Originally Posted byelppaI still think many smartphone OEMs without an OS of their own will be keen to support Windows Phone 7. Because it keeps Google honest and innovative.If their was one licensed platform with market dominance (Android) then all the OEMs really have left to compete with is how thin they can make their margins (see the PC market).I see Microsoft taking RIM customers with enterprise integration of Windows 7 / Windows Mobile 7 and the new Microsoft tablets launching this week at CES.RIM is in a must-paradigm shift right now position.  Their precious Canadian email server that they fought up to the US Supreme Court to keep is being by passed by the mass market.  From that, they have to do something other than their softly received tablet.As far as big losers, HP / Palm and Nokia was not even mentioned.  Those guys have a lot of issues to deal with before going anywhere.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664234</cid>
+	<date>Jan 4, 2011, 02:09 PM</date>
+	<author>yg17</author>
+	<text>Quote:Originally Posted byten-oak-druidYou do not get an iphone out of spite it seems. Strange.It has nothing to do with spite. Some people just prefer Android over iOS. Is that such a hard concept for you to grasp?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664238</cid>
+	<date>Jan 4, 2011, 02:10 PM</date>
+	<author>inlovewithi</author>
+	<text>Quote:Originally Posted byNebulaClashThis idea gets traction because the Verizon Droid ads are the most blatant examples I've ever seen of playing on male insecurities to sell products.  The ads practically scream, &quot;if you are a young male, you'd better get this phone.  Everyone else, stay away.&quot;People, being people, tend to internalize such propaganda, and thus you get the stereotypes that girl mentioned.  It's not true, but it's what people believe when they don't think for themselves.She's not familiar with the Droid ads, at all. I just thought it was interesting since macrumors posted an article that showed that the iphone was most popular with girls than guys, and I mostly see girls with iPhone. If anything she probably said that because mostly girls in the school have iPhones.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664253</cid>
+	<date>Jan 4, 2011, 02:13 PM</date>
+	<author>MrWillie</author>
+	<text>So, here is my question...Note: I don't own a smart phone, or have a wireless data plan.I go and get liquered up, head over to the Radio Shack, and get a ?300 phone on Sprint (for free, with a two year contract), will I be able to play Angry Birds on my 'new' Android 1.5 phone?I would rather pay the few dollars for a good iPad app, than get it for free and have to deal with the adds.Second question, do these adds use data, or do the come preloaded with the app?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664264</cid>
+	<date>Jan 4, 2011, 02:15 PM</date>
+	<author>ChazUK</author>
+	<text>Wirelessly posted (Mozilla/5.0 (Linux; U; Android 2.3.1; en-gb; Nexus S Build/GRH78) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Quote:Originally Posted byMrWillieSo, here is my question...Note: I don't own a smart phone, or have a wireless data plan.I go and get liquered up, head over to the Radio Shack, and get a ?300 phone on Sprint (for free, with a two year contract), will I be able to play Angry Birds on my 'new' Android 1.5 phone?I would rather pay the few dollars for a good iPad app, than get it for free and have to deal with the adds.Second question, do these adds use data, or do the come preloaded with the app?Do they sell any Android 1.5 powered phones? The ads would use data.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664265</cid>
+	<date>Jan 4, 2011, 02:16 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byKan-O-ZThe problem with Windows 7 is that even if it is decent, it's too little too late. What would compel someone (particularly existing user of iPhone or Android) to go to Windows 7? Windows 7 has nothing to offer over the iPhone and Android and doesn't have the app offerings that Apple and Android has.Once people get used to a particular system and it gains a lot of support and popularity, it's hard to shift from that. Look at the personal computer and how long the PC ruled that market...and still is the dominant force.Kan-O-Zxbox integtrationfull exchange support (not yet but MS said its coming, this means both tasks, SMS sync and sharepoint)office 2010 supportZune integration (wireless sync is handy to some, just cant beat zune pass with any other service)WP7 is like iOS and Android combined, syncs with media management software (itunes like)choice of HW and config (android)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664270</cid>
+	<date>Jan 4, 2011, 02:16 PM</date>
+	<author>Rodneyt78</author>
+	<text>It's a no brainer that Android will surpass iOS in the mobile phone share, considering the fact that there are tons of Android phones chasing the iPhone 4 &amp; iPhone 3GS. However things may change once the iPhone reaches more carriers in the U.S. I personally know a lot of people with other carriers that are using an Android phone because it's the closest thing to the iPhone for them. I have to say in my opinion it was a major mistake for Apple to limit themselves to AT&amp;T in the U.S. for all this time. Let's hope all this Verizon iPhone hype is true!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664310</cid>
+	<date>Jan 4, 2011, 02:28 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byMrWillieSo, here is my question...Note: I don't own a smart phone, or have a wireless data plan.I go and get liquered up, head over to the Radio Shack, and get a ?300 phone on Sprint (for free, with a two year contract), will I be able to play Angry Birds on my 'new' Android 1.5 phone?I would rather pay the few dollars for a good iPad app, than get it for free and have to deal with the adds.Second question, do these adds use data, or do the come preloaded with the app?wait what?what about thisgo on kijiji and get an android phone for $150 with no contract, connect the phone to your wifi and download angry birdsalso download adblocker and have no ads in any program. (or just edit the hosts file)(you are still contract free as well as carrier free at this point)i think the only thing you need to download angrybirds is........... an internet connection you dont even need a gmail account just get the APK file and throw it on your phonethat $150 phone probably would be an Acer Liquid, im sure you can get it even cheaper if you look, it would be running 2.1 out of the box if it was unrooted, if rooted you can run 2.3 or whatever you feel like running</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664316</cid>
+	<date>Jan 4, 2011, 02:30 PM</date>
+	<author>NebulaClash</author>
+	<text>Quote:Originally Posted byinlovewithiShe's not familiar with the Droid ads, at all. I just thought it was interesting since macrumors posted an article that showed that the iphone was most popular with girls than guys, and I mostly see girls with iPhone. If anything she probably said that because mostly girls in the school have iPhones.And most of the iPhone owners I know are men, so there's another meaningless anecdotal statementThe ads get carried into the population's consciousness, so even if you haven't seen the ads, you get the point as it gets repeated by word of mouth.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664341</cid>
+	<date>Jan 4, 2011, 02:36 PM</date>
+	<author>srxtr</author>
+	<text>Quote:Originally Posted byreckless2k2The scenario in the US:Various Android phones (by different manufacturers) are available on every carrier (including pay-as-you-go) and are heavily subsidized across many (buy one get one free, etc.).What do you expect?What's impressive is that the iPhone (one manufacturer) is available on only one carrier (AT&amp;T) with a subsidy not even comparable and it still puts up numbers like that. That's impressive.Didn't a recent poll show that most users want an iPhone and either can't afford it or it's not available on their carrier. Pretty simple to me.Summed up nicely</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664349</cid>
+	<date>Jan 4, 2011, 02:37 PM</date>
+	<author>Kan-O-Z</author>
+	<text>Quote:Originally Posted bypr5ownerxbox integtrationfull exchange support (not yet but MS said its coming, this means both tasks, SMS sync and sharepoint)office 2010 supportZune integration (wireless sync is handy to some, just cant beat zune pass with any other service)WP7 is like iOS and Android combined, syncs with media management software (itunes like)choice of HW and config (android)You realize iPhone has full exchange support right? I use it right now and am hooked into my company's system. That's hilarious that MS didn't have their own crap integrated out of the box...LOL!Office - iPhone can open up all office documents to look at...sure you can't edit them. Honestly this is good enough for me. I think a phone's screen is way to small to be creating and editing MS docs. MS is supposedly coming out with iphone apps for Office for those that want to do something like this.I don't really care about the rest on your list. I don't use zune nor do I use xbox.What about integration with iTunes or iPod or Apple TV. The iPhone has all of this right out of the box and it works well. I can go over to my friends house and stream a movie from my iPhone to his TV or play a song from my iPhone on his entertainment system or control his iTunes on his Mac/PC with my iPhone or control his Apple TV with my iPhone with 1 click over wifi...it's that simple!Kan-O-Z</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664354</cid>
+	<date>Jan 4, 2011, 02:38 PM</date>
+	<author>srxtr</author>
+	<text>Quote:Originally Posted bypr5ownerJailbreak / Root = same thing, YES... but^ ThatPeople talk about Android being &quot;open&quot; and how iPhone can't be without being jailbroken first.Well, news for you, people who actually care about an OS being &quot;open&quot; will usually go the extra mile to jailbreak their iPhone. 99% of the other people don't care.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664359</cid>
+	<date>Jan 4, 2011, 02:39 PM</date>
+	<author>zacman</author>
+	<text>Jobs is happy with 2% world wide marketshare for computers so he will be more than happy with 5% marketshare for smartphones in the future. Though I somehow doubt that people will be so happy when 5 year old Android games get ported to iOS in the future...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664370</cid>
+	<date>Jan 4, 2011, 02:41 PM</date>
+	<author>srxtr</author>
+	<text>Quote:Originally Posted bypr5ownernot really, developers want a large customer base as well (more ads seen = more money in alot of cases)if android has more users, your chance of more users that download your program is on android.but your partially correct, people that use iOS dont usually have a problem with paying (just look at how much apple stuff costs)so paid program = iOSfree ad program = AndroidI thought both iOS and Android had paid / free / ad apps.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664374</cid>
+	<date>Jan 4, 2011, 02:42 PM</date>
+	<author>webbuzz</author>
+	<text>Quote:Originally Posted byNebulaClashYou get whatever Motorola or Samsung let you have, plus whatever Verizon decides to foist upon you.  Want the latest version of Android?  You wait.  And wait.  Maybe forever, if the cell providers want you to upgrade your hardware instead.  How is this free again?^^ThisPrior to purchasing my iPhone 3G, I owned many Windows CE and Windows Mobile handsets.  All unlocked from the carrier or manufacturer.The fragmentation of those handsets was a daunting task for manufacturers and carriers to support.  Everything from the blue-tooth stack, audio issues, functionality and interface could be updated.  Unfortunately, many users were at the mercy of the carrier or manufacturer to release an update. Which rarely happened and will probably be similar for Android/WinMo 7.After eight years of downloading cooked ROMs or asking friends and former co-workers for ROM updates, I was done.  I purchased the 3G when released and the iPhone 4 last year.There is a place in the market for all of the mobile OS platforms.  However, the product proliferation among Android, Microsoft and handset manufacturers isdeja vufor me....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664394</cid>
+	<date>Jan 4, 2011, 02:45 PM</date>
+	<author>srxtr</author>
+	<text>Quote:Originally Posted byyg17Quote:Originally Posted byten-oak-druidMost android users on other networks secretly want an iphone.But they wont admit it.With Android having more carriers one would think it would be more competitive.What will likely happen is that Android will briefly take the top spot for a year or two until newly signed contracts end and the iphone is available on more carriers.So what about someone like myself, an Android user on AT&amp;T, satisfied with their service, not under contract and upgrade eligible, and with $200 in disposable income to spend on a phone? You're assuming I secretly want an iPhone, but I don't. All of the right pieces are in place for me to get an iPhone, and yet, I still don't want one. I have an Android phone and love it, and will only be upgrading to a new Android phone in the future.I think he was simply pointing out that there are many Android users (on OTHER networks) that really want the iPhone but is not available to them. He wasn't singling you out.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664486</cid>
+	<date>Jan 4, 2011, 03:02 PM</date>
+	<author>NebulaClash</author>
+	<text>Quote:Originally Posted byzacmanJobs is happy with 2% world wide marketshare for computers so he will be more than happy with 5% marketshare for smartphones in the future. Though I somehow doubt that people will be so happy when 5 year old Android games get ported to iOS in the future...No, he won't want 5% share, and he won't settle for 5% share.  Part of the reason why is the example you used: game companies like iOS because people actually pay for those games.  And where the developers go, the software goes, and that's with iOS.  That's not going to change until Android users start showing a willingness to support software with their wallet.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664491</cid>
+	<date>Jan 4, 2011, 03:03 PM</date>
+	<author>Mattsasa</author>
+	<text>they would have a lot higher US market share if they were on verizon</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664545</cid>
+	<date>Jan 4, 2011, 03:14 PM</date>
+	<author>lilo777</author>
+	<text>Two things come to mind:* the writing is on the wall* Article's title (iPhone Continues to Hold Off Android in U.S. Smartphone Market Share) got it totally wrong.The right title should something like &quot;Android continues gaining on iOS&quot;.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664546</cid>
+	<date>Jan 4, 2011, 03:14 PM</date>
+	<author>firewood</author>
+	<text>Quote:Originally Posted bysrxtrI thought both iOS and Android had paid / free / ad apps.They do both have paid, free, and ad supported apps.It's not the OS's and devices that are different.  But the typical or average behavior of their respective customers is very different.Android owners rarely buy apps.  Maybe Android owners like looking at ads?  Thus Android developers have to target making money from ads (not much money per customer, so developers have to break even by getting a massive number of people to download and run their apps).A much higher percentage of iPhone owners buy apps, and those who buy apps buy more apps.  Thus there is more App store money for the iOS developer community per each device owner, on average, and a paid app developer can make money with only a modest amount of downloads per day.  Thus a larger iOS dev community.  Only ten $9.99 apps per day is $25K per annum (decent for a university student), how many ad impressions does it take to match that income stream?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664555</cid>
+	<date>Jan 4, 2011, 03:17 PM</date>
+	<author>URFloorMatt</author>
+	<text>Quote:Originally Posted byNebulaClashPopular perception is formed by the press.  The press routinely prints anti-Apple pieces (for prejudice or money).  People read them.  People believe them.  People get fooled.This is the most absurd thing I've ever read.  When does Apple get negative press from the mainstream media?  The most negative thing I've ever read has been stuff along the lines of &quot;Yeah, the iPhone is great, but it's not perfect . . . yet&quot; or &quot;10 Reasons why the iPad isn't as revolutionary as Jobs says it will be.&quot;  Hardly anti-Apple.  It's barely even negative.Everyone believes that Android has taken over market share because it's inevitable.  In 2015 no one will sit back and think, &quot;Hey, remember when people said Android had the most smartphone market share six whole months before it actually happened?  The horror!&quot;The only way to slow Android growth is to open the iPhone to all the U.S. carriers.  And even then one high end phone cannot compete with software that will be on phones that range from high end to free.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664567</cid>
+	<date>Jan 4, 2011, 03:20 PM</date>
+	<author>MrWillie</author>
+	<text>Quote:Originally Posted bypr5ownerwait what?My point is there is still a crap load of Andriod 1.5, 1.6, and 1.7 phones still being sold.Angry Birds requires 2.0, Flash 10.1 requires 2.2.http://www.handango.com/catalog/Prod...&amp;platformId=80So with the growing Android market share, how much of that market share is able to play Angry Birds, and how much of that is 'dumb' smartphone wannabes ?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664574</cid>
+	<date>Jan 4, 2011, 03:23 PM</date>
+	<author>BaldiMac</author>
+	<text>Quote:Originally Posted bylilo777Two things come to mind:* the writing is on the wall* Article's title (iPhone Continues to Hold Off Android in U.S. Smartphone Market Share) got it totally wrong.The right title should something like &quot;Android continues gaining on iOS&quot;.How was the original title &quot;totally wrong&quot;?  It is an accurate description of the data.  As would a title like &quot;Android continues to gain on iPhone in U.S. Smartphone Market Share.&quot;  Both descriptions would apply equally.However, your proposal of &quot;Android continues gaining on iOS&quot; is an inaccurate description of the data.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664581</cid>
+	<date>Jan 4, 2011, 03:24 PM</date>
+	<author>Mattsasa</author>
+	<text>Quote:Originally Posted byURFloorMattThis is the most absurd thing I've ever read.  When does Apple get negative press from the mainstream media?  The most negative thing I've ever read has been stuff along the lines of &quot;Yeah, the iPhone is great, but it's not perfect . . . yet&quot; or &quot;10 Reasons why the iPad isn't as revolutionary as Jobs says it will be.&quot;  Hardly anti-Apple.  It's barely even negative.Everyone believes that Android has taken over market share because it's inevitable.  In 2015 no one will sit back and think, &quot;Hey, remember when people said Android had the most smartphone market share six whole months before it actually happened?  The horror!&quot;The only way to slow Android growth is to open the iPhone to all the U.S. carriers.  And even then one high end phone cannot compete with software that will be on phones that range from high end to free.I disagree the press IS anti-apple! not all but a lot of it is! News Paper title: iSorry: Steve Jobs admits iphone 4 drops more calls than the previous iphone, where he really didn't say that he was being sarcastic about how much it doesn't drop more calls.  and many other mainstream press I hear is almost always anti-Apple.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664599</cid>
+	<date>Jan 4, 2011, 03:29 PM</date>
+	<author>ChazUK</author>
+	<text>Wirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Quote:Originally Posted byMrWillieQuote:Originally Posted bypr5ownerwait what?My point is there is still a crap load of Andriod 1.5, 1.6, and 1.7 phones still being sold.Angry Birds requires 2.0, Flash 10.1 requires 2.2.http://www.handango.com/catalog/Prod...&amp;platformId=80So with the growing Android market share, how much of that market share is able to play Angry Birds, and how much of that is 'dumb' smartphone wannabes ?There is no such thing as Android 1.7 and what are these huge amounts Android 1.5 handsets still being sold today?Look at the stats pulled from Android Market and you will see that the majority of Android devices are on 2.1 or above.Where are you getting your data from because it seems flawed.Edit: according to Rovio (the developers of Angry Birds) it runs on Android 1.6 and upwards fyi.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664647</cid>
+	<date>Jan 4, 2011, 03:38 PM</date>
+	<author>NebulaClash</author>
+	<text>Quote:Originally Posted byURFloorMattThis is the most absurd thing I've ever read.  When does Apple get negative press from the mainstream media?I seriously doubt this is the most absurd thing you have ever read in your entire life, but if it is I congratulate you for discovering the Web.  Welcome aboard!OK, seriously, the press prints anti-Apple articles all the time.  By anti-Apple, I mean by printing the side of issues that make Apple look worse.  By repeating debunked lies.  By slanting coverage away from Apple.I see it all the time.  If you don't, I ask you to please look at the news over the next few months and see if you don't see the media leap to report negative Apple issues.  It's true they also push good Apple stories.  They sort of have to now that Apple is one of the most successful companies in U.S. history.  But some of us remember what it was like a decade or two ago when it was all about 'Apple is doomed' and the like.  Those old prejudices are still there, but they have to be hidden a bit because of the ridiculous amount of money Apple makes now.But if you don't see it, that's fine.  My statement was still not the most ridiculous thing you've ever read.  It's not even the most ridiculous statement you'll read today, or even in this thread.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664671</cid>
+	<date>Jan 4, 2011, 03:44 PM</date>
+	<author>MrWillie</author>
+	<text>Quote:Originally Posted byChazUKWirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)There is no such thing as Android 1.7 and what are these huge amounts Android 1.5 handsets still being sold today?Look at the stats pulled from Android Market and you will see that the majority of Android devices are on 2.1 or above.Where are you getting your data from because it seems flawed.From the spec sheets at the AT&amp;T store. For the spec sheets at the Radio Shack.Walk into these stores, and you will see the 1.x still being sold. Local AT&amp;T was still selling three Android phones with 1.XAT&amp;T is not listing the versions online unless it's 2.1 and up. Walk it the store, open your eyes, they are there.Edit: okay, 83% are 2.1 and above.http://developer.android.com/resourc...-versions.html</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664705</cid>
+	<date>Jan 4, 2011, 03:50 PM</date>
+	<author>ChazUK</author>
+	<text>Wirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Quote:Originally Posted byMrWillieQuote:Originally Posted byChazUKWirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)There is no such thing as Android 1.7 and what are these huge amounts Android 1.5 handsets still being sold today?Look at the stats pulled from Android Market and you will see that the majority of Android devices are on 2.1 or above.Where are you getting your data from because it seems flawed.From the spec sheets at the AT&amp;T store. For the spec sheets at the Radio Shack.Walk into these stores, and you will see the 1.x still being sold. Local AT&amp;T was still selling three Android phones with 1.XAT&amp;T is not listing the versions online unless it's 2.1 and up. Walk it the store, open your eyes, they are there.Edit: okay, 83% are 2.1 and above.http://developer.android.com/resourc...-versions.htmlHow does that equate to a &quot;crap load&quot; being sold at all? Look at the Android Market analytics, completely different from what you are proposing.http://developer.android.com/resourc...-versions.htmlOnly 16% of devices are using Android 1.5/1.6 and nary a mention of &quot;android 1.7&quot; whatever that is.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664768</cid>
+	<date>Jan 4, 2011, 04:02 PM</date>
+	<author>MrWillie</author>
+	<text>Quote:Originally Posted byChazUKWirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)How does that equate to a &quot;crap load&quot; being sold at all? Look at the Android Market analytics, completely different from what you are proposing.http://developer.android.com/resourc...-versions.htmlOnly 16% of devices are using Android 1.5/1.6 and nary a mention of &quot;android 1.7&quot; whatever that is.Same link I gave you.1.7 ? It was on a spec tag at the AT&amp;T store, doesn't mean it's correct, just like Handango stated AB required 2.0. Yea, when I see 4 models of 1.x Andriods still being sold compared to however many 2.x (didn't count)Willie's Dictionary defines crap load as 12% or more...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664770</cid>
+	<date>Jan 4, 2011, 04:02 PM</date>
+	<author>lilo777</author>
+	<text>Quote:Originally Posted byBaldiMacHow was the original title &quot;totally wrong&quot;?  It is an accurate description of the data.  As would a title like &quot;Android continues to gain on iPhone in U.S. Smartphone Market Share.&quot;  Both descriptions would apply equally.However, your proposal of &quot;Android continues gaining on iOS&quot; is an inaccurate description of the data.I think the phrase &quot;continue to hold off&quot; describes the relationship in progression as opposed to s snapshot status. It obviously hides the fact that Android is about to overtake iOS. Yes the total number iOS devices is still higher than that of Android. The more accurate phrase to describe the dynamic of this relationship would be something like &quot;iOS continues to loose ground to Android&quot;</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664776</cid>
+	<date>Jan 4, 2011, 04:03 PM</date>
+	<author>inlovewithi</author>
+	<text>Quote:Originally Posted byNebulaClashAnd most of the iPhone owners I know are men, so there's another meaningless anecdotal statementThe ads get carried into the population's consciousness, so even if you haven't seen the ads, you get the point as it gets repeated by word of mouth.If you re read what I wrote, there was an article on this website that showed that iPhones were most popular with girls. And in my personal case which has nothing to do with the study, just like your case, I said that she might have said that because of the fact that mostly girls have iPhones in my school. So as you can see, one thing has nothing to do with the other. I didn't say that mostly girls have iPhones because of my experience, I said because of the study on an article on macrumors.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664832</cid>
+	<date>Jan 4, 2011, 04:12 PM</date>
+	<author>antster94</author>
+	<text>You can quite clearly see that Android is going to pass iOS in time. At this rate I believe that by June it will surpass the iPhone's market share.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664840</cid>
+	<date>Jan 4, 2011, 04:13 PM</date>
+	<author>ChazUK</author>
+	<text>Wirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)Quote:Originally Posted byMrWillieQuote:Originally Posted byChazUKWirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1)How does that equate to a &quot;crap load&quot; being sold at all? Look at the Android Market analytics, completely different from what you are proposing.http://developer.android.com/resourc...-versions.htmlOnly 16% of devices are using Android 1.5/1.6 and nary a mention of &quot;android 1.7&quot; whatever that is.Same link I gave you.1.7 ? It was on a spec tag at the AT&amp;T store, doesn't mean it's correct, just like Handango stated AB required 2.0. Yea, when I see 4 models of 1.x Andriods still being sold compared to however many 2.x (didn't count)Willie's Dictionary defines crap load as 12% or more...That 16(odd) percentage will contain a lot of legacy phones that are no longer supported.Judging by the decline in Android 1.6/1.5 over the months, I'd figure that the majority of devices are being sold with 2.1 or above or are receiving firmware updates.If Android 1.x was seeing a steady increase I'd be inclined to agree with your statements but they just don't add up.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664896</cid>
+	<date>Jan 4, 2011, 04:20 PM</date>
+	<author>JordanNZ</author>
+	<text>Quote:Originally Posted bylilo777The more accurate phrase to describe the dynamic of this relationship would be something like &quot;RIM continues to loose ground to Android&quot;I think that would actually be more accurate....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665004</cid>
+	<date>Jan 4, 2011, 04:42 PM</date>
+	<author>tigress666</author>
+	<text>Quote:Originally Posted byNebulaClashThis idea gets traction because the Verizon Droid ads are the most blatant examples I've ever seen of playing on male insecurities to sell products.  The ads practically scream, &quot;if you are a young male, you'd better get this phone.  Everyone else, stay away.&quot;People, being people, tend to internalize such propaganda, and thus you get the stereotypes that girl mentioned.  It's not true, but it's what people believe when they don't think for themselves.What's funnier is my dad thinks the iphone is a girl's phone cause it's too big and no guy would want to put a phone that big in his pocket.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665020</cid>
+	<date>Jan 4, 2011, 04:44 PM</date>
+	<author>pr5owner</author>
+	<text>Quote:Originally Posted byKan-O-ZYou realize iPhone has full exchange support right? I use it right now and am hooked into my company's system. That's hilarious that MS didn't have their own crap integrated out of the box...LOL!no it does not, not even close, it has the basic 3 for syncing email, calender, contacts, exchange 2010 supports lots moreQuote:Office - iPhone can open up all office documents to look at...sure you can't edit them. Honestly this is good enough for me. I think a phone's screen is way to small to be creating and editing MS docs. MS is supposedly coming out with iphone apps for Office for those that want to do something like this.read only is useless in a corporate environment (and still, no sharepoint integration)Quote:I don't really care about the rest on your list. I don't use zune nor do I use xbox.of course you dont, your not using it from a corporate environment standpoint nor are you using any other product other than apple.Quote:What about integration with iTunes or iPod or Apple TV. The iPhone has all of this right out of the box and it works well. I can go over to my friends house and stream a movie from my iPhone to his TV or play a song from my iPhone on his entertainment system or control his iTunes on his Mac/PC with my iPhone or control his Apple TV with my iPhone with 1 click over wifi...it's that simple!sure but useless in a corporate environmenti would say DLNA would be more important than airplayQuote:Originally Posted bysrxtrI thought both iOS and Android had paid / free / ad apps.you didnt really read my post.....i said if you want to charge for your app your better off with iOSif you want to make money from ads in your app your better off with Android</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665047</cid>
+	<date>Jan 4, 2011, 04:50 PM</date>
+	<author>BaldiMac</author>
+	<text>Quote:Originally Posted bylilo777I think the phrase &quot;continue to hold off&quot; describes the relationship in progression as opposed to s snapshot status. It obviously hides the fact that Android is about to overtake iOS. Yes the total number iOS devices is still higher than that of Android.Actually the phrase &quot;hold off&quot; implies an approaching competitor.  Same as a horse in the lead &quot;holds off&quot; the second place horse through a turn.  You don't &quot;hold off&quot; a fading competitor.  You &quot;hold off&quot; a surging one.Quote:The more accurate phrase to describe the dynamic of this relationship would be something like &quot;iOS continues to loose ground to Android&quot;Again, that phrase is less accurate than the original phrase because it does not make it clear that the data is only about smartphones.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665090</cid>
+	<date>Jan 4, 2011, 05:02 PM</date>
+	<author>viewfly</author>
+	<text>It looks like Android is taking away from RIM market share and not Apple.Since this is US only, it seems to mean that cdma users (sprint, verizon and gsm tmobile) are dropping Blackberries to Android smart phones, while ATT users are stable.It will be interesting to see the trend when and if Apple releases the iPhone for Verizon. So its not clear that Android will surpass iOS...but anything goes.The data seems to indicate that cdma (and tmobile) users want a better smart phone than BB has...and the only option is Android if they stay with Verizon, sprint, and Tmobile. Of course there are att users that switch, but on average, the plot show apple flat, BB going down at the same rate than Android moves up.One thing that is under appreciated is service.  Walk in to any apple store and get your hardware/software fixed or examined. No so true with all other smart phone makers.  That is a big deal to customers.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665106</cid>
+	<date>Jan 4, 2011, 05:06 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted byMrWillieMy point is there is still a crap load of Andriod 1.5, 1.6, and 1.7 phones still being sold.Angry Birds requires 2.0, Flash 10.1 requires 2.2.http://www.handango.com/catalog/Prod...&amp;platformId=80So with the growing Android market share, how much of that market share is able to play Angry Birds, and how much of that is 'dumb' smartphone wannabes ?Really? They still sell phones with outdated versions of the OS? And from what I hear you can't just updated to the latest version, you have to wait until your network provider offers a 'modified' version of the open system for you phone (which in some cases never happens) .... so much to the advantage of being an 'open' system ... maybe that explains some of the high sales numbers - people have to buy a new phone to get the latest OS update</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665155</cid>
+	<date>Jan 4, 2011, 05:16 PM</date>
+	<author>MattInOz</author>
+	<text>Quote:Originally Posted byPopeye206+1 Exactly! It goes without saying there will be more than one major OS in the smart phone market.The market is growing all the time. That is the silly thing about these graphs none of them show the market size or growth. There is room enough for 3+ OS/ecosystems to be profitable worldwide already.I wouldn't be surprised to see a new major world wide player come out of somewhere like china and/or africa.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665462</cid>
+	<date>Jan 4, 2011, 06:41 PM</date>
+	<author>BJB Productions</author>
+	<text>Both Android and iOS are good OS's in different ways.  Both have their upsides and downsides.Personally, I wouldabsolutely loveto own an iPhone; but as a student, I just can't afford to pay $70+ a month. (And that's limited features)I own an Android device.  For the most part I love it, but it's still a love/hate relationship sometimes.  Functionality wise- Apple beats the pants off Android....but hey, I'm paying $25 a month for unlimited data, unlimited texting, and 300 minutes of talk time.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665480</cid>
+	<date>Jan 4, 2011, 06:45 PM</date>
+	<author>goobot</author>
+	<text>Quote:Originally Posted byaristotleMaybe because Android is basically non-existent on non-phone devices up to this point?If you wanted to compare iOS to Android, that would make Apple look even more dominant when you consider that iOS is on iPod Touch, iPad, iPhones and now the new Apple TV.yes but there are like 50 android phones, the google tv, and some tablets with android. just cause g tv and android tablets aren't popular doesnt mean that they dont exist.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665497</cid>
+	<date>Jan 4, 2011, 06:49 PM</date>
+	<author>cocky jeremy</author>
+	<text>Quote:Originally Posted by&#x17D;algirisIt's funny to read &quot;iphone continues ... android&quot;. Phone vs OS again?Kind of how the &quot;300,000 activations per day&quot; included the buy one get one free Android phones, music players, tablets, etc. yet they quietly left that out.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665512</cid>
+	<date>Jan 4, 2011, 06:54 PM</date>
+	<author>backinblack875</author>
+	<text>Quote:Originally Posted byzacmanJobs is happy with 2% world wide marketshare for computers so he will be more than happy with 5% marketshare for smartphones in the future. Though I somehow doubt that people will be so happy when 5 year old Android games get ported to iOS in the future...haha what? no he wont, and the android wont take the iphone over by that much...plus when iphone gets spread out more via carriers they will stay close or ahead.....BTW its like 10% not 2......</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665516</cid>
+	<date>Jan 4, 2011, 06:55 PM</date>
+	<author>backinblack875</author>
+	<text>Quote:Originally Posted bypr5ownerof course you dont, your not using it from a corporate environment standpoint nor are you using any other product other than apple.how on earth would an xbox or zune be used in a corporate environment?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665531</cid>
+	<date>Jan 4, 2011, 07:01 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted byzacmanJobs is happy with 2% world wide marketshare for computers so he will be more than happy with 5% marketshare for smartphones in the future. Though I somehow doubt that people will be so happy when 5 year old Android games get ported to iOS in the future...Not sure how you came up with those exact numbers - but the exact number anyway does not matter: I agree he is happy with a smaller percentage of the market share as long as he makes more money with it than all the others with there big market shares. Market share (as long as above a certain threshold so that the product has some visibility) doesn't mean too much for a company - what counts (for the company, shareholders, etc) is how much money they squeeze out of this market share, and this is where apple (as a corporation) wins. What good is 90% market share if the one with 10% market share makes more money? Guess the one with 90% is doing something wrong in that case.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665550</cid>
+	<date>Jan 4, 2011, 07:08 PM</date>
+	<author>Avalontor</author>
+	<text>Quote:Originally Posted bybackinblack875haha what? no he wont, and the android wont take the iphone over by that much...plus when iphone gets spread out more via carriers they will stay close or ahead.....BTW its like 10% not 2......No, you're both wrong. it's 5% world wide.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665560</cid>
+	<date>Jan 4, 2011, 07:14 PM</date>
+	<author>backinblack875</author>
+	<text>Quote:Originally Posted byAvalontorNo, you're both wrong. it's 5% world wide.oh, i was thinking the US, which is 10%</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665571</cid>
+	<date>Jan 4, 2011, 07:17 PM</date>
+	<author>bobob</author>
+	<text>Quote:Originally Posted byBJB ProductionsBoth Android and iOS are good OS's in different ways.  Both have their upsides and downsides.Personally, I would absolutely love to own an iPhone; but as a student, I just can't afford to pay$70+ a month. (And that's limited features)I own an Android device.  For the most part I love it, but it's still a love/hate relationship sometimes.  Functionality wise- Apple beats the pants off Android....but hey, I'm paying$25 a monthfor unlimited data, unlimited texting, and 300 minutes of talk time.Are those price differences accurate for Chicago? Is there really no iPhone plan for less than $70+ a month?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665585</cid>
+	<date>Jan 4, 2011, 07:25 PM</date>
+	<author>xIGmanIx</author>
+	<text>Device:HTC Evo 4G(last sync 2 h 13 min ago)Apps:83 total, 71 free (85%), 12 paid (14%)Total Size:186MBTotal price (currently):$40.99The difference is there is more free apps on android doesn't mean they can't make money.  Its all about software/dev support as android has way more recent models/upgrades available.  who cares if android passed or will pass ios?  enjoy either phone you got.Quote:Originally Posted byfirewoodThe Android numbers can climb to a clear majority without affecting the iOS ecosystem.  Why?Android customers don't spend anywhere near as much money per person on apps.  Many don't buy paid apps at all.  Developers usually follow the money, so iOS is where most of the cool new stuff and creative apps will happen first.  Customers who want the cool apps will continue to buy enough devices from Apple and apps from the App store to keep iOS with a healthy and profitable market share, even if Android use climbs to 50%+.its quite obvious there is a lack of experience with android based on certain assumptions/comments, case in point more FUD about fragminiation which ios has more than android, but whatever enjoy the koolaidlinkyQuote:Originally Posted byMrWillieMy point is there is still a crap load of Andriod 1.5, 1.6, and 1.7 phones still being sold.Angry Birds requires 2.0, Flash 10.1 requires 2.2.http://www.handango.com/catalog/Prod...&amp;platformId=80So with the growing Android market share, how much of that market share is able to play Angry Birds, and how much of that is 'dumb' smartphone wannabes ?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665614</cid>
+	<date>Jan 4, 2011, 07:34 PM</date>
+	<author>BJB Productions</author>
+	<text>Quote:Originally Posted bybobobAre those price differences accurate for Chicago? Is there really no iPhone plan for less than $70+ a month?I think you can get an iPhone plan for $65a/mo, but that includes no texting, 200mb of data, and 200 minutes.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665636</cid>
+	<date>Jan 4, 2011, 07:38 PM</date>
+	<author>Tonewheel</author>
+	<text>Once the iPhone hits Verizon, iOS sees everything else in its rearview mirror.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665711</cid>
+	<date>Jan 4, 2011, 08:01 PM</date>
+	<author>MrWillie</author>
+	<text>Quote:Originally Posted byxIGmanIxits quite obvious there is a lack of experience with android based on certain assumptions/comments, case in point more FUD about fragminiation which ios has more than android, but whatever enjoy the koolaidlinkyGeeze, if you look at another of my post, I link an article from the end of Nov.  It gives more recently updated numbers. I also fail to see how that proves that iOS is more fragmented than Andriod.  Angry Birds works on any iOS device (except the tv box) made in the past two years. Does it work on all Android devices sold today ?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666095</cid>
+	<date>Jan 4, 2011, 09:35 PM</date>
+	<author>ten-oak-druid</author>
+	<text>Quote:Originally Posted byantster94You can quite clearly see that Android is going to pass iOS in time. At this rate I believe that by June it will surpass the iPhone's market share.LOLNo way.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666137</cid>
+	<date>Jan 4, 2011, 09:43 PM</date>
+	<author>thejadedmonkey</author>
+	<text>Quote:Originally Posted byBigJimmyCIn what way is iOS continuing to hold off android? All this shows is that android hasn't yet surpassed iOS and that RIM is dropping the ball. What those graphs do show is that this will likely happen within the next few months. Headline should really read: iOS soon to be surpassed by android.Agreed. I read the same information on a different website, and it painted a completely different picture, showing Apple as losing ground, as a total percentage of smartphone purchases, to Android, WP7 gaining (it can only go up) and BB/WebOS/WM losing.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666271</cid>
+	<date>Jan 4, 2011, 10:21 PM</date>
+	<author>xIGmanIx</author>
+	<text>android is outpacing ios and the dev's themselves polled are more excited about android.  use a product before you try and pass on fudQuote:Originally Posted byMrWillieGeeze, if you look at another of my post, I link an article from the end of Nov.  It gives more recently updated numbers. I also fail to see how that proves that iOS is more fragmented than Andriod.  Angry Birds works on any iOS device (except the tv box) made in the past two years. Does it work on all Android devices sold today ?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666400</cid>
+	<date>Jan 4, 2011, 10:55 PM</date>
+	<author>ten-oak-druid</author>
+	<text>Quote:Originally Posted byxIGmanIxandroid is outpacing ios and the dev's themselves polled are more excited about android.  use a product before you try and pass on fudActually Android should be doing much better compared to iOS considering it is on more carriers.   It should be no contest in 2012 when iphone moves beyond one carrier.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666584</cid>
+	<date>Jan 4, 2011, 11:49 PM</date>
+	<author>Aatos.1</author>
+	<text>Android is quite beneficial as it ads competition to the market place.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666633</cid>
+	<date>Jan 5, 2011, 12:08 AM</date>
+	<author>j-traxx</author>
+	<text>Quote:Originally Posted bybackinblack875how on earth would an xbox or zune be used in a corporate environment?lol. as props in  &quot;promotion marketing victory and promotion marketing failure&quot; workshops for ceo's and marketing execs?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666782</cid>
+	<date>Jan 5, 2011, 01:07 AM</date>
+	<author>*LTD*</author>
+	<text>Google is barely managing, with some 40+ Android iPhone copies (some of them pretty bad), to surpass Apple's one (or at most two) phone(s). And they've had practically forever to do it.THAT is the real story here.I'd hate to be a fly on the wall in Schmidt's office when the iPhone moves to other US carriers.I wonder if Eric throws chairs, too.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666922</cid>
+	<date>Jan 5, 2011, 02:10 AM</date>
+	<author>Steve121178</author>
+	<text>Quote:Originally Posted byten-oak-druidMost android users on other networks secretly want an iphone.But they wont admit it.Take your meds son...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667054</cid>
+	<date>Jan 5, 2011, 03:16 AM</date>
+	<author>adztaylor</author>
+	<text>I really couldn't care less when Android takes over iOS. I choose the phone and OS that's best for my needs. If I cared about market share I wouldn't have a Mac.One things for sure though. I don't think there will be one dominant OS in the mobile space. It's going to be more competitive than the PC market.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667056</cid>
+	<date>Jan 5, 2011, 03:19 AM</date>
+	<author>QuarterSwede</author>
+	<text>Quote:Originally Posted byadztaylorI really couldn't care less when Android takes over iOS. I choose the phone and OS that's best for my needs. If I cared about market share I wouldn't have a Mac.That's the truth.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667106</cid>
+	<date>Jan 5, 2011, 03:48 AM</date>
+	<author>zacman</author>
+	<text>Quote:Originally Posted byRodneyt78It's a no brainer that Android will surpass iOS in the mobile phone share, considering the fact that there are tons of Android phones chasing the iPhone 4 &amp; iPhone 3GS. However things may change once the iPhone reaches more carriers in the U.S.Latest GfK numbers show that in Q4/10 about 10 million iPhones were sold worldwide and about 28-30 million Android phones. So are you suggesting, that the iPhone will sell 3 times better when it comes to other carriers in the US? I highly doubt that.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667111</cid>
+	<date>Jan 5, 2011, 03:51 AM</date>
+	<author>zacman</author>
+	<text>Quote:Originally Posted by*LTD*Google is barely managing, with some 40+ Android iPhone copies (some of them pretty bad), to surpass Apple's one (or at most two) phone(s). And they've had practically forever to do it.Android phones(!) currently sell out ALL iOS devices(!) *combined*. The Android phones are doing better than the iPhone 4, iPhone 3GS, iPad, iPad 3G, iPod touch, iPod nano and Apple TV combined. THAT is the real story.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667118</cid>
+	<date>Jan 5, 2011, 04:01 AM</date>
+	<author>mattlong1978</author>
+	<text>Quote:Originally Posted byadztaylorI really couldn't care less when Android takes over iOS. I choose the phone and OS that's best for my needs. If I cared about market share I wouldn't have a Mac.I totally agree with this, when I bought my iPad and my HTC Desire market share had nothing to do with it, I think it's interesting to see the data and how company's compare but it has no influence in what I own</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667258</cid>
+	<date>Jan 5, 2011, 05:36 AM</date>
+	<author>ChrisTX</author>
+	<text>Quote:Originally Posted byjclardyAnd then what?Both platforms are still gaining market share, which means that both are flourishing. If Android finally does overtake iOS in total market share then iOS will still be right behind them, they are not going to magically drop to 0% once surpassed by Android.The idea is once Apple decides to widen carrier availability with the iPhone, Hopefully the people that really wanted an iPhone yet had to settle for Android will now jump ship.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667291</cid>
+	<date>Jan 5, 2011, 05:51 AM</date>
+	<author>SactoGuy18</author>
+	<text>That analysis isVERYmisleading for a couple of reasons:1) It includes the iPad, which is not what I really call a &quot;smartphone,&quot; since the 3G connectivity is used in addition to the normal 802.11 Wi-Fi connection.2) If you measure it onnewphone sales within the past four months, Android-based phones combined are now out-selling the iPhone 4. This is especially true with the MotorolaDroidseries, the various HTC phones and the SamsungGalaxy Sseries phones using Android 2.1 and 2.2 reaching retailers during the course of 2010.In short, in terms of current monthly new-phone sales, Android-based phones are now out-pacing the iPhone 4.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667337</cid>
+	<date>Jan 5, 2011, 06:08 AM</date>
+	<author>foodog</author>
+	<text>You didn't read what I posted. Did I say the apps, or the contact were hard to move? No I said the application and basic phone configuration setting such as the wallpaper, the application / widget placement on the screens etc...Try an iPhone swap it is dead simple.Quote:Originally Posted bypr5owneri really dont know what the hell your talking about, you pop your MicroSD with your stuff on it and throw it in the new phone..... ive gone through 8+ android phones like this. didnt loose anything (contacts, calender, email are on exchange, rest of my stuff is on MicroSD)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667382</cid>
+	<date>Jan 5, 2011, 06:27 AM</date>
+	<author>swagi</author>
+	<text>Quote:Originally Posted byten-oak-druidMost android users on other networks secretly want an iphone.But they wont admit it.With Android having more carriers one would think it would be more competitive.What will likely happen is that Android will briefly take the top spot for a year or two until newly signed contracts end and the iphone is available on more carriers.Nope. Sorry to disappoint you but I don't want an iPhone.Next phone will be Windows Mobile. And Android has quite a solid experience. I don't see any advantage in using an iPhone. Sharing all my data with Apple, Google or Microsoft - it doesn't really matter at all.My hands-on experience with the iPhone has been nothing special and, well, simply is not worth the money - like Google Maps Navigation runs circles around any iPhone based solution I've seen and is free.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667388</cid>
+	<date>Jan 5, 2011, 06:31 AM</date>
+	<author>Tipsy</author>
+	<text>Quote:Originally Posted byadztaylorI really couldn't care less when Android takes over iOS. I choose the phone and OS that's best for my needs. If I cared about market share I wouldn't have a Mac.One things for sure though. I don't think there will be one dominant OS in the mobile space. It's going to be more competitive than the PC market.I'm glad someone had the sense to point those things out. Kudos to you.I'm not sure why people get quite so defensive over their phone-buying choice; I might well buy an iPhone in the not-too-distant future but it is difficult for me to justify spending potentially hundreds of extra pounds for a phone with few extra features over an Android-based phone (and, as an aside, missing free turn-by-turn navigation). I'm not certain how I will decide yet, and other people may make different choices - but that doesn't bother me.At the risk of perpetuating this debate, it does seem that commenters here are ignoring the graph showing the share of sales in the last 6 months:Not only are more Android-based phones selling than iPhones, but the rate at which they are selling faster than iPhones has increased over each of the last 4 months. While millions of people will switch to smartphones in the next few years, it seems (and research shown on MacRumors shows that it is) unlikely that most of them will be willing to pay the premium for an iPhone and expensive service plan.The battle over who will sell more is already over, but I don't think it is a battle Apple has been trying to win. The only way I can see for Apple to out-sell Android is to offer a cheaper range of phones but for the reason I mentioned above - little difference in features vs. Android phones - it is hard to see how they can do that without cannibalising their higher-end iPhone sales.Apple might be better off where it is, focusing on delivering the best and most consistent user experience - and leading the industry.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667397</cid>
+	<date>Jan 5, 2011, 06:35 AM</date>
+	<author>swagi</author>
+	<text>Quote:Originally Posted byfoodogYou didn't read what I posted. Did I say the apps, or the contact were hard to move? No I said the application and basic phone configuration setting such as the wallpaper, the application / widget placement on the screens etc...Try an iPhone swap it is dead simple.Tried that with my wife's iPhone 3GS. Ever read about that nasty battery bug? Really, you should try it.Only solution to the battery bug: Delete iPhone 3Gs and start from scratch. Yeah, that was a fun time. Don't believe it?http://forums.macrumors.com/showthread.php?t=728224</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667414</cid>
+	<date>Jan 5, 2011, 06:42 AM</date>
+	<author>0815</author>
+	<text>I think people are putting too much 'hope' into the Verizon deal (if it ever comes). Yes, it will increase sales numbers. But other countries with the iPhone on multiple carriers have already shown that this is not enough to 'take over' the market. I love my iPhone, I think it's one of the best phones out there - other people have other preferences and might disagree, fine. The iPhone is also a very expensive phone (both to purchase and the contract), so not everyone can (or is willing) to pay that much (and many people just don't buy Apple). I also don't see the advantage of 'open' in Android - you are still locked into your provider and you never know if or when you will get the latest software update.For the market share: I think the only people that really care about this are blind Apple fans and Android fans that make more a religion out of this than anything else. I don't care - I but what I can effort and fits my needs. Except for some marketing purpose, I think those companies also don't care: Bottom line is how much money the make - and this is very Apple wins. They don't waste money by creating dozens of variations of the same thing and can streamline to support one design that they support. They sell it at a high price, but enough people are willing to pay that price to make it worth it - they don't need 99% market share to be profitable - they probably make with 15% share more money than all the others together.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667456</cid>
+	<date>Jan 5, 2011, 07:02 AM</date>
+	<author>Steve121178</author>
+	<text>Quote:Originally Posted byswagiNext phone will be Windows Mobile. And Android has quite a solid experience. I don't see any advantage in using an iPhone. Sharing all my data with Apple, Google or Microsoft - it doesn't really matter at all.I love using my HTC Desire and my next phone will definitely be another Android phone, probably by HTC although theLG Optimus 2Xlooks promising.I think WM7 needs a little time to mature and improve before I would consider it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667795</cid>
+	<date>Jan 5, 2011, 08:50 AM</date>
+	<author>swagi</author>
+	<text>Quote:Originally Posted bySteve121178I love using my HTC Desire and my next phone will definitely be another Android phone, probably by HTC although theLG Optimus 2Xlooks promising.I think WM7 needs a little time to mature and improve before I would consider it.Agreed. But due to the fact that my next phone purchase will be in April, I guess Microsoft will get its act together by then and offer the next WM7 release.I'm currently hooked on Samsung as the Galaxy is really really cool. So I really consider an Omnia 7.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667860</cid>
+	<date>Jan 5, 2011, 09:05 AM</date>
+	<author>MrWillie</author>
+	<text>Quote:Originally Posted byxIGmanIxandroid is outpacing iosNo kidding? An OS with with 6 versions on 20+ devices is outpacing iOS. I NEVER denied that anywhereQuote:Originally Posted byxIGmanIxand the dev's themselves polled are more excited about android.What in the hell does that have to do with anything? Oh, and link please. I am not denying it, but if I poll only liberal Democrats, I can make Obama look good.http://www.businesswire.com/news/hom...OS-Preferenceshttp://www.maclife.com/article/news/...ey_ios_androidQuote:Originally Posted byxIGmanIxuse a product before you try and pass on fudFUD???I posted a link from the Andriod developer website that shows 16.9% of Andriod phones are pre 2.0.  How is that fud?http://developer.android.com/resourc...-versions.html</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668047</cid>
+	<date>Jan 5, 2011, 09:47 AM</date>
+	<author>foodog</author>
+	<text>I see some of the people in the thread link you posted finding certain apps caused the battery drain. I also see some people were taking the phone back to Apple for a replacement. A replacement phone would be able to be restored. I don't see where a wipe and start over to be theonlysolution, in that thread you posted. Maybe it was for you.Back to my original statement ofthere is no way, that anyone can tell me, to fully restore the entire configuration from one android phone to another even when it is the exact same model.HTC stopped responding to my question and Sprint said it isn't possible. This is a pretty glaring over site IMO.As far as battery life the EVO is no picnic either, if I don't manage the apps that are running manually (yes there are apps for this some are free) it will suck the battery down pretty fast.Quote:Originally Posted byswagiTried that with my wife's iPhone 3GS. Ever read about that nasty battery bug? Really, you should try it.Only solution to the battery bug: Delete iPhone 3Gs and start from scratch. Yeah, that was a fun time. Don't believe it?http://forums.macrumors.com/showthread.php?t=728224</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672715</cid>
+	<date>Jan 6, 2011, 01:53 AM</date>
+	<author>tetravus</author>
+	<text>Once the iphone is available in other carriers aside from At&amp;t, we'll see for sure if the trends change or not. Apple appears to cater mostly for less tech savvy users in their product lineups (you don't have to know how to count to ten to be able to use them). I don't see hordes upon hordes of angry average joes/janes complaining about the walled garden approach to their idevices. So in my opinion, geeks may hate it, but this appears to be the most profitable approach for Apple. It works, millions love it, and makes Apple obscenely huge piles of money.Add to that the recent report by DARPA stating science/engineering enrollments have dropped by 43% and we might predictably have a USA where the dumbs inherit the earth, people who would happily buy the iphone and not give a flying f*k whether iOS is open or not. The rapidly dwindling geek population could keep on harping that android is much better because it's &quot;open source&quot;; but it won't matter because they're voices would be drowned out by the sea of happy paying people who don't know and don't care.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673677</cid>
+	<date>Jan 6, 2011, 08:23 AM</date>
+	<author>foodog</author>
+	<text>Quote:Originally Posted bytetravusOnce the iphone is available in other carriers aside from At&amp;t, we'll see for sure if the trends change or not. Apple appears to cater mostly for less tech savvy users in their product lineups (you don't have to know how to count to ten to be able to use them). I don't see hordes upon hordes of angry average joes/janes complaining about the walled garden approach to their idevices. So in my opinion, geeks may hate it, but this appears to be the most profitable approach for Apple. It works, millions love it, and makes Apple obscenely huge piles of money....or people like me that don't want to tinker with devices anymore. Same reason I no longer have Linux or Netware server at my house.Quote:Originally Posted bytetravusAdd to that the recent report by DARPA stating science/engineering enrollments have dropped by 43% and we might predictably have a USA where the dumbs inherit the earth, people who would happily buy the iphone and not give a flying f*k whether iOS is open or not.Good point, dumb people need things simple. People also make the conscious choice of simple. I'd rather use a toaster than build a fire every morning to make toast. The fire iswaymore functional; for instance the toaster is useless for heating a pot of water or my room... but really I just want toast. I've gotten to the same point with my cell phone.Quote:Originally Posted bytetravusThe rapidly dwindling geek population could keep on harping that android is much better because it's &quot;open source&quot;; but it won't matter because they're voices would be drowned out by the sea of happy paying people who don't know and don't care.Not just geeks, general tinkering is on the decline. As a kid I used to disassemble everything to try and see how it worked, much to my parents chagrin. I worked on my bike. When I got old enough to drive I was working on my car every weekend. I don't see that desire in my own children, or their friends either. They are all good students... maybe I've failed to instill that in them.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11676311</cid>
+	<date>Jan 6, 2011, 02:22 PM</date>
+	<author>xIGmanIx</author>
+	<text>who's fault besides apple is it?  is it HTC's fault for selling to multiple carriers? is it samsung's fault for selling to multiple carriers? fact is android is outselling ios on phones period.  Apple had a chance to take this thing over completely and offer some different flavors and choices but failed.  can't talk about if's and when's when the now shows the truthlinkyQuote:Originally Posted by*LTD*Google is barely managing, with some 40+ Android iPhone copies (some of them pretty bad), to surpass Apple's one (or at most two) phone(s). And they've had practically forever to do it.THAT is the real story here.I'd hate to be a fly on the wall in Schmidt's office when the iPhone moves to other US carriers.I wonder if Eric throws chairs, too.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11680452</cid>
+	<date>Jan 7, 2011, 08:56 AM</date>
+	<author>BaldiMac</author>
+	<text>Quote:Originally Posted byxIGmanIxwho's fault besides apple is it?  is it HTC's fault for selling to multiple carriers? is it samsung's fault for selling to multiple carriers? fact is android is outselling ios on phones period.  Apple had a chance to take this thing over completely and offer some different flavors and choices but failed.  can't talk about if's and when's when the now shows the truthlinkyApple's fault?  Like they failed?Apple has the number one smartphone in the world.Apple is number one in smartphone revenue in the world.Apple is number one in mobile phone profits in the world.Apple is number one in smartphone sales in the US (on one carrier!)None of the trends show any of these changing anytime soon.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11681364</cid>
+	<date>Jan 7, 2011, 11:35 AM</date>
+	<author>Steve121178</author>
+	<text>http://www.engadget.com/2011/01/07/c...artphone-subs/</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666584</cid>
+	<date>Jan 4, 2011, 11:49 PM</date>
+	<author>Aatos.1</author>
+	<text>Android is quite beneficial as it ads competition to the market place.</text>
+	<score>0</score>
+</comment>

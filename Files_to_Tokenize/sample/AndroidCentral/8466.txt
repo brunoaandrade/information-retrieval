@@ -1,0 +1,116 @@
+<article>
+	<pid>8466</pid>
+	<title>Motorola Motoroi Coming To The US, Wait What?! | Android Central</title>
+	<url>http://www.androidcentral.com/wait-what-motorola-motoroi-coming-us-too</url>
+	<date>   Jan 19 2010  8:06 am   </date>
+	<author>Casey Chan</author>
+	<text>
+ Huh? It looks like we, the United States of America, will be able to feel the 'bump' of the Motoroi too? Um, huh? Just yesterday, we had reported that the Motorola Motoroi would be the first Motorola Android device in South Korea and we fully expected it to stay in the Far East like other Motorola Android devices. But it looks like we were wrong. Hooray?According a SK Telecom Exec:&quot;The Motoroi is a different model from the Droid, and it will be launched in the United States around March,&quot; Bae Joon-dong, senior vice president of SK Telecom, said at a press conference.And a Motorola Exec:&quot;The product will be launched in other markets around the world,&quot; Rick Wolochatiuk, president and representative director of Motorola Korea, said.On one hand, the Motoroi packs some really impressive specs (8mp camera, 720p video recording, HDMI out). But on the other, it's kind of ugly and certainly not the most ideal Droid successor (in terms of style). We have some faith though, the China-only Motorola Android devices we saw at CES we're of really high build quality and we walked away really impressed. Maybe we'll fall in love with the bump like we did the chin?[korea herald via gizmodo] </text>
+	<score>15</score>
+</article>
+<comment>
+	<cid>16121</cid>
+	<date>Jan 19 2010  8:47 am</date>
+	<author>ftr</author>
+	<text>Ugly in your opinion...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>16122</cid>
+	<date>Jan 19 2010  9:11 am</date>
+	<author>Deluxe</author>
+	<text>+1
+Compared to the Droid, I'd take this phone any day.</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16126</cid>
+	<date>Jan 19 2010  9:52 am</date>
+	<author>moises</author>
+	<text>now thats one ugly phone just like the droid.</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16131</cid>
+	<date>Jan 19 2010  12:21 pm</date>
+	<author>livezeyc</author>
+	<text>I don't see anything wrong with the looks. Actually you can tell they pretty much copied the iphone. I like the looks of this compared to my droid hands down, although I would never give my droid up for anything right now.</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16137</cid>
+	<date>Jan 19 2010  1:34 pm</date>
+	<author>Anonymous</author>
+	<text>So does that mean every touch screen smart phone copied the iphone? The flat, square design is popular because it is logical. What other shape could it be and still fit comfortably in the hand? Most of Apples' designs are just common sense and would have been introduced sooner or later, Apple is just the fastest to market most of the time. You can applaud them for speed to market, but the designs are hardly anything earth shattering.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16145</cid>
+	<date>Jan 19 2010  2:59 pm</date>
+	<author>livezeyc</author>
+	<text>No not every phone copied the iPhone. But it is pretty obvious they did borrow some of the looks for this phone. I mean look, same shape minus the bump. Also the chrome bezel around the phone. Never said it was a bad thing. Companies copy other companies all the time. Look at the auto industry. You can't tell me a lot of cars look very similar. Its how they compete. Never said it was a bad thong or complained at all about it.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16136</cid>
+	<date>Jan 19 2010  1:30 pm</date>
+	<author>Anonymous</author>
+	<text>Uh I for one still hate the chin.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16147</cid>
+	<date>Jan 19 2010  3:13 pm</date>
+	<author>Dirty J</author>
+	<text>Looks nice to me...but I'm completely satisfied with my Droid.....for now...Muuhaaahaaahaaa</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16224</cid>
+	<date>Jan 20 2010  3:19 pm</date>
+	<author>Anonymous</author>
+	<text>well, you know what they say, "beauty is in the eye of the beholder"</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>17118</cid>
+	<date>Jan 29 2010  7:00 am</date>
+	<author>tonyr4music</author>
+	<text>I like this baby but I'm VERY happy with my Droid (over-clocked at 1ghz is SUPER fast!)</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>17157</cid>
+	<date>Jan 29 2010  1:01 pm</date>
+	<author>Rich G</author>
+	<text>I think it's a hot piece and would seriously contimplate getting it but I think I read an article recently saying it was probably going to T-Mo and I'm on Big Red.  Ughh.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>17160</cid>
+	<date>Jan 29 2010  1:08 pm</date>
+	<author>Mojo</author>
+	<text>HDMI output most excellent! Why cant US devices get this feature for more real estate for business traveler that don't wish to lug around full sized laptop. Market please respond.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>17250</cid>
+	<date>Jan 30 2010  3:27 am</date>
+	<author>leap</author>
+	<text>I think the bump will be great if that is where the shutter button is for the camera.  It's easier to find in the dark and 8mp camera will make this thing worth replacing any camera you might carry. I don't mind the bump at all.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>17269</cid>
+	<date>Jan 30 2010  4:56 pm</date>
+	<author>Anonymous</author>
+	<text>I THINK LIKING OR NOT LIKING IS A MATTER OF OPINION AND YOUR OPINION DOESN'T MATTER! ;)</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>19423</cid>
+	<date>Feb 15 2010  12:02 am</date>
+	<author>bcorner</author>
+	<text>I'd buy one today if it were available in the USA.  I'm not sure what network it would be on.  I'm hoping for AT&T!</text>
+	<score>100</score>
+</comment>

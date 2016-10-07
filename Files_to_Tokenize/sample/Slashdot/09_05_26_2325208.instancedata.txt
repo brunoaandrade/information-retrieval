@@ -1,0 +1,1894 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_26_2325208</id>
+	<title>Build an $800 Gaming PC</title>
+	<author>kdawson</author>
+	<datestamp>1243353120000</datestamp>
+	<htmltext><a href="http://www.extremetech.com/" rel="nofollow">ThinSkin</a> writes <i>"Building a computer that can handle today's games doesn't have to cost an arm and a leg. In fact, you can build one for less than $800, especially given that many hardware manufacturers have cut costs considerably. Loyd Case over at ExtremeTech shows gamers <a href="http://www.extremetech.com/article2/0,2845,2347620,00.asp">how to build an $800 gaming PC</a>, one that features an overclockable Intel Core 2 Quad Q8400 and a graphics-crunching EVGA 260 GTX Core 216. The computer exceeded expectations in gaming and synthetic tests, and was even overclocked well over spec at 3.01GHz."</i></htmltext>
+<tokenext>ThinSkin writes " Building a computer that can handle today 's games does n't have to cost an arm and a leg .
+In fact , you can build one for less than $ 800 , especially given that many hardware manufacturers have cut costs considerably .
+Loyd Case over at ExtremeTech shows gamers how to build an $ 800 gaming PC , one that features an overclockable Intel Core 2 Quad Q8400 and a graphics-crunching EVGA 260 GTX Core 216 .
+The computer exceeded expectations in gaming and synthetic tests , and was even overclocked well over spec at 3.01GHz .
+"</tokentext>
+<sentencetext>ThinSkin writes "Building a computer that can handle today's games doesn't have to cost an arm and a leg.
+In fact, you can build one for less than $800, especially given that many hardware manufacturers have cut costs considerably.
+Loyd Case over at ExtremeTech shows gamers how to build an $800 gaming PC, one that features an overclockable Intel Core 2 Quad Q8400 and a graphics-crunching EVGA 260 GTX Core 216.
+The computer exceeded expectations in gaming and synthetic tests, and was even overclocked well over spec at 3.01GHz.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105057</id>
+	<title>Ars Technica System Guide</title>
+	<author>Warlord88</author>
+	<datestamp>1243358640000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext>The April 2009 version of Ars Technica System Guide covers three systems priced at $700, $1600 and $12,500. The link is <a href="http://arstechnica.com/hardware/guides/2009/04/ars-technica-system-guide-april-2009-edition.ars" title="arstechnica.com" rel="nofollow">http://arstechnica.com/hardware/guides/2009/04/ars-technica-system-guide-april-2009-edition.ars</a> [arstechnica.com]
+Tweaking the first two systems here and there should cover requirements of most users.</htmltext>
+<tokenext>The April 2009 version of Ars Technica System Guide covers three systems priced at $ 700 , $ 1600 and $ 12,500 .
+The link is http : //arstechnica.com/hardware/guides/2009/04/ars-technica-system-guide-april-2009-edition.ars [ arstechnica.com ] Tweaking the first two systems here and there should cover requirements of most users .</tokentext>
+<sentencetext>The April 2009 version of Ars Technica System Guide covers three systems priced at $700, $1600 and $12,500.
+The link is http://arstechnica.com/hardware/guides/2009/04/ars-technica-system-guide-april-2009-edition.ars [arstechnica.com]
+Tweaking the first two systems here and there should cover requirements of most users.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28109491</id>
+	<title>Re:I Just Don't Get It...</title>
+	<author>rgviza</author>
+	<datestamp>1243438620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>With a single GPU it's not about your CPU speed, within reason. You only need the latest and greatest processors to be able to push the frame rates high enough to feed multiple GPU's frames to render.</p><p>If you have a single GPU card you can get away with a less than top of the line latest greatest  CPU. If you had a 3870 X2 the bottleneck *might* move to your CPU.</p><p>Remember that CPUs push the stuff to the GPU to be rendered. If you over spec CPU or GPU, you see very little benefit. For best bang for the buck, you should match the CPU's capability to push the frames to your GPU's capability to render them.</p><p>It sounds like you are in "the zone" with your box. If you buy a latest gen video card or one with 2 GPU's, or add a couple you may run into a CPU bottleneck but maybe not.</p><p>I definitely agree though. It's kind of stupid to pay for a top of the line intel chip, especially if you are only running one GPU. It does very little for you since if you buy a recent CPU, the bottleneck will almost always be the single GPU card.</p><p>You are more or less wasting your money in this case by buying Intel's latest quad core.</p><p>-Viz</p></htmltext>
+<tokenext>With a single GPU it 's not about your CPU speed , within reason .
+You only need the latest and greatest processors to be able to push the frame rates high enough to feed multiple GPU 's frames to render.If you have a single GPU card you can get away with a less than top of the line latest greatest CPU .
+If you had a 3870 X2 the bottleneck * might * move to your CPU.Remember that CPUs push the stuff to the GPU to be rendered .
+If you over spec CPU or GPU , you see very little benefit .
+For best bang for the buck , you should match the CPU 's capability to push the frames to your GPU 's capability to render them.It sounds like you are in " the zone " with your box .
+If you buy a latest gen video card or one with 2 GPU 's , or add a couple you may run into a CPU bottleneck but maybe not.I definitely agree though .
+It 's kind of stupid to pay for a top of the line intel chip , especially if you are only running one GPU .
+It does very little for you since if you buy a recent CPU , the bottleneck will almost always be the single GPU card.You are more or less wasting your money in this case by buying Intel 's latest quad core.-Viz</tokentext>
+<sentencetext>With a single GPU it's not about your CPU speed, within reason.
+You only need the latest and greatest processors to be able to push the frame rates high enough to feed multiple GPU's frames to render.If you have a single GPU card you can get away with a less than top of the line latest greatest  CPU.
+If you had a 3870 X2 the bottleneck *might* move to your CPU.Remember that CPUs push the stuff to the GPU to be rendered.
+If you over spec CPU or GPU, you see very little benefit.
+For best bang for the buck, you should match the CPU's capability to push the frames to your GPU's capability to render them.It sounds like you are in "the zone" with your box.
+If you buy a latest gen video card or one with 2 GPU's, or add a couple you may run into a CPU bottleneck but maybe not.I definitely agree though.
+It's kind of stupid to pay for a top of the line intel chip, especially if you are only running one GPU.
+It does very little for you since if you buy a recent CPU, the bottleneck will almost always be the single GPU card.You are more or less wasting your money in this case by buying Intel's latest quad core.-Viz</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105255</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105151</id>
+	<title>Re:$800 bucks? Is it diamond encrusted?</title>
+	<author>MeatBag PussRocket</author>
+	<datestamp>1243359420000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>though the two are coming very close to merging in some way. there was a time when i would NEVER consider a console for games, but considering where the development has gone, i find very few appealing titles that are exclusive to the PC- most i can get on my console and not have to worry about compatibility, framerates etc. at an $800 price point you could get a PS3 and a netbook and do everything that gaming rig does, but do it better, have a laptop and a gaming rig and not really have to worry if the console breaks (not likely - save for the RROD on the360) you still can do your work on the laptop. it really is a valid counter point to a gaming rig, an i think to have a conversation about gaming hardware and not acknowledge the alternative is just ignorant. if you cant rationally consider that then you probably have no business spending $800 on a toy</p></htmltext>
+<tokenext>though the two are coming very close to merging in some way .
+there was a time when i would NEVER consider a console for games , but considering where the development has gone , i find very few appealing titles that are exclusive to the PC- most i can get on my console and not have to worry about compatibility , framerates etc .
+at an $ 800 price point you could get a PS3 and a netbook and do everything that gaming rig does , but do it better , have a laptop and a gaming rig and not really have to worry if the console breaks ( not likely - save for the RROD on the360 ) you still can do your work on the laptop .
+it really is a valid counter point to a gaming rig , an i think to have a conversation about gaming hardware and not acknowledge the alternative is just ignorant .
+if you cant rationally consider that then you probably have no business spending $ 800 on a toy</tokentext>
+<sentencetext>though the two are coming very close to merging in some way.
+there was a time when i would NEVER consider a console for games, but considering where the development has gone, i find very few appealing titles that are exclusive to the PC- most i can get on my console and not have to worry about compatibility, framerates etc.
+at an $800 price point you could get a PS3 and a netbook and do everything that gaming rig does, but do it better, have a laptop and a gaming rig and not really have to worry if the console breaks (not likely - save for the RROD on the360) you still can do your work on the laptop.
+it really is a valid counter point to a gaming rig, an i think to have a conversation about gaming hardware and not acknowledge the alternative is just ignorant.
+if you cant rationally consider that then you probably have no business spending $800 on a toy</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104939</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107945</id>
+	<title>Re:Time is not free</title>
+	<author>Anonymous</author>
+	<datestamp>1243430340000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>What are you doing, machining your own screws?</p><p>If you buy computer parts and a desk chair, the desk chair will take longer to put together.</p></htmltext>
+<tokenext>What are you doing , machining your own screws ? If you buy computer parts and a desk chair , the desk chair will take longer to put together .</tokentext>
+<sentencetext>What are you doing, machining your own screws?If you buy computer parts and a desk chair, the desk chair will take longer to put together.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108215</id>
+	<title>Re:I Just Don't Get It...</title>
+	<author>tedgyz</author>
+	<datestamp>1243431960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I used to preach the AMD mantra.  Unfortunately, there are ALWAYS some issues when building an AMD system.  I am just tired of discovering the obscure incompatability.  For example, most of my old AMD systems had USB issues.  My Athlon X2 system had major dual-core issues with certain games.</p><p>My last build is 2 years old - an Intel core2 duo system.  The whole system is flawless - it plays all the games I want and runs my multimedia center on my home theater.  I never have to worry about it.</p><p>I WANT to support the underdog, but I can no longer accept the consequences.</p></htmltext>
+<tokenext>I used to preach the AMD mantra .
+Unfortunately , there are ALWAYS some issues when building an AMD system .
+I am just tired of discovering the obscure incompatability .
+For example , most of my old AMD systems had USB issues .
+My Athlon X2 system had major dual-core issues with certain games.My last build is 2 years old - an Intel core2 duo system .
+The whole system is flawless - it plays all the games I want and runs my multimedia center on my home theater .
+I never have to worry about it.I WANT to support the underdog , but I can no longer accept the consequences .</tokentext>
+<sentencetext>I used to preach the AMD mantra.
+Unfortunately, there are ALWAYS some issues when building an AMD system.
+I am just tired of discovering the obscure incompatability.
+For example, most of my old AMD systems had USB issues.
+My Athlon X2 system had major dual-core issues with certain games.My last build is 2 years old - an Intel core2 duo system.
+The whole system is flawless - it plays all the games I want and runs my multimedia center on my home theater.
+I never have to worry about it.I WANT to support the underdog, but I can no longer accept the consequences.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105255</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107661</id>
+	<title>&#194;&pound;60 ($96)</title>
+	<author>jotaeleemeese</author>
+	<datestamp>1243428000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Should I waste my time?</p></htmltext>
+<tokenext>Should I waste my time ?</tokentext>
+<sentencetext>Should I waste my time?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105599</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106741</id>
+	<title>Re:The point is not that it costs $800 this time</title>
+	<author>dontmakemethink</author>
+	<datestamp>1243418940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>IMO the best eras of games occurred when the platforms stagnated in technical advancement.  For example the Commodore 64 was the most popular gaming platform for years after all its video resources had been exploited to their fullest.  The lack of new ground to break forced game developers to break new ground in game development rather than video exploitation.</p><p>When I put it like that, it makes complete sense.  Funny how nobody under age 25 seems to grasp it.</p><p>And don't get me started on movies...</p></htmltext>
+<tokenext>IMO the best eras of games occurred when the platforms stagnated in technical advancement .
+For example the Commodore 64 was the most popular gaming platform for years after all its video resources had been exploited to their fullest .
+The lack of new ground to break forced game developers to break new ground in game development rather than video exploitation.When I put it like that , it makes complete sense .
+Funny how nobody under age 25 seems to grasp it.And do n't get me started on movies.. .</tokentext>
+<sentencetext>IMO the best eras of games occurred when the platforms stagnated in technical advancement.
+For example the Commodore 64 was the most popular gaming platform for years after all its video resources had been exploited to their fullest.
+The lack of new ground to break forced game developers to break new ground in game development rather than video exploitation.When I put it like that, it makes complete sense.
+Funny how nobody under age 25 seems to grasp it.And don't get me started on movies...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105729</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107675</id>
+	<title>Parts List</title>
+	<author>yoshi\_mon</author>
+	<datestamp>1243428180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Here is the parts list for the PC they built:</p><blockquote><div><p> <tt>CPU     Intel Core 2 Quad Q8400     $185<br>GPU    EVGA 260 GTX Core 216 SSC     $235<br>Mobo    ASUS P5Q SE Pro       $97<br>Mem    OCZ 2 x 2 GB DDR2-800       $39<br>HDD    WD Caviar Blue 250GB       $43<br>Optical  Sony Optiarc 20x DVD+/- RW     $25<br>Case/PSU  Cooler Master 534       $75<br>OS    Windows Vista Home Premium x64   $100<br>Total              $799</tt></p></div> </blockquote><p>And a bit about why the Intel vs AMD:</p><p><div class="quote"><p>Another alternative is to go all AMD. You could build an $800 gaming rig based on a Phenom II X4 840 and 1GB Radeon HD 4870. That would be close in performance to our $800 system, but would probably fall just a little short overall.</p> </div><p>I personally like to support AMD given that the alternative is to have Intel monopolize the market.  But shrug unless AMD is the clear winner most sites will always push Intel so no real surprise.  (My feeling is it goes back to the old, "Nobody every got fired for buying Intel," type of mentality.)</p></div>
+	</htmltext>
+<tokenext>Here is the parts list for the PC they built : CPU Intel Core 2 Quad Q8400 $ 185GPU EVGA 260 GTX Core 216 SSC $ 235Mobo ASUS P5Q SE Pro $ 97Mem OCZ 2 x 2 GB DDR2-800 $ 39HDD WD Caviar Blue 250GB $ 43Optical Sony Optiarc 20x DVD + /- RW $ 25Case/PSU Cooler Master 534 $ 75OS Windows Vista Home Premium x64 $ 100Total $ 799 And a bit about why the Intel vs AMD : Another alternative is to go all AMD .
+You could build an $ 800 gaming rig based on a Phenom II X4 840 and 1GB Radeon HD 4870 .
+That would be close in performance to our $ 800 system , but would probably fall just a little short overall .
+I personally like to support AMD given that the alternative is to have Intel monopolize the market .
+But shrug unless AMD is the clear winner most sites will always push Intel so no real surprise .
+( My feeling is it goes back to the old , " Nobody every got fired for buying Intel , " type of mentality .
+)</tokentext>
+<sentencetext>Here is the parts list for the PC they built: CPU     Intel Core 2 Quad Q8400     $185GPU    EVGA 260 GTX Core 216 SSC     $235Mobo    ASUS P5Q SE Pro       $97Mem    OCZ 2 x 2 GB DDR2-800       $39HDD    WD Caviar Blue 250GB       $43Optical  Sony Optiarc 20x DVD+/- RW     $25Case/PSU  Cooler Master 534       $75OS    Windows Vista Home Premium x64   $100Total              $799 And a bit about why the Intel vs AMD:Another alternative is to go all AMD.
+You could build an $800 gaming rig based on a Phenom II X4 840 and 1GB Radeon HD 4870.
+That would be close in performance to our $800 system, but would probably fall just a little short overall.
+I personally like to support AMD given that the alternative is to have Intel monopolize the market.
+But shrug unless AMD is the clear winner most sites will always push Intel so no real surprise.
+(My feeling is it goes back to the old, "Nobody every got fired for buying Intel," type of mentality.
+)
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106485</id>
+	<title>I say this as someone who doesn't game...</title>
+	<author>TheMightyFuzzball</author>
+	<datestamp>1243416300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>But wouldn't it be cheaper to buy an X-Box 360 for &#194;&pound;160? I am no X-Box fanboy, but it does run games well, and looks good doing it (Bioshock water effects FTW). What I am trying to say is, you could buy a gaming computer for &#194;&pound;500 ($800) or you could buy a games console for &#194;&pound;160 to &#194;&pound;300, and it will look better on your HDTV.
+
+Besides, every time you buy an X-Box 360 M$ actually loose money, they only make it back on the games, so, everyone could chip their X-Boxes, pirate their games and seem M$ crumble<nobr> <wbr></nobr>:D</htmltext>
+<tokenext>But would n't it be cheaper to buy an X-Box 360 for Ã ‚ Â £ 160 ?
+I am no X-Box fanboy , but it does run games well , and looks good doing it ( Bioshock water effects FTW ) .
+What I am trying to say is , you could buy a gaming computer for Ã ‚ Â £ 500 ( $ 800 ) or you could buy a games console for Ã ‚ Â £ 160 to Ã ‚ Â £ 300 , and it will look better on your HDTV .
+Besides , every time you buy an X-Box 360 M $ actually loose money , they only make it back on the games , so , everyone could chip their X-Boxes , pirate their games and seem M $ crumble : D</tokentext>
+<sentencetext>But wouldn't it be cheaper to buy an X-Box 360 for Ã‚Â£160?
+I am no X-Box fanboy, but it does run games well, and looks good doing it (Bioshock water effects FTW).
+What I am trying to say is, you could buy a gaming computer for Ã‚Â£500 ($800) or you could buy a games console for Ã‚Â£160 to Ã‚Â£300, and it will look better on your HDTV.
+Besides, every time you buy an X-Box 360 M$ actually loose money, they only make it back on the games, so, everyone could chip their X-Boxes, pirate their games and seem M$ crumble :D</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108369</id>
+	<title>Dude, get a dell</title>
+	<author>soupforare</author>
+	<datestamp>1243432860000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Unless you have a specific need- HTPC/Silent PC/foo.  Just get wait for a slickdeal on a dell vostro.  Up the ram and stick a real video card in there and you've got a sweet machine for less bucks and less work.  Usually they come with a gigantic widescreen monitor, too.<br>It's not 1998 anymore, BYO doesn't make sense most of the time.</p></htmltext>
+<tokenext>Unless you have a specific need- HTPC/Silent PC/foo .
+Just get wait for a slickdeal on a dell vostro .
+Up the ram and stick a real video card in there and you 've got a sweet machine for less bucks and less work .
+Usually they come with a gigantic widescreen monitor , too.It 's not 1998 anymore , BYO does n't make sense most of the time .</tokentext>
+<sentencetext>Unless you have a specific need- HTPC/Silent PC/foo.
+Just get wait for a slickdeal on a dell vostro.
+Up the ram and stick a real video card in there and you've got a sweet machine for less bucks and less work.
+Usually they come with a gigantic widescreen monitor, too.It's not 1998 anymore, BYO doesn't make sense most of the time.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327</id>
+	<title>Time is not free</title>
+	<author>jeblucas</author>
+	<datestamp>1243361160000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext>$800 is great for the machine that will be built from those parts, but $800 won't get you that machine. <i>It will get you the parts</i> with which you can construct that machine. The article mentions how much has changed in 15 months--that's about how much time it would take me to gather the minutes and hours to put together one of these homebuilt beauties. I want that computer and I want it for $800, not $800 + $1000 worth of my time.</htmltext>
+<tokenext>$ 800 is great for the machine that will be built from those parts , but $ 800 wo n't get you that machine .
+It will get you the parts with which you can construct that machine .
+The article mentions how much has changed in 15 months--that 's about how much time it would take me to gather the minutes and hours to put together one of these homebuilt beauties .
+I want that computer and I want it for $ 800 , not $ 800 + $ 1000 worth of my time .</tokentext>
+<sentencetext>$800 is great for the machine that will be built from those parts, but $800 won't get you that machine.
+It will get you the parts with which you can construct that machine.
+The article mentions how much has changed in 15 months--that's about how much time it would take me to gather the minutes and hours to put together one of these homebuilt beauties.
+I want that computer and I want it for $800, not $800 + $1000 worth of my time.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105743</id>
+	<title>Try a $300 hand held pc with Nvidia 9xxxx</title>
+	<author>Latinhypercube</author>
+	<datestamp>1243366860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>-1</modscore>
+	<htmltext>How about a $300 gaming PC that fits in your hand capable of 1080p video + wifi + 9xxx Nvidia graphics ?
+
+NVIDIA ION + dual core ATOM - ABSOULTLEY FUCKING AWESOME &amp; CHEAP</htmltext>
+<tokenext>How about a $ 300 gaming PC that fits in your hand capable of 1080p video + wifi + 9xxx Nvidia graphics ?
+NVIDIA ION + dual core ATOM - ABSOULTLEY FUCKING AWESOME &amp; CHEAP</tokentext>
+<sentencetext>How about a $300 gaming PC that fits in your hand capable of 1080p video + wifi + 9xxx Nvidia graphics ?
+NVIDIA ION + dual core ATOM - ABSOULTLEY FUCKING AWESOME &amp; CHEAP</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105257</id>
+	<title>Short list of websites with similar guides</title>
+	<author>daemonenwind</author>
+	<datestamp>1243360200000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>anandtech.com<br>tomshardware.com<br>maximumpc.com<br>pcmag.com   (hard to find, though)<br>arstechnica.com<br>sharkyextreme.com</p><p>I mean, really....does anyone think it's hard to find this stuff?</p><p>You can even find sample builds on amazon.com and on newegg.com if you look around a bit.</p></htmltext>
+<tokenext>anandtech.comtomshardware.commaximumpc.compcmag.com ( hard to find , though ) arstechnica.comsharkyextreme.comI mean , really....does anyone think it 's hard to find this stuff ? You can even find sample builds on amazon.com and on newegg.com if you look around a bit .</tokentext>
+<sentencetext>anandtech.comtomshardware.commaximumpc.compcmag.com   (hard to find, though)arstechnica.comsharkyextreme.comI mean, really....does anyone think it's hard to find this stuff?You can even find sample builds on amazon.com and on newegg.com if you look around a bit.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105383</id>
+	<title>Re:Time is not free</title>
+	<author>Anonymous</author>
+	<datestamp>1243362000000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>But here on<nobr> <wbr></nobr>/., fiddling with computers is supposed to be your hobby!  And sex life!</p><p>Gonna go cry now and comfort myself by trying to install linux on my nintendo DS...</p></htmltext>
+<tokenext>But here on /. , fiddling with computers is supposed to be your hobby !
+And sex life ! Gon na go cry now and comfort myself by trying to install linux on my nintendo DS.. .</tokentext>
+<sentencetext>But here on /., fiddling with computers is supposed to be your hobby!
+And sex life!Gonna go cry now and comfort myself by trying to install linux on my nintendo DS...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108501</id>
+	<title>overclocking buyers guide</title>
+	<author>neersign</author>
+	<datestamp>1243433640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I wrote an overclocking buyers guide and I have been updating it relatively frequently over the last few years.  it hasn't been updated in a few months tho as my work has started taking up more of my time.  but, it too could also be seen as a gaming guide <a href="http://www.ocforums.com/showthread.php?t=483065" title="ocforums.com">http://www.ocforums.com/showthread.php?t=483065</a> [ocforums.com]</htmltext>
+<tokenext>I wrote an overclocking buyers guide and I have been updating it relatively frequently over the last few years .
+it has n't been updated in a few months tho as my work has started taking up more of my time .
+but , it too could also be seen as a gaming guide http : //www.ocforums.com/showthread.php ? t = 483065 [ ocforums.com ]</tokentext>
+<sentencetext>I wrote an overclocking buyers guide and I have been updating it relatively frequently over the last few years.
+it hasn't been updated in a few months tho as my work has started taking up more of my time.
+but, it too could also be seen as a gaming guide http://www.ocforums.com/showthread.php?t=483065 [ocforums.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105569</id>
+	<title>Re:Time is not free</title>
+	<author>networkzombie</author>
+	<datestamp>1243363920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Wha?  I spent forty minutes swapping out a P4 AGP board for a DFI x38 with 2 GB Patriot, an E8500, and a ZOTAC 7600GS DVI piping 1080P to a 46" Toshiba 46RV535U via GBPVR and VGA piping to an Asus 20" monitor running 1600 x 900 simultaneously.  I was drooling the entire time and it works incredibly well with cycles to spare.  I can browse the web and watch The Fifth Element in 1080p at the same time without any lag.  Are you saying I am wasting my time?  There are very few things I'd rather be doing.
+<br>
+The power supply was good for a socket 775 and I already had a case, monitor, and HDD, so the RAM, MB, Video card, and CPU cost me $400 (from Newegg, of course).  Then again I have dozens of cases and HDD lying around.  Doesn't everyone?
+
+<br>
+I'll post pictures when the CPU and video are liquid cooled.</htmltext>
+<tokenext>Wha ?
+I spent forty minutes swapping out a P4 AGP board for a DFI x38 with 2 GB Patriot , an E8500 , and a ZOTAC 7600GS DVI piping 1080P to a 46 " Toshiba 46RV535U via GBPVR and VGA piping to an Asus 20 " monitor running 1600 x 900 simultaneously .
+I was drooling the entire time and it works incredibly well with cycles to spare .
+I can browse the web and watch The Fifth Element in 1080p at the same time without any lag .
+Are you saying I am wasting my time ?
+There are very few things I 'd rather be doing .
+The power supply was good for a socket 775 and I already had a case , monitor , and HDD , so the RAM , MB , Video card , and CPU cost me $ 400 ( from Newegg , of course ) .
+Then again I have dozens of cases and HDD lying around .
+Does n't everyone ?
+I 'll post pictures when the CPU and video are liquid cooled .</tokentext>
+<sentencetext>Wha?
+I spent forty minutes swapping out a P4 AGP board for a DFI x38 with 2 GB Patriot, an E8500, and a ZOTAC 7600GS DVI piping 1080P to a 46" Toshiba 46RV535U via GBPVR and VGA piping to an Asus 20" monitor running 1600 x 900 simultaneously.
+I was drooling the entire time and it works incredibly well with cycles to spare.
+I can browse the web and watch The Fifth Element in 1080p at the same time without any lag.
+Are you saying I am wasting my time?
+There are very few things I'd rather be doing.
+The power supply was good for a socket 775 and I already had a case, monitor, and HDD, so the RAM, MB, Video card, and CPU cost me $400 (from Newegg, of course).
+Then again I have dozens of cases and HDD lying around.
+Doesn't everyone?
+I'll post pictures when the CPU and video are liquid cooled.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105117</id>
+	<title>Wow cool, thanks for the tip!</title>
+	<author>Anonymous</author>
+	<datestamp>1243359180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I built my computer for $500 and it runs Crysis on High at 60 FPS steady. There's literally no reason to spend more than this on a gaming computer. Save money now by buying what you actually need instead of stupid crap and spend that money down the road on upgrades. Make your gaming computer last 5-7 years. Easy.</p></htmltext>
+<tokenext>I built my computer for $ 500 and it runs Crysis on High at 60 FPS steady .
+There 's literally no reason to spend more than this on a gaming computer .
+Save money now by buying what you actually need instead of stupid crap and spend that money down the road on upgrades .
+Make your gaming computer last 5-7 years .
+Easy .</tokentext>
+<sentencetext>I built my computer for $500 and it runs Crysis on High at 60 FPS steady.
+There's literally no reason to spend more than this on a gaming computer.
+Save money now by buying what you actually need instead of stupid crap and spend that money down the road on upgrades.
+Make your gaming computer last 5-7 years.
+Easy.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28110923</id>
+	<title>Re:Dude, get a dell</title>
+	<author>Arterion</author>
+	<datestamp>1243444440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Yeah, if you wanna deal with every quirky Dell specific issue on their lowest-bidder hardware.</p><p>Maybe the Vostros are better, but I absolutely loathe the Dimensions.  We have a lot of those of the P4 generations here and none of them are worth a damn.</p></htmltext>
+<tokenext>Yeah , if you wan na deal with every quirky Dell specific issue on their lowest-bidder hardware.Maybe the Vostros are better , but I absolutely loathe the Dimensions .
+We have a lot of those of the P4 generations here and none of them are worth a damn .</tokentext>
+<sentencetext>Yeah, if you wanna deal with every quirky Dell specific issue on their lowest-bidder hardware.Maybe the Vostros are better, but I absolutely loathe the Dimensions.
+We have a lot of those of the P4 generations here and none of them are worth a damn.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108369</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105471</id>
+	<title>Once you know, you NewEgg</title>
+	<author>Anonymous</author>
+	<datestamp>1243362720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>For $600 off of NewEgg I built a computer with; a 2.9 GHz AMD Phenom II X4, an ASUS AM3 motherboard, an ATi Radeon HD 4870 1Gb, a 750 Watt PSU and 8Gb of 800 MHz DDR2.</p><p>The only thing I reused from my old computer was the hard drives and the chassis.</p></htmltext>
+<tokenext>For $ 600 off of NewEgg I built a computer with ; a 2.9 GHz AMD Phenom II X4 , an ASUS AM3 motherboard , an ATi Radeon HD 4870 1Gb , a 750 Watt PSU and 8Gb of 800 MHz DDR2.The only thing I reused from my old computer was the hard drives and the chassis .</tokentext>
+<sentencetext>For $600 off of NewEgg I built a computer with; a 2.9 GHz AMD Phenom II X4, an ASUS AM3 motherboard, an ATi Radeon HD 4870 1Gb, a 750 Watt PSU and 8Gb of 800 MHz DDR2.The only thing I reused from my old computer was the hard drives and the chassis.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108979</id>
+	<title>my 800mhz does just fine</title>
+	<author>CHRONOSS2008</author>
+	<datestamp>1243436160000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>paid 80$ CAD for it and i'm not spending more then that to be amused by buggy crappy 4GB + games....</p></htmltext>
+<tokenext>paid 80 $ CAD for it and i 'm not spending more then that to be amused by buggy crappy 4GB + games... .</tokentext>
+<sentencetext>paid 80$ CAD for it and i'm not spending more then that to be amused by buggy crappy 4GB + games....</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104935</id>
+	<title>you dont need this shit</title>
+	<author>Anonymous</author>
+	<datestamp>1243357680000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>spend $400, get one thats 90\% of this speed, in a year sell it for face value on craigslist, rinse and repeat.</p><p>I've been getting free upgrades for many years now.</p></htmltext>
+<tokenext>spend $ 400 , get one thats 90 \ % of this speed , in a year sell it for face value on craigslist , rinse and repeat.I 've been getting free upgrades for many years now .</tokentext>
+<sentencetext>spend $400, get one thats 90\% of this speed, in a year sell it for face value on craigslist, rinse and repeat.I've been getting free upgrades for many years now.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108605</id>
+	<title>Re:$1021 on newegg (I have a DVD and HD already.)</title>
+	<author>teh.f4ll3n</author>
+	<datestamp>1243434120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Good luck getting your system through POST with that PSU ))</htmltext>
+<tokenext>Good luck getting your system through POST with that PSU ) )</tokentext>
+<sentencetext>Good luck getting your system through POST with that PSU ))</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105455</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104917</id>
+	<title>Re:$800 bucks? Is it diamond encrusted?</title>
+	<author>MeatBag PussRocket</author>
+	<datestamp>1243357500000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>i have the one around $500 and its great, only thing is i cant do spreadsheets, email,<nobr> <wbr></nobr>/. , etc with it. so thats my gaming rig but i still need a whitebox (like the one i'm typing on now) that doesnt always work for everyone</p></htmltext>
+<tokenext>i have the one around $ 500 and its great , only thing is i cant do spreadsheets , email , / .
+, etc with it .
+so thats my gaming rig but i still need a whitebox ( like the one i 'm typing on now ) that doesnt always work for everyone</tokentext>
+<sentencetext>i have the one around $500 and its great, only thing is i cant do spreadsheets, email, /.
+, etc with it.
+so thats my gaming rig but i still need a whitebox (like the one i'm typing on now) that doesnt always work for everyone</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104835</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105499</id>
+	<title>Re:Time is not free</title>
+	<author>npoczynek</author>
+	<datestamp>1243363140000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext>I feel like we should be paying you for that comment if the time was really that valuable.
+
+Then again, I can't help but feel... In the time it took for you to browse through TFA and comment: I probably could have popped the CPU in, mounted the cooler, inserted the memory, and started to screw the motherboard into the case. You're practically done!
+
+Granted, I'm not denying the convenience of a prebuilt machine. But to me, building my own systems and tinkering with them is a hobby. I don't envy whatever your profession is if you can't find the time for a bit of nerdy leisure.</htmltext>
+<tokenext>I feel like we should be paying you for that comment if the time was really that valuable .
+Then again , I ca n't help but feel... In the time it took for you to browse through TFA and comment : I probably could have popped the CPU in , mounted the cooler , inserted the memory , and started to screw the motherboard into the case .
+You 're practically done !
+Granted , I 'm not denying the convenience of a prebuilt machine .
+But to me , building my own systems and tinkering with them is a hobby .
+I do n't envy whatever your profession is if you ca n't find the time for a bit of nerdy leisure .</tokentext>
+<sentencetext>I feel like we should be paying you for that comment if the time was really that valuable.
+Then again, I can't help but feel... In the time it took for you to browse through TFA and comment: I probably could have popped the CPU in, mounted the cooler, inserted the memory, and started to screw the motherboard into the case.
+You're practically done!
+Granted, I'm not denying the convenience of a prebuilt machine.
+But to me, building my own systems and tinkering with them is a hobby.
+I don't envy whatever your profession is if you can't find the time for a bit of nerdy leisure.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105729</id>
+	<title>The point is not that it costs $800 this time</title>
+	<author>blind biker</author>
+	<datestamp>1243366500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>the thing is, if you want to run current games, you will have to spend about that same amount every 18 months or even sooner.</p><p>It just isn't right: game developer should settle down once and for all, and make games that run on a 1 year old platform just as their 1 year old games did/do. Luckily I'm not a gamer (not a fanatical one anyway) or I'd be bankrupt.</p></htmltext>
+<tokenext>the thing is , if you want to run current games , you will have to spend about that same amount every 18 months or even sooner.It just is n't right : game developer should settle down once and for all , and make games that run on a 1 year old platform just as their 1 year old games did/do .
+Luckily I 'm not a gamer ( not a fanatical one anyway ) or I 'd be bankrupt .</tokentext>
+<sentencetext>the thing is, if you want to run current games, you will have to spend about that same amount every 18 months or even sooner.It just isn't right: game developer should settle down once and for all, and make games that run on a 1 year old platform just as their 1 year old games did/do.
+Luckily I'm not a gamer (not a fanatical one anyway) or I'd be bankrupt.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105275</id>
+	<title>Re:$800 bucks? Is it diamond encrusted?</title>
+	<author>masmullin</author>
+	<datestamp>1243360320000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>0</modscore>
+	<htmltext>so get a netbook to surf/email/spreadshit...  Xbox360 + netbook has got to be cheaper than 800!<br><br>and seriously, spreadsheets are so 90s!</htmltext>
+<tokenext>so get a netbook to surf/email/spreadshit... Xbox360 + netbook has got to be cheaper than 800 ! and seriously , spreadsheets are so 90s !</tokentext>
+<sentencetext>so get a netbook to surf/email/spreadshit...  Xbox360 + netbook has got to be cheaper than 800!and seriously, spreadsheets are so 90s!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104917</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105741</id>
+	<title>overclocked *well over spec* at 3.01GHz?? ha</title>
+	<author>majorme</author>
+	<datestamp>1243366800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>Just about any 40nm Core 2 CPU is overclockable to at least 4GHz without much trouble, ie. no voltage increase.</htmltext>
+<tokenext>Just about any 40nm Core 2 CPU is overclockable to at least 4GHz without much trouble , ie .
+no voltage increase .</tokentext>
+<sentencetext>Just about any 40nm Core 2 CPU is overclockable to at least 4GHz without much trouble, ie.
+no voltage increase.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106841</id>
+	<title>Re:Pendantry</title>
+	<author>rhyder128k</author>
+	<datestamp>1243419780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Maybe they were typing it on a first gen Pentium?</htmltext>
+<tokenext>Maybe they were typing it on a first gen Pentium ?</tokentext>
+<sentencetext>Maybe they were typing it on a first gen Pentium?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105697</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105391</id>
+	<title>Re:Yay, overclocking!</title>
+	<author>cenc</author>
+	<datestamp>1243362060000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>First, most of the overclocking taboo today is just marketing gimic.</p><p>Yea, you can fry out your processor being stupid with it, but the vast majority of people will be able to OC their processors in a very stable way for long periods with no problems. Chances are unless they are doing really crazy crap, the processor will be outdated (like by the time it got out of the box) before it looses any life from an OC.</p><p>The AMD black edition for example. Yea, AMD does not endorse it but they are actively marketing a processor for overclocking. The MB makers are providing all the tools including on many motherboards the auto features that stop newbies from burning it out. point and click over clocking, with an edge of danger to get people to do it without really doing it.</p><p>I even buy my low end workstations at my office with the intent of overclocking them when they start to reach their end of life. Gives me another year out of them, when I would have replaced them anyway. At that point I got nothing to loose. Well, at least it gives me something cool to do with them before retiring them to spare parts.</p></htmltext>
+<tokenext>First , most of the overclocking taboo today is just marketing gimic.Yea , you can fry out your processor being stupid with it , but the vast majority of people will be able to OC their processors in a very stable way for long periods with no problems .
+Chances are unless they are doing really crazy crap , the processor will be outdated ( like by the time it got out of the box ) before it looses any life from an OC.The AMD black edition for example .
+Yea , AMD does not endorse it but they are actively marketing a processor for overclocking .
+The MB makers are providing all the tools including on many motherboards the auto features that stop newbies from burning it out .
+point and click over clocking , with an edge of danger to get people to do it without really doing it.I even buy my low end workstations at my office with the intent of overclocking them when they start to reach their end of life .
+Gives me another year out of them , when I would have replaced them anyway .
+At that point I got nothing to loose .
+Well , at least it gives me something cool to do with them before retiring them to spare parts .</tokentext>
+<sentencetext>First, most of the overclocking taboo today is just marketing gimic.Yea, you can fry out your processor being stupid with it, but the vast majority of people will be able to OC their processors in a very stable way for long periods with no problems.
+Chances are unless they are doing really crazy crap, the processor will be outdated (like by the time it got out of the box) before it looses any life from an OC.The AMD black edition for example.
+Yea, AMD does not endorse it but they are actively marketing a processor for overclocking.
+The MB makers are providing all the tools including on many motherboards the auto features that stop newbies from burning it out.
+point and click over clocking, with an edge of danger to get people to do it without really doing it.I even buy my low end workstations at my office with the intent of overclocking them when they start to reach their end of life.
+Gives me another year out of them, when I would have replaced them anyway.
+At that point I got nothing to loose.
+Well, at least it gives me something cool to do with them before retiring them to spare parts.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104847</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108169</id>
+	<title>Re:Why Quad Core?</title>
+	<author>Spatial</author>
+	<datestamp>1243431720000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p><div class="quote"><p>-Quad cores don't go for much more than dual core processors do. The price between one Q6600 and a E8400 is approximately $20, so not exactly a tremendous price gap there.</p></div><p>It's still crap value.  That CPU is built on a 65nm process: older, slower, hotter and uses more power.  The E8400 is a 45nm part.  Unless the computer is a video-encoding machine, it's absolutely senseless to buy the Q6600 (and you should get a Q9300 anyway, it's faster and 45nm).</p><p><div class="quote"><p>-Given that, the quad core is a very viable option if you wish to future proof your PC. The clocking speed shows a lower number, but you're essentially given twice as many pipelines for information to go through. Right now, that's a substantial boost if you multitask.</p></div><p>No it isn't.  I have a quad core upgraded from a dual core, and there's no perceptible speed difference except in video encoding.  Selling it on multitasking is just marketing.<br> <br>
+
+You can't future proof a PC without wasting a ridiculous amount of money.  Buy a quad core now and you already sacrifice real-world performance and value for money in exchange for a potential benefit in a few <b>years</b> except in specialised uses.  By which time any game that actually needs it is released, your old quad will be obsolete.  You can just buy a dual core, save money, and get higher performance right now and for a few years to come.  It's obviously the more sensible choice.</p><p><div class="quote"><p>-Not good enough? Even for gamers, quad core would be a better option. Sure, right now you're going to see dual cores cranking out the numbers because most games have really been optimized for use with two cores. But you said it yourself, video encoding delivers results due to utilizing all four cores on the quad core. It's only a matter of time until the standard for game developers include optimizing for more than two cores. When that time comes, those people will start wishing they bought that quady.</p></div><p>This is terrible advice.  The vast majority of games aren't even CPU limited, and only now, years after their release are dual cores becoming widely used.  And of course, 'future proofing' was pointless: early dual cores are obsolete now unless you spent a ridiculous amount of money back in the day.</p><p><div class="quote"><p>-By the way, this same argument used to take place when dual core was introduced. Some gamers suggested buying single cores due to their higher clock speeds, but those recommendations were short lived once the software caught up.</p></div><p>
+Single -&gt; dual isn't the same transition as dual -&gt; quad.  The first has other benefits, like a single program being unable to bog down the OS, and even single threaded programs benefit a little because all the background processes can use the other core.</p></div>
+	</htmltext>
+<tokenext>-Quad cores do n't go for much more than dual core processors do .
+The price between one Q6600 and a E8400 is approximately $ 20 , so not exactly a tremendous price gap there.It 's still crap value .
+That CPU is built on a 65nm process : older , slower , hotter and uses more power .
+The E8400 is a 45nm part .
+Unless the computer is a video-encoding machine , it 's absolutely senseless to buy the Q6600 ( and you should get a Q9300 anyway , it 's faster and 45nm ) .-Given that , the quad core is a very viable option if you wish to future proof your PC .
+The clocking speed shows a lower number , but you 're essentially given twice as many pipelines for information to go through .
+Right now , that 's a substantial boost if you multitask.No it is n't .
+I have a quad core upgraded from a dual core , and there 's no perceptible speed difference except in video encoding .
+Selling it on multitasking is just marketing .
+You ca n't future proof a PC without wasting a ridiculous amount of money .
+Buy a quad core now and you already sacrifice real-world performance and value for money in exchange for a potential benefit in a few years except in specialised uses .
+By which time any game that actually needs it is released , your old quad will be obsolete .
+You can just buy a dual core , save money , and get higher performance right now and for a few years to come .
+It 's obviously the more sensible choice.-Not good enough ?
+Even for gamers , quad core would be a better option .
+Sure , right now you 're going to see dual cores cranking out the numbers because most games have really been optimized for use with two cores .
+But you said it yourself , video encoding delivers results due to utilizing all four cores on the quad core .
+It 's only a matter of time until the standard for game developers include optimizing for more than two cores .
+When that time comes , those people will start wishing they bought that quady.This is terrible advice .
+The vast majority of games are n't even CPU limited , and only now , years after their release are dual cores becoming widely used .
+And of course , 'future proofing ' was pointless : early dual cores are obsolete now unless you spent a ridiculous amount of money back in the day.-By the way , this same argument used to take place when dual core was introduced .
+Some gamers suggested buying single cores due to their higher clock speeds , but those recommendations were short lived once the software caught up .
+Single - &gt; dual is n't the same transition as dual - &gt; quad .
+The first has other benefits , like a single program being unable to bog down the OS , and even single threaded programs benefit a little because all the background processes can use the other core .</tokentext>
+<sentencetext>-Quad cores don't go for much more than dual core processors do.
+The price between one Q6600 and a E8400 is approximately $20, so not exactly a tremendous price gap there.It's still crap value.
+That CPU is built on a 65nm process: older, slower, hotter and uses more power.
+The E8400 is a 45nm part.
+Unless the computer is a video-encoding machine, it's absolutely senseless to buy the Q6600 (and you should get a Q9300 anyway, it's faster and 45nm).-Given that, the quad core is a very viable option if you wish to future proof your PC.
+The clocking speed shows a lower number, but you're essentially given twice as many pipelines for information to go through.
+Right now, that's a substantial boost if you multitask.No it isn't.
+I have a quad core upgraded from a dual core, and there's no perceptible speed difference except in video encoding.
+Selling it on multitasking is just marketing.
+You can't future proof a PC without wasting a ridiculous amount of money.
+Buy a quad core now and you already sacrifice real-world performance and value for money in exchange for a potential benefit in a few years except in specialised uses.
+By which time any game that actually needs it is released, your old quad will be obsolete.
+You can just buy a dual core, save money, and get higher performance right now and for a few years to come.
+It's obviously the more sensible choice.-Not good enough?
+Even for gamers, quad core would be a better option.
+Sure, right now you're going to see dual cores cranking out the numbers because most games have really been optimized for use with two cores.
+But you said it yourself, video encoding delivers results due to utilizing all four cores on the quad core.
+It's only a matter of time until the standard for game developers include optimizing for more than two cores.
+When that time comes, those people will start wishing they bought that quady.This is terrible advice.
+The vast majority of games aren't even CPU limited, and only now, years after their release are dual cores becoming widely used.
+And of course, 'future proofing' was pointless: early dual cores are obsolete now unless you spent a ridiculous amount of money back in the day.-By the way, this same argument used to take place when dual core was introduced.
+Some gamers suggested buying single cores due to their higher clock speeds, but those recommendations were short lived once the software caught up.
+Single -&gt; dual isn't the same transition as dual -&gt; quad.
+The first has other benefits, like a single program being unable to bog down the OS, and even single threaded programs benefit a little because all the background processes can use the other core.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105703</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105689</id>
+	<title>Re:$800 bucks? Is it diamond encrusted?</title>
+	<author>hack  slash</author>
+	<datestamp>1243366020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>and seriously, spreadsheets are so 90s!</p></div><p>That doesn't make them any less useful.</p></div>
+	</htmltext>
+<tokenext>and seriously , spreadsheets are so 90s ! That does n't make them any less useful .</tokentext>
+<sentencetext>and seriously, spreadsheets are so 90s!That doesn't make them any less useful.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105275</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107869</id>
+	<title>Re:Didn't we already have this story?</title>
+	<author>Anonymous</author>
+	<datestamp>1243429740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>You stopped needing a top of the line computer for gaming around the turn of the century when clock rates stopped doubling every 12-18 months and ATi got good enough to really compete with nVidia.</p></div><p>Agreed, I've used ATI cards almost exclusively since the late 90s, always staying a year or more behind the "next big thing" in graphics cards, and I've barely even glanced at the system requirements tag since the first Hitman game.</p></div>
+	</htmltext>
+<tokenext>You stopped needing a top of the line computer for gaming around the turn of the century when clock rates stopped doubling every 12-18 months and ATi got good enough to really compete with nVidia.Agreed , I 've used ATI cards almost exclusively since the late 90s , always staying a year or more behind the " next big thing " in graphics cards , and I 've barely even glanced at the system requirements tag since the first Hitman game .</tokentext>
+<sentencetext>You stopped needing a top of the line computer for gaming around the turn of the century when clock rates stopped doubling every 12-18 months and ATi got good enough to really compete with nVidia.Agreed, I've used ATI cards almost exclusively since the late 90s, always staying a year or more behind the "next big thing" in graphics cards, and I've barely even glanced at the system requirements tag since the first Hitman game.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104993</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28118331</id>
+	<title>Re:Time is not free</title>
+	<author>toddestan</author>
+	<datestamp>1243436940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>You're forgetting that most people here have more time than money.  Particularly those that are on salary.  And that's not even counting those of us who like to tinker anyway.</p></htmltext>
+<tokenext>You 're forgetting that most people here have more time than money .
+Particularly those that are on salary .
+And that 's not even counting those of us who like to tinker anyway .</tokentext>
+<sentencetext>You're forgetting that most people here have more time than money.
+Particularly those that are on salary.
+And that's not even counting those of us who like to tinker anyway.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107681</id>
+	<title>Re:In India...</title>
+	<author>Anonymous</author>
+	<datestamp>1243428240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Well sure, if you take into account wages, standards of living, infrastructure maintenance, laws and regulations regarding work, laws and regulations regarding pollution, etc. and so on and so forth, then you can have things for cheap*</p><p>Heck, as it is, things in the U.S. tend to be cheaper than in Europe.</p><p>'Unfortunately', not everybody lives in Poland / India / China / whichever place happens to be cheap because, well, they're cheap, at the time.</p><p>So any comparison there is absolutely moot unless one can actually -order- these things -from- India, and have them delivered to them, still for cheap, with support.  But try that and in most countries you get a huge shipping fee and import duties and taxes applied - if they don't just send it back altogether because of import prohibitions.</p></htmltext>
+<tokenext>Well sure , if you take into account wages , standards of living , infrastructure maintenance , laws and regulations regarding work , laws and regulations regarding pollution , etc .
+and so on and so forth , then you can have things for cheap * Heck , as it is , things in the U.S. tend to be cheaper than in Europe .
+'Unfortunately ' , not everybody lives in Poland / India / China / whichever place happens to be cheap because , well , they 're cheap , at the time.So any comparison there is absolutely moot unless one can actually -order- these things -from- India , and have them delivered to them , still for cheap , with support .
+But try that and in most countries you get a huge shipping fee and import duties and taxes applied - if they do n't just send it back altogether because of import prohibitions .</tokentext>
+<sentencetext>Well sure, if you take into account wages, standards of living, infrastructure maintenance, laws and regulations regarding work, laws and regulations regarding pollution, etc.
+and so on and so forth, then you can have things for cheap*Heck, as it is, things in the U.S. tend to be cheaper than in Europe.
+'Unfortunately', not everybody lives in Poland / India / China / whichever place happens to be cheap because, well, they're cheap, at the time.So any comparison there is absolutely moot unless one can actually -order- these things -from- India, and have them delivered to them, still for cheap, with support.
+But try that and in most countries you get a huge shipping fee and import duties and taxes applied - if they don't just send it back altogether because of import prohibitions.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105535</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105641</id>
+	<title>Re:I Just Don't Get It...</title>
+	<author>ascendant</author>
+	<datestamp>1243365300000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>You were lied to.<br>Additionally, you are attributing vastly more responsibility to your CPU for the performance of all of these games.  Why don't you underclock your CPU and see how much effect it has on your framerates?  Yes, even to 2GHz and below.</p><p>The HD 3870 was released in October 2007, Fallout 3 was released in November 2008.  Those other games, around the same time.  Barely a year apart, those games were designed to run on those exact games: not the 4870 which was released barely months before.</p><p>On top of that, the 3870 was almost the top of the line card for the 3000 series.  It's no surprise that it can handle those games.  The people that develop them are not <i>stupid</i>.  They do not expect people to buy a new graphics card just to play their game.  It will run on the cards released not even a year ago, and it will run well.  Expecting it not to is foolishness.</p><p>Sheesh</p></htmltext>
+<tokenext>You were lied to.Additionally , you are attributing vastly more responsibility to your CPU for the performance of all of these games .
+Why do n't you underclock your CPU and see how much effect it has on your framerates ?
+Yes , even to 2GHz and below.The HD 3870 was released in October 2007 , Fallout 3 was released in November 2008 .
+Those other games , around the same time .
+Barely a year apart , those games were designed to run on those exact games : not the 4870 which was released barely months before.On top of that , the 3870 was almost the top of the line card for the 3000 series .
+It 's no surprise that it can handle those games .
+The people that develop them are not stupid .
+They do not expect people to buy a new graphics card just to play their game .
+It will run on the cards released not even a year ago , and it will run well .
+Expecting it not to is foolishness.Sheesh</tokentext>
+<sentencetext>You were lied to.Additionally, you are attributing vastly more responsibility to your CPU for the performance of all of these games.
+Why don't you underclock your CPU and see how much effect it has on your framerates?
+Yes, even to 2GHz and below.The HD 3870 was released in October 2007, Fallout 3 was released in November 2008.
+Those other games, around the same time.
+Barely a year apart, those games were designed to run on those exact games: not the 4870 which was released barely months before.On top of that, the 3870 was almost the top of the line card for the 3000 series.
+It's no surprise that it can handle those games.
+The people that develop them are not stupid.
+They do not expect people to buy a new graphics card just to play their game.
+It will run on the cards released not even a year ago, and it will run well.
+Expecting it not to is foolishness.Sheesh</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105255</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104993</id>
+	<title>Didn't we already have this story?</title>
+	<author>the\_raptor</author>
+	<datestamp>1243358100000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>I am sure we had a story like this the other week. I am pretty sure we have it every couple of weeks. Considering this has been (more or less) the way of things for probably about five years (I have been following the 'good enough' philosophy for that long, from a Radeon 9600xt, through a GeForce 6800, to a Radeon 4850 today), it isn't news to any nerd. You stopped needing a top of the line computer for gaming around the turn of the century when clock rates stopped doubling every 12-18 months and ATi got good enough to really compete with nVidia.</p></htmltext>
+<tokenext>I am sure we had a story like this the other week .
+I am pretty sure we have it every couple of weeks .
+Considering this has been ( more or less ) the way of things for probably about five years ( I have been following the 'good enough ' philosophy for that long , from a Radeon 9600xt , through a GeForce 6800 , to a Radeon 4850 today ) , it is n't news to any nerd .
+You stopped needing a top of the line computer for gaming around the turn of the century when clock rates stopped doubling every 12-18 months and ATi got good enough to really compete with nVidia .</tokentext>
+<sentencetext>I am sure we had a story like this the other week.
+I am pretty sure we have it every couple of weeks.
+Considering this has been (more or less) the way of things for probably about five years (I have been following the 'good enough' philosophy for that long, from a Radeon 9600xt, through a GeForce 6800, to a Radeon 4850 today), it isn't news to any nerd.
+You stopped needing a top of the line computer for gaming around the turn of the century when clock rates stopped doubling every 12-18 months and ATi got good enough to really compete with nVidia.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105543</id>
+	<title>Re:Time is not free</title>
+	<author>Draek</author>
+	<datestamp>1243363620000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>I'd say that learning how to put a computer together is as important to use a computer as knowing how to change a wheel is to driving a car, and it's not hard either.</p><p>But hey, if you prefer to pay rather than learn, you can get it for far less than $1000 anyways. Your local friendly neighbor geek wouldn't charge you more than $50 for it, and it's possible he'd still do it for half that amount.</p></htmltext>
+<tokenext>I 'd say that learning how to put a computer together is as important to use a computer as knowing how to change a wheel is to driving a car , and it 's not hard either.But hey , if you prefer to pay rather than learn , you can get it for far less than $ 1000 anyways .
+Your local friendly neighbor geek would n't charge you more than $ 50 for it , and it 's possible he 'd still do it for half that amount .</tokentext>
+<sentencetext>I'd say that learning how to put a computer together is as important to use a computer as knowing how to change a wheel is to driving a car, and it's not hard either.But hey, if you prefer to pay rather than learn, you can get it for far less than $1000 anyways.
+Your local friendly neighbor geek wouldn't charge you more than $50 for it, and it's possible he'd still do it for half that amount.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105795</id>
+	<title>Can be done for half that price</title>
+	<author>Anonymous</author>
+	<datestamp>1243367520000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>e5200(easily overclockable to 3.3-5 ghz on stock cooling) $70<br>MSI P35 Neo-F Motherboard $50<br>4 gigs DDR2-800 $40<br>Radeon HD4770 $100<br>500 gig HD $50<br>DVD Burner $20<br>Case + acceptable PSU $50</p><p>Total $380 and it should play any game in existence acceptably until you start to push the resolution up 1920 x 1080</p></htmltext>
+<tokenext>e5200 ( easily overclockable to 3.3-5 ghz on stock cooling ) $ 70MSI P35 Neo-F Motherboard $ 504 gigs DDR2-800 $ 40Radeon HD4770 $ 100500 gig HD $ 50DVD Burner $ 20Case + acceptable PSU $ 50Total $ 380 and it should play any game in existence acceptably until you start to push the resolution up 1920 x 1080</tokentext>
+<sentencetext>e5200(easily overclockable to 3.3-5 ghz on stock cooling) $70MSI P35 Neo-F Motherboard $504 gigs DDR2-800 $40Radeon HD4770 $100500 gig HD $50DVD Burner $20Case + acceptable PSU $50Total $380 and it should play any game in existence acceptably until you start to push the resolution up 1920 x 1080</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106449</id>
+	<title>Re:Why Quad Core?</title>
+	<author>Aceticon</author>
+	<datestamp>1243415940000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Tomshardware just recently did an article where they measure performance of games in PCs with different numbers of cores (link: <a href="http://www.tomshardware.com/reviews/multi-core-cpu,2280.html" title="tomshardware.com">http://www.tomshardware.com/reviews/multi-core-cpu,2280.html</a> [tomshardware.com]).</p><p>Their conclusion is that at the moment, for the current crop of games the ideal number of cores is 3.</p></htmltext>
+<tokenext>Tomshardware just recently did an article where they measure performance of games in PCs with different numbers of cores ( link : http : //www.tomshardware.com/reviews/multi-core-cpu,2280.html [ tomshardware.com ] ) .Their conclusion is that at the moment , for the current crop of games the ideal number of cores is 3 .</tokentext>
+<sentencetext>Tomshardware just recently did an article where they measure performance of games in PCs with different numbers of cores (link: http://www.tomshardware.com/reviews/multi-core-cpu,2280.html [tomshardware.com]).Their conclusion is that at the moment, for the current crop of games the ideal number of cores is 3.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105329</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106411</id>
+	<title>Better with a Quad Q6600</title>
+	<author>Aceticon</author>
+	<datestamp>1243415640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I've just recently assembled a new gaming PC (to make a long story short, I wanted to upgrade my old machine to a new CPU architecture, which meant also upgrading motherboard and memory, but the upgrade hassle factor was so large that I just ended up buying the rest of the parts and making a new PC) and I've go a Quad Q6600 (G0 stepping, the easier to overclock) running rock-stable at 3.2 GHz, when the stock speed is 2.4 GHz (while, thanks to using a passive water-cooling setup - a Reserator  V1, temperatures are below 60C at load and noise is minimal).</p><p>My experience is similar to the one described by the guys in the article - for about $1500 (discounting VAT and converting from GBP to USD) I got a high-mid-range gaming machine* capable of running any of the newest games with max settings and 4xAA (anti-aliasing) at the maximum resolution my monitor supports (1280x1024) with lots of horsepower to spare, and which is comparatively as good as a top of the range machine would be 5 years ago (at the time, that's what you would need to run all new games at max setting at that resolution). If I went for the same relative (versus latest games at the time) capabilities 5 years ago the cost would've been at least 2 times as much.</p><p>(PS: Even though I've reused my existing water-cooling equipment - worth about $200 if new - some of this is offset by the fact that I got a factory-watercooled graphics board, which is between $50 and $100 more expensive than the stock version: anybody not going for a full water-cooled setup would just get the stock version)</p><p>* Specs: Intel Core 2 Quad Q6600 overclocked to 3.2GHz (watercooled); Nvidia GTS280 (watercooled); 4GB premium (faster) PC2-8500 memory (5-5-5-18) stock speed 1066 MHz (slightly overclocked); 2x250GB SATA2 HDD in Raid 0 configuration (Programs disk) + 1x640GB SATA2 HDD (Data disk); an old Reserator V1 for watercooling with replaced, higher capacity pump.</p></htmltext>
+<tokenext>I 've just recently assembled a new gaming PC ( to make a long story short , I wanted to upgrade my old machine to a new CPU architecture , which meant also upgrading motherboard and memory , but the upgrade hassle factor was so large that I just ended up buying the rest of the parts and making a new PC ) and I 've go a Quad Q6600 ( G0 stepping , the easier to overclock ) running rock-stable at 3.2 GHz , when the stock speed is 2.4 GHz ( while , thanks to using a passive water-cooling setup - a Reserator V1 , temperatures are below 60C at load and noise is minimal ) .My experience is similar to the one described by the guys in the article - for about $ 1500 ( discounting VAT and converting from GBP to USD ) I got a high-mid-range gaming machine * capable of running any of the newest games with max settings and 4xAA ( anti-aliasing ) at the maximum resolution my monitor supports ( 1280x1024 ) with lots of horsepower to spare , and which is comparatively as good as a top of the range machine would be 5 years ago ( at the time , that 's what you would need to run all new games at max setting at that resolution ) .
+If I went for the same relative ( versus latest games at the time ) capabilities 5 years ago the cost would 've been at least 2 times as much .
+( PS : Even though I 've reused my existing water-cooling equipment - worth about $ 200 if new - some of this is offset by the fact that I got a factory-watercooled graphics board , which is between $ 50 and $ 100 more expensive than the stock version : anybody not going for a full water-cooled setup would just get the stock version ) * Specs : Intel Core 2 Quad Q6600 overclocked to 3.2GHz ( watercooled ) ; Nvidia GTS280 ( watercooled ) ; 4GB premium ( faster ) PC2-8500 memory ( 5-5-5-18 ) stock speed 1066 MHz ( slightly overclocked ) ; 2x250GB SATA2 HDD in Raid 0 configuration ( Programs disk ) + 1x640GB SATA2 HDD ( Data disk ) ; an old Reserator V1 for watercooling with replaced , higher capacity pump .</tokentext>
+<sentencetext>I've just recently assembled a new gaming PC (to make a long story short, I wanted to upgrade my old machine to a new CPU architecture, which meant also upgrading motherboard and memory, but the upgrade hassle factor was so large that I just ended up buying the rest of the parts and making a new PC) and I've go a Quad Q6600 (G0 stepping, the easier to overclock) running rock-stable at 3.2 GHz, when the stock speed is 2.4 GHz (while, thanks to using a passive water-cooling setup - a Reserator  V1, temperatures are below 60C at load and noise is minimal).My experience is similar to the one described by the guys in the article - for about $1500 (discounting VAT and converting from GBP to USD) I got a high-mid-range gaming machine* capable of running any of the newest games with max settings and 4xAA (anti-aliasing) at the maximum resolution my monitor supports (1280x1024) with lots of horsepower to spare, and which is comparatively as good as a top of the range machine would be 5 years ago (at the time, that's what you would need to run all new games at max setting at that resolution).
+If I went for the same relative (versus latest games at the time) capabilities 5 years ago the cost would've been at least 2 times as much.
+(PS: Even though I've reused my existing water-cooling equipment - worth about $200 if new - some of this is offset by the fact that I got a factory-watercooled graphics board, which is between $50 and $100 more expensive than the stock version: anybody not going for a full water-cooled setup would just get the stock version)* Specs: Intel Core 2 Quad Q6600 overclocked to 3.2GHz (watercooled); Nvidia GTS280 (watercooled); 4GB premium (faster) PC2-8500 memory (5-5-5-18) stock speed 1066 MHz (slightly overclocked); 2x250GB SATA2 HDD in Raid 0 configuration (Programs disk) + 1x640GB SATA2 HDD (Data disk); an old Reserator V1 for watercooling with replaced, higher capacity pump.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105703</id>
+	<title>Re:Why Quad Core?</title>
+	<author>Clinkster</author>
+	<datestamp>1243366200000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>-Quad cores don't go for much more than dual core processors do. The price between one Q6600 and a E8400 is approximately $20, so not exactly a tremendous price gap there.</p><p>-Given that, the quad core is a very viable option if you wish to future proof your PC. The clocking speed shows a lower number, but you're essentially given twice as many pipelines for information to go through. Right now, that's a substantial boost if you multitask.</p><p>-Not good enough? Even for gamers, quad core would be a better option. Sure, right now you're going to see dual cores cranking out the numbers because most games have really been optimized for use with two cores. But you said it yourself, video encoding delivers results due to utilizing all four cores on the quad core. It's only a matter of time until the standard for game developers include optimizing for more than two cores. When that time comes, those people will start wishing they bought that quady.</p><p>-By the way, this same argument used to take place when dual core was introduced. Some gamers suggested buying single cores due to their higher clock speeds, but those recommendations were short lived once the software caught up.</p></htmltext>
+<tokenext>-Quad cores do n't go for much more than dual core processors do .
+The price between one Q6600 and a E8400 is approximately $ 20 , so not exactly a tremendous price gap there.-Given that , the quad core is a very viable option if you wish to future proof your PC .
+The clocking speed shows a lower number , but you 're essentially given twice as many pipelines for information to go through .
+Right now , that 's a substantial boost if you multitask.-Not good enough ?
+Even for gamers , quad core would be a better option .
+Sure , right now you 're going to see dual cores cranking out the numbers because most games have really been optimized for use with two cores .
+But you said it yourself , video encoding delivers results due to utilizing all four cores on the quad core .
+It 's only a matter of time until the standard for game developers include optimizing for more than two cores .
+When that time comes , those people will start wishing they bought that quady.-By the way , this same argument used to take place when dual core was introduced .
+Some gamers suggested buying single cores due to their higher clock speeds , but those recommendations were short lived once the software caught up .</tokentext>
+<sentencetext>-Quad cores don't go for much more than dual core processors do.
+The price between one Q6600 and a E8400 is approximately $20, so not exactly a tremendous price gap there.-Given that, the quad core is a very viable option if you wish to future proof your PC.
+The clocking speed shows a lower number, but you're essentially given twice as many pipelines for information to go through.
+Right now, that's a substantial boost if you multitask.-Not good enough?
+Even for gamers, quad core would be a better option.
+Sure, right now you're going to see dual cores cranking out the numbers because most games have really been optimized for use with two cores.
+But you said it yourself, video encoding delivers results due to utilizing all four cores on the quad core.
+It's only a matter of time until the standard for game developers include optimizing for more than two cores.
+When that time comes, those people will start wishing they bought that quady.-By the way, this same argument used to take place when dual core was introduced.
+Some gamers suggested buying single cores due to their higher clock speeds, but those recommendations were short lived once the software caught up.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105329</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104835</id>
+	<title>$800 bucks? Is it diamond encrusted?</title>
+	<author>Anonymous</author>
+	<datestamp>1243356900000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Check these cheapies out. They are only Cheeto encrusted.</p><p><a href="http://www.google.com/products?q=xbox+360" title="google.com" rel="nofollow">Around $300</a> [google.com]<br><a href="http://www.google.com/products?q=ps3" title="google.com" rel="nofollow">Around $500</a> [google.com]<br><a href="http://www.google.com/products?q=wii" title="google.com" rel="nofollow">Around $200</a> [google.com]</p></htmltext>
+<tokenext>Check these cheapies out .
+They are only Cheeto encrusted.Around $ 300 [ google.com ] Around $ 500 [ google.com ] Around $ 200 [ google.com ]</tokentext>
+<sentencetext>Check these cheapies out.
+They are only Cheeto encrusted.Around $300 [google.com]Around $500 [google.com]Around $200 [google.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28118399</id>
+	<title>Re:Why Quad Core?</title>
+	<author>toddestan</author>
+	<datestamp>1243437480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>By the way, this same argument used to take place when dual core was introduced. Some gamers suggested buying single cores due to their higher clock speeds, but those recommendations were short lived once the software caught up.</p></div></blockquote><p>That doesn't seem like a big deal, anyone who is comfortable building their own PC can swap their CPU.  So it would make sense now to go with a cheap dual core now, and then switch to a quad later if it becomes advantageous to do so.  Just make sure whatever board you get also supports quad cores (which should be pretty much all of them I would think).</p><p>In that sense though, getting a Core 2 chip may not make much sense.  The sun is setting on LGA775, and Intel hasn't given us any indication that they plan to release any faster Core 2 chips than what we have now.  It might make more sense to get an AMD board if you were build right now in anticipation of even faster quad chips you could drop in later (are the Phenom II X2's out yet?).</p></div>
+	</htmltext>
+<tokenext>By the way , this same argument used to take place when dual core was introduced .
+Some gamers suggested buying single cores due to their higher clock speeds , but those recommendations were short lived once the software caught up.That does n't seem like a big deal , anyone who is comfortable building their own PC can swap their CPU .
+So it would make sense now to go with a cheap dual core now , and then switch to a quad later if it becomes advantageous to do so .
+Just make sure whatever board you get also supports quad cores ( which should be pretty much all of them I would think ) .In that sense though , getting a Core 2 chip may not make much sense .
+The sun is setting on LGA775 , and Intel has n't given us any indication that they plan to release any faster Core 2 chips than what we have now .
+It might make more sense to get an AMD board if you were build right now in anticipation of even faster quad chips you could drop in later ( are the Phenom II X2 's out yet ?
+) .</tokentext>
+<sentencetext>By the way, this same argument used to take place when dual core was introduced.
+Some gamers suggested buying single cores due to their higher clock speeds, but those recommendations were short lived once the software caught up.That doesn't seem like a big deal, anyone who is comfortable building their own PC can swap their CPU.
+So it would make sense now to go with a cheap dual core now, and then switch to a quad later if it becomes advantageous to do so.
+Just make sure whatever board you get also supports quad cores (which should be pretty much all of them I would think).In that sense though, getting a Core 2 chip may not make much sense.
+The sun is setting on LGA775, and Intel hasn't given us any indication that they plan to release any faster Core 2 chips than what we have now.
+It might make more sense to get an AMD board if you were build right now in anticipation of even faster quad chips you could drop in later (are the Phenom II X2's out yet?
+).
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105703</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106579</id>
+	<title>Re:I Just Don't Get It...</title>
+	<author>MalusCaelestis</author>
+	<datestamp>1243417260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>I don't understand why gamers have this die hard loyalty/borderline bias for Intel.</p></div><p>Then:</p><p><div class="quote"><p>Granted, they are better than AMD hands down [...]</p></div><p>Then:</p><p><div class="quote"><p>Unless you're an extreme gamer [...]</p></div><p>How many times can you answer your own question in the same paragraph?</p><p><div class="quote"><p>[...] it runs all these games just fine with excellent graphics at a 1680x1050 resolution.</p></div><p>If you're only gaming at 1680x1050, then you don't need top-end gear to play games. For those of us on 1920x1200 or higher, beefier components are necessary in order to achieve playable framerates.</p></div>
+	</htmltext>
+<tokenext>I do n't understand why gamers have this die hard loyalty/borderline bias for Intel.Then : Granted , they are better than AMD hands down [ ... ] Then : Unless you 're an extreme gamer [ ... ] How many times can you answer your own question in the same paragraph ? [ .. .
+] it runs all these games just fine with excellent graphics at a 1680x1050 resolution.If you 're only gaming at 1680x1050 , then you do n't need top-end gear to play games .
+For those of us on 1920x1200 or higher , beefier components are necessary in order to achieve playable framerates .</tokentext>
+<sentencetext>I don't understand why gamers have this die hard loyalty/borderline bias for Intel.Then:Granted, they are better than AMD hands down [...]Then:Unless you're an extreme gamer [...]How many times can you answer your own question in the same paragraph?[...
+] it runs all these games just fine with excellent graphics at a 1680x1050 resolution.If you're only gaming at 1680x1050, then you don't need top-end gear to play games.
+For those of us on 1920x1200 or higher, beefier components are necessary in order to achieve playable framerates.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105255</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105123</id>
+	<title>A $500 system is good enough...</title>
+	<author>creimer</author>
+	<datestamp>1243359180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>My top of the line system is about $500.  (More than what my 1994 Pontiac Grand Prix is worth.)  That's good enough to run Quake at 500 FPS.<nobr> <wbr></nobr>:P</htmltext>
+<tokenext>My top of the line system is about $ 500 .
+( More than what my 1994 Pontiac Grand Prix is worth .
+) That 's good enough to run Quake at 500 FPS .
+: P</tokentext>
+<sentencetext>My top of the line system is about $500.
+(More than what my 1994 Pontiac Grand Prix is worth.
+)  That's good enough to run Quake at 500 FPS.
+:P</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28109973</id>
+	<title>Re:Pendantry</title>
+	<author>Anonymous</author>
+	<datestamp>1243440720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>That's because his 1 starts at 0<nobr> <wbr></nobr>:P</p></htmltext>
+<tokenext>That 's because his 1 starts at 0 : P</tokentext>
+<sentencetext>That's because his 1 starts at 0 :P</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105697</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28123527</id>
+	<title>Re:I Just Don't Get It...</title>
+	<author>Anonymous</author>
+	<datestamp>1243524720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>I don't understand why gamers have this die hard loyalty/borderline bias for Intel. Granted, they are better than AMD hands down - they're a bit of an overkill. Unless you're an extreme gamer, you'll never actually need the extra power, and to recommend the Q8400 over the Phenom II X4 940 is odd considering they're usually priced within $5 of each other.</p></div><p>Didn't you just answer your own question?</p></div>
+	</htmltext>
+<tokenext>I do n't understand why gamers have this die hard loyalty/borderline bias for Intel .
+Granted , they are better than AMD hands down - they 're a bit of an overkill .
+Unless you 're an extreme gamer , you 'll never actually need the extra power , and to recommend the Q8400 over the Phenom II X4 940 is odd considering they 're usually priced within $ 5 of each other.Did n't you just answer your own question ?</tokentext>
+<sentencetext>I don't understand why gamers have this die hard loyalty/borderline bias for Intel.
+Granted, they are better than AMD hands down - they're a bit of an overkill.
+Unless you're an extreme gamer, you'll never actually need the extra power, and to recommend the Q8400 over the Phenom II X4 940 is odd considering they're usually priced within $5 of each other.Didn't you just answer your own question?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105255</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105653</id>
+	<title>So the real question is...</title>
+	<author>pankajmay</author>
+	<datestamp>1243365420000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext>So....<br>What is the optimum configuration that yields the high-enough FPS/high-enough resolution/lowest latencies with the minimum of price?<br><br>In other words - Build a system configuration at the minimum price after which any incremental gain in performance is disproportionate to further input in price?<br><br>An optimization problem there.</htmltext>
+<tokenext>So....What is the optimum configuration that yields the high-enough FPS/high-enough resolution/lowest latencies with the minimum of price ? In other words - Build a system configuration at the minimum price after which any incremental gain in performance is disproportionate to further input in price ? An optimization problem there .</tokentext>
+<sentencetext>So....What is the optimum configuration that yields the high-enough FPS/high-enough resolution/lowest latencies with the minimum of price?In other words - Build a system configuration at the minimum price after which any incremental gain in performance is disproportionate to further input in price?An optimization problem there.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106049</id>
+	<title>Re:all that power...</title>
+	<author>bored\_engineer</author>
+	<datestamp>1243455900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Don't kid too much!  Can it run Windows XP under Windows 7?  Nope.</htmltext>
+<tokenext>Do n't kid too much !
+Can it run Windows XP under Windows 7 ?
+Nope .</tokentext>
+<sentencetext>Don't kid too much!
+Can it run Windows XP under Windows 7?
+Nope.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104833</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105599</id>
+	<title>Re:Time is not free</title>
+	<author>Techman83</author>
+	<datestamp>1243364460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>How much do you get paid an hour??? It really doesn't take that long to put a PC together. Personally I can't justify paying someone else to do something so trivial. Sure if your buying an Email machine any old Dell/IBM/HP etc box will do, but go find yourself a pre-built gaming rig... IME they are generally put together with crap parts and expensive. Mate of mine got one like this as he didn't want the fuss, ended up with a vid card that was passively cooled and the whole machine would like up during gaming unless he had a desk fan pointed at it and the side of the case pulled off. 8 Trips to the shop for warranty and no fault found...<br> <br> I'll take my chances building one myself, it's hardly rocket science.</htmltext>
+<tokenext>How much do you get paid an hour ? ? ?
+It really does n't take that long to put a PC together .
+Personally I ca n't justify paying someone else to do something so trivial .
+Sure if your buying an Email machine any old Dell/IBM/HP etc box will do , but go find yourself a pre-built gaming rig... IME they are generally put together with crap parts and expensive .
+Mate of mine got one like this as he did n't want the fuss , ended up with a vid card that was passively cooled and the whole machine would like up during gaming unless he had a desk fan pointed at it and the side of the case pulled off .
+8 Trips to the shop for warranty and no fault found... I 'll take my chances building one myself , it 's hardly rocket science .</tokentext>
+<sentencetext>How much do you get paid an hour???
+It really doesn't take that long to put a PC together.
+Personally I can't justify paying someone else to do something so trivial.
+Sure if your buying an Email machine any old Dell/IBM/HP etc box will do, but go find yourself a pre-built gaming rig... IME they are generally put together with crap parts and expensive.
+Mate of mine got one like this as he didn't want the fuss, ended up with a vid card that was passively cooled and the whole machine would like up during gaming unless he had a desk fan pointed at it and the side of the case pulled off.
+8 Trips to the shop for warranty and no fault found...  I'll take my chances building one myself, it's hardly rocket science.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104833</id>
+	<title>all that power...</title>
+	<author>Anonymous</author>
+	<datestamp>1243356840000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Yeah but can it run windows7? </p><p>
+&nbsp; i kid i kid!</p></htmltext>
+<tokenext>Yeah but can it run windows7 ?
+Â   i kid i kid !</tokentext>
+<sentencetext>Yeah but can it run windows7?
+Â  i kid i kid!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28109567</id>
+	<title>Re:you dont need this shit</title>
+	<author>Anonymous</author>
+	<datestamp>1243438980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>800$ CAN and you have a good PC (only box/PS/HD/CPU/VidCard/Ram).<br>800$ US is more than enough to build a decent system that run the lastest game at high settings (Perhaps not highest... but high)<br>400$... you'll have only shitty pieces of hardware that doesn't always fit well together... (Ex: Lowcost Asus board with 95w max for cpu.. GRR).. at least you need to be careful and READ specs before buying. But it's not impossible<nobr> <wbr></nobr>:D</p></htmltext>
+<tokenext>800 $ CAN and you have a good PC ( only box/PS/HD/CPU/VidCard/Ram ) .800 $ US is more than enough to build a decent system that run the lastest game at high settings ( Perhaps not highest... but high ) 400 $ ... you 'll have only shitty pieces of hardware that does n't always fit well together... ( Ex : Lowcost Asus board with 95w max for cpu.. GRR ) .. at least you need to be careful and READ specs before buying .
+But it 's not impossible : D</tokentext>
+<sentencetext>800$ CAN and you have a good PC (only box/PS/HD/CPU/VidCard/Ram).800$ US is more than enough to build a decent system that run the lastest game at high settings (Perhaps not highest... but high)400$... you'll have only shitty pieces of hardware that doesn't always fit well together... (Ex: Lowcost Asus board with 95w max for cpu.. GRR).. at least you need to be careful and READ specs before buying.
+But it's not impossible :D</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104935</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104847</id>
+	<title>Yay, overclocking!</title>
+	<author>Culture20</author>
+	<datestamp>1243357020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>That $800 PC will be worth much less soon when the CPU fries.</htmltext>
+<tokenext>That $ 800 PC will be worth much less soon when the CPU fries .</tokentext>
+<sentencetext>That $800 PC will be worth much less soon when the CPU fries.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105627</id>
+	<title>$800? More like $300</title>
+	<author>insane\_coder</author>
+	<datestamp>1243365120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>$800 for a gaming PC? I don't think that much was needed for a long time, unless you had to play the latest game on your 2600" screen with a high resolution.
+For roughly $300 these days, you can build a machine to play any game you want on a 19" screen. You don't really need anything more than a GeForce 9 (~$100), and a high end X2 (~$60). The other ~$140 is more than enough to get some RAM, hard drive, dvd burner, motherboard, especially if you find a deal on newegg or the like.
+<br>
+This <a href="http://www.newegg.com/Product/ComboDealDetails.aspx?ItemList=Combo.194454" title="newegg.com" rel="nofollow">here</a> [newegg.com] which is quite a decent machine is only $287 ($322 before rebates). Just add a DVD burner for ~$25, and you're all set.</htmltext>
+<tokenext>$ 800 for a gaming PC ?
+I do n't think that much was needed for a long time , unless you had to play the latest game on your 2600 " screen with a high resolution .
+For roughly $ 300 these days , you can build a machine to play any game you want on a 19 " screen .
+You do n't really need anything more than a GeForce 9 ( ~ $ 100 ) , and a high end X2 ( ~ $ 60 ) .
+The other ~ $ 140 is more than enough to get some RAM , hard drive , dvd burner , motherboard , especially if you find a deal on newegg or the like .
+This here [ newegg.com ] which is quite a decent machine is only $ 287 ( $ 322 before rebates ) .
+Just add a DVD burner for ~ $ 25 , and you 're all set .</tokentext>
+<sentencetext>$800 for a gaming PC?
+I don't think that much was needed for a long time, unless you had to play the latest game on your 2600" screen with a high resolution.
+For roughly $300 these days, you can build a machine to play any game you want on a 19" screen.
+You don't really need anything more than a GeForce 9 (~$100), and a high end X2 (~$60).
+The other ~$140 is more than enough to get some RAM, hard drive, dvd burner, motherboard, especially if you find a deal on newegg or the like.
+This here [newegg.com] which is quite a decent machine is only $287 ($322 before rebates).
+Just add a DVD burner for ~$25, and you're all set.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28109127</id>
+	<title>Re:Better with a Quad Q6600</title>
+	<author>L4t3r4lu5</author>
+	<datestamp>1243436880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Same processor, but DDRII here and 8800GTX.<br> <br>That rig will run a 24" 1920x1200 monitor with all settings up as well. Mine does.<br> <br>You might want to upgrade that screen.</htmltext>
+<tokenext>Same processor , but DDRII here and 8800GTX .
+That rig will run a 24 " 1920x1200 monitor with all settings up as well .
+Mine does .
+You might want to upgrade that screen .</tokentext>
+<sentencetext>Same processor, but DDRII here and 8800GTX.
+That rig will run a 24" 1920x1200 monitor with all settings up as well.
+Mine does.
+You might want to upgrade that screen.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106411</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105505</id>
+	<title>Re:Time is not free</title>
+	<author>Anonymous</author>
+	<datestamp>1243363200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Place your geek card in the shredder and don't let the door kick your ass on the way back out to PHB land.</p></htmltext>
+<tokenext>Place your geek card in the shredder and do n't let the door kick your ass on the way back out to PHB land .</tokentext>
+<sentencetext>Place your geek card in the shredder and don't let the door kick your ass on the way back out to PHB land.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105617</id>
+	<title>Re:$800 bucks? Is it diamond encrusted?</title>
+	<author>artor3</author>
+	<datestamp>1243365000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Ah, but you're not spending $800 on a toy.  You're taking a purchase that you would have made anyway, and upgrading it to also act as a toy.  Those upgrades (graphics card and maybe a better CPU than you'd otherwise get) cost around $300.</p><p>I upgraded my old college desktop to a gaming rig 4 years ago, at a price of $350, and still have no problem playing modern games.  I'd say it's about even with consoles in terms of bang for your buck.</p><p>On the other hand, there are those who always have to have the latest hardware and the best framerates, and end up dropping $2 grand on a PC every year or two.  I could never justify that sort of cost, but then, I don't see the allure in collecting model ships or fine tuning my car either.</p><p>For the record, I also own an Xbox 360, and I greatly enjoy it as well (when it's not blinking those three accursed lights at me).</p></htmltext>
+<tokenext>Ah , but you 're not spending $ 800 on a toy .
+You 're taking a purchase that you would have made anyway , and upgrading it to also act as a toy .
+Those upgrades ( graphics card and maybe a better CPU than you 'd otherwise get ) cost around $ 300.I upgraded my old college desktop to a gaming rig 4 years ago , at a price of $ 350 , and still have no problem playing modern games .
+I 'd say it 's about even with consoles in terms of bang for your buck.On the other hand , there are those who always have to have the latest hardware and the best framerates , and end up dropping $ 2 grand on a PC every year or two .
+I could never justify that sort of cost , but then , I do n't see the allure in collecting model ships or fine tuning my car either.For the record , I also own an Xbox 360 , and I greatly enjoy it as well ( when it 's not blinking those three accursed lights at me ) .</tokentext>
+<sentencetext>Ah, but you're not spending $800 on a toy.
+You're taking a purchase that you would have made anyway, and upgrading it to also act as a toy.
+Those upgrades (graphics card and maybe a better CPU than you'd otherwise get) cost around $300.I upgraded my old college desktop to a gaming rig 4 years ago, at a price of $350, and still have no problem playing modern games.
+I'd say it's about even with consoles in terms of bang for your buck.On the other hand, there are those who always have to have the latest hardware and the best framerates, and end up dropping $2 grand on a PC every year or two.
+I could never justify that sort of cost, but then, I don't see the allure in collecting model ships or fine tuning my car either.For the record, I also own an Xbox 360, and I greatly enjoy it as well (when it's not blinking those three accursed lights at me).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105151</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106501</id>
+	<title>slow news day on slashdot huh</title>
+	<author>wintermute000</author>
+	<datestamp>1243416420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Tell us (geek crowd) more pls.</p><p>Seriously its like waving a flag in front of a bull. Cue the epenis discussion, none of which will be news to any slashdot reading PC gamer. Why don't you just post a snapshot of today's discussion on rage3d or overclock.net or the like.</p><p>Better go break out my 3Dmark vantage benchies and waste hours and hours tuning my ram timings for a 0.5\% gain. Then I post links to newegg for the benefit of international readers.</p><p>oh wait, I wasted them already on slashdot</p></htmltext>
+<tokenext>Tell us ( geek crowd ) more pls.Seriously its like waving a flag in front of a bull .
+Cue the epenis discussion , none of which will be news to any slashdot reading PC gamer .
+Why do n't you just post a snapshot of today 's discussion on rage3d or overclock.net or the like.Better go break out my 3Dmark vantage benchies and waste hours and hours tuning my ram timings for a 0.5 \ % gain .
+Then I post links to newegg for the benefit of international readers.oh wait , I wasted them already on slashdot</tokentext>
+<sentencetext>Tell us (geek crowd) more pls.Seriously its like waving a flag in front of a bull.
+Cue the epenis discussion, none of which will be news to any slashdot reading PC gamer.
+Why don't you just post a snapshot of today's discussion on rage3d or overclock.net or the like.Better go break out my 3Dmark vantage benchies and waste hours and hours tuning my ram timings for a 0.5\% gain.
+Then I post links to newegg for the benefit of international readers.oh wait, I wasted them already on slashdot</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28112077</id>
+	<title>Re:you dont need this shit</title>
+	<author>StuffMaster</author>
+	<datestamp>1243448700000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Face value? Really? I'd upgrade more often if I could get a decent return for the used system. Perhaps I'll try that.</p></htmltext>
+<tokenext>Face value ?
+Really ? I 'd upgrade more often if I could get a decent return for the used system .
+Perhaps I 'll try that .</tokentext>
+<sentencetext>Face value?
+Really? I'd upgrade more often if I could get a decent return for the used system.
+Perhaps I'll try that.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104935</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107095</id>
+	<title>Oh please, come back with something new</title>
+	<author>w0mprat</author>
+	<datestamp>1243422360000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext>When I saw a quad core recommended for a bargain gaming PC I knew I would read about an nvidia card not too far down the list followed by 'gamer/overclocker' ram. Yep it's YAFBBS (Yet Another Fan-Boy Build Story) with no actual useful advice for anyone on a budget. <br> <br>
+At the moment a Radeon 4770 would be a better choice, if the not the #1 on bang for buck, as touted by most reputable sources. Highly clockable e7xxx or e8xxx range core 2 duo still kicks quad core ass for less money (easy stable 4ghz), less power draw and subsequent heat problems. What really gets my gall with these kind of websites, is the ram recommendations. That quad core has a 1333mhz bus, thus DDR2 faster than 667mhz gains almost no improvement in memory bandwidth and latency, yet somehow there is a huge market for this kind of crap.
+<br> <br>
+I hate to sound like a greybeard but back in the day it was all about making dirt cheap parts outperform four-figure parts. Now overclocking parts cost more and are much less challenging to work with. If anything overclocking is boring now, it's all about bling. Remember the Celeron 300A?
+<br> <br>
+Yep, CL5 800 is just fine. If you want another 5\% in benchmarks you can blow your dosh on CL4 1066mhz. Even if you overclock your FSB speed, you'll watch your bandwidth scores scale up, even holding ram speed at a fixed 800mhz! Even if your FSB is stepping up faster than your ram speed, your memory benchmark scores will continue to go up. It only really makes more sense to come down in latency, 667 CL3 is lower *realtime* latency than 1066mhz CL5, and even reasonable 'value ram' will reach those timings with a voltage boost. Yep the socket 775 platform is that crappy. Spend your money on other areas please.
+<br> <br>
+No IT professional worth their salt recommends anything above reasonably priced and reliable 800/1066 ram, unless you really are going to push high FSB speeds on a core 2 duo, maybe worth paying a whisker more. You don't really need heat spreaders either, and a strip of aluminum and 3M thermal tape will do the job better than $20 set of aftermarket spreaders.
+<br> <br>
+Honestly, you could blow this thing away in benchmarks for less money.</htmltext>
+<tokenext>When I saw a quad core recommended for a bargain gaming PC I knew I would read about an nvidia card not too far down the list followed by 'gamer/overclocker ' ram .
+Yep it 's YAFBBS ( Yet Another Fan-Boy Build Story ) with no actual useful advice for anyone on a budget .
+At the moment a Radeon 4770 would be a better choice , if the not the # 1 on bang for buck , as touted by most reputable sources .
+Highly clockable e7xxx or e8xxx range core 2 duo still kicks quad core ass for less money ( easy stable 4ghz ) , less power draw and subsequent heat problems .
+What really gets my gall with these kind of websites , is the ram recommendations .
+That quad core has a 1333mhz bus , thus DDR2 faster than 667mhz gains almost no improvement in memory bandwidth and latency , yet somehow there is a huge market for this kind of crap .
+I hate to sound like a greybeard but back in the day it was all about making dirt cheap parts outperform four-figure parts .
+Now overclocking parts cost more and are much less challenging to work with .
+If anything overclocking is boring now , it 's all about bling .
+Remember the Celeron 300A ?
+Yep , CL5 800 is just fine .
+If you want another 5 \ % in benchmarks you can blow your dosh on CL4 1066mhz .
+Even if you overclock your FSB speed , you 'll watch your bandwidth scores scale up , even holding ram speed at a fixed 800mhz !
+Even if your FSB is stepping up faster than your ram speed , your memory benchmark scores will continue to go up .
+It only really makes more sense to come down in latency , 667 CL3 is lower * realtime * latency than 1066mhz CL5 , and even reasonable 'value ram ' will reach those timings with a voltage boost .
+Yep the socket 775 platform is that crappy .
+Spend your money on other areas please .
+No IT professional worth their salt recommends anything above reasonably priced and reliable 800/1066 ram , unless you really are going to push high FSB speeds on a core 2 duo , maybe worth paying a whisker more .
+You do n't really need heat spreaders either , and a strip of aluminum and 3M thermal tape will do the job better than $ 20 set of aftermarket spreaders .
+Honestly , you could blow this thing away in benchmarks for less money .</tokentext>
+<sentencetext>When I saw a quad core recommended for a bargain gaming PC I knew I would read about an nvidia card not too far down the list followed by 'gamer/overclocker' ram.
+Yep it's YAFBBS (Yet Another Fan-Boy Build Story) with no actual useful advice for anyone on a budget.
+At the moment a Radeon 4770 would be a better choice, if the not the #1 on bang for buck, as touted by most reputable sources.
+Highly clockable e7xxx or e8xxx range core 2 duo still kicks quad core ass for less money (easy stable 4ghz), less power draw and subsequent heat problems.
+What really gets my gall with these kind of websites, is the ram recommendations.
+That quad core has a 1333mhz bus, thus DDR2 faster than 667mhz gains almost no improvement in memory bandwidth and latency, yet somehow there is a huge market for this kind of crap.
+I hate to sound like a greybeard but back in the day it was all about making dirt cheap parts outperform four-figure parts.
+Now overclocking parts cost more and are much less challenging to work with.
+If anything overclocking is boring now, it's all about bling.
+Remember the Celeron 300A?
+Yep, CL5 800 is just fine.
+If you want another 5\% in benchmarks you can blow your dosh on CL4 1066mhz.
+Even if you overclock your FSB speed, you'll watch your bandwidth scores scale up, even holding ram speed at a fixed 800mhz!
+Even if your FSB is stepping up faster than your ram speed, your memory benchmark scores will continue to go up.
+It only really makes more sense to come down in latency, 667 CL3 is lower *realtime* latency than 1066mhz CL5, and even reasonable 'value ram' will reach those timings with a voltage boost.
+Yep the socket 775 platform is that crappy.
+Spend your money on other areas please.
+No IT professional worth their salt recommends anything above reasonably priced and reliable 800/1066 ram, unless you really are going to push high FSB speeds on a core 2 duo, maybe worth paying a whisker more.
+You don't really need heat spreaders either, and a strip of aluminum and 3M thermal tape will do the job better than $20 set of aftermarket spreaders.
+Honestly, you could blow this thing away in benchmarks for less money.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105023</id>
+	<title>Oversucking</title>
+	<author>deathtopaulw</author>
+	<datestamp>1243358400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Overclocking no longer means what it did before.  It's basically intel and the motherboard manufacturers graciously allowing you to use the actual power of the processor you paid for.  That's not overclocking, its reversing underclocking.  I laugh every time my idiot roommate claims his computer is overclocked, when he did nothing but say "do it" in a manager program in windows.</htmltext>
+<tokenext>Overclocking no longer means what it did before .
+It 's basically intel and the motherboard manufacturers graciously allowing you to use the actual power of the processor you paid for .
+That 's not overclocking , its reversing underclocking .
+I laugh every time my idiot roommate claims his computer is overclocked , when he did nothing but say " do it " in a manager program in windows .</tokentext>
+<sentencetext>Overclocking no longer means what it did before.
+It's basically intel and the motherboard manufacturers graciously allowing you to use the actual power of the processor you paid for.
+That's not overclocking, its reversing underclocking.
+I laugh every time my idiot roommate claims his computer is overclocked, when he did nothing but say "do it" in a manager program in windows.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104847</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105247</id>
+	<title>Re:$800 bucks? Is it diamond encrusted?</title>
+	<author>masmullin</author>
+	<datestamp>1243360140000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>0</modscore>
+	<htmltext>parent deserves modded up... not offtopic at all.</htmltext>
+<tokenext>parent deserves modded up... not offtopic at all .</tokentext>
+<sentencetext>parent deserves modded up... not offtopic at all.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104835</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108497</id>
+	<title>More impressed by the $500 gaming PC</title>
+	<author>rwa2</author>
+	<datestamp>1243433640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Most people try to hit the $500 price point with pretty good results:<br><a href="http://www.google.com/search?q=\%24500+gaming+computer" title="google.com">http://www.google.com/search?q=\%24500+gaming+computer</a> [google.com]</p><p>Maybe $800 is good for a (admittedly not very decent) gaming laptop... which would come with a display too...</p><p>Though I guess you could knock off $100 if you dump the Windows Vista OS, for, say Linux, an old copy of WinXP, or even Windows 7 beta, all of which would run games faster than Vista.</p></htmltext>
+<tokenext>Most people try to hit the $ 500 price point with pretty good results : http : //www.google.com/search ? q = \ % 24500 + gaming + computer [ google.com ] Maybe $ 800 is good for a ( admittedly not very decent ) gaming laptop... which would come with a display too...Though I guess you could knock off $ 100 if you dump the Windows Vista OS , for , say Linux , an old copy of WinXP , or even Windows 7 beta , all of which would run games faster than Vista .</tokentext>
+<sentencetext>Most people try to hit the $500 price point with pretty good results:http://www.google.com/search?q=\%24500+gaming+computer [google.com]Maybe $800 is good for a (admittedly not very decent) gaming laptop... which would come with a display too...Though I guess you could knock off $100 if you dump the Windows Vista OS, for, say Linux, an old copy of WinXP, or even Windows 7 beta, all of which would run games faster than Vista.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105405</id>
+	<title>Re:Time is not free</title>
+	<author>Anonymous</author>
+	<datestamp>1243362240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>i dont think it will take you 114h to build it</p></htmltext>
+<tokenext>i dont think it will take you 114h to build it</tokentext>
+<sentencetext>i dont think it will take you 114h to build it</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108305</id>
+	<title>Re:Pendantry</title>
+	<author>greg1104</author>
+	<datestamp>1243432560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Actually, it's worth more, because the bit they disabled is the <a href="http://en.wikipedia.org/wiki/Evil\_bit" title="wikipedia.org">evil one</a> [wikipedia.org].</p></htmltext>
+<tokenext>Actually , it 's worth more , because the bit they disabled is the evil one [ wikipedia.org ] .</tokentext>
+<sentencetext>Actually, it's worth more, because the bit they disabled is the evil one [wikipedia.org].</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105697</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105455</id>
+	<title>$1021 on newegg (I have a DVD and HD already.)</title>
+	<author>F34nor</author>
+	<datestamp>1243362600000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>LIAN LI PC-V350B Black Aluminum MicroATX Mini Tower Computer Case<br>DFI LANPARTY JR X58-T3H6 LGA 1366 Intel X58 Micro ATX Intel Motherboard<br>2x MSI R4770-T2D512 Radeon HD 4770 512MB 128-bit GDDR5 PCI Express 2.0 x16 HDCP Ready CrossFire Supported Video Card<br>FSP Group ZEN 400 400W ATX 2.2V SLI Certified CrossFire Ready 80 PLUS BRONZE Certified Active PFC Fanless Power Supply<br>Intel Core i7 920 Nehalem 2.66GHz LGA 1366 130W Quad-Core Processor Model BX80601920<br>Crucial Ballistix Tracer 4GB (2 x 2GB) 240-Pin DDR3 SDRAM DDR3 1333 (PC3 10600) Dual Channel Kit Desktop Memory with LEDs</p></htmltext>
+<tokenext>LIAN LI PC-V350B Black Aluminum MicroATX Mini Tower Computer CaseDFI LANPARTY JR X58-T3H6 LGA 1366 Intel X58 Micro ATX Intel Motherboard2x MSI R4770-T2D512 Radeon HD 4770 512MB 128-bit GDDR5 PCI Express 2.0 x16 HDCP Ready CrossFire Supported Video CardFSP Group ZEN 400 400W ATX 2.2V SLI Certified CrossFire Ready 80 PLUS BRONZE Certified Active PFC Fanless Power SupplyIntel Core i7 920 Nehalem 2.66GHz LGA 1366 130W Quad-Core Processor Model BX80601920Crucial Ballistix Tracer 4GB ( 2 x 2GB ) 240-Pin DDR3 SDRAM DDR3 1333 ( PC3 10600 ) Dual Channel Kit Desktop Memory with LEDs</tokentext>
+<sentencetext>LIAN LI PC-V350B Black Aluminum MicroATX Mini Tower Computer CaseDFI LANPARTY JR X58-T3H6 LGA 1366 Intel X58 Micro ATX Intel Motherboard2x MSI R4770-T2D512 Radeon HD 4770 512MB 128-bit GDDR5 PCI Express 2.0 x16 HDCP Ready CrossFire Supported Video CardFSP Group ZEN 400 400W ATX 2.2V SLI Certified CrossFire Ready 80 PLUS BRONZE Certified Active PFC Fanless Power SupplyIntel Core i7 920 Nehalem 2.66GHz LGA 1366 130W Quad-Core Processor Model BX80601920Crucial Ballistix Tracer 4GB (2 x 2GB) 240-Pin DDR3 SDRAM DDR3 1333 (PC3 10600) Dual Channel Kit Desktop Memory with LEDs</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28114509</id>
+	<title>Re:Time is not free</title>
+	<author>Patch86</author>
+	<datestamp>1243416780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>I'd say that learning how to put a computer together is as important to use a computer as knowing how to change a wheel is to driving a car, and it's not hard either.</p></div><p>Unfortunately, that cause is just as badly lost as the computer one. Worse even; at least with a computer ignorance can't leave you stranded 30 miles from the nearest mechanic.</p></div>
+	</htmltext>
+<tokenext>I 'd say that learning how to put a computer together is as important to use a computer as knowing how to change a wheel is to driving a car , and it 's not hard either.Unfortunately , that cause is just as badly lost as the computer one .
+Worse even ; at least with a computer ignorance ca n't leave you stranded 30 miles from the nearest mechanic .</tokentext>
+<sentencetext>I'd say that learning how to put a computer together is as important to use a computer as knowing how to change a wheel is to driving a car, and it's not hard either.Unfortunately, that cause is just as badly lost as the computer one.
+Worse even; at least with a computer ignorance can't leave you stranded 30 miles from the nearest mechanic.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105543</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105625</id>
+	<title>Re:Time is not free</title>
+	<author>lena\_10326</author>
+	<datestamp>1243365060000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>If this topic was about playing chess, why would I bother to pay $58/hr to play chess?? I'd have to be a fool!! Umm. Maybe I like playing chess in my spare time. Same goes for DIY'ers who like to build their PC.</p><p>Oh and as others have said, what in the world would take u that long to put a machine together? Do you make $200-300/hr or somethin?</p></htmltext>
+<tokenext>If this topic was about playing chess , why would I bother to pay $ 58/hr to play chess ? ?
+I 'd have to be a fool ! !
+Umm. Maybe I like playing chess in my spare time .
+Same goes for DIY'ers who like to build their PC.Oh and as others have said , what in the world would take u that long to put a machine together ?
+Do you make $ 200-300/hr or somethin ?</tokentext>
+<sentencetext>If this topic was about playing chess, why would I bother to pay $58/hr to play chess??
+I'd have to be a fool!!
+Umm. Maybe I like playing chess in my spare time.
+Same goes for DIY'ers who like to build their PC.Oh and as others have said, what in the world would take u that long to put a machine together?
+Do you make $200-300/hr or somethin?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106243</id>
+	<title>Re:Didn't we already have this story?</title>
+	<author>tygerstripes</author>
+	<datestamp>1243457400000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Absolutely.
+</p><p>Seriously; this article, the person who submitted it, and the editor who deigned it front-page-worthy, can fuck right off.
+</p><p>This is not news, not useful - christ, it's not even interesting. The interwebs are totally awash with articles of <i>exactly</i> this nature, and have been for fucking years. 90\% of<nobr> <wbr></nobr>/.ers are already perfectly capable of building a PC to a spec which suits <i>their</i> unique requirements, cheaper than this, and don't need or want to read this. The other 10\% can fuck off and learn a thing or two about technology before commenting.
+</p><p>I ask you: <b>HOW THE FUCK DID THIS BECOME A FRONT PAGE ARTICLE??!?</b>.
+</p><p>I <i>know</i> this is a surly rant, but I have karma to burn and I'm frankly pissed off that shit like this got through. I mean, why don't we have a "How to write HTML" article, while we're at it?
+</p><p>Christ.</p></htmltext>
+<tokenext>Absolutely .
+Seriously ; this article , the person who submitted it , and the editor who deigned it front-page-worthy , can fuck right off .
+This is not news , not useful - christ , it 's not even interesting .
+The interwebs are totally awash with articles of exactly this nature , and have been for fucking years .
+90 \ % of /.ers are already perfectly capable of building a PC to a spec which suits their unique requirements , cheaper than this , and do n't need or want to read this .
+The other 10 \ % can fuck off and learn a thing or two about technology before commenting .
+I ask you : HOW THE FUCK DID THIS BECOME A FRONT PAGE ARTICLE ? ? ! ? .
+I know this is a surly rant , but I have karma to burn and I 'm frankly pissed off that shit like this got through .
+I mean , why do n't we have a " How to write HTML " article , while we 're at it ?
+Christ .</tokentext>
+<sentencetext>Absolutely.
+Seriously; this article, the person who submitted it, and the editor who deigned it front-page-worthy, can fuck right off.
+This is not news, not useful - christ, it's not even interesting.
+The interwebs are totally awash with articles of exactly this nature, and have been for fucking years.
+90\% of /.ers are already perfectly capable of building a PC to a spec which suits their unique requirements, cheaper than this, and don't need or want to read this.
+The other 10\% can fuck off and learn a thing or two about technology before commenting.
+I ask you: HOW THE FUCK DID THIS BECOME A FRONT PAGE ARTICLE??!?.
+I know this is a surly rant, but I have karma to burn and I'm frankly pissed off that shit like this got through.
+I mean, why don't we have a "How to write HTML" article, while we're at it?
+Christ.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104993</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105535</id>
+	<title>In India...</title>
+	<author>freedom\_india</author>
+	<datestamp>1243363500000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>You can build it a lot cheaper with branded components that cost way less: Here's my rig and prices translated into USD at INR47:$1<br>M2N-E-SLI mobo: 189<br>AMD Athlon X2-63 bit dual core 4200+: 96<br>9800GTX+ AND 8600GT (yeah two): 189<br>LG 17" monitor LCD: 93<br>Case: 20<br>OCZ Vanquisher cooler: 35<br>Point of View PSU: 170<br>Total: 792<br>Hell, the shops here will fix it up, assemble and home deliver free if you spend this much amount at one shop.<br>I got a free MS Natural keyboard, Microsoft Mouse and a 8GB JetFlash card free</p></htmltext>
+<tokenext>You can build it a lot cheaper with branded components that cost way less : Here 's my rig and prices translated into USD at INR47 : $ 1M2N-E-SLI mobo : 189AMD Athlon X2-63 bit dual core 4200 + : 969800GTX + AND 8600GT ( yeah two ) : 189LG 17 " monitor LCD : 93Case : 20OCZ Vanquisher cooler : 35Point of View PSU : 170Total : 792Hell , the shops here will fix it up , assemble and home deliver free if you spend this much amount at one shop.I got a free MS Natural keyboard , Microsoft Mouse and a 8GB JetFlash card free</tokentext>
+<sentencetext>You can build it a lot cheaper with branded components that cost way less: Here's my rig and prices translated into USD at INR47:$1M2N-E-SLI mobo: 189AMD Athlon X2-63 bit dual core 4200+: 969800GTX+ AND 8600GT (yeah two): 189LG 17" monitor LCD: 93Case: 20OCZ Vanquisher cooler: 35Point of View PSU: 170Total: 792Hell, the shops here will fix it up, assemble and home deliver free if you spend this much amount at one shop.I got a free MS Natural keyboard, Microsoft Mouse and a 8GB JetFlash card free</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105951</id>
+	<title>Re:all that power...</title>
+	<author>msormune</author>
+	<datestamp>1243455300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>
+<p>Yeah, but can it run linux and work with modern eye candy enabled in X11 without any lockups?</p><p>I'm not kidding.</p></htmltext>
+<tokenext>Yeah , but can it run linux and work with modern eye candy enabled in X11 without any lockups ? I 'm not kidding .</tokentext>
+<sentencetext>
+Yeah, but can it run linux and work with modern eye candy enabled in X11 without any lockups?I'm not kidding.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104833</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107245</id>
+	<title>Re:$800 bucks? Is it diamond encrusted?</title>
+	<author>tepples</author>
+	<datestamp>1243423920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>I know that consoles are a perfectly legitimate gaming platform, but posting about their cheap cost in article about PC gaming is like posting about the specs of a high end PC in a thread about console gaming.</p></div><p>Then why don't more PC game publishers make console-style multiplayer games to be played on PCs connected to TVs?</p></div>
+	</htmltext>
+<tokenext>I know that consoles are a perfectly legitimate gaming platform , but posting about their cheap cost in article about PC gaming is like posting about the specs of a high end PC in a thread about console gaming.Then why do n't more PC game publishers make console-style multiplayer games to be played on PCs connected to TVs ?</tokentext>
+<sentencetext>I know that consoles are a perfectly legitimate gaming platform, but posting about their cheap cost in article about PC gaming is like posting about the specs of a high end PC in a thread about console gaming.Then why don't more PC game publishers make console-style multiplayer games to be played on PCs connected to TVs?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104939</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104939</id>
+	<title>Re:$800 bucks? Is it diamond encrusted?</title>
+	<author>Anonymous</author>
+	<datestamp>1243357680000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>They're not gaming PCs. The only one that comes close is the PS3 which could run Linux, but since it can't actually access the GPU it's not exactly going to be a gaming behemoth.</p><p>I know that consoles are a perfectly legitimate gaming platform, but posting about their cheap cost in article about PC gaming is like posting about the specs of a high end PC in a thread about console gaming.</p></htmltext>
+<tokenext>They 're not gaming PCs .
+The only one that comes close is the PS3 which could run Linux , but since it ca n't actually access the GPU it 's not exactly going to be a gaming behemoth.I know that consoles are a perfectly legitimate gaming platform , but posting about their cheap cost in article about PC gaming is like posting about the specs of a high end PC in a thread about console gaming .</tokentext>
+<sentencetext>They're not gaming PCs.
+The only one that comes close is the PS3 which could run Linux, but since it can't actually access the GPU it's not exactly going to be a gaming behemoth.I know that consoles are a perfectly legitimate gaming platform, but posting about their cheap cost in article about PC gaming is like posting about the specs of a high end PC in a thread about console gaming.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104835</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105697</id>
+	<title>Pendantry</title>
+	<author>Max Littlemore</author>
+	<datestamp>1243366140000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><blockquote><div><p>AMD Athlon X2-<b>63</b> bit dual core 4200+: 96<br>...<br>Total: 792</p></div>
+</blockquote><p>See, that's because you got a 63 bit processor. The problem with 63 bit processors is you have no end of bizaar problems trying to run modern 64 bit, or even 32 bit software and that's why you save the $8. Myself, I'd spend the extra $8 on 64 bit.<nobr> <wbr></nobr>:-P</p><p> <i>Funnily enough, this is the second reply to this story by someone with a -1 bug. Someone else mentioned their old 485DX33 system.</i> </p></div>
+	</htmltext>
+<tokenext>AMD Athlon X2-63 bit dual core 4200 + : 96...Total : 792 See , that 's because you got a 63 bit processor .
+The problem with 63 bit processors is you have no end of bizaar problems trying to run modern 64 bit , or even 32 bit software and that 's why you save the $ 8 .
+Myself , I 'd spend the extra $ 8 on 64 bit .
+: -P Funnily enough , this is the second reply to this story by someone with a -1 bug .
+Someone else mentioned their old 485DX33 system .</tokentext>
+<sentencetext>AMD Athlon X2-63 bit dual core 4200+: 96...Total: 792
+See, that's because you got a 63 bit processor.
+The problem with 63 bit processors is you have no end of bizaar problems trying to run modern 64 bit, or even 32 bit software and that's why you save the $8.
+Myself, I'd spend the extra $8 on 64 bit.
+:-P Funnily enough, this is the second reply to this story by someone with a -1 bug.
+Someone else mentioned their old 485DX33 system. 
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105535</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105525</id>
+	<title>Re:Time is not free</title>
+	<author>Prien715</author>
+	<datestamp>1243363440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>...and the 2 hours it takes me to uninstall all the crap Dell puts on my box or reformat and reinstall is free?</p><p>Granted, OCing is a bit much, but it's pretty trivial to put a system together in an evening...assuming you know what you're doing.  If not, congrats, you've just saved yourself a $300 community college course;)</p></htmltext>
+<tokenext>...and the 2 hours it takes me to uninstall all the crap Dell puts on my box or reformat and reinstall is free ? Granted , OCing is a bit much , but it 's pretty trivial to put a system together in an evening...assuming you know what you 're doing .
+If not , congrats , you 've just saved yourself a $ 300 community college course ; )</tokentext>
+<sentencetext>...and the 2 hours it takes me to uninstall all the crap Dell puts on my box or reformat and reinstall is free?Granted, OCing is a bit much, but it's pretty trivial to put a system together in an evening...assuming you know what you're doing.
+If not, congrats, you've just saved yourself a $300 community college course;)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106869</id>
+	<title>Re:all that power...</title>
+	<author>Kokuyo</author>
+	<datestamp>1243420020000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I AM running Windows 7 on a Core 2 machine (1.8 GHz-ish) with 2 gigs of RAM. So far, everything works surprisingly well.</p></htmltext>
+<tokenext>I AM running Windows 7 on a Core 2 machine ( 1.8 GHz-ish ) with 2 gigs of RAM .
+So far , everything works surprisingly well .</tokentext>
+<sentencetext>I AM running Windows 7 on a Core 2 machine (1.8 GHz-ish) with 2 gigs of RAM.
+So far, everything works surprisingly well.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104833</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105329</id>
+	<title>Why Quad Core?</title>
+	<author>Anonymous</author>
+	<datestamp>1243361160000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext>I don't understand why you would go with a Quad Core. If you're looking to trim costs, get a Core 2 Duo and overclock the hell out of it. Spend your money on a better graphics card if it's for gaming. I have a quad core and it really only gets utilized for video encoding.</htmltext>
+<tokenext>I do n't understand why you would go with a Quad Core .
+If you 're looking to trim costs , get a Core 2 Duo and overclock the hell out of it .
+Spend your money on a better graphics card if it 's for gaming .
+I have a quad core and it really only gets utilized for video encoding .</tokentext>
+<sentencetext>I don't understand why you would go with a Quad Core.
+If you're looking to trim costs, get a Core 2 Duo and overclock the hell out of it.
+Spend your money on a better graphics card if it's for gaming.
+I have a quad core and it really only gets utilized for video encoding.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105867</id>
+	<title>Re:$1021 on newegg (I have a DVD and HD already.)</title>
+	<author>crazypip666</author>
+	<datestamp>1243454460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>That power supply can't handle an i7 920 and two 4770's even if you ignore the rest of the components.</htmltext>
+<tokenext>That power supply ca n't handle an i7 920 and two 4770 's even if you ignore the rest of the components .</tokentext>
+<sentencetext>That power supply can't handle an i7 920 and two 4770's even if you ignore the rest of the components.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105455</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105255</id>
+	<title>I Just Don't Get It...</title>
+	<author>JoeSixpack00</author>
+	<datestamp>1243360200000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>5</modscore>
+	<htmltext>I don't understand why gamers have this die hard loyalty/borderline bias for Intel. Granted, they are better than AMD hands down - they're a bit of an overkill. Unless you're an extreme gamer, you'll never actually need the extra power, and to recommend the Q8400 over the Phenom II X4 940 is odd considering they're usually priced within $5 of each other.<br> <br>
+
+I build a new computer almost exactly a year ago. 4 Gigs of DDR2 800 Low Latency memory, 7200 RPM SATA II hard drive with 32mb cache, an Athlon X2 5000 BE (I just bumped the multiplier from 13 to 15 to get it at 3ghz) and a HD 3870. With the exception of the CPU, everything is is running at stock speeds. These are the games I play:<br> <br>
+Call of Duty: World at War<br>Fallout 3<br> Race Driver: Grid<br>NBA 2K9<br>Drakensang<br> <br>
+
+I was sure my computer would be sluggish, but it runs all these games just fine with excellent graphics at a 1680x1050 resolution. The point? At the time of my building, all of the mentioned games were (for the most part) considered "current generation", and my CPU was lumped into the scrap heap with the "only if you have to" parts. When I actually started playing games, I soon realized that my performance was exactly what people said I <i>wouldn't</i> achieve.</htmltext>
+<tokenext>I do n't understand why gamers have this die hard loyalty/borderline bias for Intel .
+Granted , they are better than AMD hands down - they 're a bit of an overkill .
+Unless you 're an extreme gamer , you 'll never actually need the extra power , and to recommend the Q8400 over the Phenom II X4 940 is odd considering they 're usually priced within $ 5 of each other .
+I build a new computer almost exactly a year ago .
+4 Gigs of DDR2 800 Low Latency memory , 7200 RPM SATA II hard drive with 32mb cache , an Athlon X2 5000 BE ( I just bumped the multiplier from 13 to 15 to get it at 3ghz ) and a HD 3870 .
+With the exception of the CPU , everything is is running at stock speeds .
+These are the games I play : Call of Duty : World at WarFallout 3 Race Driver : GridNBA 2K9Drakensang I was sure my computer would be sluggish , but it runs all these games just fine with excellent graphics at a 1680x1050 resolution .
+The point ?
+At the time of my building , all of the mentioned games were ( for the most part ) considered " current generation " , and my CPU was lumped into the scrap heap with the " only if you have to " parts .
+When I actually started playing games , I soon realized that my performance was exactly what people said I would n't achieve .</tokentext>
+<sentencetext>I don't understand why gamers have this die hard loyalty/borderline bias for Intel.
+Granted, they are better than AMD hands down - they're a bit of an overkill.
+Unless you're an extreme gamer, you'll never actually need the extra power, and to recommend the Q8400 over the Phenom II X4 940 is odd considering they're usually priced within $5 of each other.
+I build a new computer almost exactly a year ago.
+4 Gigs of DDR2 800 Low Latency memory, 7200 RPM SATA II hard drive with 32mb cache, an Athlon X2 5000 BE (I just bumped the multiplier from 13 to 15 to get it at 3ghz) and a HD 3870.
+With the exception of the CPU, everything is is running at stock speeds.
+These are the games I play: 
+Call of Duty: World at WarFallout 3 Race Driver: GridNBA 2K9Drakensang 
+
+I was sure my computer would be sluggish, but it runs all these games just fine with excellent graphics at a 1680x1050 resolution.
+The point?
+At the time of my building, all of the mentioned games were (for the most part) considered "current generation", and my CPU was lumped into the scrap heap with the "only if you have to" parts.
+When I actually started playing games, I soon realized that my performance was exactly what people said I wouldn't achieve.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107211</id>
+	<title>HDTV Version?</title>
+	<author>Doc Ruby</author>
+	<datestamp>1243423620000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>How about a version of this project that targets 1080p HDTV/DVR instead of gaming? To run Linux of course - for the horsepower, and the thrill of finding drivers<nobr> <wbr></nobr>:).</p></htmltext>
+<tokenext>How about a version of this project that targets 1080p HDTV/DVR instead of gaming ?
+To run Linux of course - for the horsepower , and the thrill of finding drivers : ) .</tokentext>
+<sentencetext>How about a version of this project that targets 1080p HDTV/DVR instead of gaming?
+To run Linux of course - for the horsepower, and the thrill of finding drivers :).</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105395</id>
+	<title>Re:Time is not free</title>
+	<author>Anonymous</author>
+	<datestamp>1243362060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>How much worth of your time was this post ?<br>And how much worth of your time is spent reading slashdot ?</p></htmltext>
+<tokenext>How much worth of your time was this post ? And how much worth of your time is spent reading slashdot ?</tokentext>
+<sentencetext>How much worth of your time was this post ?And how much worth of your time is spent reading slashdot ?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107119</id>
+	<title>Small hard drive and what about the noise?</title>
+	<author>rklrkl</author>
+	<datestamp>1243422540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The article seemed to be confused about the size of the HD in the gaming rig. Initially, it states that they found a 320GB drive for $43, but the final table says it's actually a 250GB drive. Either way, isn't that quite a small drive - you suspect that installing 15-20 games on that rig could potentially fill the 200GB or so that would be available after the OS install. Newegg have the excellent 1TB Samsung Spinpoint F1 for $84.99 - four times the capacity (and I bet faster, cooler and quieter too) for twice the price.</p><p>One thing I didn't see covered by the article was how noisy the rig was - it always worries me that when you get beefy power supplies, CPUs and graphics cards, the thing can sound like a jumbo jet. Now I know that game sound effects can drown most of that out, but what about when you're not playing games? Can you sleep in the same room as the gaming rig is if you leave it turned on overnight?</p></htmltext>
+<tokenext>The article seemed to be confused about the size of the HD in the gaming rig .
+Initially , it states that they found a 320GB drive for $ 43 , but the final table says it 's actually a 250GB drive .
+Either way , is n't that quite a small drive - you suspect that installing 15-20 games on that rig could potentially fill the 200GB or so that would be available after the OS install .
+Newegg have the excellent 1TB Samsung Spinpoint F1 for $ 84.99 - four times the capacity ( and I bet faster , cooler and quieter too ) for twice the price.One thing I did n't see covered by the article was how noisy the rig was - it always worries me that when you get beefy power supplies , CPUs and graphics cards , the thing can sound like a jumbo jet .
+Now I know that game sound effects can drown most of that out , but what about when you 're not playing games ?
+Can you sleep in the same room as the gaming rig is if you leave it turned on overnight ?</tokentext>
+<sentencetext>The article seemed to be confused about the size of the HD in the gaming rig.
+Initially, it states that they found a 320GB drive for $43, but the final table says it's actually a 250GB drive.
+Either way, isn't that quite a small drive - you suspect that installing 15-20 games on that rig could potentially fill the 200GB or so that would be available after the OS install.
+Newegg have the excellent 1TB Samsung Spinpoint F1 for $84.99 - four times the capacity (and I bet faster, cooler and quieter too) for twice the price.One thing I didn't see covered by the article was how noisy the rig was - it always worries me that when you get beefy power supplies, CPUs and graphics cards, the thing can sound like a jumbo jet.
+Now I know that game sound effects can drown most of that out, but what about when you're not playing games?
+Can you sleep in the same room as the gaming rig is if you leave it turned on overnight?</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28112077
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104935
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105569
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28109567
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104935
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106869
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104833
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107681
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105535
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105405
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_38</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28118331
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105951
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104833
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105505
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_37</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28118399
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105703
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105329
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_40</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108305
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105697
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105535
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105617
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105151
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104939
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104835
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_36</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105383
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106049
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104833
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_27</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105395
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107245
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104939
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104835
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_30</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106243
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104993
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_28</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106449
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105329
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108169
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105703
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105329
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_35</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107945
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105525
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28109491
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105255
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106841
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105697
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105535
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108605
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105455
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105499
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105625
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105023
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104847
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28114509
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105543
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_41</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105391
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104847
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107869
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104993
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108215
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105255
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_39</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105247
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104835
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_33</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106579
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105255
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_29</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105689
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105275
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104917
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104835
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_32</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28110923
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108369
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106741
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105729
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_34</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28123527
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105255
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28109973
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105697
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105535
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28109127
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106411
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107661
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105599
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_26</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105867
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105455
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2325208_31</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105641
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105255
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107095
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104835
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104939
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107245
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105151
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105617
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105247
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104917
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105275
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105689
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105257
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105535
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107681
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105697
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28109973
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108305
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106841
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104833
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106049
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105951
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106869
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104993
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106243
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107869
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106411
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28109127
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105123
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104935
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28112077
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28109567
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105327
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105395
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105405
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28118331
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105625
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105525
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105599
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107661
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105569
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107945
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105383
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105505
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105543
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28114509
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105499
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105455
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108605
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105867
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105057
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105627
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105329
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106449
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105703
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28118399
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108169
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28104847
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105391
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105023
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105729
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106741
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105255
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28105641
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28106579
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28123527
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108215
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28109491
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28108369
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28110923
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2325208.17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2325208.28107675
+</commentlist>
+</conversation>

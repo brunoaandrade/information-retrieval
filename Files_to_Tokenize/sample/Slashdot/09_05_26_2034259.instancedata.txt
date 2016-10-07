@@ -1,0 +1,829 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_26_2034259</id>
+	<title>A Push To End the Online Gambling Ban</title>
+	<author>kdawson</author>
+	<datestamp>1243332480000</datestamp>
+	<htmltext><a href="http://hughpickens.com/" rel="nofollow">Hugh Pickens</a> writes <i>"Representative Barney Frank of Massachusetts has introduced legislation that <a href="http://www.nytimes.com/2009/05/26/us/politics/26cong.html">would roll back a ban on Internet gambling</a> enacted when Republicans led Congress. The legislation would allow the Treasury Department to license and regulate online gambling companies that serve American customers. Frank's bill has roughly two dozen co-sponsors and the backing of the The Poker Players Alliance, with over a million members. But opponents are mobilizing to defeat the bill including social conservatives and professional and amateur sports organizations, which say more gambling opportunities could threaten the integrity of their competition. '<a href="http://bachus.house.gov/index.php?option=com\_content&amp;task=view&amp;id=805&amp;Itemid=104">Illegal offshore Internet gambling sites are a criminal enterprise</a>, and allowing them to operate unfettered in the United States would present a clear danger to our youth, who are subject to becoming addicted to gambling at an early age,' says Representative Spencer Bachus, Republican of Alabama and the ranking member on the House Financial Services Committee. Another powerful roadblock could be the Senate majority leader, Harry Reid, Democrat of Nevada. 'Gaming is an important industry to the state, and <a href="http://www.noluckneeded.com/unpopular-harry-reid-faces-online-gambling-question-t8425.html">anything that affects it will be reviewed carefully</a>,' says Reid's spokesman."</i></htmltext>
+<tokenext>Hugh Pickens writes " Representative Barney Frank of Massachusetts has introduced legislation that would roll back a ban on Internet gambling enacted when Republicans led Congress .
+The legislation would allow the Treasury Department to license and regulate online gambling companies that serve American customers .
+Frank 's bill has roughly two dozen co-sponsors and the backing of the The Poker Players Alliance , with over a million members .
+But opponents are mobilizing to defeat the bill including social conservatives and professional and amateur sports organizations , which say more gambling opportunities could threaten the integrity of their competition .
+'Illegal offshore Internet gambling sites are a criminal enterprise , and allowing them to operate unfettered in the United States would present a clear danger to our youth , who are subject to becoming addicted to gambling at an early age, ' says Representative Spencer Bachus , Republican of Alabama and the ranking member on the House Financial Services Committee .
+Another powerful roadblock could be the Senate majority leader , Harry Reid , Democrat of Nevada .
+'Gaming is an important industry to the state , and anything that affects it will be reviewed carefully, ' says Reid 's spokesman .
+"</tokentext>
+<sentencetext>Hugh Pickens writes "Representative Barney Frank of Massachusetts has introduced legislation that would roll back a ban on Internet gambling enacted when Republicans led Congress.
+The legislation would allow the Treasury Department to license and regulate online gambling companies that serve American customers.
+Frank's bill has roughly two dozen co-sponsors and the backing of the The Poker Players Alliance, with over a million members.
+But opponents are mobilizing to defeat the bill including social conservatives and professional and amateur sports organizations, which say more gambling opportunities could threaten the integrity of their competition.
+'Illegal offshore Internet gambling sites are a criminal enterprise, and allowing them to operate unfettered in the United States would present a clear danger to our youth, who are subject to becoming addicted to gambling at an early age,' says Representative Spencer Bachus, Republican of Alabama and the ranking member on the House Financial Services Committee.
+Another powerful roadblock could be the Senate majority leader, Harry Reid, Democrat of Nevada.
+'Gaming is an important industry to the state, and anything that affects it will be reviewed carefully,' says Reid's spokesman.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101935</id>
+	<title>Re:Think of the children?</title>
+	<author>fullmetal55</author>
+	<datestamp>1243337880000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext>exactly, might as well ban the sale of playing cards too.  I know many many kids who's introduction to gambling was playing poker with their buddies for pennies...</htmltext>
+<tokenext>exactly , might as well ban the sale of playing cards too .
+I know many many kids who 's introduction to gambling was playing poker with their buddies for pennies.. .</tokentext>
+<sentencetext>exactly, might as well ban the sale of playing cards too.
+I know many many kids who's introduction to gambling was playing poker with their buddies for pennies...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101779</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101691</id>
+	<title>So...</title>
+	<author>XPeter</author>
+	<datestamp>1243336500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>We'll be seeing  alot of these <a href="http://www.freesoftwaremagazine.com/files/www.freesoftwaremagazine.com/nodes/3027/c20081015\_broken\_monitor.jpg" title="freesoftwaremagazine.com" rel="nofollow">http://www.freesoftwaremagazine.com/files/www.freesoftwaremagazine.com/nodes/3027/c20081015\_broken\_monitor.jpg</a> [freesoftwaremagazine.com] when people start to lose in blackjack?</p></htmltext>
+<tokenext>We 'll be seeing alot of these http : //www.freesoftwaremagazine.com/files/www.freesoftwaremagazine.com/nodes/3027/c20081015 \ _broken \ _monitor.jpg [ freesoftwaremagazine.com ] when people start to lose in blackjack ?</tokentext>
+<sentencetext>We'll be seeing  alot of these http://www.freesoftwaremagazine.com/files/www.freesoftwaremagazine.com/nodes/3027/c20081015\_broken\_monitor.jpg [freesoftwaremagazine.com] when people start to lose in blackjack?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28106031</id>
+	<title>Re:Captain Oxymoron to the Rescue!</title>
+	<author>Anonymous</author>
+	<datestamp>1243455840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I think the point is that US companies would start operating online gambling sites if it was legal.  People in the US would then choose to use these regulated sites, since they're safer than the ones run by offshore criminal enterprises.</p></htmltext>
+<tokenext>I think the point is that US companies would start operating online gambling sites if it was legal .
+People in the US would then choose to use these regulated sites , since they 're safer than the ones run by offshore criminal enterprises .</tokentext>
+<sentencetext>I think the point is that US companies would start operating online gambling sites if it was legal.
+People in the US would then choose to use these regulated sites, since they're safer than the ones run by offshore criminal enterprises.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102017</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102625</id>
+	<title>Re:Wanna Bet?</title>
+	<author>Arthur Grumbine</author>
+	<datestamp>1243341300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>One to One odds?! Madness!! If I'm gonna be a part of turning my beloved<nobr> <wbr></nobr>/. into a "criminal enterprise" you'd have to give me <i>at least</i> 5 to 1 on that. That bill is as dead-in-the-water as a casino boat off the coast of Somalia...</htmltext>
+<tokenext>One to One odds ? !
+Madness ! ! If I 'm gon na be a part of turning my beloved / .
+into a " criminal enterprise " you 'd have to give me at least 5 to 1 on that .
+That bill is as dead-in-the-water as a casino boat off the coast of Somalia.. .</tokentext>
+<sentencetext>One to One odds?!
+Madness!! If I'm gonna be a part of turning my beloved /.
+into a "criminal enterprise" you'd have to give me at least 5 to 1 on that.
+That bill is as dead-in-the-water as a casino boat off the coast of Somalia...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101665</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28117095</id>
+	<title>Re:Captain Oxymoron to the Rescue!</title>
+	<author>Anonymous</author>
+	<datestamp>1243427760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Simple really.  It's the customers.</p><p>I would much rather gamble at a place that is regulated than one that is not regulated as I assume (right or wrong) that I am less likely to be cheated.  When I play a slot machine in Vegas, I know that there are a lot of regulatory eyes on it making it (if not exactly fair) at least it doesn't do things like charge me 6 credits when I think I'm pulling the lever on 5.  A tiny tweak to a random number generator could cause all sorts of pain a a poker table.<br>I have no such assurance if the company is headquartered in a tiny island in the Caribbean.</p></htmltext>
+<tokenext>Simple really .
+It 's the customers.I would much rather gamble at a place that is regulated than one that is not regulated as I assume ( right or wrong ) that I am less likely to be cheated .
+When I play a slot machine in Vegas , I know that there are a lot of regulatory eyes on it making it ( if not exactly fair ) at least it does n't do things like charge me 6 credits when I think I 'm pulling the lever on 5 .
+A tiny tweak to a random number generator could cause all sorts of pain a a poker table.I have no such assurance if the company is headquartered in a tiny island in the Caribbean .</tokentext>
+<sentencetext>Simple really.
+It's the customers.I would much rather gamble at a place that is regulated than one that is not regulated as I assume (right or wrong) that I am less likely to be cheated.
+When I play a slot machine in Vegas, I know that there are a lot of regulatory eyes on it making it (if not exactly fair) at least it doesn't do things like charge me 6 credits when I think I'm pulling the lever on 5.
+A tiny tweak to a random number generator could cause all sorts of pain a a poker table.I have no such assurance if the company is headquartered in a tiny island in the Caribbean.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102017</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28103767</id>
+	<title>Re:Think of the children?</title>
+	<author>Anonymous</author>
+	<datestamp>1243348080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>You are assuming that without the influence of gambling illness that they would be expert financial planners and put away money.  However the two are not directly correlated. I know plenty of people whose parents were not addicted to gambling that did not think enough to put money away for them and they had to work their way through college.</p><p>The fact is that rates of gambling addiction are completely uncorrelated to the prevalence and availability of gambling. In simple terms, addicts will find a way to gamble whether it is lotto, horse racing, or slots.  Removing the barriers to financial transactions for gambling (because internet gambling is not illegal)is in line with WTO rulings.</p><p>America has become a bully at the table forcing people to comply with the WTO when it suits them and ignoring it when it doesn't. The UIGEA has been ruled to be anti-competitive by the WTO and the US is in violation.</p><p>And all the opponents can say is its bad for the kids.  That is because there is no rational argument for keeping gambling online illegal.</p><p>Oh and ps, to ShadowRangerRIT. Games of skill are protected and are not gambling.  Poker has not yet been widely ruled (outside of California) to be a game of skill but it is legal to gamble on games of skill online.  The whole point (which you have admitted to) is that there are winners.  Big winners who use their skill to win.</p><p>
+&nbsp; &nbsp; &nbsp;</p></htmltext>
+<tokenext>You are assuming that without the influence of gambling illness that they would be expert financial planners and put away money .
+However the two are not directly correlated .
+I know plenty of people whose parents were not addicted to gambling that did not think enough to put money away for them and they had to work their way through college.The fact is that rates of gambling addiction are completely uncorrelated to the prevalence and availability of gambling .
+In simple terms , addicts will find a way to gamble whether it is lotto , horse racing , or slots .
+Removing the barriers to financial transactions for gambling ( because internet gambling is not illegal ) is in line with WTO rulings.America has become a bully at the table forcing people to comply with the WTO when it suits them and ignoring it when it does n't .
+The UIGEA has been ruled to be anti-competitive by the WTO and the US is in violation.And all the opponents can say is its bad for the kids .
+That is because there is no rational argument for keeping gambling online illegal.Oh and ps , to ShadowRangerRIT .
+Games of skill are protected and are not gambling .
+Poker has not yet been widely ruled ( outside of California ) to be a game of skill but it is legal to gamble on games of skill online .
+The whole point ( which you have admitted to ) is that there are winners .
+Big winners who use their skill to win .
+Â   Â   Â  </tokentext>
+<sentencetext>You are assuming that without the influence of gambling illness that they would be expert financial planners and put away money.
+However the two are not directly correlated.
+I know plenty of people whose parents were not addicted to gambling that did not think enough to put money away for them and they had to work their way through college.The fact is that rates of gambling addiction are completely uncorrelated to the prevalence and availability of gambling.
+In simple terms, addicts will find a way to gamble whether it is lotto, horse racing, or slots.
+Removing the barriers to financial transactions for gambling (because internet gambling is not illegal)is in line with WTO rulings.America has become a bully at the table forcing people to comply with the WTO when it suits them and ignoring it when it doesn't.
+The UIGEA has been ruled to be anti-competitive by the WTO and the US is in violation.And all the opponents can say is its bad for the kids.
+That is because there is no rational argument for keeping gambling online illegal.Oh and ps, to ShadowRangerRIT.
+Games of skill are protected and are not gambling.
+Poker has not yet been widely ruled (outside of California) to be a game of skill but it is legal to gamble on games of skill online.
+The whole point (which you have admitted to) is that there are winners.
+Big winners who use their skill to win.
+Â  Â  Â </sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101721</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101721</id>
+	<title>Re:Think of the children?</title>
+	<author>ShadowRangerRIT</author>
+	<datestamp>1243336620000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>And how many people failed to attend college because they, or their parents, gambled away the college fund?  I'm not saying gambling should be illegal, I just think it's silly to argue for gambling the perspective of the winners (and only the winners).</p></htmltext>
+<tokenext>And how many people failed to attend college because they , or their parents , gambled away the college fund ?
+I 'm not saying gambling should be illegal , I just think it 's silly to argue for gambling the perspective of the winners ( and only the winners ) .</tokentext>
+<sentencetext>And how many people failed to attend college because they, or their parents, gambled away the college fund?
+I'm not saying gambling should be illegal, I just think it's silly to argue for gambling the perspective of the winners (and only the winners).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102339</id>
+	<title>Re:Think of the children?</title>
+	<author>CodeBuster</author>
+	<datestamp>1243339860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>so it's not like any of this has ever made much sense...</p></div><p>Politics and logic are like oil and water, they don't mix well in practice.</p></div>
+	</htmltext>
+<tokenext>so it 's not like any of this has ever made much sense...Politics and logic are like oil and water , they do n't mix well in practice .</tokentext>
+<sentencetext>so it's not like any of this has ever made much sense...Politics and logic are like oil and water, they don't mix well in practice.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101779</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102017</id>
+	<title>Re:Captain Oxymoron to the Rescue!</title>
+	<author>alvinrod</author>
+	<datestamp>1243338420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>What reason would these alleged criminal enterprises have for coming into the fold if all it brings is additional regulatory red tape and taxation for their business? The fact that they're offshore makes them somewhat difficult for the US to touch and as far as I know there really hasn't been much in the way of legal action brought against these websites.</p><p>Even if the gambling ban is repealed, why should these websites submit to some authority when it's clear from their current position that they obviously don't need to do so. Wouldn't it be more profitable to remain some kind of 'criminal enterprise' that the government can't do anything about, given that if they could you'd already be out of business?</p></htmltext>
+<tokenext>What reason would these alleged criminal enterprises have for coming into the fold if all it brings is additional regulatory red tape and taxation for their business ?
+The fact that they 're offshore makes them somewhat difficult for the US to touch and as far as I know there really has n't been much in the way of legal action brought against these websites.Even if the gambling ban is repealed , why should these websites submit to some authority when it 's clear from their current position that they obviously do n't need to do so .
+Would n't it be more profitable to remain some kind of 'criminal enterprise ' that the government ca n't do anything about , given that if they could you 'd already be out of business ?</tokentext>
+<sentencetext>What reason would these alleged criminal enterprises have for coming into the fold if all it brings is additional regulatory red tape and taxation for their business?
+The fact that they're offshore makes them somewhat difficult for the US to touch and as far as I know there really hasn't been much in the way of legal action brought against these websites.Even if the gambling ban is repealed, why should these websites submit to some authority when it's clear from their current position that they obviously don't need to do so.
+Wouldn't it be more profitable to remain some kind of 'criminal enterprise' that the government can't do anything about, given that if they could you'd already be out of business?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101665</id>
+	<title>Wanna Bet?</title>
+	<author>shma</author>
+	<datestamp>1243336320000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext>50 bucks says the bill fails.</htmltext>
+<tokenext>50 bucks says the bill fails .</tokentext>
+<sentencetext>50 bucks says the bill fails.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101763</id>
+	<title>This story=Interesting gamble.</title>
+	<author>vawarayer</author>
+	<datestamp>1243336860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>All in.</p></htmltext>
+<tokenext>All in .</tokentext>
+<sentencetext>All in.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101941</id>
+	<title>Re:Think of the children?</title>
+	<author>alvinrod</author>
+	<datestamp>1243337940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Of course you wouldn't see all of the people who lost all of the money with which they could have paid tuition because they're no longer in college and out of site. It's similar to how Congress critters like to talk about taking millions of tax dollars to spend on some pet project which will create jobs or infrastructure. Of course they fail to see the jobs or infrastructure which will not be created due to the collection of those taxes or the fact that they cannot be appropriated towards some other project.</p><p>Assuming that in the best case scenario the online casino collects no fees for using their service and takes no percentage of the pot from a tournament, but is solely run through advertising revenue, then the game is zero sum for all of the players as a whole. No one player can win any more than the collective losses of all other players. Sure there are the winners who get to pay off their tuition, loans, etc. but there're also the losers who just lost their rent money, child support payment, etc.</p></htmltext>
+<tokenext>Of course you would n't see all of the people who lost all of the money with which they could have paid tuition because they 're no longer in college and out of site .
+It 's similar to how Congress critters like to talk about taking millions of tax dollars to spend on some pet project which will create jobs or infrastructure .
+Of course they fail to see the jobs or infrastructure which will not be created due to the collection of those taxes or the fact that they can not be appropriated towards some other project.Assuming that in the best case scenario the online casino collects no fees for using their service and takes no percentage of the pot from a tournament , but is solely run through advertising revenue , then the game is zero sum for all of the players as a whole .
+No one player can win any more than the collective losses of all other players .
+Sure there are the winners who get to pay off their tuition , loans , etc .
+but there 're also the losers who just lost their rent money , child support payment , etc .</tokentext>
+<sentencetext>Of course you wouldn't see all of the people who lost all of the money with which they could have paid tuition because they're no longer in college and out of site.
+It's similar to how Congress critters like to talk about taking millions of tax dollars to spend on some pet project which will create jobs or infrastructure.
+Of course they fail to see the jobs or infrastructure which will not be created due to the collection of those taxes or the fact that they cannot be appropriated towards some other project.Assuming that in the best case scenario the online casino collects no fees for using their service and takes no percentage of the pot from a tournament, but is solely run through advertising revenue, then the game is zero sum for all of the players as a whole.
+No one player can win any more than the collective losses of all other players.
+Sure there are the winners who get to pay off their tuition, loans, etc.
+but there're also the losers who just lost their rent money, child support payment, etc.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28105939</id>
+	<title>unfortunately I'm forced to care about you</title>
+	<author>r00t</author>
+	<datestamp>1243455240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>If you go broke or endanger your health (note: either can lead to the other) then I'm forced to pay for the resulting mess.</p><p>When an ambulance hauls your unconcious body into a hospital and you get treated, your failure to pay the bill causes rates to rise for me.</p><p>When you default on your loans, interest rates rise for me.</p><p>When you turn to crime to pay for your habits, you may mug or burglarize me.</p><p>When you fail to pay your share of taxes, a greater burden falls on me.</p></htmltext>
+<tokenext>If you go broke or endanger your health ( note : either can lead to the other ) then I 'm forced to pay for the resulting mess.When an ambulance hauls your unconcious body into a hospital and you get treated , your failure to pay the bill causes rates to rise for me.When you default on your loans , interest rates rise for me.When you turn to crime to pay for your habits , you may mug or burglarize me.When you fail to pay your share of taxes , a greater burden falls on me .</tokentext>
+<sentencetext>If you go broke or endanger your health (note: either can lead to the other) then I'm forced to pay for the resulting mess.When an ambulance hauls your unconcious body into a hospital and you get treated, your failure to pay the bill causes rates to rise for me.When you default on your loans, interest rates rise for me.When you turn to crime to pay for your habits, you may mug or burglarize me.When you fail to pay your share of taxes, a greater burden falls on me.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102489</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101699</id>
+	<title>welcome to the age of the internet</title>
+	<author>circletimessquare</author>
+	<datestamp>1243336500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>if you don't allow it, it just moves offshore and continues uninterrupted, resulting in nothing but your own businesses not getting a share of the pie</p></htmltext>
+<tokenext>if you do n't allow it , it just moves offshore and continues uninterrupted , resulting in nothing but your own businesses not getting a share of the pie</tokentext>
+<sentencetext>if you don't allow it, it just moves offshore and continues uninterrupted, resulting in nothing but your own businesses not getting a share of the pie</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101689</id>
+	<title>ghgg</title>
+	<author>LUSIK</author>
+	<datestamp>1243336440000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext>ohhhh      <a href="http://mazok.ucoz.com/" title="ucoz.com" rel="nofollow">http://mazok.ucoz.com/</a> [ucoz.com]</htmltext>
+<tokenext>ohhhh http : //mazok.ucoz.com/ [ ucoz.com ]</tokentext>
+<sentencetext>ohhhh      http://mazok.ucoz.com/ [ucoz.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28110571</id>
+	<title>Re:Captain Oxymoron to the Rescue!</title>
+	<author>Anonymous</author>
+	<datestamp>1243443060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Wont somebody please think of the children!</p></htmltext>
+<tokenext>Wont somebody please think of the children !</tokentext>
+<sentencetext>Wont somebody please think of the children!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663</id>
+	<title>Think of the children?</title>
+	<author>Anonymous</author>
+	<datestamp>1243336320000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Not that I know of.</p><p>I have seen people pay for skyrocketing college tuition with winnings from online poker.</p></htmltext>
+<tokenext>Not that I know of.I have seen people pay for skyrocketing college tuition with winnings from online poker .</tokentext>
+<sentencetext>Not that I know of.I have seen people pay for skyrocketing college tuition with winnings from online poker.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101779</id>
+	<title>Re:Think of the children?</title>
+	<author>Anonymous</author>
+	<datestamp>1243336980000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><i> allowing them to operate unfettered in the United States would present a clear danger to our youth, who are subject to becoming addicted to gambling at an early age</i> <br> <br>
+
+Even if they did--for some odd reason--forget to make internet gambling specifically illegal for minors, what kid has a line of credit that's sufficient enough that they can gamble online for long enough to create an addiction?
+<br> <br>
+<i>Illegal offshore Internet gambling sites are a criminal enterprise</i> <br> <br>Gotta love arguments against legalizing things that are based entirely on the fact that they are currently illegal... Then again, I live in a state where gambling is legal, so long as you're on a body of water (no matter how small), so it's not like any of this has ever made much sense...</htmltext>
+<tokenext>allowing them to operate unfettered in the United States would present a clear danger to our youth , who are subject to becoming addicted to gambling at an early age Even if they did--for some odd reason--forget to make internet gambling specifically illegal for minors , what kid has a line of credit that 's sufficient enough that they can gamble online for long enough to create an addiction ?
+Illegal offshore Internet gambling sites are a criminal enterprise Got ta love arguments against legalizing things that are based entirely on the fact that they are currently illegal... Then again , I live in a state where gambling is legal , so long as you 're on a body of water ( no matter how small ) , so it 's not like any of this has ever made much sense.. .</tokentext>
+<sentencetext> allowing them to operate unfettered in the United States would present a clear danger to our youth, who are subject to becoming addicted to gambling at an early age  
+
+Even if they did--for some odd reason--forget to make internet gambling specifically illegal for minors, what kid has a line of credit that's sufficient enough that they can gamble online for long enough to create an addiction?
+Illegal offshore Internet gambling sites are a criminal enterprise  Gotta love arguments against legalizing things that are based entirely on the fact that they are currently illegal... Then again, I live in a state where gambling is legal, so long as you're on a body of water (no matter how small), so it's not like any of this has ever made much sense...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28109297</id>
+	<title>Re:Think of the children?</title>
+	<author>Embrionic</author>
+	<datestamp>1243437660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>And how many people failed to attend college because they, or their parents, gambled away the college fund?  I'm not saying gambling should be illegal, I just think it's silly to argue for gambling the perspective of the winners (and only the winners).</p></div><p>"And how many people failed to attend college because they, or their parents, gambled away the college fund?"</p><p>On the stock market, probably quite a bit. Oh wait, we're not supposed to refer to that as gambling.</p><p>How many people failed to attend college because:</p><p>1. Parent spent all the money on alcohol<br>2. Parent decided to purchase a house they could not afford<br>3. Parent spent all they money on luxury items they can no longer afford with the economic downturn </p><p>Ok, so let's just ban everything to protect the children! The only thing silly (IMHO) is to allow the government to tell consenting adults how they can and cannot spend their own money. They are simply treating us like the children they claim they want to protect.</p></div>
+	</htmltext>
+<tokenext>And how many people failed to attend college because they , or their parents , gambled away the college fund ?
+I 'm not saying gambling should be illegal , I just think it 's silly to argue for gambling the perspective of the winners ( and only the winners ) .
+" And how many people failed to attend college because they , or their parents , gambled away the college fund ?
+" On the stock market , probably quite a bit .
+Oh wait , we 're not supposed to refer to that as gambling.How many people failed to attend college because : 1 .
+Parent spent all the money on alcohol2 .
+Parent decided to purchase a house they could not afford3 .
+Parent spent all they money on luxury items they can no longer afford with the economic downturn Ok , so let 's just ban everything to protect the children !
+The only thing silly ( IMHO ) is to allow the government to tell consenting adults how they can and can not spend their own money .
+They are simply treating us like the children they claim they want to protect .</tokentext>
+<sentencetext>And how many people failed to attend college because they, or their parents, gambled away the college fund?
+I'm not saying gambling should be illegal, I just think it's silly to argue for gambling the perspective of the winners (and only the winners).
+"And how many people failed to attend college because they, or their parents, gambled away the college fund?
+"On the stock market, probably quite a bit.
+Oh wait, we're not supposed to refer to that as gambling.How many people failed to attend college because:1.
+Parent spent all the money on alcohol2.
+Parent decided to purchase a house they could not afford3.
+Parent spent all they money on luxury items they can no longer afford with the economic downturn Ok, so let's just ban everything to protect the children!
+The only thing silly (IMHO) is to allow the government to tell consenting adults how they can and cannot spend their own money.
+They are simply treating us like the children they claim they want to protect.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101721</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101813</id>
+	<title>Re:Think of the children?</title>
+	<author>larry bagina</author>
+	<datestamp>1243337160000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext>you can also pay your college tuition by pimping your ass out to barney frank.  He likes young boys (under 20) with tight assholes.  If you don't mind a 70+ year old man giving you a rimjob and sucking you off, give barney a call.</htmltext>
+<tokenext>you can also pay your college tuition by pimping your ass out to barney frank .
+He likes young boys ( under 20 ) with tight assholes .
+If you do n't mind a 70 + year old man giving you a rimjob and sucking you off , give barney a call .</tokentext>
+<sentencetext>you can also pay your college tuition by pimping your ass out to barney frank.
+He likes young boys (under 20) with tight assholes.
+If you don't mind a 70+ year old man giving you a rimjob and sucking you off, give barney a call.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102489</id>
+	<title>Re:Captain Oxymoron to the Rescue!</title>
+	<author>CodeBuster</author>
+	<datestamp>1243340640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>By making it legal, you can bring them onshore, where they can be taxed and regulated, just like state lotteries and privately-owned casinos.</p></div><p>Actually, you wouldn't need to bring them onshore to do that. Gambling can be taxed under WTO rules as long as onshore and offshore gambling are taxed equally. In fact, the US is currently under WTO sanctions because our gambling laws are at odds with our treaty obligations with regard to gambling.</p><p><div class="quote"><p>Speaking of privately-owned casinos, at least Sen. Reid of Nevada has a "legitimate" reason to be a roadblock: He just doesn't want to see Vegas have any competition.</p></div><p>Pure cynicism if ever there was such a thing; its hard to be more blatantly biased than that.</p><p><div class="quote"><p>The dumb part about Reid's objection is that the legalization of online poker would bring a lot of new players into the game. Some of 'em might even end up enjoying it so much they end up going to Vegas to play the game in meatspace.</p></div><p>It is not the role of government to ban activities which people might enjoy too much, even to their own detriment. The lives of individuals belong to those individuals and it is not the damn business of the State to tell two people that they cannot gamble, have sex in a peculiar way, smoke, drink etc. It was supposed to be a free country people and that means freedom to make the "wrong" choices (or choices that some might judge to be wrong) as long as such choices do not infringe upon the abilities of others to make their own free choices (i.e. no violence or coercion). I really dislike people who try to run or control the lives of other free thinking and independent adults because they represent the tyranny that our founding fathers and generations of our soldiers shed blood to escape from.</p></div>
+	</htmltext>
+<tokenext>By making it legal , you can bring them onshore , where they can be taxed and regulated , just like state lotteries and privately-owned casinos.Actually , you would n't need to bring them onshore to do that .
+Gambling can be taxed under WTO rules as long as onshore and offshore gambling are taxed equally .
+In fact , the US is currently under WTO sanctions because our gambling laws are at odds with our treaty obligations with regard to gambling.Speaking of privately-owned casinos , at least Sen. Reid of Nevada has a " legitimate " reason to be a roadblock : He just does n't want to see Vegas have any competition.Pure cynicism if ever there was such a thing ; its hard to be more blatantly biased than that.The dumb part about Reid 's objection is that the legalization of online poker would bring a lot of new players into the game .
+Some of 'em might even end up enjoying it so much they end up going to Vegas to play the game in meatspace.It is not the role of government to ban activities which people might enjoy too much , even to their own detriment .
+The lives of individuals belong to those individuals and it is not the damn business of the State to tell two people that they can not gamble , have sex in a peculiar way , smoke , drink etc .
+It was supposed to be a free country people and that means freedom to make the " wrong " choices ( or choices that some might judge to be wrong ) as long as such choices do not infringe upon the abilities of others to make their own free choices ( i.e .
+no violence or coercion ) .
+I really dislike people who try to run or control the lives of other free thinking and independent adults because they represent the tyranny that our founding fathers and generations of our soldiers shed blood to escape from .</tokentext>
+<sentencetext>By making it legal, you can bring them onshore, where they can be taxed and regulated, just like state lotteries and privately-owned casinos.Actually, you wouldn't need to bring them onshore to do that.
+Gambling can be taxed under WTO rules as long as onshore and offshore gambling are taxed equally.
+In fact, the US is currently under WTO sanctions because our gambling laws are at odds with our treaty obligations with regard to gambling.Speaking of privately-owned casinos, at least Sen. Reid of Nevada has a "legitimate" reason to be a roadblock: He just doesn't want to see Vegas have any competition.Pure cynicism if ever there was such a thing; its hard to be more blatantly biased than that.The dumb part about Reid's objection is that the legalization of online poker would bring a lot of new players into the game.
+Some of 'em might even end up enjoying it so much they end up going to Vegas to play the game in meatspace.It is not the role of government to ban activities which people might enjoy too much, even to their own detriment.
+The lives of individuals belong to those individuals and it is not the damn business of the State to tell two people that they cannot gamble, have sex in a peculiar way, smoke, drink etc.
+It was supposed to be a free country people and that means freedom to make the "wrong" choices (or choices that some might judge to be wrong) as long as such choices do not infringe upon the abilities of others to make their own free choices (i.e.
+no violence or coercion).
+I really dislike people who try to run or control the lives of other free thinking and independent adults because they represent the tyranny that our founding fathers and generations of our soldiers shed blood to escape from.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102465</id>
+	<title>Re:Captain Oxymoron to the Rescue!</title>
+	<author>stephanruby</author>
+	<datestamp>1243340520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>If the gambling ban is repealed, these sites would immediately cease to be "criminal enterprises", and become legal offshore Internet gambling sites.</p></div> </blockquote><p>No. There is also the current problem of off-shore casinos reneging on paying their largest winners. To make off-shore gambling more legit, we would need to make those enterprise bonded (or insured) with actual assets in the US that could be taken away and given to the winners in case of breach of contract.</p><p>And while we're at it, we'd probably also need some kind of auditing process, to make sure there is no other type of in-house cheating designed to cheat customers out of their winnings (that being said, don't ask me how to do that last part, that's not my field).
+</p></div>
+	</htmltext>
+<tokenext>If the gambling ban is repealed , these sites would immediately cease to be " criminal enterprises " , and become legal offshore Internet gambling sites .
+No. There is also the current problem of off-shore casinos reneging on paying their largest winners .
+To make off-shore gambling more legit , we would need to make those enterprise bonded ( or insured ) with actual assets in the US that could be taken away and given to the winners in case of breach of contract.And while we 're at it , we 'd probably also need some kind of auditing process , to make sure there is no other type of in-house cheating designed to cheat customers out of their winnings ( that being said , do n't ask me how to do that last part , that 's not my field ) .</tokentext>
+<sentencetext>If the gambling ban is repealed, these sites would immediately cease to be "criminal enterprises", and become legal offshore Internet gambling sites.
+No. There is also the current problem of off-shore casinos reneging on paying their largest winners.
+To make off-shore gambling more legit, we would need to make those enterprise bonded (or insured) with actual assets in the US that could be taken away and given to the winners in case of breach of contract.And while we're at it, we'd probably also need some kind of auditing process, to make sure there is no other type of in-house cheating designed to cheat customers out of their winnings (that being said, don't ask me how to do that last part, that's not my field).
+
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28111099</id>
+	<title>Re:Think of the children?</title>
+	<author>TheNatealator</author>
+	<datestamp>1243445220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p><div class="quote"><p>And how many people failed to attend college because they, or their parents, gambled away the college fund?</p></div><p>That is an argument which is sometimes made by the anti-gambling people, but really how many specific cases have their been where parents gambled away junior's college money? It seems to be a popular cautionary story that happens rarely in practice (i.e. a variation of the "think of the children" fallacy). This type of logical fallacy has a long and colorful history in our legislature, and it is easier to appeal to emotion rather than logic (i.e. "if you are against me then you are against the children, how can you be against the children?"), but that doesn't make the tactic right. The more that we use emotional arguments in our national policy the greater the damage that we do to our constitution and the values that our nation was founded upon.</p></div><p>So, you respond to a call to emotions by saying "It's not that big of a problem" without providing \_any\_ data? Yes, he said almost literally, "Think of the children", but there is no statistical evidence on either side.  I imagine there isn't much data on this, because gambling establishments wouldn't tout "We've ruined X people" (bad for business) and the causes behind someone's downfall are usually more complicated.
+</p><p>
+If we did have some statistics, though, then maybe we would see that ShadowRangerRIT is not simply pulling our heartstrings, but pointing out a serious issue: the negative effect that gambling has on children of gamblers.
+</p><p>
+Of course, a counter argument could be along the lines of "alcohol is legal but we have alcoholics" (but not "that's an appeal to emotion, but here's \_no\_ facts to back my claim up")
+</p><p>
+Returning to ShadowRanger's point, there are more losers than winners in gambling.  In house games, the odds are stacked in favor of the house (so they can stay in business). Otherwise, money goes straight from one player to another. It's a zero-sum game, unless the losers go to the bank to get more money. So, when we think of gambling, we associate it with winning lots of money (as the casinos want us to think) but with some proportion of winners and losers, as it really is.</p></div>
+	</htmltext>
+<tokenext>And how many people failed to attend college because they , or their parents , gambled away the college fund ? That is an argument which is sometimes made by the anti-gambling people , but really how many specific cases have their been where parents gambled away junior 's college money ?
+It seems to be a popular cautionary story that happens rarely in practice ( i.e .
+a variation of the " think of the children " fallacy ) .
+This type of logical fallacy has a long and colorful history in our legislature , and it is easier to appeal to emotion rather than logic ( i.e .
+" if you are against me then you are against the children , how can you be against the children ?
+" ) , but that does n't make the tactic right .
+The more that we use emotional arguments in our national policy the greater the damage that we do to our constitution and the values that our nation was founded upon.So , you respond to a call to emotions by saying " It 's not that big of a problem " without providing \ _any \ _ data ?
+Yes , he said almost literally , " Think of the children " , but there is no statistical evidence on either side .
+I imagine there is n't much data on this , because gambling establishments would n't tout " We 've ruined X people " ( bad for business ) and the causes behind someone 's downfall are usually more complicated .
+If we did have some statistics , though , then maybe we would see that ShadowRangerRIT is not simply pulling our heartstrings , but pointing out a serious issue : the negative effect that gambling has on children of gamblers .
+Of course , a counter argument could be along the lines of " alcohol is legal but we have alcoholics " ( but not " that 's an appeal to emotion , but here 's \ _no \ _ facts to back my claim up " ) Returning to ShadowRanger 's point , there are more losers than winners in gambling .
+In house games , the odds are stacked in favor of the house ( so they can stay in business ) .
+Otherwise , money goes straight from one player to another .
+It 's a zero-sum game , unless the losers go to the bank to get more money .
+So , when we think of gambling , we associate it with winning lots of money ( as the casinos want us to think ) but with some proportion of winners and losers , as it really is .</tokentext>
+<sentencetext>And how many people failed to attend college because they, or their parents, gambled away the college fund?That is an argument which is sometimes made by the anti-gambling people, but really how many specific cases have their been where parents gambled away junior's college money?
+It seems to be a popular cautionary story that happens rarely in practice (i.e.
+a variation of the "think of the children" fallacy).
+This type of logical fallacy has a long and colorful history in our legislature, and it is easier to appeal to emotion rather than logic (i.e.
+"if you are against me then you are against the children, how can you be against the children?
+"), but that doesn't make the tactic right.
+The more that we use emotional arguments in our national policy the greater the damage that we do to our constitution and the values that our nation was founded upon.So, you respond to a call to emotions by saying "It's not that big of a problem" without providing \_any\_ data?
+Yes, he said almost literally, "Think of the children", but there is no statistical evidence on either side.
+I imagine there isn't much data on this, because gambling establishments wouldn't tout "We've ruined X people" (bad for business) and the causes behind someone's downfall are usually more complicated.
+If we did have some statistics, though, then maybe we would see that ShadowRangerRIT is not simply pulling our heartstrings, but pointing out a serious issue: the negative effect that gambling has on children of gamblers.
+Of course, a counter argument could be along the lines of "alcohol is legal but we have alcoholics" (but not "that's an appeal to emotion, but here's \_no\_ facts to back my claim up")
+
+Returning to ShadowRanger's point, there are more losers than winners in gambling.
+In house games, the odds are stacked in favor of the house (so they can stay in business).
+Otherwise, money goes straight from one player to another.
+It's a zero-sum game, unless the losers go to the bank to get more money.
+So, when we think of gambling, we associate it with winning lots of money (as the casinos want us to think) but with some proportion of winners and losers, as it really is.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102245</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102245</id>
+	<title>Re:Think of the children?</title>
+	<author>CodeBuster</author>
+	<datestamp>1243339500000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext><p><div class="quote"><p>And how many people failed to attend college because they, or their parents, gambled away the college fund?</p></div><p>That is an argument which is sometimes made by the anti-gambling people, but really how many specific cases have their been where parents gambled away junior's college money? It seems to be a popular cautionary story that happens rarely in practice (i.e. a variation of the "think of the children" fallacy). This type of logical fallacy has a long and colorful history in our legislature, and it is easier to appeal to emotion rather than logic (i.e. "if you are against me then you are against the children, how can you be against the children?"), but that doesn't make the tactic right. The more that we use emotional arguments in our national policy the greater the damage that we do to our constitution and the values that our nation was founded upon.</p><p><div class="quote"><p>I'm not saying gambling should be illegal, I just think it's silly to argue for gambling the perspective of the winners</p></div><p>Fair enough, but did you know that the US is presently in violation of the WTO treaties on trade with our present gambling laws? The treaties say that you can either ban all gambling or allow it, but that if you allow it then you <b>must</b> allow foreign competition (i.e. offshore internet gambling). In fact, a small caribbean nation (Antigua) actually won a WTO action against the United States on this very point and the United States is currently racking up fines and damages payable to Antigua for violating the treaty. What makes the whole thing doubly interesting is that Antigua has requested an unusual remedy, namely the privilege of ignoring US copyrights on movies, music, software, and other creative products produced in the United States.</p></div>
+	</htmltext>
+<tokenext>And how many people failed to attend college because they , or their parents , gambled away the college fund ? That is an argument which is sometimes made by the anti-gambling people , but really how many specific cases have their been where parents gambled away junior 's college money ?
+It seems to be a popular cautionary story that happens rarely in practice ( i.e .
+a variation of the " think of the children " fallacy ) .
+This type of logical fallacy has a long and colorful history in our legislature , and it is easier to appeal to emotion rather than logic ( i.e .
+" if you are against me then you are against the children , how can you be against the children ?
+" ) , but that does n't make the tactic right .
+The more that we use emotional arguments in our national policy the greater the damage that we do to our constitution and the values that our nation was founded upon.I 'm not saying gambling should be illegal , I just think it 's silly to argue for gambling the perspective of the winnersFair enough , but did you know that the US is presently in violation of the WTO treaties on trade with our present gambling laws ?
+The treaties say that you can either ban all gambling or allow it , but that if you allow it then you must allow foreign competition ( i.e .
+offshore internet gambling ) .
+In fact , a small caribbean nation ( Antigua ) actually won a WTO action against the United States on this very point and the United States is currently racking up fines and damages payable to Antigua for violating the treaty .
+What makes the whole thing doubly interesting is that Antigua has requested an unusual remedy , namely the privilege of ignoring US copyrights on movies , music , software , and other creative products produced in the United States .</tokentext>
+<sentencetext>And how many people failed to attend college because they, or their parents, gambled away the college fund?That is an argument which is sometimes made by the anti-gambling people, but really how many specific cases have their been where parents gambled away junior's college money?
+It seems to be a popular cautionary story that happens rarely in practice (i.e.
+a variation of the "think of the children" fallacy).
+This type of logical fallacy has a long and colorful history in our legislature, and it is easier to appeal to emotion rather than logic (i.e.
+"if you are against me then you are against the children, how can you be against the children?
+"), but that doesn't make the tactic right.
+The more that we use emotional arguments in our national policy the greater the damage that we do to our constitution and the values that our nation was founded upon.I'm not saying gambling should be illegal, I just think it's silly to argue for gambling the perspective of the winnersFair enough, but did you know that the US is presently in violation of the WTO treaties on trade with our present gambling laws?
+The treaties say that you can either ban all gambling or allow it, but that if you allow it then you must allow foreign competition (i.e.
+offshore internet gambling).
+In fact, a small caribbean nation (Antigua) actually won a WTO action against the United States on this very point and the United States is currently racking up fines and damages payable to Antigua for violating the treaty.
+What makes the whole thing doubly interesting is that Antigua has requested an unusual remedy, namely the privilege of ignoring US copyrights on movies, music, software, and other creative products produced in the United States.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101721</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102045</id>
+	<title>Re:Captain Oxymoron to the Rescue!</title>
+	<author>Mattazuma</author>
+	<datestamp>1243338540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I think Reid will end up backing the bill.  The big casino companies would love to buy Party Poker and the other big poker sites if they are legalized.  They already have their own online gambling sites overseas.</htmltext>
+<tokenext>I think Reid will end up backing the bill .
+The big casino companies would love to buy Party Poker and the other big poker sites if they are legalized .
+They already have their own online gambling sites overseas .</tokentext>
+<sentencetext>I think Reid will end up backing the bill.
+The big casino companies would love to buy Party Poker and the other big poker sites if they are legalized.
+They already have their own online gambling sites overseas.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777</id>
+	<title>Captain Oxymoron to the Rescue!</title>
+	<author>Anonymous</author>
+	<datestamp>1243336980000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><blockquote><div><p>" 'Illegal offshore Internet gambling sites are a criminal enterprise, and allowing them to operate unfettered in the United States would present a clear danger to our youth, who are subject to becoming addicted to gambling at an early age," says Representative Spencer Bachus, Republican of Alabama and the ranking member on the House Financial Services Committee.</p></div> </blockquote><p>
+Wow, the <a href="http://en.wikipedia.org/wiki/Doublethink" title="wikipedia.org">doublethink</a> [wikipedia.org] boggles the mind.
+</p><p>
+If the gambling ban is repealed, these sites would immediately cease to be "criminal enterprises", and become <em>legal</em> offshore Internet gambling sites.
+</p><p>
+If the gambling ban is repealed and these sites chose to operate "unfettered within the United States", they'd then become <em>legal, American</em> gambling sites.
+</p><p>
+The whole fracking <em>point</em>, Rep. Bachus, is to eliminate these "offshore criminal enterprises".  By making it <em>legal</em>, you can bring them <em>onshore</em>, where they can be taxed and regulated, just like state lotteries and privately-owned casinos.
+</p><p>
+Speaking of privately-owned casinos, at least Sen. Reid of Nevada has a "legitimate" reason to be a roadblock:  He just doesn't want to see Vegas have any competition.
+</p><p>
+The dumb part about Reid's objection is that the legalization of online poker would bring a lot of new players into the game.  Some of 'em might even end up enjoying it so much they end up going to Vegas to play the game  in meatspace.  Quit acting like the RIAA of gaming, buddy, and you just might make a few more bucks.</p></div>
+	</htmltext>
+<tokenext>" 'Illegal offshore Internet gambling sites are a criminal enterprise , and allowing them to operate unfettered in the United States would present a clear danger to our youth , who are subject to becoming addicted to gambling at an early age , " says Representative Spencer Bachus , Republican of Alabama and the ranking member on the House Financial Services Committee .
+Wow , the doublethink [ wikipedia.org ] boggles the mind .
+If the gambling ban is repealed , these sites would immediately cease to be " criminal enterprises " , and become legal offshore Internet gambling sites .
+If the gambling ban is repealed and these sites chose to operate " unfettered within the United States " , they 'd then become legal , American gambling sites .
+The whole fracking point , Rep. Bachus , is to eliminate these " offshore criminal enterprises " .
+By making it legal , you can bring them onshore , where they can be taxed and regulated , just like state lotteries and privately-owned casinos .
+Speaking of privately-owned casinos , at least Sen. Reid of Nevada has a " legitimate " reason to be a roadblock : He just does n't want to see Vegas have any competition .
+The dumb part about Reid 's objection is that the legalization of online poker would bring a lot of new players into the game .
+Some of 'em might even end up enjoying it so much they end up going to Vegas to play the game in meatspace .
+Quit acting like the RIAA of gaming , buddy , and you just might make a few more bucks .</tokentext>
+<sentencetext>" 'Illegal offshore Internet gambling sites are a criminal enterprise, and allowing them to operate unfettered in the United States would present a clear danger to our youth, who are subject to becoming addicted to gambling at an early age," says Representative Spencer Bachus, Republican of Alabama and the ranking member on the House Financial Services Committee.
+Wow, the doublethink [wikipedia.org] boggles the mind.
+If the gambling ban is repealed, these sites would immediately cease to be "criminal enterprises", and become legal offshore Internet gambling sites.
+If the gambling ban is repealed and these sites chose to operate "unfettered within the United States", they'd then become legal, American gambling sites.
+The whole fracking point, Rep. Bachus, is to eliminate these "offshore criminal enterprises".
+By making it legal, you can bring them onshore, where they can be taxed and regulated, just like state lotteries and privately-owned casinos.
+Speaking of privately-owned casinos, at least Sen. Reid of Nevada has a "legitimate" reason to be a roadblock:  He just doesn't want to see Vegas have any competition.
+The dumb part about Reid's objection is that the legalization of online poker would bring a lot of new players into the game.
+Some of 'em might even end up enjoying it so much they end up going to Vegas to play the game  in meatspace.
+Quit acting like the RIAA of gaming, buddy, and you just might make a few more bucks.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28116961</id>
+	<title>Re:Captain Oxymoron to the Rescue!</title>
+	<author>Anonymous</author>
+	<datestamp>1243426980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>When has a politician ever let the law of unintended consequences stop them from making a fool of themselves and making the situation worse?</p><p>(for reference, see "welfare", "prohibition", and "Streisand effect")</p></htmltext>
+<tokenext>When has a politician ever let the law of unintended consequences stop them from making a fool of themselves and making the situation worse ?
+( for reference , see " welfare " , " prohibition " , and " Streisand effect " )</tokentext>
+<sentencetext>When has a politician ever let the law of unintended consequences stop them from making a fool of themselves and making the situation worse?
+(for reference, see "welfare", "prohibition", and "Streisand effect")</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28103981</id>
+	<title>Re:Think of the children?</title>
+	<author>Tuoqui</author>
+	<datestamp>1243349520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>I live in a state where gambling is legal, so long as you're on a body of water (no matter how small)</p></div><p>Sounds like a good excuse to build a moat.</p></div>
+	</htmltext>
+<tokenext>I live in a state where gambling is legal , so long as you 're on a body of water ( no matter how small ) Sounds like a good excuse to build a moat .</tokentext>
+<sentencetext>I live in a state where gambling is legal, so long as you're on a body of water (no matter how small)Sounds like a good excuse to build a moat.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101779</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101749</id>
+	<title>Re:Think of the children?</title>
+	<author>Anonymous</author>
+	<datestamp>1243336800000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>But even more shocking is that Vista SP2 disables Vista OS X, and sends gays niggers to your house if it detects Vista OS X.</p></htmltext>
+<tokenext>But even more shocking is that Vista SP2 disables Vista OS X , and sends gays niggers to your house if it detects Vista OS X .</tokentext>
+<sentencetext>But even more shocking is that Vista SP2 disables Vista OS X, and sends gays niggers to your house if it detects Vista OS X.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28107477</id>
+	<title>Re:Think of the children?</title>
+	<author>Krneki</author>
+	<datestamp>1243425900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>This has nothing to with whatever gambling should be allowed or not. It's about tax, if you play online you don't pay any tax to the US, as it should since you are playing in a foreign country.<br>It was always ok to gamble but as long as you are paying the taxes. I'm not sure about US, but in my country gambling taxes can go up to 40\%.<br><br>When you gamble you lose money, but when you gamble inside your country you are losing even more due to high taxes. At the end of the day the 'gov takes most of your money.</htmltext>
+<tokenext>This has nothing to with whatever gambling should be allowed or not .
+It 's about tax , if you play online you do n't pay any tax to the US , as it should since you are playing in a foreign country.It was always ok to gamble but as long as you are paying the taxes .
+I 'm not sure about US , but in my country gambling taxes can go up to 40 \ % .When you gamble you lose money , but when you gamble inside your country you are losing even more due to high taxes .
+At the end of the day the 'gov takes most of your money .</tokentext>
+<sentencetext>This has nothing to with whatever gambling should be allowed or not.
+It's about tax, if you play online you don't pay any tax to the US, as it should since you are playing in a foreign country.It was always ok to gamble but as long as you are paying the taxes.
+I'm not sure about US, but in my country gambling taxes can go up to 40\%.When you gamble you lose money, but when you gamble inside your country you are losing even more due to high taxes.
+At the end of the day the 'gov takes most of your money.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101721</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28103461</id>
+	<title>Re:Captain Oxymoron to the Rescue!</title>
+	<author>nametaken</author>
+	<datestamp>1243345800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>If that's really the case, my guess is that they've run the odds of that happening. I hear they have a few people who know how to do that, 'round them parts.<nobr> <wbr></nobr>;)</p></htmltext>
+<tokenext>If that 's really the case , my guess is that they 've run the odds of that happening .
+I hear they have a few people who know how to do that , 'round them parts .
+; )</tokentext>
+<sentencetext>If that's really the case, my guess is that they've run the odds of that happening.
+I hear they have a few people who know how to do that, 'round them parts.
+;)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102623</id>
+	<title>I think of the children, just not the ones you do</title>
+	<author>TiggertheMad</author>
+	<datestamp>1243341300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><i>And how many people failed to attend college because they, or their parents, gambled away the college fund?</i>
+<br> <br>
+But think of all the casino owner's children that got to go to college as a result.</htmltext>
+<tokenext>And how many people failed to attend college because they , or their parents , gambled away the college fund ?
+But think of all the casino owner 's children that got to go to college as a result .</tokentext>
+<sentencetext>And how many people failed to attend college because they, or their parents, gambled away the college fund?
+But think of all the casino owner's children that got to go to college as a result.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101721</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28107975</id>
+	<title>Re:Think of the children?</title>
+	<author>radio4fan</author>
+	<datestamp>1243430580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p> <i>Illegal offshore Internet gambling sites are a criminal enterprise</i></p> </div><p>And of course, they probably <b>aren't</b> criminal enterprises.</p><p>I can legally run an online casino in my country (Spain). I can legally take money from clients in the US. You might be breaking the law by playing poker in my online casino, but that doesn't make my casino a criminal enterprise.</p></div>
+	</htmltext>
+<tokenext>Illegal offshore Internet gambling sites are a criminal enterprise And of course , they probably are n't criminal enterprises.I can legally run an online casino in my country ( Spain ) .
+I can legally take money from clients in the US .
+You might be breaking the law by playing poker in my online casino , but that does n't make my casino a criminal enterprise .</tokentext>
+<sentencetext> Illegal offshore Internet gambling sites are a criminal enterprise And of course, they probably aren't criminal enterprises.I can legally run an online casino in my country (Spain).
+I can legally take money from clients in the US.
+You might be breaking the law by playing poker in my online casino, but that doesn't make my casino a criminal enterprise.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101779</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28107975
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101779
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28103461
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28105939
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102489
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28111099
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102245
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101721
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102465
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28103981
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101779
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102625
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101665
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102623
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101721
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28103767
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101721
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101941
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101935
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101779
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102339
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101779
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101749
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101813
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28106031
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102017
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28109297
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101721
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28107477
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101721
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28117095
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102017
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28116961
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102045
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2034259_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28110571
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2034259.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101663
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101779
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28107975
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102339
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28103981
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101935
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101721
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28103767
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28109297
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102623
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28107477
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102245
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28111099
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101813
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101941
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101749
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2034259.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101777
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102465
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102045
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28116961
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102017
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28106031
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28117095
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28103461
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28110571
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102489
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28105939
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2034259.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101699
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2034259.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28101665
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2034259.28102625
+</commentlist>
+</conversation>

@@ -1,0 +1,55 @@
+<article>
+	<pid>8462</pid>
+	<title>Moto Droid update, Nexus One or Droid, Sprint HTC Hero and Android 2.1, Facebook, WMExperts needs your help | Android Central</title>
+	<url>http://www.androidcentral.com/moto-droid-update</url>
+	<date>   Jan 19 2010  3:53 pm   </date>
+	<author>Jeremy</author>
+	<text>
+
+From the Forums is a great way for you, our readers, to see the hottest topics being discussed. But you must be a registered member and becoming a member is a simple process. So if you have not already already done so, head on over and register now!
+
+While Motorola Droid owners patiently wait for Android 2.1 it seems some of them are also getting a small maintenance update, have you gotten yours?
+ If you are looking to get an Android device, get ready to make some tough decision -- Moto Droid or Nexus One? First and foremost always remember to first take into consideration which carrier gives you better service.
+We've been hearing so much lately regarding Android 2.1, so why not discuss whether or not the Sprint HTC Hero will get the update or not.
+Facebook for Android has been working a bit better lately, at least for those of us here at Android Central. How has Facebook been working for you?
+The Smartphone Experts Round Robin continues and this week Phil from WMExperts (and of course here) needs your help! Help him out for your chance to win a new device!
+
+See you on the forums! </text>
+	<score>5</score>
+</article>
+<comment>
+	<cid>16158</cid>
+	<date>Jan 19 2010  6:42 pm</date>
+	<author>Mr. Tehcko</author>
+	<text>patiently ???????</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16423</cid>
+	<date>Jan 22 2010  11:48 am</date>
+	<author>Erica</author>
+	<text>I thought the Eris had the 2.0 update? That they both had the newest firmware. I think thats the one fault about Android is that there are so many phones running on different firmwares, I think they should all be the same. Hopefully they will get on that!!</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16314</cid>
+	<date>Jan 21 2010  10:11 am</date>
+	<author>dusthead</author>
+	<text>give me 2.0+ update for the eris!!  it's only the first month of Q1 - i know, but envy is a b****!  and my co-worker is beating me in the iphone vs. android battle...mostly because of the at&t internet and phone at the same time thing.  ugh.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16418</cid>
+	<date>Jan 22 2010  10:36 am</date>
+	<author>AJ</author>
+	<text>Still no OTA.  Should there be an icon or something to prompt me?  I updated to 2.0 on my own so I am not sure if I am missing something.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>18380</cid>
+	<date>Feb 08 2010  7:12 am</date>
+	<author>Anonymous</author>
+	<text>How do i update my Firmware from 1.5 to 2?
+someone please help! no idea what to do with this damn Hero.</text>
+	<score>67</score>
+</comment>

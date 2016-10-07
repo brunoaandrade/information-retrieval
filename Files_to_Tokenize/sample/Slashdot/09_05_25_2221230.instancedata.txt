@@ -1,0 +1,692 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_25_2221230</id>
+	<title>DoD Sharing Threat Data With Critical Industries</title>
+	<author>kdawson</author>
+	<datestamp>1243279740000</datestamp>
+	<htmltext><a href="http://hughpickens.com/" rel="nofollow">Hugh Pickens</a> writes <i>"The Washington Post reports that for the past two years, the <a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/05/24/AR2009052402140\_pf.html">Defense Department has been collaborating with critical industries</a> to stem the loss of important defense industry data &mdash; by some estimates at least $100 billion worth over that time. The Pentagon is considering ways to share its threat data with other industries including telecommunications and Internet service providers, led by the <a href="http://www.dc3.mil/home.php">DoD's Cyber Crime Center</a>, the clearinghouse for threat data from the NSA, military agencies, the DHS, and industry. The Pentagon's trial program with industry illuminates the promise and the pitfalls of such partnerships: a reluctance of intelligence and law enforcement agencies to release threat data they consider classified, and the companies' fear of losing control over personal or proprietary information. 'This isn't just about national security,' says Barbara Fast, vice president of Boeing Cyber Solutions. 'It's about the economic well-being of the United States.'"</i></htmltext>
+<tokenext>Hugh Pickens writes " The Washington Post reports that for the past two years , the Defense Department has been collaborating with critical industries to stem the loss of important defense industry data â € ” by some estimates at least $ 100 billion worth over that time .
+The Pentagon is considering ways to share its threat data with other industries including telecommunications and Internet service providers , led by the DoD 's Cyber Crime Center , the clearinghouse for threat data from the NSA , military agencies , the DHS , and industry .
+The Pentagon 's trial program with industry illuminates the promise and the pitfalls of such partnerships : a reluctance of intelligence and law enforcement agencies to release threat data they consider classified , and the companies ' fear of losing control over personal or proprietary information .
+'This is n't just about national security, ' says Barbara Fast , vice president of Boeing Cyber Solutions .
+'It 's about the economic well-being of the United States .
+' "</tokentext>
+<sentencetext>Hugh Pickens writes "The Washington Post reports that for the past two years, the Defense Department has been collaborating with critical industries to stem the loss of important defense industry data â€” by some estimates at least $100 billion worth over that time.
+The Pentagon is considering ways to share its threat data with other industries including telecommunications and Internet service providers, led by the DoD's Cyber Crime Center, the clearinghouse for threat data from the NSA, military agencies, the DHS, and industry.
+The Pentagon's trial program with industry illuminates the promise and the pitfalls of such partnerships: a reluctance of intelligence and law enforcement agencies to release threat data they consider classified, and the companies' fear of losing control over personal or proprietary information.
+'This isn't just about national security,' says Barbara Fast, vice president of Boeing Cyber Solutions.
+'It's about the economic well-being of the United States.
+'"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092137</id>
+	<title>When do -I- get the data</title>
+	<author>Anonymous</author>
+	<datestamp>1243370100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Send it with my bailout check soon please.</p></htmltext>
+<tokenext>Send it with my bailout check soon please .</tokentext>
+<sentencetext>Send it with my bailout check soon please.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092483</id>
+	<title>Not a conspiracy issue</title>
+	<author>gnieboer</author>
+	<datestamp>1243332660000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>This isn't a military-industrial complex conspiracy issue, nor exploiting the rest of the world.</p><p>It highlights that 'national security' of any country is much more complicated than days gone by.  The 'military' can no longer guarantee security by having lots of ships and planes etc.  A hacker taking out the electrical grid certainly is a threat to national security, but not a threat that can be fended off by the military.</p><p>Why not?  Because as most here would know, to do that would require military 'jurisdiction' over every network node and server and firewall defending something deemed 'important'.</p><p>Since despite general cynicism on the topic, the US still is one of the most free societies on the planet, they clearly would despise such an option.  So instead working together as a team makes just way too much sense.</p><p>The concerning side is valid as well... giving the same dingbats that can't secure a basic firewall the responsibility for securing -actual- classified intelligence should worry us all as well.</p><p>Of course the answer is halfway, companies need to beef up their controls and the government then needs to share.  We're all in this together.  And yes, in this 'new' global economy, I mean everyone, but just those pesky Americans...</p></htmltext>
+<tokenext>This is n't a military-industrial complex conspiracy issue , nor exploiting the rest of the world.It highlights that 'national security ' of any country is much more complicated than days gone by .
+The 'military ' can no longer guarantee security by having lots of ships and planes etc .
+A hacker taking out the electrical grid certainly is a threat to national security , but not a threat that can be fended off by the military.Why not ?
+Because as most here would know , to do that would require military 'jurisdiction ' over every network node and server and firewall defending something deemed 'important'.Since despite general cynicism on the topic , the US still is one of the most free societies on the planet , they clearly would despise such an option .
+So instead working together as a team makes just way too much sense.The concerning side is valid as well... giving the same dingbats that ca n't secure a basic firewall the responsibility for securing -actual- classified intelligence should worry us all as well.Of course the answer is halfway , companies need to beef up their controls and the government then needs to share .
+We 're all in this together .
+And yes , in this 'new ' global economy , I mean everyone , but just those pesky Americans.. .</tokentext>
+<sentencetext>This isn't a military-industrial complex conspiracy issue, nor exploiting the rest of the world.It highlights that 'national security' of any country is much more complicated than days gone by.
+The 'military' can no longer guarantee security by having lots of ships and planes etc.
+A hacker taking out the electrical grid certainly is a threat to national security, but not a threat that can be fended off by the military.Why not?
+Because as most here would know, to do that would require military 'jurisdiction' over every network node and server and firewall defending something deemed 'important'.Since despite general cynicism on the topic, the US still is one of the most free societies on the planet, they clearly would despise such an option.
+So instead working together as a team makes just way too much sense.The concerning side is valid as well... giving the same dingbats that can't secure a basic firewall the responsibility for securing -actual- classified intelligence should worry us all as well.Of course the answer is halfway, companies need to beef up their controls and the government then needs to share.
+We're all in this together.
+And yes, in this 'new' global economy, I mean everyone, but just those pesky Americans...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092533</id>
+	<title>How to make America safer</title>
+	<author>toby</author>
+	<datestamp>1243333080000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Stop doing what made you a target in the first place. This means, inconveniently, undoing:</p><ul><li>50 years of foreign policy prior to "9/11";</li><li>Doubly so, the embarrassing eight years <i>since</i> "9/11".</li></ul><p>Good luck.</p></htmltext>
+<tokenext>Stop doing what made you a target in the first place .
+This means , inconveniently , undoing : 50 years of foreign policy prior to " 9/11 " ; Doubly so , the embarrassing eight years since " 9/11 " .Good luck .</tokentext>
+<sentencetext>Stop doing what made you a target in the first place.
+This means, inconveniently, undoing:50 years of foreign policy prior to "9/11";Doubly so, the embarrassing eight years since "9/11".Good luck.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092285</id>
+	<title>Always been about foreign exploitation</title>
+	<author>Anonymous</author>
+	<datestamp>1243328940000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p><div class="quote"><p>national security...It's about the economic well-being of the United States</p></div><p>As <a href="http://en.wikipedia.org/wiki/Smedley\_Butler" title="wikipedia.org">Major General Smedley Darlington Butler</a> [wikipedia.org], Americas most highly decorated Marine by the time of his death pointed out in his short book <a href="http://en.wikipedia.org/wiki/War\_Is\_a\_Racket" title="wikipedia.org">War is a racket</a> [wikipedia.org]; all military/spy agency has ever been is about "economic well-being" for a select few, and was \_never\_ about National Security. Using his unmatched experience "protecting" the US  around the world, he went on to explain why economic well being and real National Security are apposing goals.</p></div>
+	</htmltext>
+<tokenext>national security...It 's about the economic well-being of the United StatesAs Major General Smedley Darlington Butler [ wikipedia.org ] , Americas most highly decorated Marine by the time of his death pointed out in his short book War is a racket [ wikipedia.org ] ; all military/spy agency has ever been is about " economic well-being " for a select few , and was \ _never \ _ about National Security .
+Using his unmatched experience " protecting " the US around the world , he went on to explain why economic well being and real National Security are apposing goals .</tokentext>
+<sentencetext>national security...It's about the economic well-being of the United StatesAs Major General Smedley Darlington Butler [wikipedia.org], Americas most highly decorated Marine by the time of his death pointed out in his short book War is a racket [wikipedia.org]; all military/spy agency has ever been is about "economic well-being" for a select few, and was \_never\_ about National Security.
+Using his unmatched experience "protecting" the US  around the world, he went on to explain why economic well being and real National Security are apposing goals.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092137</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28095541</id>
+	<title>Re:Always been about foreign exploitation</title>
+	<author>Phrogman</author>
+	<datestamp>1243354560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The primary purpose of the US Government and the US Military is to protect the economic interests of major US companies, each according to their campaign contributions. History is littered with examples of the US Government sending in the troops to ensure some local National Government didn't attempt to take over US commercial interests, or the CIA to overthrow a Government (legally elected or otherwise) that might disagree with US Corporate interests. I will likely get modified Troll and Flamebait but its not far off the truth IMHO.</p></htmltext>
+<tokenext>The primary purpose of the US Government and the US Military is to protect the economic interests of major US companies , each according to their campaign contributions .
+History is littered with examples of the US Government sending in the troops to ensure some local National Government did n't attempt to take over US commercial interests , or the CIA to overthrow a Government ( legally elected or otherwise ) that might disagree with US Corporate interests .
+I will likely get modified Troll and Flamebait but its not far off the truth IMHO .</tokentext>
+<sentencetext>The primary purpose of the US Government and the US Military is to protect the economic interests of major US companies, each according to their campaign contributions.
+History is littered with examples of the US Government sending in the troops to ensure some local National Government didn't attempt to take over US commercial interests, or the CIA to overthrow a Government (legally elected or otherwise) that might disagree with US Corporate interests.
+I will likely get modified Troll and Flamebait but its not far off the truth IMHO.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092285</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28096755</id>
+	<title>Reading between the lines ...</title>
+	<author>PPH</author>
+	<datestamp>1243359240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>... the DoD is working with critical industries to secure defense industry data. And then Boeing is mentioned.
+</p><p>It sounds to me like the DoD is stepping into 'help' them clean up security holes. 'Help' is a nice way of saying that they'll get be getting their asses kicked.</p></htmltext>
+<tokenext>... the DoD is working with critical industries to secure defense industry data .
+And then Boeing is mentioned .
+It sounds to me like the DoD is stepping into 'help ' them clean up security holes .
+'Help ' is a nice way of saying that they 'll get be getting their asses kicked .</tokentext>
+<sentencetext>... the DoD is working with critical industries to secure defense industry data.
+And then Boeing is mentioned.
+It sounds to me like the DoD is stepping into 'help' them clean up security holes.
+'Help' is a nice way of saying that they'll get be getting their asses kicked.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28093433</id>
+	<title>Re:Always been about foreign exploitation</title>
+	<author>jo42</author>
+	<datestamp>1243344540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The Americans elected someone named "<a href="http://www.urbandictionary.com/define.php?term=bushtard" title="urbandictionary.com" rel="nofollow">George Bush</a> [urbandictionary.com]" to the presidency several times.</p></htmltext>
+<tokenext>The Americans elected someone named " George Bush [ urbandictionary.com ] " to the presidency several times .</tokentext>
+<sentencetext>The Americans elected someone named "George Bush [urbandictionary.com]" to the presidency several times.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092587</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28094527</id>
+	<title>Re:Always been about foreign exploitation</title>
+	<author>WED Fan</author>
+	<datestamp>1243350060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>how can you possibly expect me to take someone named "Smedley Darlington Butler" seriously?</p></div></blockquote><p>He's friends with Doctor Charles Emerson Winchester.</p><p> <em>Score +1 for the non-tech pop reference.</em> </p></div>
+	</htmltext>
+<tokenext>how can you possibly expect me to take someone named " Smedley Darlington Butler " seriously ? He 's friends with Doctor Charles Emerson Winchester .
+Score + 1 for the non-tech pop reference .</tokentext>
+<sentencetext>how can you possibly expect me to take someone named "Smedley Darlington Butler" seriously?He's friends with Doctor Charles Emerson Winchester.
+Score +1 for the non-tech pop reference. 
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092587</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28093137</id>
+	<title>Why is the military doing this?</title>
+	<author>HangingChad</author>
+	<datestamp>1243341060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p> <i>The Pentagon is considering ways to share its threat data with other industries including telecommunications and Internet service providers, led by the DoD's Cyber Crime Center...</i>
+
+</p><p>Certainly the military should be protecting their own infrastructure, but civilian infrastructure should be handled by DHS.  There's no justification for mission creep when there are agencies with the charter and authority to address those issues.
+
+</p><p>We have the CIA, FBI, NSA and Homeland Security.  Isn't that enough?  Why isn't DoD working through one of them?</p></htmltext>
+<tokenext>The Pentagon is considering ways to share its threat data with other industries including telecommunications and Internet service providers , led by the DoD 's Cyber Crime Center.. . Certainly the military should be protecting their own infrastructure , but civilian infrastructure should be handled by DHS .
+There 's no justification for mission creep when there are agencies with the charter and authority to address those issues .
+We have the CIA , FBI , NSA and Homeland Security .
+Is n't that enough ?
+Why is n't DoD working through one of them ?</tokentext>
+<sentencetext> The Pentagon is considering ways to share its threat data with other industries including telecommunications and Internet service providers, led by the DoD's Cyber Crime Center...
+
+Certainly the military should be protecting their own infrastructure, but civilian infrastructure should be handled by DHS.
+There's no justification for mission creep when there are agencies with the charter and authority to address those issues.
+We have the CIA, FBI, NSA and Homeland Security.
+Isn't that enough?
+Why isn't DoD working through one of them?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28097243</id>
+	<title>Re:Always been about foreign exploitation</title>
+	<author>ardle</author>
+	<datestamp>1243361400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Ah, now I know what's been going wrong: we keep on giving jobs that should be taken seriously to people with silly names!<br> <a href="http://en.wikipedia.org/wiki/Secretary-General\_of\_the\_United\_Nations#Secretaries-General" title="wikipedia.org">Examples</a> [wikipedia.org]:<ul><li>Ban Ki-moon</li></ul><ul><li>Kofi Annan</li></ul><ul><li>Boutros Boutros-Ghali</li></ul><p>
+Coincidence?</p></htmltext>
+<tokenext>Ah , now I know what 's been going wrong : we keep on giving jobs that should be taken seriously to people with silly names !
+Examples [ wikipedia.org ] : Ban Ki-moonKofi AnnanBoutros Boutros-Ghali Coincidence ?</tokentext>
+<sentencetext>Ah, now I know what's been going wrong: we keep on giving jobs that should be taken seriously to people with silly names!
+Examples [wikipedia.org]:Ban Ki-moonKofi AnnanBoutros Boutros-Ghali
+Coincidence?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092587</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28101329</id>
+	<title>Obvious ! Anti-piracy measures!</title>
+	<author>freaker\_TuC</author>
+	<datestamp>1243334820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>... Because they got the nukes to stop music piracy !</p></htmltext>
+<tokenext>... Because they got the nukes to stop music piracy !</tokentext>
+<sentencetext>... Because they got the nukes to stop music piracy !</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28093137</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092139</id>
+	<title>Really?</title>
+	<author>noundi</author>
+	<datestamp>1243370160000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>3</modscore>
+	<htmltext><p><div class="quote"><p>"It's about the economic well-being of the United States."</p></div><p>It's about my stock options damn it!</p></div>
+	</htmltext>
+<tokenext>" It 's about the economic well-being of the United States .
+" It 's about my stock options damn it !</tokentext>
+<sentencetext>"It's about the economic well-being of the United States.
+"It's about my stock options damn it!
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28093365</id>
+	<title>Re:How to make America safer</title>
+	<author>Anonymous</author>
+	<datestamp>1243343940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Wouldn't make a difference.  Compliance is regarded as weakness, which is regarded with contempt.<p>"We are not fighting so that you will offer us something.  We are fighting to eliminate you."<br>
+--Hussein Massawi, Hezbollah leader</p></htmltext>
+<tokenext>Would n't make a difference .
+Compliance is regarded as weakness , which is regarded with contempt .
+" We are not fighting so that you will offer us something .
+We are fighting to eliminate you .
+" --Hussein Massawi , Hezbollah leader</tokentext>
+<sentencetext>Wouldn't make a difference.
+Compliance is regarded as weakness, which is regarded with contempt.
+"We are not fighting so that you will offer us something.
+We are fighting to eliminate you.
+"
+--Hussein Massawi, Hezbollah leader</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092533</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092355</id>
+	<title>What?</title>
+	<author>clint999</author>
+	<datestamp>1243330200000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>-1</modscore>
+	<htmltext><b>Orly? I thought it was about looking like you're doing something important to stop cyber terrorism and hackers.Oh well, at least it's better than the war on drugs and pedophilia; at least this way, somebody gets rich.</b></htmltext>
+<tokenext>Orly ?
+I thought it was about looking like you 're doing something important to stop cyber terrorism and hackers.Oh well , at least it 's better than the war on drugs and pedophilia ; at least this way , somebody gets rich .</tokentext>
+<sentencetext>Orly?
+I thought it was about looking like you're doing something important to stop cyber terrorism and hackers.Oh well, at least it's better than the war on drugs and pedophilia; at least this way, somebody gets rich.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092797</id>
+	<title>Asymmetric warfare</title>
+	<author>Anonymous</author>
+	<datestamp>1243336620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>If I am defense contractor XYZ and I produced a military solution that cost the government $5 billion - what happens when one, or perhaps a small group of, individual(s) is able to steal this data?</p><p>What if it is nation sponsored espionage?</p><p>What if a nation steals what it can and funds the rest (effectively increasing their R&amp;D by \%X)?</p><p>You can essentially leapfrog technologically, if your efforts are fruitful. Now take it out of a military context and put it in to an economic context (if we can steal military R&amp;D, you bet we are going to get industrial data too!)</p></htmltext>
+<tokenext>If I am defense contractor XYZ and I produced a military solution that cost the government $ 5 billion - what happens when one , or perhaps a small group of , individual ( s ) is able to steal this data ? What if it is nation sponsored espionage ? What if a nation steals what it can and funds the rest ( effectively increasing their R&amp;D by \ % X ) ? You can essentially leapfrog technologically , if your efforts are fruitful .
+Now take it out of a military context and put it in to an economic context ( if we can steal military R&amp;D , you bet we are going to get industrial data too !
+)</tokentext>
+<sentencetext>If I am defense contractor XYZ and I produced a military solution that cost the government $5 billion - what happens when one, or perhaps a small group of, individual(s) is able to steal this data?What if it is nation sponsored espionage?What if a nation steals what it can and funds the rest (effectively increasing their R&amp;D by \%X)?You can essentially leapfrog technologically, if your efforts are fruitful.
+Now take it out of a military context and put it in to an economic context (if we can steal military R&amp;D, you bet we are going to get industrial data too!
+)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092391</id>
+	<title>What?</title>
+	<author>Anonymous</author>
+	<datestamp>1243330860000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p><tt>Orly? I thought it was about looking like you're doing something important to stop cyber terrorism and hackers.Oh well, at least it's better than the war on drugs and pedophilia; at least this way, somebody gets rich.</tt></p></htmltext>
+<tokenext>Orly ?
+I thought it was about looking like you 're doing something important to stop cyber terrorism and hackers.Oh well , at least it 's better than the war on drugs and pedophilia ; at least this way , somebody gets rich .</tokentext>
+<sentencetext>Orly?
+I thought it was about looking like you're doing something important to stop cyber terrorism and hackers.Oh well, at least it's better than the war on drugs and pedophilia; at least this way, somebody gets rich.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28093845</id>
+	<title>That ought to be easy</title>
+	<author>drinkypoo</author>
+	<datestamp>1243347120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>They can obviously detect threats; every time a supposedly-secure DoD computer gets hacked by a worm, they can just publish the results...</p></htmltext>
+<tokenext>They can obviously detect threats ; every time a supposedly-secure DoD computer gets hacked by a worm , they can just publish the results.. .</tokentext>
+<sentencetext>They can obviously detect threats; every time a supposedly-secure DoD computer gets hacked by a worm, they can just publish the results...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092377</id>
+	<title>What?</title>
+	<author>Anonymous</author>
+	<datestamp>1243330680000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p><i>Orly? I thought it was about looking like you're doing something important to stop cyber terrorism and hackers.Oh well, at least it's better than the war on drugs and pedophilia; at least this way, somebody gets rich.</i></p></htmltext>
+<tokenext>Orly ?
+I thought it was about looking like you 're doing something important to stop cyber terrorism and hackers.Oh well , at least it 's better than the war on drugs and pedophilia ; at least this way , somebody gets rich .</tokentext>
+<sentencetext>Orly?
+I thought it was about looking like you're doing something important to stop cyber terrorism and hackers.Oh well, at least it's better than the war on drugs and pedophilia; at least this way, somebody gets rich.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28104115</id>
+	<title>Just wait...</title>
+	<author>GrpA</author>
+	<datestamp>1243350600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>If you thought the no-fly list was bad, wait until you end up on the no-programmer-jobs list...</p><p>How long before they decide that if your surname is Hyaka, that that sounds like hacker and ban you from working for anyone who supplies the government.</p><p>A long time ago I lost a job based on the fact that I hadn't completed my degree. My employer knew that I didn't have it, but they had a contract to develop software for the US DoD who noticed and threatened to pull all of their contracts if they didn't get rid of any non-degree'ed programmers.</p><p>And I wasn't even going to be working on their contracts!</p><p>The employer did it's best to accommodate me, but the short story is that the roadblock wasn't worth working around so I went in another direction and became a hardware developer for a different company.</p><p>There's no point in appealing to their common sense, because in this case the DoD doesn't seem to have any.</p><p>GrpA</p></htmltext>
+<tokenext>If you thought the no-fly list was bad , wait until you end up on the no-programmer-jobs list...How long before they decide that if your surname is Hyaka , that that sounds like hacker and ban you from working for anyone who supplies the government.A long time ago I lost a job based on the fact that I had n't completed my degree .
+My employer knew that I did n't have it , but they had a contract to develop software for the US DoD who noticed and threatened to pull all of their contracts if they did n't get rid of any non-degree'ed programmers.And I was n't even going to be working on their contracts ! The employer did it 's best to accommodate me , but the short story is that the roadblock was n't worth working around so I went in another direction and became a hardware developer for a different company.There 's no point in appealing to their common sense , because in this case the DoD does n't seem to have any.GrpA</tokentext>
+<sentencetext>If you thought the no-fly list was bad, wait until you end up on the no-programmer-jobs list...How long before they decide that if your surname is Hyaka, that that sounds like hacker and ban you from working for anyone who supplies the government.A long time ago I lost a job based on the fact that I hadn't completed my degree.
+My employer knew that I didn't have it, but they had a contract to develop software for the US DoD who noticed and threatened to pull all of their contracts if they didn't get rid of any non-degree'ed programmers.And I wasn't even going to be working on their contracts!The employer did it's best to accommodate me, but the short story is that the roadblock wasn't worth working around so I went in another direction and became a hardware developer for a different company.There's no point in appealing to their common sense, because in this case the DoD doesn't seem to have any.GrpA</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28095201</id>
+	<title>Re:Always been about foreign exploitation</title>
+	<author>Runaway1956</author>
+	<datestamp>1243353180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>That seems damned silly.  I grew up with an Anglo background, and many African names sound "odd" to my ears.  Some eastern European names do as well.  Ditto with Asian and Arab names.  I should make fun of, and dismiss, anyone with a name that I'm not accustomed to?  You suggest that a scientific discovery made by someon in India may not have much value, simply because I have no idea how to pronounce his name?  Ethnocentrism really has little value in today's world.....  I haven't even looked to see just who Smedley is, but I already know that he's a marine from the rest of this article.  A US Marine with any serious rank is someone to take seriously, no matter what his Mama named him.  (For that matter, the same goes for the United States' Commander in Chief - he's a funny looking bastid, but you had better take him seriously.)</p></htmltext>
+<tokenext>That seems damned silly .
+I grew up with an Anglo background , and many African names sound " odd " to my ears .
+Some eastern European names do as well .
+Ditto with Asian and Arab names .
+I should make fun of , and dismiss , anyone with a name that I 'm not accustomed to ?
+You suggest that a scientific discovery made by someon in India may not have much value , simply because I have no idea how to pronounce his name ?
+Ethnocentrism really has little value in today 's world..... I have n't even looked to see just who Smedley is , but I already know that he 's a marine from the rest of this article .
+A US Marine with any serious rank is someone to take seriously , no matter what his Mama named him .
+( For that matter , the same goes for the United States ' Commander in Chief - he 's a funny looking bastid , but you had better take him seriously .
+)</tokentext>
+<sentencetext>That seems damned silly.
+I grew up with an Anglo background, and many African names sound "odd" to my ears.
+Some eastern European names do as well.
+Ditto with Asian and Arab names.
+I should make fun of, and dismiss, anyone with a name that I'm not accustomed to?
+You suggest that a scientific discovery made by someon in India may not have much value, simply because I have no idea how to pronounce his name?
+Ethnocentrism really has little value in today's world.....  I haven't even looked to see just who Smedley is, but I already know that he's a marine from the rest of this article.
+A US Marine with any serious rank is someone to take seriously, no matter what his Mama named him.
+(For that matter, the same goes for the United States' Commander in Chief - he's a funny looking bastid, but you had better take him seriously.
+)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092587</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28094291</id>
+	<title>Re:How to make America safer</title>
+	<author>gad\_zuki!</author>
+	<datestamp>1243349040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Securing infrastructure has nothing to do with politics.  Do you honestly think Islamic terrorists have a rational political stance and that compliance will lead to some historically unseen in humankind age of peace? No, compliance with religious nuts will lead to collapse. Al Qaeda, Hezbollah, et al want destruction of their enemies and to shift the world to a brutal form of Islam, little else.</p><p>While the US, like any other powerful country, has a questionable historical track record, I would rather have it be the leader of the world than the current alternatives: Iran, Russia, or China.</p></htmltext>
+<tokenext>Securing infrastructure has nothing to do with politics .
+Do you honestly think Islamic terrorists have a rational political stance and that compliance will lead to some historically unseen in humankind age of peace ?
+No , compliance with religious nuts will lead to collapse .
+Al Qaeda , Hezbollah , et al want destruction of their enemies and to shift the world to a brutal form of Islam , little else.While the US , like any other powerful country , has a questionable historical track record , I would rather have it be the leader of the world than the current alternatives : Iran , Russia , or China .</tokentext>
+<sentencetext>Securing infrastructure has nothing to do with politics.
+Do you honestly think Islamic terrorists have a rational political stance and that compliance will lead to some historically unseen in humankind age of peace?
+No, compliance with religious nuts will lead to collapse.
+Al Qaeda, Hezbollah, et al want destruction of their enemies and to shift the world to a brutal form of Islam, little else.While the US, like any other powerful country, has a questionable historical track record, I would rather have it be the leader of the world than the current alternatives: Iran, Russia, or China.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092533</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092567</id>
+	<title>Re:Not a conspiracy issue</title>
+	<author>MichaelSmith</author>
+	<datestamp>1243333380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>would require military 'jurisdiction' over every network node and server and firewall defending something deemed 'important'.</p></div><p>The military defend against threats in the air and on sea without having jurisdiction over those domains. You identified data security for the electricity grid as a vulnerability. Perhaps a military security agency could deploy measures to protect that specific asset.</p></div>
+	</htmltext>
+<tokenext>would require military 'jurisdiction ' over every network node and server and firewall defending something deemed 'important'.The military defend against threats in the air and on sea without having jurisdiction over those domains .
+You identified data security for the electricity grid as a vulnerability .
+Perhaps a military security agency could deploy measures to protect that specific asset .</tokentext>
+<sentencetext>would require military 'jurisdiction' over every network node and server and firewall defending something deemed 'important'.The military defend against threats in the air and on sea without having jurisdiction over those domains.
+You identified data security for the electricity grid as a vulnerability.
+Perhaps a military security agency could deploy measures to protect that specific asset.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092483</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092575</id>
+	<title>Frist st0p</title>
+	<author>Anonymous</author>
+	<datestamp>1243333500000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>-1</modscore>
+	<htmltext>quarreled on OpenBSD guys. They design  aproach. As today. It's about</htmltext>
+<tokenext>quarreled on OpenBSD guys .
+They design aproach .
+As today .
+It 's about</tokentext>
+<sentencetext>quarreled on OpenBSD guys.
+They design  aproach.
+As today.
+It's about</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28093273</id>
+	<title>A possible slippery slope?</title>
+	<author>Drakkenmensch</author>
+	<datestamp>1243342980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>'This isn't just about national security,' says Barbara Fast, vice president of Boeing Cyber Solutions. 'It's about the economic well-being of the United States.'</p></div><p>How long until the RIAA finds someone in the chain of command to convince that it's in an economic imperative that music pirates need to be stopped, and get a direct DoD data feed of P2P IP data?</p></div>
+	</htmltext>
+<tokenext>'This is n't just about national security, ' says Barbara Fast , vice president of Boeing Cyber Solutions .
+'It 's about the economic well-being of the United States .
+'How long until the RIAA finds someone in the chain of command to convince that it 's in an economic imperative that music pirates need to be stopped , and get a direct DoD data feed of P2P IP data ?</tokentext>
+<sentencetext>'This isn't just about national security,' says Barbara Fast, vice president of Boeing Cyber Solutions.
+'It's about the economic well-being of the United States.
+'How long until the RIAA finds someone in the chain of command to convince that it's in an economic imperative that music pirates need to be stopped, and get a direct DoD data feed of P2P IP data?
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092319</id>
+	<title>it's abput the economic well being of Stoneciphers</title>
+	<author>Anonymous</author>
+	<datestamp>1243329660000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>gottiesque felon fuddles' economic well being is also at stake as well as a handful of other illuminati luminaries. fortunately, we no longer (never did) need ANY greed/fear/ego based corepirate nazi glowbull warmongering execrable.</p><p>no need to confuse 'religion' with being a spiritual being. our absolute only purpose here is to care for one another. failing that, we're simply passing through, being distracted/consumed by the guaranteed to fail illusionary trappings continually re-presented to us by man'kind', &amp;/or using/wasting more than our share, recently determined to cause negative consequences for everyone.</p><p>boeing, boeing, gone.</p></htmltext>
+<tokenext>gottiesque felon fuddles ' economic well being is also at stake as well as a handful of other illuminati luminaries .
+fortunately , we no longer ( never did ) need ANY greed/fear/ego based corepirate nazi glowbull warmongering execrable.no need to confuse 'religion ' with being a spiritual being .
+our absolute only purpose here is to care for one another .
+failing that , we 're simply passing through , being distracted/consumed by the guaranteed to fail illusionary trappings continually re-presented to us by man'kind ' , &amp;/or using/wasting more than our share , recently determined to cause negative consequences for everyone.boeing , boeing , gone .</tokentext>
+<sentencetext>gottiesque felon fuddles' economic well being is also at stake as well as a handful of other illuminati luminaries.
+fortunately, we no longer (never did) need ANY greed/fear/ego based corepirate nazi glowbull warmongering execrable.no need to confuse 'religion' with being a spiritual being.
+our absolute only purpose here is to care for one another.
+failing that, we're simply passing through, being distracted/consumed by the guaranteed to fail illusionary trappings continually re-presented to us by man'kind', &amp;/or using/wasting more than our share, recently determined to cause negative consequences for everyone.boeing, boeing, gone.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092513</id>
+	<title>Re:Really?</title>
+	<author>goose-incarnated</author>
+	<datestamp>1243332960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p><div class="quote"><p>"It's about the economic well-being of the United States."</p></div><p>It's about my stock options <b>damn it</b>!</p></div><p>Yeah, thats what I said about my stock options too. Didn't help me none either</p></div>
+	</htmltext>
+<tokenext>" It 's about the economic well-being of the United States .
+" It 's about my stock options damn it ! Yeah , thats what I said about my stock options too .
+Did n't help me none either</tokentext>
+<sentencetext>"It's about the economic well-being of the United States.
+"It's about my stock options damn it!Yeah, thats what I said about my stock options too.
+Didn't help me none either
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092139</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28104819</id>
+	<title>"Dual-use" technology, however, we give 'em...</title>
+	<author>ibsteve2u</author>
+	<datestamp>1243356720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It is hilarious to me that we have this big DoD initiative to protect "defense" secrets, but in the name of profit we ship silicon wafer manufacturing technology and all kinds of advanced robotics anywhere labor rates are lower than America's.</p><p>Just how stupid do you have to be to believe that nobody can translate the guts - the design - of a pick-and-place robot that operates in four dimensions while putting circuit boards and PCs together into a missile guidance system?  Or to assume that you cannot use a super-computer sold to predict weather for an Olympics to model thermonuclear design and detonation?</p><p>We make me laugh.</p></htmltext>
+<tokenext>It is hilarious to me that we have this big DoD initiative to protect " defense " secrets , but in the name of profit we ship silicon wafer manufacturing technology and all kinds of advanced robotics anywhere labor rates are lower than America 's.Just how stupid do you have to be to believe that nobody can translate the guts - the design - of a pick-and-place robot that operates in four dimensions while putting circuit boards and PCs together into a missile guidance system ?
+Or to assume that you can not use a super-computer sold to predict weather for an Olympics to model thermonuclear design and detonation ? We make me laugh .</tokentext>
+<sentencetext>It is hilarious to me that we have this big DoD initiative to protect "defense" secrets, but in the name of profit we ship silicon wafer manufacturing technology and all kinds of advanced robotics anywhere labor rates are lower than America's.Just how stupid do you have to be to believe that nobody can translate the guts - the design - of a pick-and-place robot that operates in four dimensions while putting circuit boards and PCs together into a missile guidance system?
+Or to assume that you cannot use a super-computer sold to predict weather for an Olympics to model thermonuclear design and detonation?We make me laugh.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28097307</id>
+	<title>Re:Always been about foreign exploitation</title>
+	<author>neomunk</author>
+	<datestamp>1243361640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>That man stopped the most dangerous <a href="http://en.wikipedia.org/wiki/Business\_Plot" title="wikipedia.org">coup attempt</a> [wikipedia.org] the U.S. had ever seen to that point.</p></htmltext>
+<tokenext>That man stopped the most dangerous coup attempt [ wikipedia.org ] the U.S. had ever seen to that point .</tokentext>
+<sentencetext>That man stopped the most dangerous coup attempt [wikipedia.org] the U.S. had ever seen to that point.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092587</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092457</id>
+	<title>So, companies and military join forces</title>
+	<author>captainpanic</author>
+	<datestamp>1243332060000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Sorry, but how is this going to affect the always praised market?</p><p>If one company has good contacts with the military, then how on earth is a small start-up going to compete for new contracts?</p><p>In my humble opinion, the best way to achieve a safe industry is to nationalize it completely... permanently destroy all competition, and assign some big shot military guy as CEO of the company. Especially defense industry only has the government as customer, so why not make it a national (non-profit, and very safe) industry?</p><p>And then proceed to claim to the rest of the world that the Soviets had it all wrong<nobr> <wbr></nobr>:D<br>(sorry - of course it should be the other way around: you should privatize the government instead of nationalizing industry).</p></htmltext>
+<tokenext>Sorry , but how is this going to affect the always praised market ? If one company has good contacts with the military , then how on earth is a small start-up going to compete for new contracts ? In my humble opinion , the best way to achieve a safe industry is to nationalize it completely... permanently destroy all competition , and assign some big shot military guy as CEO of the company .
+Especially defense industry only has the government as customer , so why not make it a national ( non-profit , and very safe ) industry ? And then proceed to claim to the rest of the world that the Soviets had it all wrong : D ( sorry - of course it should be the other way around : you should privatize the government instead of nationalizing industry ) .</tokentext>
+<sentencetext>Sorry, but how is this going to affect the always praised market?If one company has good contacts with the military, then how on earth is a small start-up going to compete for new contracts?In my humble opinion, the best way to achieve a safe industry is to nationalize it completely... permanently destroy all competition, and assign some big shot military guy as CEO of the company.
+Especially defense industry only has the government as customer, so why not make it a national (non-profit, and very safe) industry?And then proceed to claim to the rest of the world that the Soviets had it all wrong :D(sorry - of course it should be the other way around: you should privatize the government instead of nationalizing industry).</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28094279</id>
+	<title>this will include foreign competitor Info</title>
+	<author>kubitus</author>
+	<datestamp>1243349040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>this will include foreign competitor Info<p>
+obtained by Echelon</p><p>
+obtained by Root Boot Trojans.</p><p>
+
+now DoD says openly what they did since more than a decade</p></htmltext>
+<tokenext>this will include foreign competitor Info obtained by Echelon obtained by Root Boot Trojans .
+now DoD says openly what they did since more than a decade</tokentext>
+<sentencetext>this will include foreign competitor Info
+obtained by Echelon
+obtained by Root Boot Trojans.
+now DoD says openly what they did since more than a decade</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092587</id>
+	<title>Re:Always been about foreign exploitation</title>
+	<author>adavies42</author>
+	<datestamp>1243333620000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>how can you possibly expect me to take someone named "Smedley Darlington Butler" seriously?</htmltext>
+<tokenext>how can you possibly expect me to take someone named " Smedley Darlington Butler " seriously ?</tokentext>
+<sentencetext>how can you possibly expect me to take someone named "Smedley Darlington Butler" seriously?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092285</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092253</id>
+	<title>Almighty Dollar</title>
+	<author>daveime</author>
+	<datestamp>1243328520000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><p><i>'This isn't just about national security,' says Barbara Fast, vice president of Boeing Cyber Solutions. 'It's about the economic well-being of the United States.'</i></p><p>Of course. How is the CIA supposed to sell military tech to 3rd world despots and dictators, if the bastards keep stealing it for free ?</p></htmltext>
+<tokenext>'This is n't just about national security, ' says Barbara Fast , vice president of Boeing Cyber Solutions .
+'It 's about the economic well-being of the United States .
+'Of course .
+How is the CIA supposed to sell military tech to 3rd world despots and dictators , if the bastards keep stealing it for free ?</tokentext>
+<sentencetext>'This isn't just about national security,' says Barbara Fast, vice president of Boeing Cyber Solutions.
+'It's about the economic well-being of the United States.
+'Of course.
+How is the CIA supposed to sell military tech to 3rd world despots and dictators, if the bastards keep stealing it for free ?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092581</id>
+	<title>Re:Not a conspiracy issue</title>
+	<author>Anonymous</author>
+	<datestamp>1243333560000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p><div class="quote"><p>the US still is one of the most free societies on the planet</p></div><p>HAHAHAHAHAHAHAHAHAHAHAHAHAHA</p><p>*deep breath*</p><p>HAHAHAHAHAHAHAHAHAHAHAHAHAHA</p></div>
+	</htmltext>
+<tokenext>the US still is one of the most free societies on the planetHAHAHAHAHAHAHAHAHAHAHAHAHAHA * deep breath * HAHAHAHAHAHAHAHAHAHAHAHAHAHA</tokentext>
+<sentencetext>the US still is one of the most free societies on the planetHAHAHAHAHAHAHAHAHAHAHAHAHAHA*deep breath*HAHAHAHAHAHAHAHAHAHAHAHAHAHA
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092483</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092393</id>
+	<title>They still don't get it.</title>
+	<author>Anonymous</author>
+	<datestamp>1243330860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>The Air force shut down their Cyber command. The NSA (which is probably better equipped than any of the armed forces to technical issues) said "Hey, not us"</p><p>"Cyber" should be a dirty word.</p></htmltext>
+<tokenext>The Air force shut down their Cyber command .
+The NSA ( which is probably better equipped than any of the armed forces to technical issues ) said " Hey , not us " " Cyber " should be a dirty word .</tokentext>
+<sentencetext>The Air force shut down their Cyber command.
+The NSA (which is probably better equipped than any of the armed forces to technical issues) said "Hey, not us""Cyber" should be a dirty word.</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2221230_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092567
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092483
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2221230_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28097307
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092587
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092285
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092137
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2221230_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28095541
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092285
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092137
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2221230_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28097243
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092587
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092285
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092137
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2221230_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092513
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092139
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2221230_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28094527
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092587
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092285
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092137
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2221230_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28094291
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092533
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2221230_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28093365
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092533
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2221230_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28101329
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28093137
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2221230_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28093433
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092587
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092285
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092137
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2221230_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092581
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092483
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_2221230_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28095201
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092587
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092285
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092137
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2221230.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092533
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28094291
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28093365
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2221230.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092355
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2221230.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092253
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2221230.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092139
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092513
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2221230.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28093137
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28101329
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2221230.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092137
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092285
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28095541
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092587
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28095201
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28093433
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28097243
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28097307
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28094527
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_2221230.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092483
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092567
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_2221230.28092581
+</commentlist>
+</conversation>

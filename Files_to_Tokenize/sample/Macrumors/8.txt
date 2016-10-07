@@ -1,0 +1,632 @@
+<article>
+	<pid>8</pid>
+	<title>'Garmin StreetPilot' Debuts in App Store - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/04/garmin-streetpilot-debuts-in-app-store/</url>
+	<date>Tuesday January 4, 2011 6:39 am PST</date>
+	<author>Eric Slivka</author>
+	<text>Several months ago,we notedthat major GPS company Garmin was considering developing iOS applications after abandoning its partnership with ASUS to produce Garmin-branded phones, and it now appears that Garmin has followed through on those plans.Garmin todayannounceda number of new standalone GPS products and iOS and Android applications, with the most prominent of those applications beingGarmin StreetPilot[App Store, &#36;39.99] for the iPhone.The StreetPilot App includes many of the same high-end features available on Garmin's standalone automotive GPS devices like free traffic alerts that enable drivers to steer clear of traffic accidents, road closures and construction; lane assist with junction view that directs drivers to the preferred lane and displays realistic images of upcoming complex junctions; and speed limit indicators that display speed limits for most major roads.Garmin StreetPilotalso supports multitasking under iOS 4 and integrates with users' music libraries and address books.Unlike some of the other mainstream GPS applications for the iPhone,Garmin StreetPilotdownloads map content as needed, as opposed to storing the entire map database within the application.  While the decision allows Garmin to offer smaller downloads that require less on-device storage and quicker download and syncing times, as well as automatic access to the latest map updates, the trade-off is that users must be in areas with data service coverage in order for the application to function properly.</text>
+	<score>89</score>
+</article>
+<comment>
+	<cid>11662861</cid>
+	<date>Jan 4, 2011, 09:53 AM</date>
+	<author>pugnut</author>
+	<text>Whoever advised them to not put the maps onboard and download as needed, needs to be fired- poor decision.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662873</cid>
+	<date>Jan 4, 2011, 09:55 AM</date>
+	<author>MacDawg</author>
+	<text>I love my Garmin NuviSounds promising and I may check it out</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662901</cid>
+	<date>Jan 4, 2011, 09:59 AM</date>
+	<author>Tilpots</author>
+	<text>Quote:Originally Posted bypugnutWhoever advised them to now put the maps onboard and download as needed, needs to be fired- poor decision.Agreed.  Downloading anything on Edge is awful, but downloading mission critical graphical maps and directions when you get lost?  Just dumb.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662903</cid>
+	<date>Jan 4, 2011, 09:59 AM</date>
+	<author>OneMike</author>
+	<text>bad decision. apps like motion gps I'd pay $0.99 for and use the maps over the air.If I'm going to pay $40 for a gps app it'd be cause I relied on it. Wouldn't chance having service.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662922</cid>
+	<date>Jan 4, 2011, 10:02 AM</date>
+	<author>TheRealTVGuy</author>
+	<text>I thought there were some free map/gps/turn-by-turn direction apps out there (ala Google Maps). Is this not the case? Can anyone tell me why you would want to purchase one of the Garmin/Tom-Tom apps?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662930</cid>
+	<date>Jan 4, 2011, 10:04 AM</date>
+	<author>Small White Car</author>
+	<text>Quote:Originally Posted bypugnutWhoever advised them to now put the maps onboard and download as needed, needs to be fired- poor decision.Quote:Originally Posted byOneMikebad decision. apps like motion gps I'd pay $0.99 for and use the maps over the air.If I'm going to pay $40 for a gps app it'd be cause I relied on it. Wouldn't chance having service.I've been using the iPhone's Google maps in that way for almost 3 years and I havenot oncehad that be an issue.I dunno, I guess something bad could happen, but it sure doesn't seem likely to me at this point. And even if it does happen to me soon I'm prepard for &quot;once every 3 years&quot; as a failure rate.Quote:Originally Posted byTilpotsAgreed.  Downloading anything on Edge is awful, but downloading mission critical graphical maps and directions when you get lost?  Just dumb.Ok, but when a road changes and you don't have the newest map then what are you doing? Manually downloading is what.I'd rather it be an automatic process.Both methods have drawbacks: &quot;Not always available&quot; vs. &quot;Not always current.&quot;Given that I've never had a problem with availability, I'm actually interested in an app that promises to stay current without my having to download maps manually ahead of time.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662943</cid>
+	<date>Jan 4, 2011, 10:06 AM</date>
+	<author>ihav0frnds</author>
+	<text>Quote:Originally Posted bySmall White CarI've been using the iPhone's Google maps in that way for almost 3 years and I havenot oncehad that be an issue.I dunno, I guess something bad could happen, but it sure doesn't seem likely to me at this point. And even if it does happen to me soon I'm prepard for &quot;once every 3 years&quot; as a failure rate.2d vs 3d...pretty different data consumption</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662946</cid>
+	<date>Jan 4, 2011, 10:06 AM</date>
+	<author>corbijnal</author>
+	<text>I used to have a Garmin Nuvi but I won't be going anywhere near this!I'd say your 500MB data allowance on O2 would be churned up in no time.What's the problem with downloading the maps? TomTom takes up about 2-3GB on my 32GB iPhone... big deal!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662961</cid>
+	<date>Jan 4, 2011, 10:08 AM</date>
+	<author>Small White Car</author>
+	<text>Quote:Originally Posted byihav0frnds2d vs 3d...pretty different data consumptionThe 3D is generated on the phone. The map data itself really shouldn't be any different at all. Right?Quote:Originally Posted bycorbijnalI'd say your 500MB data allowance on O2 would be churned up in no time.This should be exactly the same as using the Apple maps app in terms of bandwidth. Are people really killing their data plans using Google maps?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662991</cid>
+	<date>Jan 4, 2011, 10:13 AM</date>
+	<author>guzhogi</author>
+	<text>Quote:Originally Posted bySmall White CarIBoth methods have drawbacks: &quot;Not always available&quot; vs. &quot;Not always current.&quot;Given that I've never had a problem with availability, I'm actually interested in an app that promises to stay current without my having to download maps manually ahead of time.I wonder why the 2 plans have to be mutually exclusive.  Why not download the whole database when you get it, for when you might not get coverage.  And then automatically update when you do have coverage.  When going somewhere, give priority updating to the current route and then download everything else.  Maybe allow current route to be updated with EDGE/3G while whole database updates require Wi-Fi.  Just my 2¢</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663003</cid>
+	<date>Jan 4, 2011, 10:15 AM</date>
+	<author>Tilpots</author>
+	<text>Quote:Originally Posted bySmall White CarOk, but when a road changes and you don't have the newest map then what are you doing? Manually downloading is what.I'd rather it be an automatic process.Both methods have drawbacks: &quot;Not always available&quot; vs. &quot;Not always current.&quot;Given that I've never had a problem with availability, I'm actually interested in an app that promises to stay current without my having to download maps manually ahead of time.Every situation is different, granted, but a re-route due to road change is so much less likely to occur than a traffic congestion re-route or other spur of the moment situation.  If you're not in a 3G area, forget it.  I'll take my chances with an &quot;outdated&quot; map than I will with not being able to quickly access any map at allevery time.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663004</cid>
+	<date>Jan 4, 2011, 10:16 AM</date>
+	<author>wacky4alanis</author>
+	<text>Not interested - the Tom Tom app is great, and I don't have to worry about data coverage.  When you drive around in rural areas, it can definitely be a big issue.  There are plenty of much cheaper apps that download maps on the fly.  Free traffic is a plus though - that may be the one selling point.  I have to pay a yearly fee with Tom Tom.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663007</cid>
+	<date>Jan 4, 2011, 10:17 AM</date>
+	<author>malnar</author>
+	<text>Damn.  The map-download thing is the one thing keeping me from buying this immediately.  I have both TomTom and Navigon's apps and switch between the two from time to time because neither does what I want - basically, I've wanted the Garmin experience on the Iphone but the freedom of the Iphone (and updates, etc. the apps have allowed.)My guess is that the maps download to your phone and are not constantly being pulled in, so a mapped-out drive from one city to another that passes through a dead zone isn't going to result in an area with no maps.  But that one small issue of getting stuck in a no-coverage area and desperately needing it is worrisome.That said, Garmin has everything else covered here -traffic, map updates, etc.  The download issue really should be a minimal problem for most people who aren't traveling in iffy areas.  I *really* want to get back to using a Garmin product without buying a standalone unit.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663013</cid>
+	<date>Jan 4, 2011, 10:18 AM</date>
+	<author>Small White Car</author>
+	<text>Quote:Originally Posted byguzhogiI wonder why the 2 plans have to be mutually exclusive.  Why not download the whole database when you get it, for when you might not get coverage.  And then automatically update when you do have coverage.  When going somewhere, give priority updating to the current route and then download everything else.  Maybe allow current route to be updated with EDGE/3G while whole database updates require Wi-Fi.  Just my 2¢The problem with this plan is that they're specifically bragging about stuff like construction updates, points of intrest, and traffic alerts.In other words, you'll have a system that's constantly downloading stuff AND taking up 3 GB on your phone. I'd be happier to pick one or the other and not have to have the worst of both plans.Your idea could work for another GPS app that's not built to highlight those kind of things, but that doesn't seem to be the app that Garmin wanted to make.Quote:Originally Posted bymalnarMy guess is that the maps download to your phone and are not constantly being pulled in, so a mapped-out drive from one city to another that passes through a dead zone isn't going to result in an area with no maps.  But that one small issue of getting stuck in a no-coverage area and desperately needing it is worrisome.That's something I'd like them to clarify, actually.Is it like Google maps and just downlaods &quot;where you are&quot; or is it downloding your whole state and the surrounding states? Or, like &quot;North-East&quot; or something like that?The difference between those 2 systems could actually mean a lot for some of you folks, it seems.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663025</cid>
+	<date>Jan 4, 2011, 10:21 AM</date>
+	<author>mad-dog-one</author>
+	<text>Quote:Originally Posted bypugnutWhoever advised them to now put the maps onboard and download as needed, needs to be fired- poor decision.I agree. I need my GPS to have maps where I am, particularly when I'm in remote areas out of wifi and cell phone range.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663029</cid>
+	<date>Jan 4, 2011, 10:21 AM</date>
+	<author>wacky4alanis</author>
+	<text>Quote:Originally Posted byguzhogiI wonder why the 2 plans have to be mutually exclusive.  Why not download the whole database when you get it, for when you might not get coverage.  And then automatically update when you do have coverage.  When going somewhere, give priority updating to the current route and then download everything else.  Maybe allow current route to be updated with EDGE/3G while whole database updates require Wi-Fi.  Just my 2¢Tom Tom is moving towards this... the latest version allows users to submit map update info, and then allows other users to download that info.  I'm not sure what it includes because I haven't played with it, but I have noticed it downloading the updates for me every couple of weeks (over 3G, not wifi).  It asks when you start up if you want to download the updates.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663113</cid>
+	<date>Jan 4, 2011, 10:37 AM</date>
+	<author>kas23</author>
+	<text>Garmin, a little late to the game aren't we?As for downloading maps on-the-fly, bad decision.  True, I went many years using Google Maps for directions without major problems, but there definitely were some major headaches along the way.  I can remember critical times when the I would be staring at a blue dot amongst a sea of gray.  I mean, I still alive, so it couldn't have caused much trouble, right?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663137</cid>
+	<date>Jan 4, 2011, 10:43 AM</date>
+	<author>OneMike</author>
+	<text>Quote:Originally Posted bykas23Garmin, a little late to the game aren't we?Late yes, but I think it's not about who gets in first but who does it best. That said. I don't see how over the airs maps can be considered best.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663149</cid>
+	<date>Jan 4, 2011, 10:45 AM</date>
+	<author>Gemütlichkeit</author>
+	<text>I can't trust the cellphone networks to stream the data to me.  Much rather have the maps on the phone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663169</cid>
+	<date>Jan 4, 2011, 10:49 AM</date>
+	<author>wwchris</author>
+	<text>Yeah, Tom Tom is finally getting this right after all kinds of problems. Once a week (if you choose) you get prompted to download a 1 meg'ish patch. You can do it anywhere and it patches the existing stored maps, no live feed necessary. Takes about 5 seconds.You do need live feed for traffic, but of course, that is the whole point of that.BTW, their traffic is awesome now and the routing bugs are finally fixed. Also, their crowd sourced arrival times are the most accurate on any of the platforms and it consistently chooses the shortest route.I was a Garmin lover and wanted it to desperately come to the iphone, but not with maps like this. Now that Tom Tom is finally getting it right, I won't be getting this.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663290</cid>
+	<date>Jan 4, 2011, 11:17 AM</date>
+	<author>BC2009</author>
+	<text>Quote:Originally Posted byTheRealTVGuyI thought there were some free map/gps/turn-by-turn direction apps out there (ala Google Maps). Is this not the case? Can anyone tell me why you would want to purchase one of the Garmin/Tom-Tom apps?Google Maps will give you directions, but will not give you a turn-by-turn 3D view that tracks your position and shows you which lanes to get in, etc....  Google has a turn-by-turn nav app for Android though.Also, Navigon and Tom-Tom will download all the maps you purchased with the app, so you have access to maps even when hiking or driving on a remote trail where there is no service available.  Both Navigon and Tom-Tom are moving toward a model where if the map is wrong you can report that it is incorrect and they can fix it faster and provide updates.Real-time maps means they are up-to-date, when you have network (similar to Google Maps).I think Garmin failed on this one -- additionally the interface looks a bit cartoony.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663307</cid>
+	<date>Jan 4, 2011, 11:19 AM</date>
+	<author>smithrh</author>
+	<text>No maps on-board: no sale.Disappointed.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663373</cid>
+	<date>Jan 4, 2011, 11:33 AM</date>
+	<author>coolbreeze</author>
+	<text>Is the animation smooth or jerky like all Garmins (unlike TomTom's smooth animation).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663561</cid>
+	<date>Jan 4, 2011, 12:10 PM</date>
+	<author>macnews</author>
+	<text>Quote:Originally Posted bySmall White CarI've been using the iPhone's Google maps in that way for almost 3 years and I havenot oncehad that be an issue.I dunno, I guess something bad could happen, but it sure doesn't seem likely to me at this point. And even if it does happen to me soon I'm prepard for &quot;once every 3 years&quot; as a failure rate.Ok, but when a road changes and you don't have the newest map then what are you doing? Manually downloading is what.I'd rather it be an automatic process.Both methods have drawbacks: &quot;Not always available&quot; vs. &quot;Not always current.&quot;Given that I've never had a problem with availability, I'm actually interested in an app that promises to stay current without my having to download maps manually ahead of time.Since you are already using Google maps this way, then why pay $40 for a service?  Traffic updates?  Road directions?  Talking to you?  All fine things but I have also been using Google maps this way and have had refresh problems in areas of otherwise good coverage.  I would pay for a map service which had a small local map (say one in a 200 mile radius of your main zip code) that I could have on board.  Using over the air, I'll just stick with free google maps.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663577</cid>
+	<date>Jan 4, 2011, 12:13 PM</date>
+	<author>jsimpson</author>
+	<text>Yeah, I need the maps to be available if I'm out of coverage so it's a no sale for me too. I was really happy to hear they finally released something and now this.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663652</cid>
+	<date>Jan 4, 2011, 12:28 PM</date>
+	<author>j_maddison</author>
+	<text>I was really looking forward to this, but not having the maps on the device is a no go for me.  I ditched tom tom in favour of a stand alone Garmin years ago and haven't looked back since.  I'm currently using navigon on the iPhone as my Garmin unit is a bit flakey these days.Sort it out Garmin please!  Hopefully this will be rectified before the app is available in the Uk store..... I hope anyway</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663663</cid>
+	<date>Jan 4, 2011, 12:30 PM</date>
+	<author>spazzcat</author>
+	<text>Quote:Originally Posted bypugnutWhoever advised them to not put the maps onboard and download as needed, needs to be fired- poor decision.Went from Cleveland to Flordia with a download based GPS on my iPhone, had no issues.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663709</cid>
+	<date>Jan 4, 2011, 12:37 PM</date>
+	<author>spazzcat</author>
+	<text>Quote:Originally Posted byjsimpsonYeah, I need the maps to be available if I'm out of coverage so it's a no sale for me too. I was really happy to hear they finally released something and now this.I am sure this works like other download GPS apps. They download the maps based on the route. They download the hold trip as soon as you start out and cache the maps. So, unless you are starting out without coverage, i don't see how this would be an issue.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663726</cid>
+	<date>Jan 4, 2011, 12:40 PM</date>
+	<author>j_maddison</author>
+	<text>Quote:Originally Posted byspazzcatI am sure this works like other download GPS apps. They download the maps based on the route. They download the hold trip as soon as you start out and cache the maps. So, unless you are starting out without coverage, i don't see how this would be an issue.i can't comment on the USA, but in the UK the data coverage can vary substantially.  The best voice network is not always the best data network.  O2 for example have a good voice network in the UK, but are by far the worst for 3G coverage.I can't see how this type of set up could work for people who rely on GPS on a daily basis, weekend travellers maybe, but not people who rely on GPS for their jobs</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663769</cid>
+	<date>Jan 4, 2011, 12:47 PM</date>
+	<author>mikelegacy</author>
+	<text>I picked it up. I let you know how it is. I've never bought TomTom or Navigon, because all I've ever had was Garmin devices, and it's AT LEAST $10 cheaper than any other GPS app with Canada maps as well as US. (I like to travel to canada on occasion). The constant updating for free is a major plus, that's the one thing i missed about my old non-smartphone VZ navigator.As far as the no onboard maps...that's a bit of a concern. Most of my driving is done within a 3G coverage area, but I've read that it has a way of keeping the maps downloaded even if you drop data coverage. Hopefully this is true.EDIT: here is the link for that article i read:http://www.google.com/url?sa=t&amp;sourc...wxKoJ2qD8HahKQQuote:I will cover Garmin's method of handling maps when a phone is out of data range in my review.At least it is hopeful then...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663774</cid>
+	<date>Jan 4, 2011, 12:48 PM</date>
+	<author>coolbreeze</author>
+	<text>If you have the 2gig plan, I wish you the best! (oh, stay away from Skype video chat and Howard Stern streaming too).I find it so ironic that caps are the norm now and companies seem to be adding streaming services daily.  It's a freight train headed in the wrong direction...data overages are becoming more and more likely.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663830</cid>
+	<date>Jan 4, 2011, 12:58 PM</date>
+	<author>mikelegacy</author>
+	<text>Quote:Originally Posted bycoolbreezeIf you have the 2gig plan, I wish you the best! (oh, stay away from Skype video chat and Howard Stern streaming too).I find it so ironic that caps are the norm now and companies seem to be adding streaming services daily.  It's a freight train headed in the wrong direction...data overages are becoming more and more likely.It's complete and total BS man. Then on their commercials that basically advertise &quot;HEY YOU CAN STREAM NETFLIX FROM ANYWHERE!!!!&quot;, but then when you call and complain, they tell you that they don't recommend doing that. I hope that VZW does get the iPhone, offers a better or unlimited data plan and AT&amp;T declares bankruptcy. That's what I hope.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663968</cid>
+	<date>Jan 4, 2011, 01:19 PM</date>
+	<author>spazzcat</author>
+	<text>Quote:Originally Posted byj_maddisoni can't comment on the USA, but in the UK the data coverage can vary substantially.  The best voice network is not always the best data network.  O2 for example have a good voice network in the UK, but are by far the worst for 3G coverage.I can't see how this type of set up could work for people who rely on GPS on a daily basis, weekend travellers maybe, but not people who rely on GPS for their jobsIf you drive for work, there is a good chance you drive in the same areas, I can't see this app not caching maps.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664019</cid>
+	<date>Jan 4, 2011, 01:28 PM</date>
+	<author>mikelegacy</author>
+	<text>Quote:Originally Posted byspazzcatIf you drive for work, there is a good chance you drive in the same areas, I can't see this app not caching maps.Exactly. I really don't think Garmin is THAT stupid. There has to be some system of caching...perhaps it's just false-hope since i spent $40 on the damn app, but It's only logical...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664167</cid>
+	<date>Jan 4, 2011, 01:57 PM</date>
+	<author>ucfgrad93</author>
+	<text>Quote:Originally Posted bysmithrhNo maps on-board: no sale.Disappointed.Agreed.  I want the maps with me, especially if I'm in a bad cell area.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664221</cid>
+	<date>Jan 4, 2011, 02:07 PM</date>
+	<author>spazzcat</author>
+	<text>Quote:Originally Posted bymikelegacyExactly. I really don't think Garmin is THAT stupid. There has to be some system of caching...perhaps it's just false-hope since i spent $40 on the damn app, but It's only logical...There is no option to preload maps like motionx has when you start out?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664276</cid>
+	<date>Jan 4, 2011, 02:17 PM</date>
+	<author>notjustjay</author>
+	<text>I would hope that the unit would at least cache the download map tiles.I wonder how well it will work on an iPad?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664314</cid>
+	<date>Jan 4, 2011, 02:29 PM</date>
+	<author>coolbreeze</author>
+	<text>Quote:Originally Posted byspazzcatIf you drive for work, there is a good chance you drive in the same areas, I can't see this app not caching maps.Why would you need GPS for a route you take daily?  Traffic, I suppose...but still?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664355</cid>
+	<date>Jan 4, 2011, 02:38 PM</date>
+	<author>cdebnil</author>
+	<text>Purchased and will try it out tonight.  I'll try to make a video review of it in action.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664422</cid>
+	<date>Jan 4, 2011, 02:49 PM</date>
+	<author>mikelegacy</author>
+	<text>Quote:Originally Posted byspazzcatThere is no option to preload maps like motionx has when you start out?Nope.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664428</cid>
+	<date>Jan 4, 2011, 02:50 PM</date>
+	<author>Jarbo</author>
+	<text>And your piss poor Mac support for all of your devices, awful (if non-existant) syncing and overpriced proprietary maps. You have promised mac apps for years and have always failed to deliver.You still suck. Even with your iPhone app.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664432</cid>
+	<date>Jan 4, 2011, 02:51 PM</date>
+	<author>mikelegacy</author>
+	<text>Quote:Originally Posted byJarboAnd your piss poor Mac support for all of your devices, awful (if non-existant) syncing and overpriced proprietary maps. You have promised mac apps for years and have always failed to deliver.You still suck. Even with your iPhone app.Little bit hostile, dontcha think?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664522</cid>
+	<date>Jan 4, 2011, 03:09 PM</date>
+	<author>malnar</author>
+	<text>Quote:Originally Posted bycoolbreezeWhy would you need GPS for a route you take daily?  Traffic, I suppose...but still?That's 99% of my use for GPS apps - daily.  They alert you to and try to route you around snarled traffic.  If you aren't using an app that takes advantage of real-time traffic data, you are missing out on a very big part of the app's usefulness.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664667</cid>
+	<date>Jan 4, 2011, 03:44 PM</date>
+	<author>jb510</author>
+	<text>A year or two ago I too would have lambasted the decision not to include maps, but having seen how HORRIFICALLY bad Navigon's POI database is I'll gladly take downloaded maps if it means when I search for something I can actually find it.  Navigon mitigated this some by utilizing google search, but it's still pathetic that I can't find 80% of the nearby businesses in Navigon.I've been through 3 Garmin's and loved every one of them.  Since my last one was stolen I've lived with Navigon my iPhone.  I've never felt it was worth paying for between the horrible iPod integration (volume, podcasts) and pitful POI database.Assuming there is some caching of maps I think it'll work great, even if the caching isn't persistant (ie. even if it had to download the map from my house to work every day...  oh wait I work from home, but you know what I mean right?).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664808</cid>
+	<date>Jan 4, 2011, 04:08 PM</date>
+	<author>Freecity88</author>
+	<text>I like Garmin GPS but I have to say, this one is not comparable to the tomtom or navigon one.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664848</cid>
+	<date>Jan 4, 2011, 04:14 PM</date>
+	<author>mikelegacy</author>
+	<text>I haven't used the TomTom one, but this one works beautifully. I just used it going home from work to test it out...it really works seamlessly. I tried searching around from some local businesses that aren't too well known, and it found them all. Amazing. My friends TomTom standalone device wouldn't have found half of these places without $100 yearly software/maps upgrade....awesome.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664967</cid>
+	<date>Jan 4, 2011, 04:33 PM</date>
+	<author>jamespa66</author>
+	<text>I downloaded it and tested it out a bit this afternoon.First thoughts, Voice is real tinny sounding and not the easiest to understand.Downloading maps was not a problem in the city at city speeds, on the highway that's another story, with in a couple miles the map ran out and never really did catch up till I got off the highway about 10 miles later with a full signal 3G connection.The interface is nice and is very easy to use. Maps are good turn by turned was flawless. Checked out how current the maps where by going through a new subdivision only about 2 months old and it found all the street names no problem.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664977</cid>
+	<date>Jan 4, 2011, 04:37 PM</date>
+	<author>notjustjay</author>
+	<text>Quote:Originally Posted bycoolbreezeWhy would you need GPS for a route you take daily?  Traffic, I suppose...but still?I imagine some people's jobs may require them to stay within the same general region, but travel areas that they're not totally familiar with: delivery drivers, shuttle drivers, taxis, etc.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665157</cid>
+	<date>Jan 4, 2011, 05:17 PM</date>
+	<author>ski2moro</author>
+	<text>I'm sure that this works for a lot of people, but not me.I travel frequently in the Adirondacks where there NO AT&amp;T service, not even Edge.  The whole concept of the ADK region is for it to remain pristine forest and mountain, unspoiled by cell towers.  That concept isn't going to change without a NYS Constitutional Amendment, and that is not going to happen in our lifetime.I think the whole point of having GPS on the iPhone is to be able to get maps as needed.  Garmin is missed the boat.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11665738</cid>
+	<date>Jan 4, 2011, 08:08 PM</date>
+	<author>Wolffie</author>
+	<text>DisappointedGuess I'll look into Navigon or Tom TomHope Garmin find improvement in updates</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666124</cid>
+	<date>Jan 4, 2011, 09:41 PM</date>
+	<author>kupua</author>
+	<text>Wow, all the critical reviews to pay or not to pay, pre installed or dl on the fly.  As I see it, both have draw backs as mentioned, but my general pref, is that it should dl at least your surrounding area.  So    Garmin (39.99), Tom Tom (39.99), Navigon (44.99),Google (free), Motion X ($2.99)etc. for US major apps.And yet not one sole mentionsMap Quest 4 Mobile (free), dl on the fly and I have never had an outage issue.I do prefer a stand alone gps though. Therefore I don't see spending more for a secondary gps/backup on my mobile.And for what its worth, currently using a Garmin 265WT, with traffic. I do have some slant toward Garmin as I use a eTrex Vista.  On the iPhone I have all the bold apps.  I prefer the Map Quest of all the boldfaced ones.Changing gears on subject, GPS IIF, SV-1 launched  end of May 2010 and SV-2 soon, accuracy will only get better!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666184</cid>
+	<date>Jan 4, 2011, 09:55 PM</date>
+	<author>QuarterSwede</author>
+	<text>Quote:Originally Posted byJarboAnd your piss poor Mac support for all of your devices, awful (if non-existant) syncing and overpriced proprietary maps. You have promised mac apps for years and have always failed to deliver.You still suck. Even with your iPhone app.I'll agree that their Mac support has been poor but their GPS routes/accuracy have always been the best.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666214</cid>
+	<date>Jan 4, 2011, 10:02 PM</date>
+	<author>rans0m00</author>
+	<text>Way to fail garmin if I wanted to download maps the entire time there are plenty of other options that are cheap or free</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666724</cid>
+	<date>Jan 5, 2011, 12:44 AM</date>
+	<author>diogenis</author>
+	<text>I don't get what's the problem with Garmin's view. Garmin decided to go live and have upto date maps and traffic alert. I can imagine they also have some sort of cash so you only have to d/l the map once and then it lives in your iphone. It also has an amazingly small footprint - weighs in at only 8mb and this is another cool feature of the program!Besides, none said you cant have garmin for live updates and news + navigon or tomtom as a standalone gps.I like Garmin's approach, wish they make it for Europe as well</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11666952</cid>
+	<date>Jan 5, 2011, 02:25 AM</date>
+	<author>Blue Fox</author>
+	<text>Quote:Originally Posted byguzhogiI wonder why the 2 plans have to be mutually exclusive.  Why not download the whole database when you get it, for when you might not get coverage.  And then automatically update when you do have coverage.  When going somewhere, give priority updating to the current route and then download everything else.  Maybe allow current route to be updated with EDGE/3G while whole database updates require Wi-Fi.  Just my 2¢That's exactly what i was thinking, makes perfect sense to me. Have a download of the standard maps, and have them update themselves as you travel.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667920</cid>
+	<date>Jan 5, 2011, 09:17 AM</date>
+	<author>jjhny</author>
+	<text>If you live in the northeast I can tell you definitely there are many places where data coverage goes out - it's just a fact of terrain. There are many places where you would need a cell tower every hundred feet to have complete coverage - and that ain't happening. I'll give you and example - Greenwich, CT has terrible data coverage - this is a rich area, maybe 35 miles from NYC and data coverage is terrible. I've seen it first hand, this not speculation.I use TomTom - it has all the maps of the US and Canada - it works in the middle of nowhere in the backcountry even without cell or data coverage.Now - to be out in the middle of nowhere and have the app say it needs data - and that you can't get your street or turning info - well that is just profoundly stupid. They need to have the option to download at least your full region within 200 to 500 miles - otherwise I just would not trust it as my gps system. No way. Case closed.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669139</cid>
+	<date>Jan 5, 2011, 12:54 PM</date>
+	<author>notjustjay</author>
+	<text>Quote:Originally Posted bydiogenisI don't get what's the problem with Garmin's view. Garmin decided to go live and have upto date maps and traffic alert. I can imagine they also have some sort of cash so you only have to d/l the map once and then it lives in your iphone. It also has an amazingly small footprint - weighs in at only 8mb and this is another cool feature of the program!Well, that's the real question, isn't it.  If it turns out this is the case, and it can cache the maps for an entire region, and if it's smart enough to grab the maps for the entire region that you're currently in and/or going to, for some appreciable radius, AND if it can keep the maps in the cache for as long as you need it (which might be &quot;forever&quot; for maps of your home city), then I'm willing to give it a try.But others in this thread have already talked about driving through backcountry areas with no 3G access, and not having any access to maps.  They've talked about travelling down a highway and &quot;running out of map&quot; and having to pull over so that the 3G can connect and refresh the maps.  If that's the sort of user experience I should expect, then I'd rather stick to a standalone GPS receiver.  Or buy one of the other GPS apps that have built-in offline mapping.Garmin touts the ability to get the latest map updates and real-time traffic.  Definitely useful for navigating within big cities with major highways, constantly-expanding suburbs and major road expansions in the works. But without map prefetching and caching, they are making their GPS app ONLY useful for these areas.Eagerly awaiting real-world reviews...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669186</cid>
+	<date>Jan 5, 2011, 12:58 PM</date>
+	<author>j_maddison</author>
+	<text>Quote:Originally Posted byspazzcatIf you drive for work, there is a good chance you drive in the same areas, I can't see this app not caching maps.I'm national, I've driven all over the UK this year.  My cell phone is on O2, and the 3G coverage is very poor.  I've opted for Orange on the iPad as their 3G is much better.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671586</cid>
+	<date>Jan 5, 2011, 08:06 PM</date>
+	<author>nagromme</author>
+	<text>Always good to see more options. But my Android friends relying on Google navigation find themselves up a creek due to this same issue of network dependence. While my pre-stored Navigon MyRegion for iPhone keeps on navigating! 3G has small dead spots even in major cities, and that&#8217;s enough to miss a turn.In fact, my old iPhone 3G that doesn&#8217;t even have phone service anymore still works great as an in-car voice-guided GPS with Navigon. (Just don&#8217;t put it into airplane mode&#8212;that saves power but seems to shut down the GPS as well as the other radios.)MyRegion is cheap (it&#8217;s regional but upgradable) and it even goes on sale sometimes&#8212;I&#8217;m really happy with it. Very slick iOS UI, but in a non-distracting black-and-brown. (Unlike the cluttered, garish UI that Garmin app seems to have.) And it multitasks nicely with Pandora AND any other GPS app I want! Sometimes I run Navigon MyRegion in the background for the voice guidance, while Google Earth is in the foreground showing me the real photographic landscape. Two GPS apps running at once can be the best of both worlds</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673842</cid>
+	<date>Jan 6, 2011, 08:48 AM</date>
+	<author>johnnystorm</author>
+	<text>As a long term Garmin user I cringed when they tried doing the phone thing with Asus, this doesnt fill me with any confidence either.As mentioned above, signal where I am in the UK is just too patchy to rely on, or indeed fast enough (even when signalisgood).When iPhones only had 4/8gb storage then it kind of makes sense but as later models are all 16gb+ whats the big deal?I like to holiday in the US, often driving long distances. OTA maps would cost me a fortune in roaming fees, if indeed I got signal out in the sticks.For me buying copilot outright (£25/$40) for the UK and (£10/$15) USA (Thanks Black friday sales!) made a lot more sense and a fixed budget. I get quarterly updates too so I'm neverthatout of date!Before NDrive were given the boot I recall I got their USA/Canada maps for about $5 all in. Unless youreallyneed all the available space for music/games/etc why would you want to risk it all on the chance of a good signal?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11675048</cid>
+	<date>Jan 6, 2011, 11:32 AM</date>
+	<author>zengod</author>
+	<text>In the UK where customers of the like of O2 (me) have more chance of getting a w##k off the Pope than a decent data signal without resorting to standing up a ladder and waving their phone in the air, this is a definate no win app.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11677273</cid>
+	<date>Jan 6, 2011, 04:51 PM</date>
+	<author>Nomadski</author>
+	<text>Apart from the streaming fail, Garmin are way too late to the party.  Even when everyone was criticising TomTom, I went and bought it and it (for me) is the ultimate GPS navigator.  Free map and service updates, no streaming involved, full multitasking support, been flawless in its navigation, accurate in its info (time of arrival is almost always spot on) and there's traffic when I want it for longer journeys, albeit not free.The mapping display also doesn't look like a Scooby Doo 'toon unlike the Garmin app, judging from these screenshots...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11678294</cid>
+	<date>Jan 6, 2011, 08:34 PM</date>
+	<author>i3igsmooth5769</author>
+	<text>and i was looking forward to this.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11678898</cid>
+	<date>Jan 6, 2011, 11:17 PM</date>
+	<author>notjustjay</author>
+	<text>So, any first-hand feedback yet?  Any reviews?Edit: Ah, here's one:http://www.tuaw.com/2011/01/06/drivi...ot-iphone-app/</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11691421</cid>
+	<date>Jan 9, 2011, 10:37 AM</date>
+	<author>deanooh</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7)Not a good move. I travel around the us and for rural (Ennis, TX 2G or none) or too many users , not enough bandwidth areas (south beach, Miami ) this would be a disaster. I'll stick with my navigon. Not to mention overseas when you shut off your DATA access to not get billed $1000 for data usage. MTS</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11691459</cid>
+	<date>Jan 9, 2011, 10:46 AM</date>
+	<author>RaceTripper</author>
+	<text>I drive 5000+ miles worth of road trips each year. AT&amp;T 3G is available for maybe 5-10% of that, and EDGE is mostly useless otherwise. I use Navigon and it works great. A GPS program that relies on live downloads would be a comlete disaster for me.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11700778</cid>
+	<date>Jan 10, 2011, 10:40 PM</date>
+	<author>bretm</author>
+	<text>Quote:Originally Posted byBC2009Google Maps will give you directions, but will not give you a turn-by-turn 3D view that tracks your position and shows you which lanes to get in, etc....  Google has a turn-by-turn nav app for Android though.Also, Navigon and Tom-Tom will download all the maps you purchased with the app, so you have access to maps even when hiking or driving on a remote trail where there is no service available.  Both Navigon and Tom-Tom are moving toward a model where if the map is wrong you can report that it is incorrect and they can fix it faster and provide updates.Real-time maps means they are up-to-date, when you have network (similar to Google Maps).I think Garmin failed on this one -- additionally the interface looks a bit cartoony.Mapquest has a really nice google style that gives you turn by turn with voice for free.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11706456</cid>
+	<date>Jan 11, 2011, 03:02 PM</date>
+	<author>navguy</author>
+	<text>New StreetPilot in app store ... fast update to app, must have known of all these issues before CES release ... step in the right direction, and encouraging to see their commitment to updatesWhat's New in Version 6.5.3&bull;Improved audio quality - Voice instructions are now clearer and easier to understand&bull;Map storage size increased - browse even more maps offline that you've previously downloaded&bull;Listen to music without interruptions - New setting toggles voice instructions on/off during navigation&bull;New volume control added to navigation map menu for quick access&bull;Faster map downloads&bull;Minor bug fixes</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11707395</cid>
+	<date>Jan 11, 2011, 05:09 PM</date>
+	<author>bigsexyy81</author>
+	<text>Quote:Originally Posted byNomadskiApart from the streaming fail, Garmin are way too late to the party.  Even when everyone was criticising TomTom, I went and bought it and it (for me) is the ultimate GPS navigator.  Free map and service updates, no streaming involved, full multitasking support, been flawless in its navigation, accurate in its info (time of arrival is almost always spot on) and there's traffic when I want it for longer journeys, albeit not free.The mapping display also doesn't look like a Scooby Doo 'toon unlike the Garmin app, judging from these screenshots...I bought TomTom, too. Relatively happy with it, even though I was a big Garmin fan before.Agree with everything you said. If they port over an exact copy of the Nuvi GPS, heck even the basic one, I'd pay for it.I would never buy a true GPS app that needed to stream, regardless of the price.Garmin made their fortune with standalone GPS devices, it's a shame they didn't have the forethought to know that everyone but older people would be looking to integrate GPS into their mobile.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11707445</cid>
+	<date>Jan 11, 2011, 05:18 PM</date>
+	<author>IBradMac</author>
+	<text>Google maps have been great. No need to spend $40 I don't guess.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11708759</cid>
+	<date>Jan 11, 2011, 08:57 PM</date>
+	<author>abideworldwide</author>
+	<text>Like my Nuvi for the Garmin interface and have been waiting for an iPhone app to take its place. Have used Google maps and like others stared at the blue dot in a field of grey where no map has loaded due to slow or no cell coverage. Garmin dropped the ball on the decision to not load the map data as a package. All of North America is around 1GB on my Nuvi and I'd gladly devote that space on my iPhone. Whats more our iPod 4G could have been a nice GPS in my wife's car with the maps loaded. No cell connection for the iPod means no maps and no way to use it for a second Garmin purchase. Lost revenue from our two devices Garmin but if you guys in Kansas fix that problem and have all of the map data included you've got two more sold!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11714066</cid>
+	<date>Jan 12, 2011, 03:34 PM</date>
+	<author>tigress666</author>
+	<text>You know, I have had good enough experiences with Garmin that this app would have tempted me to consider buying despite the fact I already have Navigon (and am on a budget so I should just stick with what I have) but the fact you don't get downloaded maps is a total deal buster.I can get that for free with Mapquest including voice instruction to tell me when to take the next turn. Sure, Garmin may  have better routing, maybe their interface is better (don't know), but that's not worth 40 dollars more.On top of that, if I am going to pay for a navigation software (since even if Mapquest didn't offer turn by turn for free I can at least use google maps that comes on my phone for free), one of its uses better be good for travel. And while Garmin's app probably would be fine for around town for me (as is the free google maps), trying to drive out of town would be an issue cause I live in a mountainous area... there will be plenty of areas around me without cellphone coverage that I might want to take a drive through. And I don't want to pay 40 dollars for a navigation app that won't help me in those areas. Especially when I can pay less than that (Navigon is now 35 for all of the US) and get a program that isn't crippled that way.Personally, I think it was a *huge* mistake for Garmin to rely on downloading only. Even if you don't have a need for the maps to be on your phone, you can get the same function for free from other apps. And if you are willing to give up voice instruction, you don't even have to download any apps, you got google maps that comes with the phone. And from what I understand from reviews, this isn't download a map and it caches it, this is pretty much like google maps where you have to have cellphone connection to have a map.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11723654</cid>
+	<date>Jan 14, 2011, 02:11 AM</date>
+	<author>Ghibli</author>
+	<text>There ia another HUGE drawback in the decision to have over-the-air maps: the roaming fees. If I travel in my country downloading a map can be a boring stuff but you can live with it (although I have to admit that I would not rely on hoping to have cell service in the area where I have to go), but if you go outside the country downloading anything can really boost your cell fees. Imagine to plan a trip from Milan to Münich (a 5 hour one, not so long) where you have to download data from (in sequence): Italy, Switzerland, Lichtenstein and Germany cell networks...I imagine that a single trip like this can boost your bit up to several hundreds of Euros...REALLY BAD!Not buying this...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11724558</cid>
+	<date>Jan 14, 2011, 08:51 AM</date>
+	<author>djinn</author>
+	<text>I purchased the App to compare it to Navigon and TomTom.  While the app is fairly new, you would have to wonder how much testing they did before submitting it to app store.I would say the app has some potential but needs a lot of work.  No need to name all the issues since they are obviously already mentioned in the thread.As of now, my trust with an Iphone GPS App would have to go to TomTom.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11728247</cid>
+	<date>Jan 14, 2011, 08:19 PM</date>
+	<author>Phantom Gremlin</author>
+	<text>I'm puzzled by why these apps all just tout iPhone compatibility. Why not also the iPad?I have an iPad with 3G and the built-in map sucks (compared to my real Garmin Nuvi). I'd pay to have good navigation on it. So why the hate from Garmin?I think I have the hardware, don't I? I can receive 3G data, which also means my iPad has GPS. Isn't that enough?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11728270</cid>
+	<date>Jan 14, 2011, 08:26 PM</date>
+	<author>RaceTripper</author>
+	<text>Quote:Originally Posted byPhantom GremlinI'm puzzled by why these apps all just tout iPhone compatibility. Why not also the iPad?I have an iPad with 3G and the built-in map sucks (compared to my real Garmin Nuvi). I'd pay to have good navigation on it. So why the hate from Garmin?I think I have the hardware, don't I? I can receive 3G data, which also means my iPad has GPS. Isn't that enough?Navigon has full support for the iPad, and you don't have to buy separate versions for iPhone and iPad.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11730909</cid>
+	<date>Jan 15, 2011, 12:26 PM</date>
+	<author>Krevnik</author>
+	<text>Quote:Originally Posted bydjinnI would say the app has some potential but needs a lot of work.  No need to name all the issues since they are obviously already mentioned in the thread.I encountered a lot of &quot;WTF?&quot;-style behavior quirks with Garmin myself. It does the job, but the deal-breaker for me is that the volume slider in settings sets both your device volume, and the speech volume. So you either deal with quiet music, or very loud instruction if you are using your phone to also play music.It handles drop-outs of network fine, but requires you to be on the network to get a route planned, and you can't pre-plan a route. So if you are say, planning a camping trip, you will only get GPS direction one way if the camp site is out of cell service (like mine usually are).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11734963</cid>
+	<date>Jan 16, 2011, 09:36 AM</date>
+	<author>D'Illusion</author>
+	<text>Quote:Originally Posted byzengodIn the UK where customers of the like of O2 (me) have more chance of getting a w##k off the Pope than a decent data signal without resorting to standing up a ladder and waving their phone in the air, this is a definate no win app.Depends. If you're a little choir boy then you might arouse the Pope's interest.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11744056</cid>
+	<date>Jan 17, 2011, 06:58 PM</date>
+	<author>JayInNJ</author>
+	<text>This has been available for over 2 years on the Blackberry and it also downloads the maps. First off it must cache a lot or they are very small files because it starts plotting your direction almost instantly (couple of seconds). Also, I am on Verizon and when on a phone call we don't get data, however this continued to work flawlessly, as long as you already entered in your destination. This is one of the greatest uses of multitasking since it will run in the background and give you voice commands even if you are checking email or doing something else. This is also a great price, I had paid $80 for the blackberry version. It is worth it since it includes the latest maps (usually something you have to pay for), has the exact same functionality as the dedicated box, and is must cheaper.  One negative is it drains your battery pretty good so make sure you have a car charger. But it has been great because I always have it with me.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11759631</cid>
+	<date>Jan 20, 2011, 10:19 AM</date>
+	<author>nikole</author>
+	<text>Quote:Originally Posted bywwchrisYeah, Tom Tom is finally getting this right after all kinds of problems. Once a week (if you choose) you get prompted to download a 1 meg'ish patch. You can do it anywhere and it patches the existing stored maps, no live feed necessary. Takes about 5 seconds.You do need live feed for traffic, but of course, that is the whole point of that.BTW, their traffic is awesome now and the routing bugs are finally fixed. Also, their crowd sourced arrival times are the most accurate on any of the platforms and it consistently chooses the shortest route.I was a Garmin lover and wanted it to desperately come to the iphone, but not with maps like this. Now that Tom Tom is finally getting it right, I won't be getting this.Also, Navigon and Tom-Tom will download all the maps you purchased with the app, so you have access to maps even when hiking or driving on a remote trail where there is no service available. Both Navigon and Tom-Tom are moving toward a model where if the map is wrong you can report that it is incorrect and they can fix it faster and provide updates.______________________how to copy xbox 360 gamescopy xbox 360 games]</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11760444</cid>
+	<date>Jan 20, 2011, 12:48 PM</date>
+	<author>Tailpike1153</author>
+	<text>I'd say I'll never get lost again but I seem to have misplaced my iPhone.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11765512</cid>
+	<date>Jan 21, 2011, 09:43 AM</date>
+	<author>Ihatefall</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8C148 Safari/6531.22.7)I have the navigon and Tom Tom apps. I got the garmin too. I have only used it a couple of times but what I can say is, it seems to download the entire map at the beginning of the trip (when you most likely had coverage).Yesterday I was using it in a place that just started construction and the directions took me on the detour! I like the garmin plus the included free traffic works well.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11769304</cid>
+	<date>Jan 21, 2011, 09:44 PM</date>
+	<author>Dhelsdon</author>
+	<text>Any Navigon users out there who have switched to street pilot, is it worth switching over?What do you like better or worse about it?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11782520</cid>
+	<date>Jan 24, 2011, 03:54 PM</date>
+	<author>onlineaddy</author>
+	<text>I concur with JayInNJ. I have been using the BlackBerry version with my Storm (1st-gen) on Verizon for two years now. OTA maps have not been an issue for me in all this time. Of course, I don't travel to the middle of nowhere. So, YMMV. I'm planning on getting the iPhone when it launches on VZW and will most likely get the Garmin app for it. $40 for the iOS version with additional features (traffic, Lane Assist, etc.) is a great deal compared to the $75 I spent for the BB version.Quote:Originally Posted byJayInNJThis has been available for over 2 years on the Blackberry and it also downloads the maps.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11798760</cid>
+	<date>Jan 27, 2011, 11:12 AM</date>
+	<author>hnsmusic</author>
+	<text>Quote:Originally Posted byRaceTripperI drive 5000+ miles worth of road trips each year. AT&amp;T 3G is available for maybe 5-10% of that, and EDGE is mostly useless otherwise. I use Navigon and it works great. A GPS program that relies on live downloads would be a comlete disaster for me.Know what you mean. I recently did a road trip from Cali to Arkansas with my Navigon app. I dont know what Id have done if I had to rely on data for the map info. Its really quite a shame. Ive owned Garmin units for years before switching to iPhone and Navigon. Why Garmin?.....Why?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11841559</cid>
+	<date>Feb 3, 2011, 06:37 PM</date>
+	<author>rang</author>
+	<text>Quote:Originally Posted bypugnutWhoever advised them to not put the maps onboard and download as needed, needs to be fired- poor decision.+1.That brain dead decision has elevated their products usefulness to that of Google Maps. Maybe just slightly better. But from a user experience driving in the middle of nowhere and then coming into an area where you need street date etc. ...that design just SUCKS big time. When you need it most ...major , MAJOR FAIL.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11846517</cid>
+	<date>Feb 4, 2011, 10:50 AM</date>
+	<author>jctevere</author>
+	<text>I just use map quest application. It is a free application and offers voice-based turn by turn directions with street names and all. Traffic updates really aren't worth the extra $40 if you ask me. And half the time I shut off the screen and just listen to the voice direction to save battery life, so 3D maps are a mute point with me... OTA map pulling really isn't all that bad. It loads your entire route when you load your destination (unless its extremely long, like cross-country) so if you don't deviate from its directions, you won't need service again to pull directions.I have only had 1 issue on OTA map pulling with Map Quest. I once took a different way then suggested and caused the unit to re-rout me automatically. However, at that moment I didn't have service (Thanks AT&amp;T, I was in NYC...) so the app prompted saying &quot;re-routing not available at this time&quot; and then 1 minute later it re-rerouted me when I got service. Not bad. It does everything I want it to. The only thing I wish it had was traffic updates. I have no idea why anyone charges for this. We should get it free with our data packages...Anyone know if there is a jailbreak version of this app or will it not work because it is authenticated on the server side?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11846547</cid>
+	<date>Feb 4, 2011, 10:54 AM</date>
+	<author>QuarterSwede</author>
+	<text>Quote:Originally Posted byjctevereI just use map quest application. It is a free application and offers voice-based turn by turn directions with street names and all. Traffic updates really aren't worth the extra $40 if you ask me. And half the time I shut off the screen and just listen to the voice direction to save battery life, so 3D maps are a mute point with me...I use the MapQuest app as well but I do miss all of the other functions and features of a full fledged Navigation app/device.Quote:Originally Posted byjctevereAnyone know if there is a jailbreak version of this app or will it not work because it is authenticated on the server side?If you're asking if there is a cracked version of Streetpilot then yes, it's out there and no, no one here will help you find it. MR doesn't condone piracy, even for trial usage.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11846868</cid>
+	<date>Feb 4, 2011, 11:36 AM</date>
+	<author>tigress666</author>
+	<text>Quote:Originally Posted byjctevereI have only had 1 issue on OTA map pulling with Map Quest. I once took a different way then suggested and caused the unit to re-rout me automatically. However, at that moment I didn't have service (Thanks AT&amp;T, I was in NYC...) so the app prompted saying &quot;re-routing not available at this time&quot; and then 1 minute later it re-rerouted me when I got service. Not bad. It does everything I want it to. The only thing I wish it had was traffic updates. I have no idea why anyone charges for this. We should get it free with our data packages...And this is the point why it is ridiculous to pay 40 dollars for an app that if you take the wrong turn or decide to do a small deviation that you're left with no directions if you happen to be out of service.Why would I pay 40 dollars for an app that won't be flexible when I'm out traveling when I could pay 40 dollars (or less really, last I checked Navigon was 35 for all of the US) for an application I can use anywhere and if I decide to deviate or some how go off track, it has no issue with that? And I can get an app that does the same thing as Garmin for *free* (mapquest). Any advantage Garmin has over Mapquest certainly isn't worth 40 dollars.Yeah, Garmin might be useful if you only use it in the city. But you know what, my main reason for wanting a GPS app was for driving outside of the city and going on road trips. Sure I use it more often within the city cause that is where I go more and I happen to have it so I use it. But the biggest reason I wanted it was going places I'm not as familiar with (I'm mostly familiar with the city, it's when I leave the area I am familiar with it, I need it the most. Which is going outside the city). In my area, there are plenty of areas (like Mount Rainier) where you just aren't going to get cellphone coverage, period. Not just a small lapse, just isn't there (and no, now that Verizon has the phone, you still aren't going to get coverage in the areas like Mount Rainier, there isn't cellphone coverage period. I'm just using that as one example btw).Garmin made a huge mistake in that choice of how to do things.</text>
+	<score>0</score>
+</comment>

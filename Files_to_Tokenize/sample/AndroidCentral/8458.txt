@@ -1,0 +1,74 @@
+<article>
+	<pid>8458</pid>
+	<title>Motorola Droid Costs $179.11 Worth Of Materials | Android Central</title>
+	<url>http://www.androidcentral.com/motorola-droid-costs-17911-worth-materials</url>
+	<date>   Jan 18 2010  8:02 am   </date>
+	<author>Casey Chan</author>
+	<text>
+ Looking good always come with a price. The Motorola Droid just got its good ol' fashioned iSuppli bill of materials list and the total came out to $179.11 per device. Which is ever so slightly more expensive than the $174.15 bill of materials for the Nexus One. A little bit surprising right?There's a good amount of pricy hardware in the Droid, for example the amazing screen costs $17.75 by itself, but making it a capacitive touchscreen adds another $17.50. It's always kind of cool to see what the bill of materials is for a device but we have to say, there has to be a better deal available than the $14.25 Camera Module, since the pictures the Droid takes just aren't that good.[isuppli] </text>
+	<score>9</score>
+</article>
+<comment>
+	<cid>15951</cid>
+	<date>Jan 18 2010  10:10 am</date>
+	<author>Anonymous</author>
+	<text>So getting the phone for 80 bucks was a steal...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>15953</cid>
+	<date>Jan 18 2010  10:19 am</date>
+	<author>Kiel</author>
+	<text>is it really fair to reference a link about the Droid camera from Nov 9th?  Wasn't that during the period of time where the droid camera auto focus was borked?</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>15985</cid>
+	<date>Jan 18 2010  2:22 pm</date>
+	<author>Jake Hilborn</author>
+	<text>The only reason the Droid is more expensive is because of that 16gb sd card.</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>15986</cid>
+	<date>Jan 18 2010  2:22 pm</date>
+	<author>Jake Hilborn</author>
+	<text>The only reason the Droid is more expensive than the Nexus One is because of that 16gb sd card.</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16006</cid>
+	<date>Jan 18 2010  3:57 pm</date>
+	<author>crew#wp</author>
+	<text>Can anyone say MASSIVE profit?  The phone costs $299.99 at a 2 year price, it's $199.99 with a new line of service and $529.99 without a contract. That's a $112.24,  $12.24 and $342.24 respectively. </text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16064</cid>
+	<date>Jan 18 2010  9:29 pm</date>
+	<author>pdx77</author>
+	<text>But you also forgot to include costs like development, marketing, etc etc.  There's more costs to produce the phone then the materials itself.</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16074</cid>
+	<date>Jan 18 2010  9:49 pm</date>
+	<author>Bob</author>
+	<text>Really...</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16073</cid>
+	<date>Jan 18 2010  10:00 pm</date>
+	<author>JLG1985</author>
+	<text>If "80 bucks" is a steal what do you call getting a DROID for $49.00?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>16108</cid>
+	<date>Jan 19 2010  5:34 am</date>
+	<author>buy R4i卡</author>
+	<text>Droid will do really well since how Ardroid OS is and the fact that it evolves in every version of it's update
+And the same will happen to maemo 5/6 as well evolution by updates</text>
+	<score>100</score>
+</comment>

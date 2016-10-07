@@ -1,0 +1,129 @@
+<article>
+	<pid>8461</pid>
+	<title>Having problems with the Nexus One keyboard? | Android Central</title>
+	<url>http://www.androidcentral.com/having-problems-nexus-one-keyboard</url>
+	<date>   Jan 18 2010  1:47 pm   </date>
+	<author>Phil Nickinson</author>
+	<text>
+We've seen this ourselves and have been receiving e-mails about occasional issues with the Google Nexus One's on-screen keyboard. In my experience, I've had occasional problems with the wrong key being activated -- I'd tap &quot;a&quot; and get the shift button, etc. And it apparently is more than just fumble fingers, as there's a massive thread going on in Google's support forums. The good news is that Google's on it. Their latest response:We're still definitely looking this issue. We want everyone to know that if this issue can be solved by a software fix it will be addressed with an over-the-air systems update. If we find this is the result of a hardware issue, it'll be covered by the Nexus One Warranty.Definitely check out the Google thread, as the more feedback they get, the more quickly we'll (hopefully) see a fix. In the meantime, what about you guys? Seeing any problems? [Thanks, Stefan!] </text>
+	<score>35</score>
+</article>
+<comment>
+	<cid>15978</cid>
+	<date>Jan 18 2010  2:11 pm</date>
+	<author>Air Force One</author>
+	<text>I haven't had any problems with my Nexus keyboard at all, but then again I actually have one, as opposed to talking about one. ;)</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16095</cid>
+	<date>Jan 19 2010  12:18 am</date>
+	<author>Anonymous</author>
+	<text>@Air Force One: want to swap n1s with me and get a feel for my woes;)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>16204</cid>
+	<date>Jan 20 2010  12:38 pm</date>
+	<author>Anonymous</author>
+	<text>I've been having that same problem on HTC Sapphire (TMO Mytouch) since 1.6 update</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>15980</cid>
+	<date>Jan 18 2010  2:13 pm</date>
+	<author>Air Force One</author>
+	<text>Sorry for the double post but then again it was worth saying twice. :)</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16096</cid>
+	<date>Jan 19 2010  12:20 am</date>
+	<author>Anonymous</author>
+	<text>@Air Force One: just because you can hardly fathom the idea that i am  not so lucky as you doesn't mean the erratic behavior of my touchscreen is not real. just a thought, keep your thoughts to yourself, be thankful your not in my position and stfu.</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>15982</cid>
+	<date>Jan 18 2010  2:15 pm</date>
+	<author>sherifone</author>
+	<text>I'm sending my Nexus One back. Its unfortunate, but between the 3G issues and the touchscreen misfires its going right back to HTC.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>15983</cid>
+	<date>Jan 18 2010  2:17 pm</date>
+	<author>dribble</author>
+	<text>No problems here -- the auto correct on the keyboard is smoking fast too.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>15984</cid>
+	<date>Jan 18 2010  2:21 pm</date>
+	<author>Anonymous</author>
+	<text>Things not going so smoothly for the N1...bummer! Can't believe Droid did so much better at launch!</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>15988</cid>
+	<date>Jan 18 2010  2:30 pm</date>
+	<author>Anonymous</author>
+	<text>I've got two words for you, "carrier" and "marketing".</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>15991</cid>
+	<date>Jan 18 2010  2:40 pm</date>
+	<author>Anonymous</author>
+	<text>I had the same problem. I downloaded "better keyboard" from the marketplace and that seems to have solved the issue</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>15995</cid>
+	<date>Jan 18 2010  3:01 pm</date>
+	<author>HongCho</author>
+	<text>After hearing from Kevin Tofel that one should target slightly above, I've been doing that and it has been okay.  I've seen this in both portrait and landscape modes, so it must be how the software touch driver is interpreting the location.</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>15997</cid>
+	<date>Jan 18 2010  3:17 pm</date>
+	<author>Ruben</author>
+	<text>First off, hats off to you, Phil. Always keeping us updated.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>15999</cid>
+	<date>Jan 18 2010  3:31 pm</date>
+	<author>Nexus One user</author>
+	<text>I love how all these problems are happening with the Nexus One and I love even more, the fact that mine must be one of a few that came out without flaws.  I feel like most people are making this stuff up to tarnish the name of the Nexus.  Just a thought.</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16001</cid>
+	<date>Jan 18 2010  3:42 pm</date>
+	<author>showson1</author>
+	<text>Mine's had no problems either.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>16021</cid>
+	<date>Jan 18 2010  5:40 pm</date>
+	<author>Nullifier</author>
+	<text>Me and my brother have N1s. No issues here. I know that there are some doing this on purpose. What bothers me the most are owners of other Android based phones (Droid owners being the loudest) who are bashing the N1. I never saw this behavior from G1 owners (me being one of them).</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16088</cid>
+	<date>Jan 18 2010  11:49 pm</date>
+	<author>Anonymous</author>
+	<text>@Nullifier: want to swap n1s with me and get a feel for my woes;)</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16087</cid>
+	<date>Jan 18 2010  11:48 pm</date>
+	<author>Anonymous</author>
+	<text>@Nexus One user: just because you can hardly fathom the idea that i am  not so lucky as you doesn't mean the erratic behavior of my touchscreen is not real. just a thought, keep your thoughts to yourself, be thankful your not in my position and stfu.</text>
+	<score>67</score>
+</comment>

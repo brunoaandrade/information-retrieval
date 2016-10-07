@@ -1,0 +1,17 @@
+<article>
+	<pid>8467</pid>
+	<title>Google delays 2 Android phones in China | Android Central</title>
+	<url>http://www.androidcentral.com/google-delays-2-android-phones-china</url>
+	<date>   Jan 19 2010  10:42 am   </date>
+	<author>Phil Nickinson</author>
+	<text>
+Looks like we might be seeing the first fallout in Google's tiff with China over reported cyber attacks and having to censor search results because of Chinese law. The launch of pair of Android-powered smartphones -- one from Motorola and another from Samsung -- scheduled for this week has been delayed. According to Reuters:A source familiar with the situation said Google Inc wanted customers to have a &quot;positive experience&quot; with the product, but felt that would be difficult considering the publicity surrounding the company in China at present.That's likely just another early move in what's going to be a lengthy chess match. Good thing we all have good seats. [via Phone Scoop] </text>
+	<score>1</score>
+</article>
+<comment>
+	<cid>18732</cid>
+	<date>Feb 10 2010  2:27 am</date>
+	<author>KA08</author>
+	<text>Thanks. Will look into it</text>
+	<score>100</score>
+</comment>

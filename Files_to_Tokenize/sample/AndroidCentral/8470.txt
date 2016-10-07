@@ -1,0 +1,24 @@
+<article>
+	<pid>8470</pid>
+	<title>T-Mobile loosens SIM unlocking policy | Android Central</title>
+	<url>http://www.androidcentral.com/t-mobile-loosesn-sim-unlocking-policy</url>
+	<date>   Jan 19 2010  12:42 pm   </date>
+	<author>Phil Nickinson</author>
+	<text>
+With the launch of the Nexus One on T-Mobile, the spotlight has been cast on &quot;unlocked&quot; GSM phones of late, or how to unlock a phone. (The short version is you need a code.) It's not a huge deal in the United States, especially because T-Mobile and AT&T don't use the same 3G radio frequencies, so swapping isn't too terribly common, but it does happen. But if you're going overseas and want to use another operator's SIM card, it's something you're going to need to do.And that brings us back to T-Mobile, which starting Thursday will make FlexPay and PostPaid accounts eligible for SIM unlocks after 40 days, instead of the usual 90 days, with a couple small caveats. Also, if you've canceled your account and it was in good standing when you did so (i.e. you don't owe a boatload of money or anything), you can get the SIM unlock code. Nicely done, T-Mobile. [via TMoNews] </text>
+	<score>2</score>
+</article>
+<comment>
+	<cid>16133</cid>
+	<date>Jan 19 2010  12:53 pm</date>
+	<author>tallbruva</author>
+	<text>Nice to see the U.S on the same page as the rest of the world....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>16152</cid>
+	<date>Jan 19 2010  4:36 pm</date>
+	<author>mr_awesome</author>
+	<text>Better late than never.. tmo always making it better.. now add some more towers! LoL</text>
+	<score>67</score>
+</comment>

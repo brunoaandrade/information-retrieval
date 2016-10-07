@@ -1,0 +1,11 @@
+<article>
+	<pid>380019</pid>
+	<title>
+	Riesch recovering well after season-ending knee surgery
+</title>
+	<url>http://www.tsn.ca/nhl/story/?id=380019</url>
+	<date>11/9/2011 1:13:37 PM</date>
+	<author>Associated Press</author>
+	<text>MUNICH, Germany -- German skier Susanne Riesch -- the younger sister of overall World Cup champion Maria Riesch -- is recovering well from knee surgery that will sideline her for the season.Riesch tore ligaments in her left knee and fractured her shin in a fall during downhill training in Nevados de Chillan, Chile, in September.Riesch told reporters Wednesday in a Munich clinic that the surgery went well and that she &quot;can stand up already.&quot;It was the second surgery for the German skier.</text>
+	<score>815</score>
+</article>

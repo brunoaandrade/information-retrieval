@@ -1,0 +1,67 @@
+<article>
+	<pid>8473</pid>
+	<title>Motoroi caught on video with multitouch | Android Central</title>
+	<url>http://www.androidcentral.com/motoroi-caught-video-multitouch-intact</url>
+	<date>   Jan 19 2010  10:21 pm   </date>
+	<author>Phil Nickinson</author>
+	<text>
+ So here's some video of the Motorola Motoroi (aka the Sholes Tablet) in its Korean form. It should give you a decent idea of what we believe is coming to the United States at some point. Oh, and see that pinch-and-zoom action going on there? Don't get too used to that. Video after the break. (Thanks to everyone who sent this in.)
+ </text>
+	<score>8</score>
+</article>
+<comment>
+	<cid>16170</cid>
+	<date>Jan 19 2010  10:58 pm</date>
+	<author>corydunbar</author>
+	<text>but this is the foreign model, so google hasn't removed the multitouch like the insist on doing in U.S. bound phones.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16171</cid>
+	<date>Jan 19 2010  11:24 pm</date>
+	<author>gonzoguy24</author>
+	<text>okay what was that 3d music cover flow??!! Oh and check it out he was listening to Chocolate love hahahaha</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16172</cid>
+	<date>Jan 19 2010  11:28 pm</date>
+	<author>droidweasel</author>
+	<text>that multi touch is worse than dolphin.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>16173</cid>
+	<date>Jan 19 2010  11:28 pm</date>
+	<author>gonzoguy24</author>
+	<text>okay nvm. is that moto blur?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>16177</cid>
+	<date>Jan 20 2010  12:55 am</date>
+	<author>Anonymous</author>
+	<text>That looks pretty laggy, but actually, that website, shown in the demo video has full of pictures and flashes (although not fully supported as of now) so even on Droid, moving around in that page is pretty laggy.  On top of that, the page was still loading, see?</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16182</cid>
+	<date>Jan 20 2010  3:24 am</date>
+	<author>CavemanOOGA</author>
+	<text>I was thinking the same thing. I guarantee it was because the page was still loading. </text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16193</cid>
+	<date>Jan 20 2010  10:27 am</date>
+	<author>Scott</author>
+	<text>The 'This Week In Google' podcast talked about Google's implementation of multitouch. Good stuff.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>17186</cid>
+	<date>Jan 29 2010  2:44 pm</date>
+	<author>Stevo</author>
+	<text>The holy chin of android is sideways now!!! all worship the chin ... may the chin live forever</text>
+	<score>67</score>
+</comment>

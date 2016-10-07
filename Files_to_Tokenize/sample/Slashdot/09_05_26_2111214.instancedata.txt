@@ -1,0 +1,1819 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_26_2111214</id>
+	<title>Church of Scientology On Trial In France</title>
+	<author>kdawson</author>
+	<datestamp>1243335240000</datestamp>
+	<htmltext>An anonymous reader sends word that a trial has opened in Paris that could <a href="http://www.guardian.co.uk/world/2009/may/25/scientology-france-fraud">shut down Scientology in France</a>. The organization stands accused of targeting vulnerable people for commercial gain. Scientology does not have the status of a religion there, as it does in the US, and anti-cult groups have pursued it vigorously over more than 30 years. The current case is based on complaints filed by two women in December 1998 and July 1999. Three other former members who had initially joined the complaint have withdrawn after "reaching a financial arrangement with church officials." If convicted, the seven top Scientologists in France face up to 10 years in prison and a fine of &euro;1M. The Church of Scientology-Celebrity Centre and its Scientology Freedom Space bookshop not only face a much larger fine but also run the risk of being shut down completely.</htmltext>
+<tokenext>An anonymous reader sends word that a trial has opened in Paris that could shut down Scientology in France .
+The organization stands accused of targeting vulnerable people for commercial gain .
+Scientology does not have the status of a religion there , as it does in the US , and anti-cult groups have pursued it vigorously over more than 30 years .
+The current case is based on complaints filed by two women in December 1998 and July 1999 .
+Three other former members who had initially joined the complaint have withdrawn after " reaching a financial arrangement with church officials .
+" If convicted , the seven top Scientologists in France face up to 10 years in prison and a fine of â ‚ ¬ 1M .
+The Church of Scientology-Celebrity Centre and its Scientology Freedom Space bookshop not only face a much larger fine but also run the risk of being shut down completely .</tokentext>
+<sentencetext>An anonymous reader sends word that a trial has opened in Paris that could shut down Scientology in France.
+The organization stands accused of targeting vulnerable people for commercial gain.
+Scientology does not have the status of a religion there, as it does in the US, and anti-cult groups have pursued it vigorously over more than 30 years.
+The current case is based on complaints filed by two women in December 1998 and July 1999.
+Three other former members who had initially joined the complaint have withdrawn after "reaching a financial arrangement with church officials.
+" If convicted, the seven top Scientologists in France face up to 10 years in prison and a fine of â‚¬1M.
+The Church of Scientology-Celebrity Centre and its Scientology Freedom Space bookshop not only face a much larger fine but also run the risk of being shut down completely.</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28110955</id>
+	<title>Re:Some observations</title>
+	<author>Pandrake</author>
+	<datestamp>1243444560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I served on the board of directors for a 401c3 corporation, which was our tax-exempt status for being not-for-profit, and got the rights of religious organizations. Religions don't get special treatment in the US, charities do.</htmltext>
+<tokenext>I served on the board of directors for a 401c3 corporation , which was our tax-exempt status for being not-for-profit , and got the rights of religious organizations .
+Religions do n't get special treatment in the US , charities do .</tokentext>
+<sentencetext>I served on the board of directors for a 401c3 corporation, which was our tax-exempt status for being not-for-profit, and got the rights of religious organizations.
+Religions don't get special treatment in the US, charities do.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102387</id>
+	<title>fuc:ker</title>
+	<author>Anonymous</author>
+	<datestamp>1243340040000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><A HREF="http://goat.cx/" title="goat.cx" rel="nofollow">Ba3 7or *BSD. As</a> [goat.cx]</htmltext>
+<tokenext>Ba3 7or * BSD .
+As [ goat.cx ]</tokentext>
+<sentencetext>Ba3 7or *BSD.
+As [goat.cx]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28107643</id>
+	<title>Re:How about being fair?</title>
+	<author>radio4fan</author>
+	<datestamp>1243427760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>So there should be no laws against fraud? Ponzi schemes, pyramid schemes, Madoff<nobr> <wbr></nobr>... all that should be completely legal, because it's the victim's fault?</p></div><p>Interestingly, France does *not* have laws against Ponzi/pyramid schemes. Neither does the UK.</p></div>
+	</htmltext>
+<tokenext>So there should be no laws against fraud ?
+Ponzi schemes , pyramid schemes , Madoff ... all that should be completely legal , because it 's the victim 's fault ? Interestingly , France does * not * have laws against Ponzi/pyramid schemes .
+Neither does the UK .</tokentext>
+<sentencetext>So there should be no laws against fraud?
+Ponzi schemes, pyramid schemes, Madoff ... all that should be completely legal, because it's the victim's fault?Interestingly, France does *not* have laws against Ponzi/pyramid schemes.
+Neither does the UK.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102409</id>
+	<title>I'd say something...</title>
+	<author>Bobfrankly1</author>
+	<datestamp>1243340220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>but I wouldn't want to have to defend it in court against the E.T. worshipers.</htmltext>
+<tokenext>but I would n't want to have to defend it in court against the E.T .
+worshipers .</tokentext>
+<sentencetext>but I wouldn't want to have to defend it in court against the E.T.
+worshipers.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103181</id>
+	<title>Re:Amici Curiae Briefs (or Boxers)</title>
+	<author>pigphish</author>
+	<datestamp>1243344120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>The difference is that this is Scientology's sole purpose like all cults.</htmltext>
+<tokenext>The difference is that this is Scientology 's sole purpose like all cults .</tokentext>
+<sentencetext>The difference is that this is Scientology's sole purpose like all cults.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103665</id>
+	<title>Re:Amici Curiae Briefs (or Boxers)</title>
+	<author>John Hasler</author>
+	<datestamp>1243347060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>&gt; How many religions can't be accused of targeting vulnerable people?</p><p>All of the ones with sufficient political clout.</p></htmltext>
+<tokenext>&gt; How many religions ca n't be accused of targeting vulnerable people ? All of the ones with sufficient political clout .</tokentext>
+<sentencetext>&gt; How many religions can't be accused of targeting vulnerable people?All of the ones with sufficient political clout.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106399</id>
+	<title>Re:How about being fair?</title>
+	<author>clickclickdrone</author>
+	<datestamp>1243415580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Can't see why on Earth this deserves a -1 mod. I'd say it's fairly much on the button.</htmltext>
+<tokenext>Ca n't see why on Earth this deserves a -1 mod .
+I 'd say it 's fairly much on the button .</tokentext>
+<sentencetext>Can't see why on Earth this deserves a -1 mod.
+I'd say it's fairly much on the button.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103835</id>
+	<title>Re:Scientology Survives by Recruiting Losers</title>
+	<author>QuantumG</author>
+	<datestamp>1243348620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Once the box was filled with $20 worth of materials, the loser had to pay near $2000 for it as I recall</p> </div><p>Ummmm.. what's the price of manufacture got to do with the price at sale?</p></div>
+	</htmltext>
+<tokenext>Once the box was filled with $ 20 worth of materials , the loser had to pay near $ 2000 for it as I recall Ummmm.. what 's the price of manufacture got to do with the price at sale ?</tokentext>
+<sentencetext>Once the box was filled with $20 worth of materials, the loser had to pay near $2000 for it as I recall Ummmm.. what's the price of manufacture got to do with the price at sale?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102773</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103467</id>
+	<title>Relgious status "awarded" by Courts</title>
+	<author>Anonymous</author>
+	<datestamp>1243345800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>The summary imples that the US has given scientology religious status. The US does not recognise or give religions status. This is prohibited by the Constitution.</p></div><p>
+Not true. Your constitution prevents your government from passing laws which restrict the practicing of religion. Therefore the US courts must judge what constitutes a religion in order to determine whether a law is constitutional. There might not be an official list of recognized religions written in a book somewhere but, in practice, there must be one built up via legal precedent. Since the article only says "Scientology does not have the status of a religion there, as it does in the US" this is an accurate statement since Scientology cannot be shut down in the US because, as far as the courts are concerned, it is a religion and therefore protected from any law restricting its practice. In France the courts do not recognize it a religion so it has no protection.</p></div>
+	</htmltext>
+<tokenext>The summary imples that the US has given scientology religious status .
+The US does not recognise or give religions status .
+This is prohibited by the Constitution .
+Not true .
+Your constitution prevents your government from passing laws which restrict the practicing of religion .
+Therefore the US courts must judge what constitutes a religion in order to determine whether a law is constitutional .
+There might not be an official list of recognized religions written in a book somewhere but , in practice , there must be one built up via legal precedent .
+Since the article only says " Scientology does not have the status of a religion there , as it does in the US " this is an accurate statement since Scientology can not be shut down in the US because , as far as the courts are concerned , it is a religion and therefore protected from any law restricting its practice .
+In France the courts do not recognize it a religion so it has no protection .</tokentext>
+<sentencetext>The summary imples that the US has given scientology religious status.
+The US does not recognise or give religions status.
+This is prohibited by the Constitution.
+Not true.
+Your constitution prevents your government from passing laws which restrict the practicing of religion.
+Therefore the US courts must judge what constitutes a religion in order to determine whether a law is constitutional.
+There might not be an official list of recognized religions written in a book somewhere but, in practice, there must be one built up via legal precedent.
+Since the article only says "Scientology does not have the status of a religion there, as it does in the US" this is an accurate statement since Scientology cannot be shut down in the US because, as far as the courts are concerned, it is a religion and therefore protected from any law restricting its practice.
+In France the courts do not recognize it a religion so it has no protection.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102285</id>
+	<title>Business?</title>
+	<author>Anonymous</author>
+	<datestamp>1243339620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><i>Three other former members who had initially joined the complaint have withdrawn after "reaching a financial arrangement with church officials."</i></p><p>This sounds a lot like a settlement, much like a company would do in this situation.</p></htmltext>
+<tokenext>Three other former members who had initially joined the complaint have withdrawn after " reaching a financial arrangement with church officials .
+" This sounds a lot like a settlement , much like a company would do in this situation .</tokentext>
+<sentencetext>Three other former members who had initially joined the complaint have withdrawn after "reaching a financial arrangement with church officials.
+"This sounds a lot like a settlement, much like a company would do in this situation.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102407</id>
+	<title>Re:How about being fair?</title>
+	<author>camperdave</author>
+	<datestamp>1243340220000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext><i>If you're dumb enough to spend thousands of dollars on something called a 'Thetin meter' then it's your fault.. not the seller's.</i> <br> <br>
+In many places, there are laws regarding the safety of a product and its fitness to perform the function for which it was purchased.  They had better be able to demonstrate that a Thetin meter definitely measures whatever it measures properly.</htmltext>
+<tokenext>If you 're dumb enough to spend thousands of dollars on something called a 'Thetin meter ' then it 's your fault.. not the seller 's .
+In many places , there are laws regarding the safety of a product and its fitness to perform the function for which it was purchased .
+They had better be able to demonstrate that a Thetin meter definitely measures whatever it measures properly .</tokentext>
+<sentencetext>If you're dumb enough to spend thousands of dollars on something called a 'Thetin meter' then it's your fault.. not the seller's.
+In many places, there are laws regarding the safety of a product and its fitness to perform the function for which it was purchased.
+They had better be able to demonstrate that a Thetin meter definitely measures whatever it measures properly.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28113819</id>
+	<title>Re:How about being fair?</title>
+	<author>BitZtream</author>
+	<datestamp>1243456080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>To some extent, yes.</p><p>However the problem is that when Madoff does what he does, we (the victims) can't do anything to him, laws have been made that prevent us from killing him and making it known that pulling this sort of shit will result in harsh punishment.</p><p>Fast forward to modern day reality.  What Madoff did IS illegal, and still nothing will happen to him because he made far far more than we will punish him.</p><p>So back to my original point, there should be no laws against fraud, but that needs to be re enforced by making legal loopholes for those of us who beat, torture, and eventually murder someone who has hurt thousands of people.</p></htmltext>
+<tokenext>To some extent , yes.However the problem is that when Madoff does what he does , we ( the victims ) ca n't do anything to him , laws have been made that prevent us from killing him and making it known that pulling this sort of shit will result in harsh punishment.Fast forward to modern day reality .
+What Madoff did IS illegal , and still nothing will happen to him because he made far far more than we will punish him.So back to my original point , there should be no laws against fraud , but that needs to be re enforced by making legal loopholes for those of us who beat , torture , and eventually murder someone who has hurt thousands of people .</tokentext>
+<sentencetext>To some extent, yes.However the problem is that when Madoff does what he does, we (the victims) can't do anything to him, laws have been made that prevent us from killing him and making it known that pulling this sort of shit will result in harsh punishment.Fast forward to modern day reality.
+What Madoff did IS illegal, and still nothing will happen to him because he made far far more than we will punish him.So back to my original point, there should be no laws against fraud, but that needs to be re enforced by making legal loopholes for those of us who beat, torture, and eventually murder someone who has hurt thousands of people.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28111129</id>
+	<title>Re:Some observations</title>
+	<author>Reservoir Penguin</author>
+	<datestamp>1243445280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>The whole concept of "free will" is on some very shaky ground anyways.</htmltext>
+<tokenext>The whole concept of " free will " is on some very shaky ground anyways .</tokentext>
+<sentencetext>The whole concept of "free will" is on some very shaky ground anyways.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102879</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105345</id>
+	<title>Re:Some observations</title>
+	<author>JumperCable</author>
+	<datestamp>1243361460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>As far as the charges against scientology, scientology does use sleazy methods to extract methods from the followers of this cult. However, these persons handed over this money willingly, in cases this is not illegal as long as Scientology did not attempt to coerce them or prohibit them from leaving.</p></div><p>Thank you justifying the legality of Nigerian 419 scams...</p></div>
+	</htmltext>
+<tokenext>As far as the charges against scientology , scientology does use sleazy methods to extract methods from the followers of this cult .
+However , these persons handed over this money willingly , in cases this is not illegal as long as Scientology did not attempt to coerce them or prohibit them from leaving.Thank you justifying the legality of Nigerian 419 scams.. .</tokentext>
+<sentencetext>As far as the charges against scientology, scientology does use sleazy methods to extract methods from the followers of this cult.
+However, these persons handed over this money willingly, in cases this is not illegal as long as Scientology did not attempt to coerce them or prohibit them from leaving.Thank you justifying the legality of Nigerian 419 scams...
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541</id>
+	<title>Amici Curiae Briefs (or Boxers)</title>
+	<author>srobert</author>
+	<datestamp>1243340880000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p><i>The organization stands accused of targeting vulnerable people for commercial gain.</i></p><p>
+&nbsp; Other religious groups might want to render an opinion to the courts defending Scientology. How many religions can't be accused of targeting vulnerable people?</p></htmltext>
+<tokenext>The organization stands accused of targeting vulnerable people for commercial gain .
+Â   Other religious groups might want to render an opinion to the courts defending Scientology .
+How many religions ca n't be accused of targeting vulnerable people ?</tokentext>
+<sentencetext>The organization stands accused of targeting vulnerable people for commercial gain.
+Â  Other religious groups might want to render an opinion to the courts defending Scientology.
+How many religions can't be accused of targeting vulnerable people?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105035</id>
+	<title>Re:How about being fair?</title>
+	<author>shadowbearer</author>
+	<datestamp>1243358460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>In many places, there are laws regarding the safety of a product and its fitness to perform the function for which it was purchased</i></p><p>
+&nbsp; One could make very much the same sort of generalization about sin, with the difference that the payment one makes to avoid it doesn't have to be in monetary terms, but can still be just as damaging.</p><p>
+&nbsp; Sorry, but I'm one of those compleat heretics who thinks that any form of religion is silly, primitive superstition. I use the term atheist for myself only because it's the closest terminology in the common language I've found for what I don't believe in<nobr> <wbr></nobr>;)</p><p>
+&nbsp; (There's something to be said for having a bent sense of humor, as well. It's a modern survival mechanism...)</p><p>SB</p></htmltext>
+<tokenext>In many places , there are laws regarding the safety of a product and its fitness to perform the function for which it was purchased Â   One could make very much the same sort of generalization about sin , with the difference that the payment one makes to avoid it does n't have to be in monetary terms , but can still be just as damaging .
+Â   Sorry , but I 'm one of those compleat heretics who thinks that any form of religion is silly , primitive superstition .
+I use the term atheist for myself only because it 's the closest terminology in the common language I 've found for what I do n't believe in ; ) Â   ( There 's something to be said for having a bent sense of humor , as well .
+It 's a modern survival mechanism... ) SB</tokentext>
+<sentencetext>In many places, there are laws regarding the safety of a product and its fitness to perform the function for which it was purchased
+Â  One could make very much the same sort of generalization about sin, with the difference that the payment one makes to avoid it doesn't have to be in monetary terms, but can still be just as damaging.
+Â  Sorry, but I'm one of those compleat heretics who thinks that any form of religion is silly, primitive superstition.
+I use the term atheist for myself only because it's the closest terminology in the common language I've found for what I don't believe in ;)
+Â  (There's something to be said for having a bent sense of humor, as well.
+It's a modern survival mechanism...)SB</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102407</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102319</id>
+	<title>Anonymous!!!</title>
+	<author>Anonymous</author>
+	<datestamp>1243339800000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Does anyone else LOVE the fact that an ANONYMOUS reader posted this article!!!</p></htmltext>
+<tokenext>Does anyone else LOVE the fact that an ANONYMOUS reader posted this article ! !
+!</tokentext>
+<sentencetext>Does anyone else LOVE the fact that an ANONYMOUS reader posted this article!!
+!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28120261</id>
+	<title>Re:How about being fair?</title>
+	<author>Anonymous</author>
+	<datestamp>1243543740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>If you're dumb enough to spend thousands of dollars on something called a 'Thetin meter' then it's your fault.. not the seller's..</p></div><p>It's not only the case with Thetin meters. I know some people who have given out real money to persons, that walk around their homes and basements with this so called 'Radon meter'.<br>I mean, how dumb one has to be to believe that in some areas on earth ther would be risk of radioactive gas raising from the ground and (it being heavier than air) getting stuck into basements if those are not ventilated correctly.</p><p>First Thetin meter, then Radon meter... What next i ask you? Will some hillbillies spring up from earth that start believing into something called Gravethein or Gravity? Like there could be such thing that makes bigger objects attract or suck in smaller ones... Oh please!</p><p>On more serios note. Thetin sounds plausible - as meme i mean. As does Radon or gravity.</p><p>Given that some people are not openminded enough to believe that after life vas intelligently designed (or not) it evolved a long way to be what its on Earth today. Could it be that educational systems have failed another subsets of our society the way, that they can not tell differentce between right and wrong or cult and religion or hoax and that other thing.</p><p>Should we (as society) not protect those, whom we (as society) have failed to train to be able to protect themselves?<br>I know that we (as the creme of society) need those that we (as the creme of society) can take advantace of, but when somebody else comes in and takes a bigger advantace of them, then we (as society) should step up for them, so tey wauld remain explotable for our intrests.</p></div>
+	</htmltext>
+<tokenext>If you 're dumb enough to spend thousands of dollars on something called a 'Thetin meter ' then it 's your fault.. not the seller 's..It 's not only the case with Thetin meters .
+I know some people who have given out real money to persons , that walk around their homes and basements with this so called 'Radon meter'.I mean , how dumb one has to be to believe that in some areas on earth ther would be risk of radioactive gas raising from the ground and ( it being heavier than air ) getting stuck into basements if those are not ventilated correctly.First Thetin meter , then Radon meter... What next i ask you ?
+Will some hillbillies spring up from earth that start believing into something called Gravethein or Gravity ?
+Like there could be such thing that makes bigger objects attract or suck in smaller ones... Oh please ! On more serios note .
+Thetin sounds plausible - as meme i mean .
+As does Radon or gravity.Given that some people are not openminded enough to believe that after life vas intelligently designed ( or not ) it evolved a long way to be what its on Earth today .
+Could it be that educational systems have failed another subsets of our society the way , that they can not tell differentce between right and wrong or cult and religion or hoax and that other thing.Should we ( as society ) not protect those , whom we ( as society ) have failed to train to be able to protect themselves ? I know that we ( as the creme of society ) need those that we ( as the creme of society ) can take advantace of , but when somebody else comes in and takes a bigger advantace of them , then we ( as society ) should step up for them , so tey wauld remain explotable for our intrests .</tokentext>
+<sentencetext>If you're dumb enough to spend thousands of dollars on something called a 'Thetin meter' then it's your fault.. not the seller's..It's not only the case with Thetin meters.
+I know some people who have given out real money to persons, that walk around their homes and basements with this so called 'Radon meter'.I mean, how dumb one has to be to believe that in some areas on earth ther would be risk of radioactive gas raising from the ground and (it being heavier than air) getting stuck into basements if those are not ventilated correctly.First Thetin meter, then Radon meter... What next i ask you?
+Will some hillbillies spring up from earth that start believing into something called Gravethein or Gravity?
+Like there could be such thing that makes bigger objects attract or suck in smaller ones... Oh please!On more serios note.
+Thetin sounds plausible - as meme i mean.
+As does Radon or gravity.Given that some people are not openminded enough to believe that after life vas intelligently designed (or not) it evolved a long way to be what its on Earth today.
+Could it be that educational systems have failed another subsets of our society the way, that they can not tell differentce between right and wrong or cult and religion or hoax and that other thing.Should we (as society) not protect those, whom we (as society) have failed to train to be able to protect themselves?I know that we (as the creme of society) need those that we (as the creme of society) can take advantace of, but when somebody else comes in and takes a bigger advantace of them, then we (as society) should step up for them, so tey wauld remain explotable for our intrests.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28110555</id>
+	<title>Re:And not a moment too soon!</title>
+	<author>Idiomatick</author>
+	<datestamp>1243443060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Then why doesn't france shut down ALL religions? They promise eternal salvation and good things to come your way. Oh and they run on your money. Sounds the same to me. I don't see people running to close churches.</htmltext>
+<tokenext>Then why does n't france shut down ALL religions ?
+They promise eternal salvation and good things to come your way .
+Oh and they run on your money .
+Sounds the same to me .
+I do n't see people running to close churches .</tokentext>
+<sentencetext>Then why doesn't france shut down ALL religions?
+They promise eternal salvation and good things to come your way.
+Oh and they run on your money.
+Sounds the same to me.
+I don't see people running to close churches.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104129</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105933</id>
+	<title>Re:And not a moment too soon!</title>
+	<author>Opportunist</author>
+	<datestamp>1243455180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>Second, casinos do not false advertise. They don't promise you eternal salvation, perfect mental and physical health, and so on.</i></p><p>They don't have to. Society already does tell you that happiness and health can be bought if you're rich enough. What's worst is that it's actually true to some degree...</p></htmltext>
+<tokenext>Second , casinos do not false advertise .
+They do n't promise you eternal salvation , perfect mental and physical health , and so on.They do n't have to .
+Society already does tell you that happiness and health can be bought if you 're rich enough .
+What 's worst is that it 's actually true to some degree.. .</tokentext>
+<sentencetext>Second, casinos do not false advertise.
+They don't promise you eternal salvation, perfect mental and physical health, and so on.They don't have to.
+Society already does tell you that happiness and health can be bought if you're rich enough.
+What's worst is that it's actually true to some degree...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104129</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28107265</id>
+	<title>Re:Scientology Survives by Recruiting Losers</title>
+	<author>Jaysyn</author>
+	<datestamp>1243424100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"It is so hokey it is hard to believe people fall for it."</p><p>Funny, that's how I feel about religion in general.</p></htmltext>
+<tokenext>" It is so hokey it is hard to believe people fall for it .
+" Funny , that 's how I feel about religion in general .</tokentext>
+<sentencetext>"It is so hokey it is hard to believe people fall for it.
+"Funny, that's how I feel about religion in general.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102773</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104583</id>
+	<title>Re:Amici Curiae Briefs (or Boxers)</title>
+	<author>kitsunewarlock</author>
+	<datestamp>1243354440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Most pre-Judeo-Christian religions actually targeted the most successful, strongest and happiest in society.  For example, a famous philosopher the Roman's loved (I forget his name at the moment) believed indulgence and joy thanks to material possessions was the key to ultimate happiness.  It wasn't until the mass spread of Judeo-Christian values through the under-class of society that we came to accept "poor" and "weak" with "righteous".  But at one point the poor of the world really just saw their position as a result of their own, their ancestors or their god's wills.  They just kinda accepted their shitty positions and moved on...</htmltext>
+<tokenext>Most pre-Judeo-Christian religions actually targeted the most successful , strongest and happiest in society .
+For example , a famous philosopher the Roman 's loved ( I forget his name at the moment ) believed indulgence and joy thanks to material possessions was the key to ultimate happiness .
+It was n't until the mass spread of Judeo-Christian values through the under-class of society that we came to accept " poor " and " weak " with " righteous " .
+But at one point the poor of the world really just saw their position as a result of their own , their ancestors or their god 's wills .
+They just kinda accepted their shitty positions and moved on.. .</tokentext>
+<sentencetext>Most pre-Judeo-Christian religions actually targeted the most successful, strongest and happiest in society.
+For example, a famous philosopher the Roman's loved (I forget his name at the moment) believed indulgence and joy thanks to material possessions was the key to ultimate happiness.
+It wasn't until the mass spread of Judeo-Christian values through the under-class of society that we came to accept "poor" and "weak" with "righteous".
+But at one point the poor of the world really just saw their position as a result of their own, their ancestors or their god's wills.
+They just kinda accepted their shitty positions and moved on...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102439</id>
+	<title>Who's next?</title>
+	<author>fph il quozientatore</author>
+	<datestamp>1243340340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>The organization stands accused of targeting vulnerable people for commercial gain.</p></div> </blockquote><p>
+
+Inconceivable. Who will they sue then? Financial analysts, all the other religions, Coca Cola, Microsoft, or Britney Spears?</p></div>
+	</htmltext>
+<tokenext>The organization stands accused of targeting vulnerable people for commercial gain .
+Inconceivable. Who will they sue then ?
+Financial analysts , all the other religions , Coca Cola , Microsoft , or Britney Spears ?</tokentext>
+<sentencetext>The organization stands accused of targeting vulnerable people for commercial gain.
+Inconceivable. Who will they sue then?
+Financial analysts, all the other religions, Coca Cola, Microsoft, or Britney Spears?
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102725</id>
+	<title>Re:How about being fair?</title>
+	<author>Psyborgue</author>
+	<datestamp>1243341780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Only it's not a "thetan meter" at first.  At first it's to measure your mental clarity (supposedly).  It's much more plausible, especially when it's demonstrated to you and it does provide a sort of reaction which is reframed by the auditor.  Only when you hit OTV are you using it to clear yourself of "body thetans" (bits of dead alien stuck to your body).</htmltext>
+<tokenext>Only it 's not a " thetan meter " at first .
+At first it 's to measure your mental clarity ( supposedly ) .
+It 's much more plausible , especially when it 's demonstrated to you and it does provide a sort of reaction which is reframed by the auditor .
+Only when you hit OTV are you using it to clear yourself of " body thetans " ( bits of dead alien stuck to your body ) .</tokentext>
+<sentencetext>Only it's not a "thetan meter" at first.
+At first it's to measure your mental clarity (supposedly).
+It's much more plausible, especially when it's demonstrated to you and it does provide a sort of reaction which is reframed by the auditor.
+Only when you hit OTV are you using it to clear yourself of "body thetans" (bits of dead alien stuck to your body).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106445</id>
+	<title>Re:Some observations</title>
+	<author>Anonymous</author>
+	<datestamp>1243415940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Religions get special treatment in the US because many of the european settlements of the 13 colonies were founded by religious refugees who were discriminated against in their homelands. The US constitution is set up to try to prevent that from happening. Does it go a little far? Probably. In my opinion, yes it does. Is this a good thing? Probably. In my opinion, yes it is.</p></htmltext>
+<tokenext>Religions get special treatment in the US because many of the european settlements of the 13 colonies were founded by religious refugees who were discriminated against in their homelands .
+The US constitution is set up to try to prevent that from happening .
+Does it go a little far ?
+Probably. In my opinion , yes it does .
+Is this a good thing ?
+Probably. In my opinion , yes it is .</tokentext>
+<sentencetext>Religions get special treatment in the US because many of the european settlements of the 13 colonies were founded by religious refugees who were discriminated against in their homelands.
+The US constitution is set up to try to prevent that from happening.
+Does it go a little far?
+Probably. In my opinion, yes it does.
+Is this a good thing?
+Probably. In my opinion, yes it is.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103301</id>
+	<title>Only for Commerical Gain</title>
+	<author>Roger W Moore</author>
+	<datestamp>1243344840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>How many religions can't be accused of targeting vulnerable people?</p></div><p><nobr> <wbr></nobr>...for <em>commercial</em> gain? Quite a lot I would imagine.</p></div>
+	</htmltext>
+<tokenext>How many religions ca n't be accused of targeting vulnerable people ?
+...for commercial gain ?
+Quite a lot I would imagine .</tokentext>
+<sentencetext>How many religions can't be accused of targeting vulnerable people?
+...for commercial gain?
+Quite a lot I would imagine.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106749</id>
+	<title>Re:Anonymous!!!</title>
+	<author>Anonymous</author>
+	<datestamp>1243418940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>Does anyone else LOVE the fact that an ANONYMOUS reader posted this article!!!</p></div><p>Because none of us are as cruel as all of us.</p><p>For the ones new here:</p><p><a href="http://en.wikipedia.org/wiki/Project\_Chanology" title="wikipedia.org" rel="nofollow">http://en.wikipedia.org/wiki/Project\_Chanology</a> [wikipedia.org]<br><a href="http://en.wikipedia.org/wiki/Anonymous\_(group)" title="wikipedia.org" rel="nofollow">http://en.wikipedia.org/wiki/Anonymous\_(group)</a> [wikipedia.org]</p></div>
+	</htmltext>
+<tokenext>Does anyone else LOVE the fact that an ANONYMOUS reader posted this article ! !
+! Because none of us are as cruel as all of us.For the ones new here : http : //en.wikipedia.org/wiki/Project \ _Chanology [ wikipedia.org ] http : //en.wikipedia.org/wiki/Anonymous \ _ ( group ) [ wikipedia.org ]</tokentext>
+<sentencetext>Does anyone else LOVE the fact that an ANONYMOUS reader posted this article!!
+!Because none of us are as cruel as all of us.For the ones new here:http://en.wikipedia.org/wiki/Project\_Chanology [wikipedia.org]http://en.wikipedia.org/wiki/Anonymous\_(group) [wikipedia.org]
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102319</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105807</id>
+	<title>Re:How about being fair?</title>
+	<author>Anonymous</author>
+	<datestamp>1243367640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>You could argue that if there was no illusion of protection, that people would have to be more responsible for their decisions and do some real research into their investments. Madoff was a big deal because people thought it couldn't happen.</p></htmltext>
+<tokenext>You could argue that if there was no illusion of protection , that people would have to be more responsible for their decisions and do some real research into their investments .
+Madoff was a big deal because people thought it could n't happen .</tokentext>
+<sentencetext>You could argue that if there was no illusion of protection, that people would have to be more responsible for their decisions and do some real research into their investments.
+Madoff was a big deal because people thought it couldn't happen.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102701</id>
+	<title>Does anybody know . . .</title>
+	<author>Anonymous</author>
+	<datestamp>1243341660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>If these people have contacted <a href="http://en.wikipedia.org/wiki/Lawrence\_A.\_Wollersheim" title="wikipedia.org" rel="nofollow">Larry Wollersheim</a> [wikipedia.org] yet? If not, they should.</p></htmltext>
+<tokenext>If these people have contacted Larry Wollersheim [ wikipedia.org ] yet ?
+If not , they should .</tokentext>
+<sentencetext>If these people have contacted Larry Wollersheim [wikipedia.org] yet?
+If not, they should.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283</id>
+	<title>How about being fair?</title>
+	<author>Anonymous</author>
+	<datestamp>1243339620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>-1</modscore>
+	<htmltext>Much as I despise Scientology, the grounds for this lawsuit are quite frivolous. It's misleading to say the 'preyed' on certain individuals, no-one was forced to buy anything. This could be a case of blatant false advertising, do Scientology products come with a disclaimer? May not perform upto expectations..<br> <br>If you're dumb enough to spend thousands of dollars on something called a 'Thetin meter' then it's your fault.. not the seller's, then again it's France<nobr> <wbr></nobr>:P..</htmltext>
+<tokenext>Much as I despise Scientology , the grounds for this lawsuit are quite frivolous .
+It 's misleading to say the 'preyed ' on certain individuals , no-one was forced to buy anything .
+This could be a case of blatant false advertising , do Scientology products come with a disclaimer ?
+May not perform upto expectations.. If you 're dumb enough to spend thousands of dollars on something called a 'Thetin meter ' then it 's your fault.. not the seller 's , then again it 's France : P. .</tokentext>
+<sentencetext>Much as I despise Scientology, the grounds for this lawsuit are quite frivolous.
+It's misleading to say the 'preyed' on certain individuals, no-one was forced to buy anything.
+This could be a case of blatant false advertising, do Scientology products come with a disclaimer?
+May not perform upto expectations.. If you're dumb enough to spend thousands of dollars on something called a 'Thetin meter' then it's your fault.. not the seller's, then again it's France :P..</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103329</id>
+	<title>Re:And not a moment too soon!</title>
+	<author>Jurily</author>
+	<datestamp>1243345020000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>I guess the whole "child slavery" thing hasn't been working out so well lately.</p></div><p>I'm sure there's a French joke in there somewhere.</p></div>
+	</htmltext>
+<tokenext>I guess the whole " child slavery " thing has n't been working out so well lately.I 'm sure there 's a French joke in there somewhere .</tokentext>
+<sentencetext>I guess the whole "child slavery" thing hasn't been working out so well lately.I'm sure there's a French joke in there somewhere.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102117</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28108955</id>
+	<title>Re:And not a moment too soon!</title>
+	<author>Anonymous</author>
+	<datestamp>1243436040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>You CAN win at gambling.  It's not so \_likley\_ but you can win.<br>Scientology is just a scam trying to parade itself around as a religion.<br>This is a mockery of even the most strange religions out there (strange simply meaning deviation from the average or norm).</p><p>Best of luck to France for this one.</p></htmltext>
+<tokenext>You CAN win at gambling .
+It 's not so \ _likley \ _ but you can win.Scientology is just a scam trying to parade itself around as a religion.This is a mockery of even the most strange religions out there ( strange simply meaning deviation from the average or norm ) .Best of luck to France for this one .</tokentext>
+<sentencetext>You CAN win at gambling.
+It's not so \_likley\_ but you can win.Scientology is just a scam trying to parade itself around as a religion.This is a mockery of even the most strange religions out there (strange simply meaning deviation from the average or norm).Best of luck to France for this one.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102879</id>
+	<title>Re:Some observations</title>
+	<author>jd</author>
+	<datestamp>1243342500000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Define "willingly", given that cults are exceptionally good at applying brainwashing techniques. Is it possible to voluntarily do something when you are no longer medically competent to make such decisions?</p></htmltext>
+<tokenext>Define " willingly " , given that cults are exceptionally good at applying brainwashing techniques .
+Is it possible to voluntarily do something when you are no longer medically competent to make such decisions ?</tokentext>
+<sentencetext>Define "willingly", given that cults are exceptionally good at applying brainwashing techniques.
+Is it possible to voluntarily do something when you are no longer medically competent to make such decisions?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405</id>
+	<title>Re:How about being fair?</title>
+	<author>PCM2</author>
+	<datestamp>1243340160000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p><div class="quote"><p>If you're dumb enough to spend thousands of dollars on something called a 'Thetin meter' then it's your fault.. not the seller's, then again it's France<nobr> <wbr></nobr>:P..</p></div><p>So there should be no laws against fraud? Ponzi schemes, pyramid schemes, Madoff<nobr> <wbr></nobr>... all that should be completely legal, because it's the victim's fault?</p></div>
+	</htmltext>
+<tokenext>If you 're dumb enough to spend thousands of dollars on something called a 'Thetin meter ' then it 's your fault.. not the seller 's , then again it 's France : P..So there should be no laws against fraud ?
+Ponzi schemes , pyramid schemes , Madoff ... all that should be completely legal , because it 's the victim 's fault ?</tokentext>
+<sentencetext>If you're dumb enough to spend thousands of dollars on something called a 'Thetin meter' then it's your fault.. not the seller's, then again it's France :P..So there should be no laws against fraud?
+Ponzi schemes, pyramid schemes, Madoff ... all that should be completely legal, because it's the victim's fault?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104111</id>
+	<title>Re:Anonymous!!!</title>
+	<author>Anonymous</author>
+	<datestamp>1243350540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>No. Go back to 4chan.</p></htmltext>
+<tokenext>No .
+Go back to 4chan .</tokentext>
+<sentencetext>No.
+Go back to 4chan.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102319</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102773</id>
+	<title>Scientology Survives by Recruiting Losers</title>
+	<author>Anonymous</author>
+	<datestamp>1243342020000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Lost a couple employees to them.  They became involved based on promises of becoming "Auditors", but when they couldn't pay for the lessons (training, etc), they were dumped faster than a hot pan handle.</p><p>Interesting thing is I later made the plastic parts for the e machine auditing.  (2 plastic parts, 2 resistors, 2 connector pins and wires).  Later ran into the molder who makes the training case for their dvds and printed materials.  Once the box was filled with $20 worth of materials, the loser had to pay near $2000 for it as I recall (It has been 5 years or so).</p><p>It is so hokey it is hard to believe people fall for it.</p></htmltext>
+<tokenext>Lost a couple employees to them .
+They became involved based on promises of becoming " Auditors " , but when they could n't pay for the lessons ( training , etc ) , they were dumped faster than a hot pan handle.Interesting thing is I later made the plastic parts for the e machine auditing .
+( 2 plastic parts , 2 resistors , 2 connector pins and wires ) .
+Later ran into the molder who makes the training case for their dvds and printed materials .
+Once the box was filled with $ 20 worth of materials , the loser had to pay near $ 2000 for it as I recall ( It has been 5 years or so ) .It is so hokey it is hard to believe people fall for it .</tokentext>
+<sentencetext>Lost a couple employees to them.
+They became involved based on promises of becoming "Auditors", but when they couldn't pay for the lessons (training, etc), they were dumped faster than a hot pan handle.Interesting thing is I later made the plastic parts for the e machine auditing.
+(2 plastic parts, 2 resistors, 2 connector pins and wires).
+Later ran into the molder who makes the training case for their dvds and printed materials.
+Once the box was filled with $20 worth of materials, the loser had to pay near $2000 for it as I recall (It has been 5 years or so).It is so hokey it is hard to believe people fall for it.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102467</id>
+	<title>Yes, but....</title>
+	<author>fph il quozientatore</author>
+	<datestamp>1243340520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>...does it run Xenu?</htmltext>
+<tokenext>...does it run Xenu ?</tokentext>
+<sentencetext>...does it run Xenu?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105595</id>
+	<title>Re:How about being fair?</title>
+	<author>booyabazooka</author>
+	<datestamp>1243364460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>If you lose your money because a Christian church, promising happiness and afterlife, convinces you to donate... not only is it legal, it's encouraged (tax-deductible).</p><p>I think ponzi schemes, like gambling, are illegal because they provide competition against the government-run version (social security).</p></htmltext>
+<tokenext>If you lose your money because a Christian church , promising happiness and afterlife , convinces you to donate... not only is it legal , it 's encouraged ( tax-deductible ) .I think ponzi schemes , like gambling , are illegal because they provide competition against the government-run version ( social security ) .</tokentext>
+<sentencetext>If you lose your money because a Christian church, promising happiness and afterlife, convinces you to donate... not only is it legal, it's encouraged (tax-deductible).I think ponzi schemes, like gambling, are illegal because they provide competition against the government-run version (social security).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106381</id>
+	<title>Re:Anonymous!!!</title>
+	<author>Anonymous</author>
+	<datestamp>1243415400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>fuc* yeah!</p></htmltext>
+<tokenext>fuc * yeah !</tokentext>
+<sentencetext>fuc* yeah!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102319</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103233</id>
+	<title>Re:Amici Curiae Briefs (or Boxers)</title>
+	<author>Anonymous</author>
+	<datestamp>1243344420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p> <i>The organization stands accused of targeting vulnerable people for commercial gain.</i> </p><p>
+&nbsp; Other religious groups might want to render an opinion to the courts defending Scientology. How many religions can't be accused of targeting vulnerable people?</p></div><p>Most religions don't charge for their services. Most have charity as one of the habits you should develop to become a better person. They help the vulnerable because it is the Right Thing To Do, and don't expect anything in return.</p></div>
+	</htmltext>
+<tokenext>The organization stands accused of targeting vulnerable people for commercial gain .
+Â   Other religious groups might want to render an opinion to the courts defending Scientology .
+How many religions ca n't be accused of targeting vulnerable people ? Most religions do n't charge for their services .
+Most have charity as one of the habits you should develop to become a better person .
+They help the vulnerable because it is the Right Thing To Do , and do n't expect anything in return .</tokentext>
+<sentencetext> The organization stands accused of targeting vulnerable people for commercial gain.
+Â  Other religious groups might want to render an opinion to the courts defending Scientology.
+How many religions can't be accused of targeting vulnerable people?Most religions don't charge for their services.
+Most have charity as one of the habits you should develop to become a better person.
+They help the vulnerable because it is the Right Thing To Do, and don't expect anything in return.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105533</id>
+	<title>Re:Some observations</title>
+	<author>Brian\_Ellenberger</author>
+	<datestamp>1243363500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>The Church of Scientology has tax-exempt status. It managed to secure a deal with the IRS that gives it the same rights as religious organizations.</p><p>It seems that religions <i>do</i> get special treatment in the US.</p></div><p>To be fair, so does PETA, NOW, NRA, the Sierra Club, and a host of other organizations of people who basically get together because they have some common belief and donate money to it.  Treating religions otherwise would actually be discriminating against them.</p></div>
+	</htmltext>
+<tokenext>The Church of Scientology has tax-exempt status .
+It managed to secure a deal with the IRS that gives it the same rights as religious organizations.It seems that religions do get special treatment in the US.To be fair , so does PETA , NOW , NRA , the Sierra Club , and a host of other organizations of people who basically get together because they have some common belief and donate money to it .
+Treating religions otherwise would actually be discriminating against them .</tokentext>
+<sentencetext>The Church of Scientology has tax-exempt status.
+It managed to secure a deal with the IRS that gives it the same rights as religious organizations.It seems that religions do get special treatment in the US.To be fair, so does PETA, NOW, NRA, the Sierra Club, and a host of other organizations of people who basically get together because they have some common belief and donate money to it.
+Treating religions otherwise would actually be discriminating against them.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103173</id>
+	<title>Re:Some observations</title>
+	<author>Anonymous</author>
+	<datestamp>1243344120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>Furthermore, being a religion does not exempt one from laws</p></div><p>No, but it gives some benefits about taxes.</p><p><div class="quote"><p>However, these persons handed over this money willingly, in cases this is not illegal as long as Scientology did not attempt to coerce them or prohibit them from leaving.</p></div><p>In the french cases (I'm french), the victims assure that the scientologists exploited their weaknesses.</p><p>I think you really have no clue about Scientology.</p><p>My previous girlfriend worked for the scientology for several months: she worked (I think the correct term is exploited) in England for around 400 euros per month.<br>I encountered a scientologist who tried to brainwash me.<br>Their method is really impressive, and they know how to exploit any weakness, under the pretense of teaching spirituality.<br>They are ruthless, and try every trick to extort your money, as soon as you show any sign of interest.</p><p>So, when you use the term 'willingly', I'm very shocked, since you really don't know how they can trick people. Their method can be viewed as very aggressive advertisement, and it works on feable minds.</p><p>BTW, I'm quite disappointed with this trial, since I bet that our president Sarkozy will probably allow Scientology to continue, since he has been approached by Tom Cruise, and he frequently uses their manipulation techniques.</p></div>
+	</htmltext>
+<tokenext>Furthermore , being a religion does not exempt one from lawsNo , but it gives some benefits about taxes.However , these persons handed over this money willingly , in cases this is not illegal as long as Scientology did not attempt to coerce them or prohibit them from leaving.In the french cases ( I 'm french ) , the victims assure that the scientologists exploited their weaknesses.I think you really have no clue about Scientology.My previous girlfriend worked for the scientology for several months : she worked ( I think the correct term is exploited ) in England for around 400 euros per month.I encountered a scientologist who tried to brainwash me.Their method is really impressive , and they know how to exploit any weakness , under the pretense of teaching spirituality.They are ruthless , and try every trick to extort your money , as soon as you show any sign of interest.So , when you use the term 'willingly ' , I 'm very shocked , since you really do n't know how they can trick people .
+Their method can be viewed as very aggressive advertisement , and it works on feable minds.BTW , I 'm quite disappointed with this trial , since I bet that our president Sarkozy will probably allow Scientology to continue , since he has been approached by Tom Cruise , and he frequently uses their manipulation techniques .</tokentext>
+<sentencetext>Furthermore, being a religion does not exempt one from lawsNo, but it gives some benefits about taxes.However, these persons handed over this money willingly, in cases this is not illegal as long as Scientology did not attempt to coerce them or prohibit them from leaving.In the french cases (I'm french), the victims assure that the scientologists exploited their weaknesses.I think you really have no clue about Scientology.My previous girlfriend worked for the scientology for several months: she worked (I think the correct term is exploited) in England for around 400 euros per month.I encountered a scientologist who tried to brainwash me.Their method is really impressive, and they know how to exploit any weakness, under the pretense of teaching spirituality.They are ruthless, and try every trick to extort your money, as soon as you show any sign of interest.So, when you use the term 'willingly', I'm very shocked, since you really don't know how they can trick people.
+Their method can be viewed as very aggressive advertisement, and it works on feable minds.BTW, I'm quite disappointed with this trial, since I bet that our president Sarkozy will probably allow Scientology to continue, since he has been approached by Tom Cruise, and he frequently uses their manipulation techniques.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102737</id>
+	<title>The social engineer always gets in</title>
+	<author>Beryllium Sphere(tm)</author>
+	<datestamp>1243341840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>&gt;no-one was forced to buy anything<nobr> <wbr></nobr>...<br>&gt;If you're dumb enough</p><p>Everybody's vulnerable to something. You can't protect yourself against every lie in the world short of clinical paranoia, and even then you'll get taken by somebody selling tinfoil hats.</p><p>Talk to a professional penetration tester. You may hear that they always succeed at using con games to compromise an organization's security.</p><p>We need anti-fraud laws. At least they can scare away potential fraudsters who are afraid of getting caught.</p></htmltext>
+<tokenext>&gt; no-one was forced to buy anything ... &gt; If you 're dumb enoughEverybody 's vulnerable to something .
+You ca n't protect yourself against every lie in the world short of clinical paranoia , and even then you 'll get taken by somebody selling tinfoil hats.Talk to a professional penetration tester .
+You may hear that they always succeed at using con games to compromise an organization 's security.We need anti-fraud laws .
+At least they can scare away potential fraudsters who are afraid of getting caught .</tokentext>
+<sentencetext>&gt;no-one was forced to buy anything ...&gt;If you're dumb enoughEverybody's vulnerable to something.
+You can't protect yourself against every lie in the world short of clinical paranoia, and even then you'll get taken by somebody selling tinfoil hats.Talk to a professional penetration tester.
+You may hear that they always succeed at using con games to compromise an organization's security.We need anti-fraud laws.
+At least they can scare away potential fraudsters who are afraid of getting caught.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106115</id>
+	<title>Re:Anonymous!!!</title>
+	<author>Anonymous</author>
+	<datestamp>1243456560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Yes.</p><p>
+&nbsp; -Anonymous</p></htmltext>
+<tokenext>Yes .
+Â   -Anonymous</tokentext>
+<sentencetext>Yes.
+Â  -Anonymous</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102319</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102325</id>
+	<title>Western Europe not a friend of Organized Religion</title>
+	<author>telomerewhythere</author>
+	<datestamp>1243339800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>I've thought for a while it is because of the two world wars that destroyed so much in their back yard. (and front)  Now they are sensitive to any "religious" group that has a detrimental effect on its members.
+<p>
+Oh, Zenu's knocking on my door.  b</p></htmltext>
+<tokenext>I 've thought for a while it is because of the two world wars that destroyed so much in their back yard .
+( and front ) Now they are sensitive to any " religious " group that has a detrimental effect on its members .
+Oh , Zenu 's knocking on my door .
+b</tokentext>
+<sentencetext>I've thought for a while it is because of the two world wars that destroyed so much in their back yard.
+(and front)  Now they are sensitive to any "religious" group that has a detrimental effect on its members.
+Oh, Zenu's knocking on my door.
+b</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104959</id>
+	<title>Re:And not a moment too soon!</title>
+	<author>green1</author>
+	<datestamp>1243357800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>At least with casinos some people do occasionally come out ahead.... Not the majority, but as far as I can tell, in Scientology only the house ever wins.</p></htmltext>
+<tokenext>At least with casinos some people do occasionally come out ahead.... Not the majority , but as far as I can tell , in Scientology only the house ever wins .</tokentext>
+<sentencetext>At least with casinos some people do occasionally come out ahead.... Not the majority, but as far as I can tell, in Scientology only the house ever wins.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104759</id>
+	<title>Re:Scientology Survives by Recruiting Losers</title>
+	<author>noidentity</author>
+	<datestamp>1243356120000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><blockquote><div><p>Interesting thing is I later made the plastic parts for the e machine auditing. (2 plastic parts, 2 resistors, 2 connector pins and wires). Later ran into the molder who makes the training case for their dvds and printed materials. Once the box was filled with $20 worth of materials, the loser had to pay near $2000 for it as I recall (It has been 5 years or so).</p></div></blockquote><p>I didn't realize the MAFIAA was charging so much for DVD movies these days!</p></div>
+	</htmltext>
+<tokenext>Interesting thing is I later made the plastic parts for the e machine auditing .
+( 2 plastic parts , 2 resistors , 2 connector pins and wires ) .
+Later ran into the molder who makes the training case for their dvds and printed materials .
+Once the box was filled with $ 20 worth of materials , the loser had to pay near $ 2000 for it as I recall ( It has been 5 years or so ) .I did n't realize the MAFIAA was charging so much for DVD movies these days !</tokentext>
+<sentencetext>Interesting thing is I later made the plastic parts for the e machine auditing.
+(2 plastic parts, 2 resistors, 2 connector pins and wires).
+Later ran into the molder who makes the training case for their dvds and printed materials.
+Once the box was filled with $20 worth of materials, the loser had to pay near $2000 for it as I recall (It has been 5 years or so).I didn't realize the MAFIAA was charging so much for DVD movies these days!
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102773</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103799</id>
+	<title>Re:Some observations</title>
+	<author>Schmorgluck</author>
+	<datestamp>1243348440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>The summary imples that the US has given scientology religious status. The US does not recognise or give religions status. This is prohibited by the Constitution.</p></div><p>I'm glad to read that, I was starting to wonder if the USA were <em>that</em> much different from France in that respect.</p><p><div class="quote"><p>As far as the charges against scientology, scientology does use sleazy methods to extract methods from the followers of this cult. However, these persons handed over this money willingly, in cases this is not illegal as long as Scientology did not attempt to coerce them or prohibit them from leaving.</p></div><p>You should look up the definition of "fraud". The fact that the money was given willingly is irrelevant, it's the deceptive methods that are considered.</p><p>As an exemple of the deception, the victims often learn very late that the "coaching" organisaton they found themselves involved with (and are growing more and more indebted to), is in fact a facade for the Church of Scientology.</p><p>Which, by the way, begs the question: how come an organisation claiming so loudly to be a religion, with its own spirituality and rites, feels the need to catch their new members by pretending at first <em>not</em> to be one, and to have nothing to do with spirituality and rites at all?</p></div>
+	</htmltext>
+<tokenext>The summary imples that the US has given scientology religious status .
+The US does not recognise or give religions status .
+This is prohibited by the Constitution.I 'm glad to read that , I was starting to wonder if the USA were that much different from France in that respect.As far as the charges against scientology , scientology does use sleazy methods to extract methods from the followers of this cult .
+However , these persons handed over this money willingly , in cases this is not illegal as long as Scientology did not attempt to coerce them or prohibit them from leaving.You should look up the definition of " fraud " .
+The fact that the money was given willingly is irrelevant , it 's the deceptive methods that are considered.As an exemple of the deception , the victims often learn very late that the " coaching " organisaton they found themselves involved with ( and are growing more and more indebted to ) , is in fact a facade for the Church of Scientology.Which , by the way , begs the question : how come an organisation claiming so loudly to be a religion , with its own spirituality and rites , feels the need to catch their new members by pretending at first not to be one , and to have nothing to do with spirituality and rites at all ?</tokentext>
+<sentencetext>The summary imples that the US has given scientology religious status.
+The US does not recognise or give religions status.
+This is prohibited by the Constitution.I'm glad to read that, I was starting to wonder if the USA were that much different from France in that respect.As far as the charges against scientology, scientology does use sleazy methods to extract methods from the followers of this cult.
+However, these persons handed over this money willingly, in cases this is not illegal as long as Scientology did not attempt to coerce them or prohibit them from leaving.You should look up the definition of "fraud".
+The fact that the money was given willingly is irrelevant, it's the deceptive methods that are considered.As an exemple of the deception, the victims often learn very late that the "coaching" organisaton they found themselves involved with (and are growing more and more indebted to), is in fact a facade for the Church of Scientology.Which, by the way, begs the question: how come an organisation claiming so loudly to be a religion, with its own spirituality and rites, feels the need to catch their new members by pretending at first not to be one, and to have nothing to do with spirituality and rites at all?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104129</id>
+	<title>Re:And not a moment too soon!</title>
+	<author>shutdown -p now</author>
+	<datestamp>1243350720000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p><div class="quote"><p>how Scientology should be banned for being a scam, and relieving people of their money, but they are all for the unbanning of gambling sites online.</p></div><p>There are two things here.</p><p>First of all, Scientologists actively harass those who try to leave the Church. I've yet to hear of casinos forcibly dragging people to the tables to gamble.</p><p>Second, casinos do not false advertise. They don't promise you eternal salvation, perfect mental and physical health, and so on.</p></div>
+	</htmltext>
+<tokenext>how Scientology should be banned for being a scam , and relieving people of their money , but they are all for the unbanning of gambling sites online.There are two things here.First of all , Scientologists actively harass those who try to leave the Church .
+I 've yet to hear of casinos forcibly dragging people to the tables to gamble.Second , casinos do not false advertise .
+They do n't promise you eternal salvation , perfect mental and physical health , and so on .</tokentext>
+<sentencetext>how Scientology should be banned for being a scam, and relieving people of their money, but they are all for the unbanning of gambling sites online.There are two things here.First of all, Scientologists actively harass those who try to leave the Church.
+I've yet to hear of casinos forcibly dragging people to the tables to gamble.Second, casinos do not false advertise.
+They don't promise you eternal salvation, perfect mental and physical health, and so on.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28112907</id>
+	<title>Re:Some observations</title>
+	<author>BitZtream</author>
+	<datestamp>1243452120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Any company can be a somewhat tax exempt in the US as long as they follow the rules for acting as such an organization.  The goverment is not allowed to provide preferential treatment to any religion, and it doesn't.  It does provide a level playing field for organizations to operate without paying taxes without any sort of special treatment because of their religious status.</p><p>I can start a tax exempt company right now in the US.  So can you.  As long as you follow the same rules as everyone else.</p></htmltext>
+<tokenext>Any company can be a somewhat tax exempt in the US as long as they follow the rules for acting as such an organization .
+The goverment is not allowed to provide preferential treatment to any religion , and it does n't .
+It does provide a level playing field for organizations to operate without paying taxes without any sort of special treatment because of their religious status.I can start a tax exempt company right now in the US .
+So can you .
+As long as you follow the same rules as everyone else .</tokentext>
+<sentencetext>Any company can be a somewhat tax exempt in the US as long as they follow the rules for acting as such an organization.
+The goverment is not allowed to provide preferential treatment to any religion, and it doesn't.
+It does provide a level playing field for organizations to operate without paying taxes without any sort of special treatment because of their religious status.I can start a tax exempt company right now in the US.
+So can you.
+As long as you follow the same rules as everyone else.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105143</id>
+	<title>Re:Some observations</title>
+	<author>shadowbearer</author>
+	<datestamp>1243359360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>The summary imples that the US has given scientology religious status. The US does not recognise or give religions status.</i></p><p>
+&nbsp; I realize you're not an us resident, but if you have been following anything that happens in this country, and especially over the last 9 years, you should realize the irony there.</p><p>
+&nbsp; Our Constitution says we shouldn't give religion special status when it comes to secular powers. The reality is, and has been over the course of our history, quite different.</p><p>
+&nbsp; The Bush administration was hardly the first to ignore that clause, but it can be argued that it was the most damaging government we ever had in that respect...</p><p>
+&nbsp; It can be argued that in some ways we have been *too* permissive of people who can damage our society...</p><p>SB</p></htmltext>
+<tokenext>The summary imples that the US has given scientology religious status .
+The US does not recognise or give religions status .
+Â   I realize you 're not an us resident , but if you have been following anything that happens in this country , and especially over the last 9 years , you should realize the irony there .
+Â   Our Constitution says we should n't give religion special status when it comes to secular powers .
+The reality is , and has been over the course of our history , quite different .
+Â   The Bush administration was hardly the first to ignore that clause , but it can be argued that it was the most damaging government we ever had in that respect.. . Â   It can be argued that in some ways we have been * too * permissive of people who can damage our society...SB</tokentext>
+<sentencetext>The summary imples that the US has given scientology religious status.
+The US does not recognise or give religions status.
+Â  I realize you're not an us resident, but if you have been following anything that happens in this country, and especially over the last 9 years, you should realize the irony there.
+Â  Our Constitution says we shouldn't give religion special status when it comes to secular powers.
+The reality is, and has been over the course of our history, quite different.
+Â  The Bush administration was hardly the first to ignore that clause, but it can be argued that it was the most damaging government we ever had in that respect...
+Â  It can be argued that in some ways we have been *too* permissive of people who can damage our society...SB</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103607</id>
+	<title>Re:Western Europe not a friend of Organized Religi</title>
+	<author>x2A</author>
+	<datestamp>1243346520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Go learn something about the world wars. Seriously, you're so way off it's... I can't even think of a word for what it is without resorting to pejoratives which if you were just being stupid I would do, but you've obviously just got the wrong end of the stick from somewhere which is much better corrected.</p></htmltext>
+<tokenext>Go learn something about the world wars .
+Seriously , you 're so way off it 's... I ca n't even think of a word for what it is without resorting to pejoratives which if you were just being stupid I would do , but you 've obviously just got the wrong end of the stick from somewhere which is much better corrected .</tokentext>
+<sentencetext>Go learn something about the world wars.
+Seriously, you're so way off it's... I can't even think of a word for what it is without resorting to pejoratives which if you were just being stupid I would do, but you've obviously just got the wrong end of the stick from somewhere which is much better corrected.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102325</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103321</id>
+	<title>Re:Amici Curiae Briefs (or Boxers)</title>
+	<author>sbeckstead</author>
+	<datestamp>1243344960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Well they all target them, but few target them specifically to get their money.  They do expect you to help support the church but they believe you can help other ways than monetarily.  At least in most areas they will take repairs/improvements to the church etc. into account as donations.  So while all church like organizations do target vulnerable people most of them want to actually help and not to make you better just to get your money.  But I could be wrong, I generally take these things on faith.</htmltext>
+<tokenext>Well they all target them , but few target them specifically to get their money .
+They do expect you to help support the church but they believe you can help other ways than monetarily .
+At least in most areas they will take repairs/improvements to the church etc .
+into account as donations .
+So while all church like organizations do target vulnerable people most of them want to actually help and not to make you better just to get your money .
+But I could be wrong , I generally take these things on faith .</tokentext>
+<sentencetext>Well they all target them, but few target them specifically to get their money.
+They do expect you to help support the church but they believe you can help other ways than monetarily.
+At least in most areas they will take repairs/improvements to the church etc.
+into account as donations.
+So while all church like organizations do target vulnerable people most of them want to actually help and not to make you better just to get your money.
+But I could be wrong, I generally take these things on faith.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103551</id>
+	<title>Re:Who's next?</title>
+	<author>E IS mC(Square)</author>
+	<datestamp>1243346220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>You forgot the biggest of the cult... Apple.</htmltext>
+<tokenext>You forgot the biggest of the cult... Apple .</tokentext>
+<sentencetext>You forgot the biggest of the cult... Apple.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102439</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28108781</id>
+	<title>Re:How about being fair?</title>
+	<author>silver007</author>
+	<datestamp>1243435200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>YES. This would aid in the advancement of those who are relatively gifted with the intellectual prowess to further society while weeding out those who contribute nothing.</htmltext>
+<tokenext>YES .
+This would aid in the advancement of those who are relatively gifted with the intellectual prowess to further society while weeding out those who contribute nothing .</tokentext>
+<sentencetext>YES.
+This would aid in the advancement of those who are relatively gifted with the intellectual prowess to further society while weeding out those who contribute nothing.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103541</id>
+	<title>Re:How about being fair?</title>
+	<author>el\_satcho</author>
+	<datestamp>1243346160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Just like homeopathy, acupuncture, chiropracty, those "get rich quick" schemes, and all those crappy kitchen gadgets they sell on late night TV?
+
+Those things don't constitute fraud because people know what they're getting into. In the same essence, these people actually do get their "thetan meter" in the mail.
+
+In free societies people are allowed to believe what they want, and are allowed to spend their money on whatever they want. But, this IS France after all...(and Germany)...</htmltext>
+<tokenext>Just like homeopathy , acupuncture , chiropracty , those " get rich quick " schemes , and all those crappy kitchen gadgets they sell on late night TV ?
+Those things do n't constitute fraud because people know what they 're getting into .
+In the same essence , these people actually do get their " thetan meter " in the mail .
+In free societies people are allowed to believe what they want , and are allowed to spend their money on whatever they want .
+But , this IS France after all... ( and Germany ) .. .</tokentext>
+<sentencetext>Just like homeopathy, acupuncture, chiropracty, those "get rich quick" schemes, and all those crappy kitchen gadgets they sell on late night TV?
+Those things don't constitute fraud because people know what they're getting into.
+In the same essence, these people actually do get their "thetan meter" in the mail.
+In free societies people are allowed to believe what they want, and are allowed to spend their money on whatever they want.
+But, this IS France after all...(and Germany)...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102407</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106017</id>
+	<title>Re:And not a moment too soon!</title>
+	<author>LKM</author>
+	<datestamp>1243455780000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext>With gambling, there's a slight chance you might make a bit of money. With Scientology, you'll be fucked 100\% of the time.</htmltext>
+<tokenext>With gambling , there 's a slight chance you might make a bit of money .
+With Scientology , you 'll be fucked 100 \ % of the time .</tokentext>
+<sentencetext>With gambling, there's a slight chance you might make a bit of money.
+With Scientology, you'll be fucked 100\% of the time.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28108525</id>
+	<title>Re:And not a moment too soon!</title>
+	<author>EvilIdler</author>
+	<datestamp>1243433820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I should send my dad to that thread. He's an incurable gambler, and considers banning of online sites a good thing.</p></htmltext>
+<tokenext>I should send my dad to that thread .
+He 's an incurable gambler , and considers banning of online sites a good thing .</tokentext>
+<sentencetext>I should send my dad to that thread.
+He's an incurable gambler, and considers banning of online sites a good thing.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103045</id>
+	<title>Re: vulnerable</title>
+	<author>Lunzo</author>
+	<datestamp>1243343460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>  Other religious groups might want to render an opinion to the courts defending Scientology. How many religions can't be accused of targeting vulnerable people?</p></div>
+</blockquote><p>
+
+I think you'll find that France like most of Western Europe upholds the right to freedom of religion. Scientology isn't on trial as a religion. It's (rightly IMHO) not a registered religion in France and its on trial for fraud. I somehow don't think any of the other organized religions there will be rushing to the defense of Scientology.</p></div>
+	</htmltext>
+<tokenext>Other religious groups might want to render an opinion to the courts defending Scientology .
+How many religions ca n't be accused of targeting vulnerable people ?
+I think you 'll find that France like most of Western Europe upholds the right to freedom of religion .
+Scientology is n't on trial as a religion .
+It 's ( rightly IMHO ) not a registered religion in France and its on trial for fraud .
+I somehow do n't think any of the other organized religions there will be rushing to the defense of Scientology .</tokentext>
+<sentencetext>  Other religious groups might want to render an opinion to the courts defending Scientology.
+How many religions can't be accused of targeting vulnerable people?
+I think you'll find that France like most of Western Europe upholds the right to freedom of religion.
+Scientology isn't on trial as a religion.
+It's (rightly IMHO) not a registered religion in France and its on trial for fraud.
+I somehow don't think any of the other organized religions there will be rushing to the defense of Scientology.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103649</id>
+	<title>Re:Amici Curiae Briefs (or Boxers)</title>
+	<author>x2A</author>
+	<datestamp>1243346940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>That's like suggesting the Catholic church go round court cases speaking on behalf of paedophiles. I think other religions would instead tend to stand against any of their members who behave badly, in order to try and preserve their own name.</p></htmltext>
+<tokenext>That 's like suggesting the Catholic church go round court cases speaking on behalf of paedophiles .
+I think other religions would instead tend to stand against any of their members who behave badly , in order to try and preserve their own name .</tokentext>
+<sentencetext>That's like suggesting the Catholic church go round court cases speaking on behalf of paedophiles.
+I think other religions would instead tend to stand against any of their members who behave badly, in order to try and preserve their own name.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28113853</id>
+	<title>Re:Some observations</title>
+	<author>DavidTC</author>
+	<datestamp>1243456200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p> <i>Which, by the way, begs the question: how come an organisation claiming so loudly to be a religion, with its own spirituality and rites, feels the need to catch their new members by pretending at first not to be one, and to have nothing to do with spirituality and rites at all?</i> </p><p>
+That's exactly it. They are pretending to be therapists and psychologists, and thus everyone expects that the 'therapists' and 'psychologists' they've started to see (Thanks to a stupid survey) are, you know, <b>licensed</b> with the same sort of quality control and standards that others have.</p><p>
+They <b>call</b> themselves a religion but operate like an entirely different sort of business.</p></htmltext>
+<tokenext>Which , by the way , begs the question : how come an organisation claiming so loudly to be a religion , with its own spirituality and rites , feels the need to catch their new members by pretending at first not to be one , and to have nothing to do with spirituality and rites at all ?
+That 's exactly it .
+They are pretending to be therapists and psychologists , and thus everyone expects that the 'therapists ' and 'psychologists ' they 've started to see ( Thanks to a stupid survey ) are , you know , licensed with the same sort of quality control and standards that others have .
+They call themselves a religion but operate like an entirely different sort of business .</tokentext>
+<sentencetext> Which, by the way, begs the question: how come an organisation claiming so loudly to be a religion, with its own spirituality and rites, feels the need to catch their new members by pretending at first not to be one, and to have nothing to do with spirituality and rites at all?
+That's exactly it.
+They are pretending to be therapists and psychologists, and thus everyone expects that the 'therapists' and 'psychologists' they've started to see (Thanks to a stupid survey) are, you know, licensed with the same sort of quality control and standards that others have.
+They call themselves a religion but operate like an entirely different sort of business.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103799</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102513</id>
+	<title>*sigh*</title>
+	<author>Anonymous</author>
+	<datestamp>1243340760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>The 4chan fucktards will be all over the place soon...</p></htmltext>
+<tokenext>The 4chan fucktards will be all over the place soon.. .</tokentext>
+<sentencetext>The 4chan fucktards will be all over the place soon...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671</id>
+	<title>Re:And not a moment too soon!</title>
+	<author>shellster\_dude</author>
+	<datestamp>1243347060000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext>You know what I can't stand?  The irony between this thread and the one on gambling.  Many of the same people are posting here, about how Scientology should be banned for being a scam, and relieving people of their money, but they are all for the unbanning of gambling sites online.</htmltext>
+<tokenext>You know what I ca n't stand ?
+The irony between this thread and the one on gambling .
+Many of the same people are posting here , about how Scientology should be banned for being a scam , and relieving people of their money , but they are all for the unbanning of gambling sites online .</tokentext>
+<sentencetext>You know what I can't stand?
+The irony between this thread and the one on gambling.
+Many of the same people are posting here, about how Scientology should be banned for being a scam, and relieving people of their money, but they are all for the unbanning of gambling sites online.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102117</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817</id>
+	<title>Re:Some observations</title>
+	<author>Anonymous</author>
+	<datestamp>1243342140000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>The Church of Scientology has tax-exempt status. It managed to secure a deal with the IRS that gives it the same rights as religious organizations.</p><p>It seems that religions <i>do</i> get special treatment in the US.</p></htmltext>
+<tokenext>The Church of Scientology has tax-exempt status .
+It managed to secure a deal with the IRS that gives it the same rights as religious organizations.It seems that religions do get special treatment in the US .</tokentext>
+<sentencetext>The Church of Scientology has tax-exempt status.
+It managed to secure a deal with the IRS that gives it the same rights as religious organizations.It seems that religions do get special treatment in the US.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102117</id>
+	<title>And not a moment too soon!</title>
+	<author>Anonymous</author>
+	<datestamp>1243338900000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>I guess the whole "child slavery" thing hasn't been working out so well lately.</p></htmltext>
+<tokenext>I guess the whole " child slavery " thing has n't been working out so well lately .</tokentext>
+<sentencetext>I guess the whole "child slavery" thing hasn't been working out so well lately.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106715</id>
+	<title>Re:Some observations</title>
+	<author>shutdown -p now</author>
+	<datestamp>1243418700000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Define "willingly", given that cults are exceptionally good at applying brainwashing techniques. Is it possible to voluntarily do something when you are no longer medically competent to make such decisions?</p></div><p>No, of course not - most (all?) countries have it well established in law and custom. We call the concept "informed consent", and Wikipedia <a href="http://en.wikipedia.org/wiki/Informed\_consent" title="wikipedia.org">sums it up</a> [wikipedia.org] quite nicely:</p><p><i>"Informed consent is a legal condition whereby a person can be said to have given consent based upon a clear appreciation and understanding of the facts, implications and future consequences of an action. In order to give informed consent, the individual concerned must have <b>adequate reasoning faculties</b> and be in possession of <b>all relevant facts</b> at the time consent is given."</i></p></div>
+	</htmltext>
+<tokenext>Define " willingly " , given that cults are exceptionally good at applying brainwashing techniques .
+Is it possible to voluntarily do something when you are no longer medically competent to make such decisions ? No , of course not - most ( all ?
+) countries have it well established in law and custom .
+We call the concept " informed consent " , and Wikipedia sums it up [ wikipedia.org ] quite nicely : " Informed consent is a legal condition whereby a person can be said to have given consent based upon a clear appreciation and understanding of the facts , implications and future consequences of an action .
+In order to give informed consent , the individual concerned must have adequate reasoning faculties and be in possession of all relevant facts at the time consent is given .
+"</tokentext>
+<sentencetext>Define "willingly", given that cults are exceptionally good at applying brainwashing techniques.
+Is it possible to voluntarily do something when you are no longer medically competent to make such decisions?No, of course not - most (all?
+) countries have it well established in law and custom.
+We call the concept "informed consent", and Wikipedia sums it up [wikipedia.org] quite nicely:"Informed consent is a legal condition whereby a person can be said to have given consent based upon a clear appreciation and understanding of the facts, implications and future consequences of an action.
+In order to give informed consent, the individual concerned must have adequate reasoning faculties and be in possession of all relevant facts at the time consent is given.
+"
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102879</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104373</id>
+	<title>Re:How about being fair?</title>
+	<author>Risen888</author>
+	<datestamp>1243352700000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>http://en.wikipedia.org/wiki/Reductio\_ad\_absurdum</i>Reductio ad absurdum</p><p>I mean, come on. God knows I'm not defending Scientology, but "How was I to know the nice man in the mall kiosk wasn't sincere about wanting to protect my mind from the aliens?" isn't exactly the start of a stellar legal argument.</p></htmltext>
+<tokenext>http : //en.wikipedia.org/wiki/Reductio \ _ad \ _absurdumReductio ad absurdumI mean , come on .
+God knows I 'm not defending Scientology , but " How was I to know the nice man in the mall kiosk was n't sincere about wanting to protect my mind from the aliens ?
+" is n't exactly the start of a stellar legal argument .</tokentext>
+<sentencetext>http://en.wikipedia.org/wiki/Reductio\_ad\_absurdumReductio ad absurdumI mean, come on.
+God knows I'm not defending Scientology, but "How was I to know the nice man in the mall kiosk wasn't sincere about wanting to protect my mind from the aliens?
+" isn't exactly the start of a stellar legal argument.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106121</id>
+	<title>Re:Anonymous!!!</title>
+	<author>Anonymous</author>
+	<datestamp>1243456560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>No.</p></htmltext>
+<tokenext>No .</tokentext>
+<sentencetext>No.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102319</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104185</id>
+	<title>Re:Some observations</title>
+	<author>Anonymous</author>
+	<datestamp>1243351200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Only because it is unconstitutional to prevent the free exercise of religion and taxing them would do so.</p><p>As for why guns are taxed ('fees'), well, ask the Supreme Court</p></htmltext>
+<tokenext>Only because it is unconstitutional to prevent the free exercise of religion and taxing them would do so.As for why guns are taxed ( 'fees ' ) , well , ask the Supreme Court</tokentext>
+<sentencetext>Only because it is unconstitutional to prevent the free exercise of religion and taxing them would do so.As for why guns are taxed ('fees'), well, ask the Supreme Court</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28110747</id>
+	<title>Re:How about being fair?</title>
+	<author>Jaysyn</author>
+	<datestamp>1243443720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Skin resistance from what I've heard.  Pretty sure they are just galvanometers.</p></htmltext>
+<tokenext>Skin resistance from what I 've heard .
+Pretty sure they are just galvanometers .</tokentext>
+<sentencetext>Skin resistance from what I've heard.
+Pretty sure they are just galvanometers.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102407</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579</id>
+	<title>Some observations</title>
+	<author>Anonymous</author>
+	<datestamp>1243341120000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>The summary imples that the US has given scientology religious status. The US does not recognise or give religions status. This is prohibited by the Constitution. Furthermore, being a religion does not exempt one from laws, so the law would apply the same no matter if it was a religion or not. Being a religion does not allow an organisation to do things that would be illegal for another religion to do. Furthermore, an organisation being a religion should not single it out for more intense persecution.</p><p>As far as the charges against scientology, scientology does use sleazy methods to extract methods from the followers of this cult. However, these persons handed over this money willingly, in cases this is not illegal as long as Scientology did not attempt to coerce them or prohibit them from leaving.</p></htmltext>
+<tokenext>The summary imples that the US has given scientology religious status .
+The US does not recognise or give religions status .
+This is prohibited by the Constitution .
+Furthermore , being a religion does not exempt one from laws , so the law would apply the same no matter if it was a religion or not .
+Being a religion does not allow an organisation to do things that would be illegal for another religion to do .
+Furthermore , an organisation being a religion should not single it out for more intense persecution.As far as the charges against scientology , scientology does use sleazy methods to extract methods from the followers of this cult .
+However , these persons handed over this money willingly , in cases this is not illegal as long as Scientology did not attempt to coerce them or prohibit them from leaving .</tokentext>
+<sentencetext>The summary imples that the US has given scientology religious status.
+The US does not recognise or give religions status.
+This is prohibited by the Constitution.
+Furthermore, being a religion does not exempt one from laws, so the law would apply the same no matter if it was a religion or not.
+Being a religion does not allow an organisation to do things that would be illegal for another religion to do.
+Furthermore, an organisation being a religion should not single it out for more intense persecution.As far as the charges against scientology, scientology does use sleazy methods to extract methods from the followers of this cult.
+However, these persons handed over this money willingly, in cases this is not illegal as long as Scientology did not attempt to coerce them or prohibit them from leaving.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28109667</id>
+	<title>Oh! I see Irony too!</title>
+	<author>EgoWumpus</author>
+	<datestamp>1243439400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The ad right below this article is an ad for Scientology. WTF<nobr> <wbr></nobr>/.?</p></htmltext>
+<tokenext>The ad right below this article is an ad for Scientology .
+WTF / .
+?</tokentext>
+<sentencetext>The ad right below this article is an ad for Scientology.
+WTF /.
+?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104451</id>
+	<title>Re:Some observations</title>
+	<author>pavon</author>
+	<datestamp>1243353300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Not really. The advantages that religious organizations get in the US are pretty much the same that any non-profit organization can receive. For historical reasons, different types of organizations have to fill out different types of paperwork to apply for exempt status, but the same is true of our entire jumbled mess of a tax code. There is crap like the "Faith Based Initiatives", that really needs to go away but the core of tax-exempt status is pretty much the same as secular organizations.</p></htmltext>
+<tokenext>Not really .
+The advantages that religious organizations get in the US are pretty much the same that any non-profit organization can receive .
+For historical reasons , different types of organizations have to fill out different types of paperwork to apply for exempt status , but the same is true of our entire jumbled mess of a tax code .
+There is crap like the " Faith Based Initiatives " , that really needs to go away but the core of tax-exempt status is pretty much the same as secular organizations .</tokentext>
+<sentencetext>Not really.
+The advantages that religious organizations get in the US are pretty much the same that any non-profit organization can receive.
+For historical reasons, different types of organizations have to fill out different types of paperwork to apply for exempt status, but the same is true of our entire jumbled mess of a tax code.
+There is crap like the "Faith Based Initiatives", that really needs to go away but the core of tax-exempt status is pretty much the same as secular organizations.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102559</id>
+	<title>Re:How about being fair?</title>
+	<author>mdwh2</author>
+	<datestamp>1243341000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>This could be a case of blatant false advertising, do Scientology products come with a disclaimer? May not perform upto expectations..</i></p><p>Yes, false advertising, also known as fraud. Which if you actually RTFA is what they are being charged with.</p></htmltext>
+<tokenext>This could be a case of blatant false advertising , do Scientology products come with a disclaimer ?
+May not perform upto expectations..Yes , false advertising , also known as fraud .
+Which if you actually RTFA is what they are being charged with .</tokentext>
+<sentencetext>This could be a case of blatant false advertising, do Scientology products come with a disclaimer?
+May not perform upto expectations..Yes, false advertising, also known as fraud.
+Which if you actually RTFA is what they are being charged with.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102909</id>
+	<title>Most religions help the poor</title>
+	<author>Nicolas MONNET</author>
+	<datestamp>1243342680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>while $cieno milks them.<br>I have no sympathy for religion, organized or not, but $cieno is a special kind of evil.</p></htmltext>
+<tokenext>while $ cieno milks them.I have no sympathy for religion , organized or not , but $ cieno is a special kind of evil .</tokentext>
+<sentencetext>while $cieno milks them.I have no sympathy for religion, organized or not, but $cieno is a special kind of evil.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103495</id>
+	<title>Re:How about being fair?</title>
+	<author>x2A</author>
+	<datestamp>1243345920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Well... technically, there is some truth in that. Quite often people will just hand over chunks of money in moves of pure idiocy ("Hi, I am a Nigerian Prince...") and yeah, damn, how much protection should people have from being stupid, and how much should they just get that question - "and what did you learn?"? I don't think it should be the role of the law to step in in such situations, however, I think there are situations where I think it becomes less clear, where the ruse is more elaborate, or circumstances more dangerous, where the law should protect people. As with any line drawn, there will always be people who push it as far as they can, so it is probably best to draw the line lower (lower being the stupider end rather than the elaborate end) so that pushing the boundaries of the law doesn't result in as serious acts.</p><p>So, no I don't think it should be, but I think it's better that it is... which doesn't sound like it should make sense, but hopefully I've explained well enough<nobr> <wbr></nobr>:-)</p></htmltext>
+<tokenext>Well... technically , there is some truth in that .
+Quite often people will just hand over chunks of money in moves of pure idiocy ( " Hi , I am a Nigerian Prince... " ) and yeah , damn , how much protection should people have from being stupid , and how much should they just get that question - " and what did you learn ? " ?
+I do n't think it should be the role of the law to step in in such situations , however , I think there are situations where I think it becomes less clear , where the ruse is more elaborate , or circumstances more dangerous , where the law should protect people .
+As with any line drawn , there will always be people who push it as far as they can , so it is probably best to draw the line lower ( lower being the stupider end rather than the elaborate end ) so that pushing the boundaries of the law does n't result in as serious acts.So , no I do n't think it should be , but I think it 's better that it is... which does n't sound like it should make sense , but hopefully I 've explained well enough : - )</tokentext>
+<sentencetext>Well... technically, there is some truth in that.
+Quite often people will just hand over chunks of money in moves of pure idiocy ("Hi, I am a Nigerian Prince...") and yeah, damn, how much protection should people have from being stupid, and how much should they just get that question - "and what did you learn?"?
+I don't think it should be the role of the law to step in in such situations, however, I think there are situations where I think it becomes less clear, where the ruse is more elaborate, or circumstances more dangerous, where the law should protect people.
+As with any line drawn, there will always be people who push it as far as they can, so it is probably best to draw the line lower (lower being the stupider end rather than the elaborate end) so that pushing the boundaries of the law doesn't result in as serious acts.So, no I don't think it should be, but I think it's better that it is... which doesn't sound like it should make sense, but hopefully I've explained well enough :-)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102695</id>
+	<title>Re:Amici Curiae Briefs (or Boxers)</title>
+	<author>evil\_aar0n</author>
+	<datestamp>1243341660000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>True enough.  But if I go to a Roman Catholic church, I'm not going to get hit up for money if I ask to see their sacred texts.  Heck, they'll probably just give me one - whether I ask or not.  And tithing is optional, in practice.</p></htmltext>
+<tokenext>True enough .
+But if I go to a Roman Catholic church , I 'm not going to get hit up for money if I ask to see their sacred texts .
+Heck , they 'll probably just give me one - whether I ask or not .
+And tithing is optional , in practice .</tokentext>
+<sentencetext>True enough.
+But if I go to a Roman Catholic church, I'm not going to get hit up for money if I ask to see their sacred texts.
+Heck, they'll probably just give me one - whether I ask or not.
+And tithing is optional, in practice.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104981</id>
+	<title>Re:Western Europe not a friend of Organized Religi</title>
+	<author>Steauengeglase</author>
+	<datestamp>1243358040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"Oh, Zenu's knocking on my door. b"</p><p>I so want to throw in a priest joke, but you know, no, not today.</p></htmltext>
+<tokenext>" Oh , Zenu 's knocking on my door .
+b " I so want to throw in a priest joke , but you know , no , not today .</tokentext>
+<sentencetext>"Oh, Zenu's knocking on my door.
+b"I so want to throw in a priest joke, but you know, no, not today.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102325</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104209</id>
+	<title>Re:Some observations</title>
+	<author>Anonymous</author>
+	<datestamp>1243351440000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Except that it's actually worse than that. It managed to secure a deal that gave it MORE rights than other religious organizations. Check out <a href="http://www.taxthecult.com/" title="taxthecult.com" rel="nofollow">taxthecult.com</a> [taxthecult.com].</p><p>Also take a look at the Sklar lawsuit (Sklar vs Commmissioner of Internal Revenue). Scientology benefits from a special tax deduction based on a secret 1993 settlement between the COS and the IRS; basically, Scientology gets tax deduction on religious education, which is to say the hundreds of thousands of dollars paid by Scientologists in 'religious education' (these are 'fixed donations' instead of 'fees' according to Scientology) are tax-deductible. The IRS feels that Orthodox Jews should not get a similar tax deduction. That's probably because nobody should ever have benefited in such a way in the fiirst place - and the circumstances under which the IRS granted said tax deduction initially are far from clear.</p><p>Those following other religions are perfectly within their rights to feel pretty pissed off by this.</p></htmltext>
+<tokenext>Except that it 's actually worse than that .
+It managed to secure a deal that gave it MORE rights than other religious organizations .
+Check out taxthecult.com [ taxthecult.com ] .Also take a look at the Sklar lawsuit ( Sklar vs Commmissioner of Internal Revenue ) .
+Scientology benefits from a special tax deduction based on a secret 1993 settlement between the COS and the IRS ; basically , Scientology gets tax deduction on religious education , which is to say the hundreds of thousands of dollars paid by Scientologists in 'religious education ' ( these are 'fixed donations ' instead of 'fees ' according to Scientology ) are tax-deductible .
+The IRS feels that Orthodox Jews should not get a similar tax deduction .
+That 's probably because nobody should ever have benefited in such a way in the fiirst place - and the circumstances under which the IRS granted said tax deduction initially are far from clear.Those following other religions are perfectly within their rights to feel pretty pissed off by this .</tokentext>
+<sentencetext>Except that it's actually worse than that.
+It managed to secure a deal that gave it MORE rights than other religious organizations.
+Check out taxthecult.com [taxthecult.com].Also take a look at the Sklar lawsuit (Sklar vs Commmissioner of Internal Revenue).
+Scientology benefits from a special tax deduction based on a secret 1993 settlement between the COS and the IRS; basically, Scientology gets tax deduction on religious education, which is to say the hundreds of thousands of dollars paid by Scientologists in 'religious education' (these are 'fixed donations' instead of 'fees' according to Scientology) are tax-deductible.
+The IRS feels that Orthodox Jews should not get a similar tax deduction.
+That's probably because nobody should ever have benefited in such a way in the fiirst place - and the circumstances under which the IRS granted said tax deduction initially are far from clear.Those following other religions are perfectly within their rights to feel pretty pissed off by this.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_55</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104981
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102325
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103551
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102439
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_45</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106121
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102319
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104451
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106381
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102319
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104373
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_52</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28107265
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102773
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_35</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104209
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_26</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103607
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102325
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105345
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28111129
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102879
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_53</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103835
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102773
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_44</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106715
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102879
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_43</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106399
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106115
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102319
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28113853
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103799
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105143
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_50</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103467
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103045
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_38</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104583
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104185
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_42</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103495
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106017
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102117
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_56</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106445
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_39</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28107643
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104959
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102117
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_33</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102695
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_29</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28110955
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103541
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102407
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_36</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103665
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_57</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103301
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_30</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28108955
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102117
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102737
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_49</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103181
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103329
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102117
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_54</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102725
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_28</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28108781
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_31</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104111
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102319
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103649
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103321
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28108525
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102117
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105595
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_46</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28109667
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102117
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_48</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105533
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_51</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104759
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102773
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28120261
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_47</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28113819
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_41</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102559
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28110747
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102407
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105035
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102407
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_34</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102909
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28112907
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103173
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_40</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105807
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_37</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28110555
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104129
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102117
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103233
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_27</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106749
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102319
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_2111214_32</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105933
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104129
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102117
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2111214.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102439
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103551
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2111214.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102325
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103607
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104981
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2111214.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102117
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103671
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28108525
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104959
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104129
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105933
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28110555
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28109667
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106017
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28108955
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103329
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2111214.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102773
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28107265
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104759
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103835
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2111214.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102579
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103173
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105143
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103799
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28113853
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103467
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105345
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102817
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28112907
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105533
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104209
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104451
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106445
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28110955
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104185
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102879
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28111129
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106715
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2111214.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102283
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102407
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28110747
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103541
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105035
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102405
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28113819
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28107643
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105595
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103495
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28108781
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28105807
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104373
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106399
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102737
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28120261
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102725
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102559
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2111214.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102541
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102695
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103045
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103665
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103181
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103649
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102909
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103321
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103301
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28103233
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104583
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_2111214.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28102319
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106381
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106121
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28104111
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106749
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_2111214.28106115
+</commentlist>
+</conversation>

@@ -1,0 +1,402 @@
+<article>
+	<pid>7</pid>
+	<title>Subsidized iPad Sales Off to Slow Start in UK? - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/04/subsidized-ipad-sales-off-to-slow-start-in-uk/</url>
+	<date>Tuesday January 4, 2011 6:21 am PST</date>
+	<author>Eric Slivka</author>
+	<text>Early last month, UK carriers Orange, T-Mobile, and Three debutedsubsidized iPads, knocking the price of the entry-level Wi-Fi + 3G iPad model from &#163;529 down to &#163;199 for those customers willing to sign up for two-year data contracts in the range of &#163;25 per month.While the offerings obviously result in a substantial outlay for customers, it was thought that they would be enticing for customers who had planned on maintaining ongoing cellular data service for their devices instead of opting for only sporadic service on an as-needed basis.But according to a new report fromThe Timesasrelayed bypaidContent:UK, sales of the subsidized iPads are coming in far lower than had been expected, at least for Orange.The company had expected to sell tens of thousands of iPads over the holidays, at a reduced price of &#163;199 (&#36;308) when the buyer took out a 24-month contract on the device. But according to industry sources, it has gotten off to a slow start: selling only 1,000 in its first week of sales.The report notes that a recentresearch reportsuggested that 80% of UK iPad customers were opting for 3G-capable models in the lead-up to the holiday season, offering a significant pool of potential buyers for the subsidized offerings.  But obviously either the prospect of a two-year contract was too daunting for customers unsure how much cellular data they would be using on their devices or Orange (and possibly the other UK carriers) failed to appropriately bring the offerings to the attention of customers who might have been interested in the packages.</text>
+	<score>57</score>
+</article>
+<comment>
+	<cid>11662815</cid>
+	<date>Jan 4, 2011, 09:43 AM</date>
+	<author>studiomusic</author>
+	<text>Because people don't want to be tied down to a contract for 2 years?!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662823</cid>
+	<date>Jan 4, 2011, 09:45 AM</date>
+	<author>Queso</author>
+	<text>Nobody is going to want to be tied to a 1st gen iPad for two years.  Maybe the take up will increase when the 2nd gen device gets released.I wouldn't bet on it though.  If you want an iPad you buy an iPad.  They aren't that expensive, not compared to a Mac anyway.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662824</cid>
+	<date>Jan 4, 2011, 09:45 AM</date>
+	<author>mattkowalski</author>
+	<text>How is anyone supposed to know how much data they'll be using over the next two years?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662825</cid>
+	<date>Jan 4, 2011, 09:46 AM</date>
+	<author>Amnak</author>
+	<text>Quote:Originally Posted bystudiomusicBecause people don't want to be tied down to a contract for 2 years?!That and there is wifi in so many places now.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662867</cid>
+	<date>Jan 4, 2011, 09:54 AM</date>
+	<author>alent1234</author>
+	<text>people don't want another monthly payment. sell a data package you can share between all family members and devices and people will buy it</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662883</cid>
+	<date>Jan 4, 2011, 09:57 AM</date>
+	<author>scotty321</author>
+	<text>My biggest purchasing mistake was buying a 16GB iPad WIFI+3G for $629 when I could have bought a 32GB iPad WIFI for $599.I consistently run out of space on my iPad so I'm always deleting apps and videos and photos and music, but I've NEVER used 3G even once in almost a year.For LESS MONEY, I could have had twice the space which I really need, and could have ditched the 3G which I never need.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662886</cid>
+	<date>Jan 4, 2011, 09:58 AM</date>
+	<author>BertyBoy</author>
+	<text>Quote:Originally Posted byalent1234people don't want another monthly payment. sell a data package you can share between all family members and devices and people will buy itYeah, I suggested this to O2 years ago, something like £35pm for 600 minutes / 1000 texts and a new phone but spead across 2, 3 or 4 SIMs.why have they sold so bad ? Because Orange is awful.If O2 had the same deal, they'd sell millions.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662892</cid>
+	<date>Jan 4, 2011, 09:58 AM</date>
+	<author>wolfshades</author>
+	<text>Really - what would be the point of buying one, when the 1st generation is nearing end-of-cycle?And yeah - tying yourself to a two year contract on top of that?  Someone in marketing needs to have his head examined, I think.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662894</cid>
+	<date>Jan 4, 2011, 09:58 AM</date>
+	<author>camholder</author>
+	<text>Quote:Originally Posted byalent1234people don't want another monthly payment. sell a data package you can share between all family members and devices and people will buy itAgreed - I wouldn't use that much data on an iPad so the contract price is a bit steep.  Offer a combined bundle on top of my iPhone data plan for an extra £15 a month and I might think about it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662910</cid>
+	<date>Jan 4, 2011, 10:00 AM</date>
+	<author>croooow</author>
+	<text>Quote:knocking the price of the entry-level Wi-Fi + 3G iPad model from £529 down to £199 for those customers willing to sign up for two-year data contracts in the range of £25 per month.the 16GB iPad 3G was $827 in the UK? Is that extra $200 the VAT?$311 is too much to have to sign up for 2 years of a $40/month bill for a device that is about to be replaced. Plus I thought people in the UK weren't big on 2 year contracts for mobile devices.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662912</cid>
+	<date>Jan 4, 2011, 10:00 AM</date>
+	<author>ipoppy</author>
+	<text>There so much rumour flying around about new iPad coming out next month or something that there is no surprise on number of  sales.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662920</cid>
+	<date>Jan 4, 2011, 10:02 AM</date>
+	<author>Mullerman</author>
+	<text>A long contract for a MK1 and you can get data plans using a mi-fi for half the price.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662925</cid>
+	<date>Jan 4, 2011, 10:03 AM</date>
+	<author>Popeye206</author>
+	<text>I agree with the comment about the 1st generation iPad. I wouldn't want to be tied to a 1st gen when I know the 2nd gen is coming out soon. Plus, it really seems as though you'd be better off with a wireless hot spot so you can use it for other devices and not just the iPad. Just does not seem like a good deal.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662939</cid>
+	<date>Jan 4, 2011, 10:05 AM</date>
+	<author>Tunster</author>
+	<text>I did all the calculations and the value for the Orange/T-Mobile iPads on contracts are relatively poor. Only 1GB (+1GB you get overnight you won't ever use because you're asleep) a month for £25? I know you're offsetting the cost of the 16GB 3G iPad over 24 months, but wow.I ended up buying the 32GB 3G iPad and got a one-month rolling contract with 1GB data for £7.50 month. A little more overall if you calculate it over 2 years, but at least I can get rid of it at the end of a month.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662944</cid>
+	<date>Jan 4, 2011, 10:06 AM</date>
+	<author>notjustjay</author>
+	<text>The entire reason I perked up on the iPad in the first place was because of the promise of NO CONTRACT, on-demand access to 3G.Otherwise I'd have bought an iPhone.As it happens, I use the 3G virtually every day anyway, so I'm glad I went ahead and bought the 3G version.  But I would have hated to be tied down to any length of contract.(BTW - you guys think 2 years is bad, remember that the standard iPhone contract length in Canada is 3 years...)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662949</cid>
+	<date>Jan 4, 2011, 10:07 AM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted byscotty321My biggest purchasing mistake was buying a 16GB iPad WIFI+3G for $629 when I could have bought a 32GB iPad WIFI for $599.I consistently run out of space on my iPad so I'm always deleting apps and videos and photos and music, but I've NEVER used 3G even once in almost a year.For LESS MONEY, I could have had twice the space which I really need, and could have ditched the 3G which I never need.Personally, I agree with this logic. My iPhone gives me mobility and access to info anywhere. My iPad will be used around the house or in the office where there is WiFi if I need it. 3G might make sense for people who travel a lot and want access everywhere.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662955</cid>
+	<date>Jan 4, 2011, 10:07 AM</date>
+	<author>OllyW</author>
+	<text>Quote:Originally Posted bycroooowthe 16GB iPad 3G was $827 in the UK? Is that extra $200 the VAT?$311 is too much to have to sign up for 2 years of a $40/month bill for a device that is about to be replaced. Plus I thought people in the UK weren't big on 2 year contracts for mobile devices.It now costs £541 as of today of which £90 is VAT.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662956</cid>
+	<date>Jan 4, 2011, 10:07 AM</date>
+	<author>Tunster</author>
+	<text>Quote:Originally Posted byPopeye206Plus, it really seems as though you'd be better off with a wireless hot spot so you can use it for other devices and not just the iPad. Just does not seem like a good deal.These contracts do have BT Openworld Wi-Fi hotspot access (there are loads dotted everywhere in the UK), but still; 2 years is a lot and way too late in the light of the new iPad coming in March/April.Don't forget people; these people on contracts could in theory still sell their iPad on eBay and pay in for a self-upgrade (if they're unlocked). It's the 1GB limit which make these deals suck.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662958</cid>
+	<date>Jan 4, 2011, 10:08 AM</date>
+	<author>scott911</author>
+	<text>I agree that the two year contract bit (while perhaps not bad in itself - we've all done that with phones) is a problem when you reaslize that the first generation is really at end of it's life cycle.It could well be an entirly different situation when/if offered with the next ipad.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662959</cid>
+	<date>Jan 4, 2011, 10:08 AM</date>
+	<author>sphoenix</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1_3 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Mobile/7E18 Twitter for iPhone)I don't understand how the 80% of idiots who submitted themselves to contracts over the holidays actually do so. They must have a well-paid job I guess. But anyone who lives in the UK and reads gadget blogs/websites &amp; still buys an iPad at this time should be named and shamed.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662970</cid>
+	<date>Jan 4, 2011, 10:09 AM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted bynotjustjay(BTW - you guys think 2 years is bad, remember that the standard iPhone contract length in Canada is 3 years...)But we expect a contract on a phone. This is common. Not on a computer device. I don't even think this went over well with the Netbooks here in the US that were sold like this.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662994</cid>
+	<date>Jan 4, 2011, 10:13 AM</date>
+	<author>mogzieee</author>
+	<text>Yes, considering nearly everyone has Wi-Fi in there homes, plus the options of BTOpenzone and Cloud Wi-Fi... 3G just isn't as popular as in the US in my opinion.I have a 3G Orange iPad (pay as you go) and rarely spend over a couple of quid per month. I have Wi-Fi at home, Wi-Fi at university, Wi-Fi at university accomodation... and when I'm not in any of those, unlimited internet with vodafone on my iPhone contract.Not even to mention that 3G coverage is usually in a distinct lack in the country. Even at university in Southampton, it's usually just GPRS.Considering you're already paying £30+ per month on your iPhone, the idea of spending another £10+ on slow iPad interent just seems a bit silly. Pay as you go at 5p per MB seems a lot more sensible, despite the higher initial cost.But the BIGGEST reason - why buying a christmas present for someone - you don't buy them something that is gunna CHARGE THEM a hella' lot for the next 24 months! I'm not surprised these subsidised sales haven't been great in the run up to christmas!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11662998</cid>
+	<date>Jan 4, 2011, 10:14 AM</date>
+	<author>louis Fashion</author>
+	<text>Do the carriers drop your monthly fee after you have paid for the device?I would gladly pay for my device during the 2yr time period if - on the 25th month the payment dropped!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663031</cid>
+	<date>Jan 4, 2011, 10:22 AM</date>
+	<author>Zepaw</author>
+	<text>I am way to indecisive to lock myself into a 2 year contract. In this age everything changes so much in a year, nevertheless two, that I want to be able to get the shiny new thing when I want it.I can't even stand phone contracts. I would have paid about $1000 in ETF fees over the last year if I had to break a contract each time I jumped to something new.I wish US did like some other countries and if you buy at the non-subsidized price you get a cheaper bill. They just keep the difference for themselves the way I do it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663033</cid>
+	<date>Jan 4, 2011, 10:22 AM</date>
+	<author>The Great Boony</author>
+	<text>Anyone who signs a contract for any kind of Apple product is mental IMO.I bought a 3G when they came out for £450ish and have a £15 a month to month contract that gives me 1200 minutes unlimited texts and 1GB of internet.... I then sold that for £300 when the 3GS came out and bought that for £450ish... then I sold that for £360 and bough the iphone 4 when that came out for £499.So, the yearly upgrade cost for me is around £150, and a years tariff costs me £180.... and I get to change my iPhone every year the minute it comes out.Some people I know are paying £200 for the phone and £40 a month with less minutes for 24 months contract - £680 per year.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663049</cid>
+	<date>Jan 4, 2011, 10:25 AM</date>
+	<author>Mr. Chewbacca</author>
+	<text>Quote:Originally Posted byscotty321My biggest purchasing mistake was buying a 16GB iPad WIFI+3G for $629 when I could have bought a 32GB iPad WIFI for $599.I consistently run out of space on my iPad so I'm always deleting apps and videos and photos and music, but I've NEVER used 3G even once in almost a year.For LESS MONEY, I could have had twice the space which I really need, and could have ditched the 3G which I never need.Ya know I bet you could post it on craigs list / ebay and still get enough for a referb 32g wifi (499). I just orderd one.Apple referb has pretty serious quality checks and if something slips by you caqn bring it back to the store.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663056</cid>
+	<date>Jan 4, 2011, 10:27 AM</date>
+	<author>TheRealTVGuy</author>
+	<text>Quote:Originally Posted byThe Great BoonyAnyone who signs a contract for any kind of Apple product is mental IMO.The problem is people are impatient and don't want to wait and save their pennies. They HAVE to have an iPad RIGHT NOW, no matter if the long term contract actually costs them more, the fact that they can walk out with a new iPad for 199 instead of 549 gets people.This is why Rent-To-Own stores in the US are so popular.I've been saving my pennies since June for an iPhone, and now I have enough for the phone, the activation fee and the first bill.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663095</cid>
+	<date>Jan 4, 2011, 10:33 AM</date>
+	<author>OllyW</author>
+	<text>Quote:Originally Posted bylouis FashionDo the carriers drop your monthly fee after you have paid for the device?I would gladly pay for my device during the 2yr time period if - on the 25th month the payment dropped!Once the contract has ended you are free to chose your tariff. When the contract ended on my iPhone 3G I went on to a rolling 30 day tariff which was £10 per month cheaper while I waited for the iPhone 4 to be released.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663115</cid>
+	<date>Jan 4, 2011, 10:38 AM</date>
+	<author>acidfast7</author>
+	<text>We dont like contracts of any sort. We usually pay upfront for the phone and drop in a prepaid SIM/uSIM.Most just pay the 600-800&euro; for the iPhone upfront and use a cheap prepaid SIM (usually less than 1&euro;/day for internet with calls for .05&euro;/min).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663127</cid>
+	<date>Jan 4, 2011, 10:40 AM</date>
+	<author>alent1234</author>
+	<text>Quote:Originally Posted byacidfast7We dont like contracts of any sort. We usually pay upfront for the phone and drop in a prepaid SIM/uSIM.Most just pay the 600-800&euro; for the iPhone upfront and use a cheap prepaid SIM (usually less than 1&euro;/day for internet with calls for .05&euro;/min).that's more than i pay AT&amp;T for my iphone plan</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663173</cid>
+	<date>Jan 4, 2011, 10:50 AM</date>
+	<author>charlituna</author>
+	<text>Quote:Originally Posted bystudiomusicBecause people don't want to be tied down to a contract for 2 years?!That's what I'm thinking.We'll see the same thing in the US when they release a dual service ipad. No one is going to want to be signed to either ATT or Verizon so that they can switch back and forth between the two and force a price war.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663182</cid>
+	<date>Jan 4, 2011, 10:51 AM</date>
+	<author>koobcamuk</author>
+	<text>Quote:Originally Posted bystudiomusicBecause people don't want to be tied down to a contract for 2 years?!This is exactly why.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663189</cid>
+	<date>Jan 4, 2011, 10:53 AM</date>
+	<author>louis Fashion</author>
+	<text>Quote:Originally Posted by louis FashionI would gladly pay for my device during the 2yr time period if - on the 25th month the payment dropped!Originally Posted by OilyW:Once the contract has ended you are free to chose your tariff. When the contract ended on my iPhone 3G I went on to a rolling 30 day tariff which was £10 per month cheaper while I waited for the iPhone 4 to be released.louis F. sez:  Is the rolling tariff available for smart phones in the US?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663202</cid>
+	<date>Jan 4, 2011, 10:56 AM</date>
+	<author>Gromit</author>
+	<text>My guess would be that many iPad purchasers have previously had an iPhone contract, or currently have one and do not want another. I believe most people see the Mi-Fi option as giving them a better deal and flexibility.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663214</cid>
+	<date>Jan 4, 2011, 11:00 AM</date>
+	<author>Stig McNasty</author>
+	<text>1.I have BT internet at home, which for £30 or so a month includes unlimited broadband and more than enough Wi-Fi hotspot minutes, with as good a coverage as can be expected from any hotspot network (if not better).2. I pay £35 for my subsidised (24 month) iPhone contract, with unlimited internet access etc.3. I would not want to pay £25 more (for 24 months) to access the net on my £199 subsidised iPad, not with the Wi-Fi I already pay for with my fixed BT broadband and the mobile internet I already pay for with my iPhineIf I did I would have monthly telecoms &amp; net bills of £90 per month. There's no way I can see any but the rich or foolhardy choosing to access tie internet in three separate ways, with three separate bills!If Orange etc could produce an iPhone + iPad + Broadband tariff then they may sell their products to those of us who can count!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663215</cid>
+	<date>Jan 4, 2011, 11:00 AM</date>
+	<author>JGowan</author>
+	<text>Off topic, but...I pre-ordered my iPad when they first offered it so I've had the thing for about as long as you could have one. I have loved every minute of it. If you're sitting on the fence about getting, don't -- just get it.Perhaps the only regret I have is getting the 3G model as I have only activated the monthly service twice. Those were on vacations were I felt it would nice to have internet while we traveled. But I will probably get Wi-fi models from here on out. I do have the 64GB model which is not a regret and I only hope that the next model has even more space -- I have the content so, bring it on, Apple!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663317</cid>
+	<date>Jan 4, 2011, 11:22 AM</date>
+	<author>Rogue.</author>
+	<text>Quote:Originally Posted byBertyBoywhy have they sold so bad ? Because Orange is awful.Its not just that they are awful, try going over your data plan and see how much extra you will have pay. Instead of cutting you off, they let you continue using more and then sting you on the bill.I stopped being an Orange customer 10 years ago, when I was spending £200 a month on call charges and they refused me a free upgrade.Never again....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663342</cid>
+	<date>Jan 4, 2011, 11:27 AM</date>
+	<author>DrRadon</author>
+	<text>The biggest Bonus of the G3 Model is that it comes with A-GPS.I got no iPhone and i am happy with my very smal &quot;only a phone&quot; phone. I realy love the idea of being able to use my iPad as a Navigation Device.In germany we do have a smaler PrePayed servic for the iPad. It´s called &quot;blau&quot; i belive. Just like with a prepayed cellphone you only pay if you use it... it gets very expensive if you use it every day. But for 24 houres/300MB you pay 4&euro; wich is very good if you only use G3 once every other month. (just like you guys i am living in several wLan networks at my flat, my parents house and uni... so it realy only is interesting to travel/navigate or surf on a train ride)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663398</cid>
+	<date>Jan 4, 2011, 11:36 AM</date>
+	<author>acidfast7</author>
+	<text>Quote:Originally Posted byalent1234that's more than i pay AT&amp;T for my iphone plandoubt it. i also don't get charged for the day if I don't access the webalso, don't forget 25% sales tax (sweden) or 19% (germany) which is where I get my prepaid SIMs from.also, also, I don't have to pay every month, on vacation I don't pay because I don't use it (which is 8 weeks/year).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663429</cid>
+	<date>Jan 4, 2011, 11:42 AM</date>
+	<author>Banyan Bruce</author>
+	<text>Quote:Originally Posted byalent1234people don't want another monthly payment. sell a data package you can share between all family members and devices and people will buy itThis will be the winning combination in our household. We would buy two iPads to share about the family.Two year contracts are non starters for the vast majority of folk (18 months is stretching it). The tech is moving too quickly and the prospect a camera in the iPad 2 will kill off much  interest in the iPad 1.I have a Wifi only iPad and rarely do I have any need for 3G...Wifi is just about everywhere I need to use it. Mifi contracts with 3 are simpler deal I've been told, so thats where I'd go anyway as I can the Mifi for any device; iphone, laptop or iPad.Phone companies just haven't the hang of selling data to punters. Why should we pay for it over and over again ? Sell me a chunk and let me use it where I want to.Got so annoyed that I couldn't tether iphone and ipad, that I dropped my iphone data tethering contract and went wifi only.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663436</cid>
+	<date>Jan 4, 2011, 11:43 AM</date>
+	<author>dstankus</author>
+	<text>Maybe this is a sign that people are finally getting their fill of these monthly recurring bills?Cell PhoneData PlanCable/SatelliteHuluNetflix/BlockbusterInternet access??</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663472</cid>
+	<date>Jan 4, 2011, 11:51 AM</date>
+	<author>haravikk</author>
+	<text>They want to charge £1399 for an iPad with a two year data-plan? No wonder no-one's buying, for £1200 in contract charges I'd expect to get the iPad for free!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663595</cid>
+	<date>Jan 4, 2011, 12:15 PM</date>
+	<author>Kris400</author>
+	<text>Why in God's name would I take out ANOTHER contract just because I have two different devices that I cannot possibly use at the same time?!I already have a 16 month (iPhone) unlimited data contract that I should be able to use for any device. What are they trying to sell me another contract for? The privilege of owning the other device?!! There's nothing additional (data-wise) that I would be getting to pay them for.That's why it's not selling well...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663620</cid>
+	<date>Jan 4, 2011, 12:19 PM</date>
+	<author>zeemeerman2</author>
+	<text>In short: You are better off with an external dataplan if you only pay up to 10 pounds per month, based on a 2-year base.The cheapest is to buy an iPad without dataplan at all. But why would you buy an iPad with 3G built in then? Anyways, without anything, it costs 529 pounds.Some further calculations:WITH APPLE'S DATAPLAN= 799 after 24 months (199 initial + 25 for 24 months) (270 pounds more expensive than without any dataplan at all.)WITHOUT APPLE'S DATAPLAN, EXTERNAL DATAPLANS:5 pounds per month:= 649 after 24 months (529 initial + 120 from dataplan)10 pounds per month:= 769 after 24 months (529 initial + 240 from dataplan)12 pounds per month:= 817 after 24 months (529 initial + 288 from dataplan)15 pounds per month:= 889 after 24 months (529 initial + 360 from dataplan)-- Calculations made with Spotlight, your light-hearted yet powerful Command-Space calculator.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663662</cid>
+	<date>Jan 4, 2011, 12:30 PM</date>
+	<author>Willis</author>
+	<text>Three Mobile offer a really good deal on subsidised iPads. £799 for total cost of ownership which works out as £11 a month for 25GB of data a month.Another cleaver thing is that they're locked in the UK to that network, but unlocked to other networks outside of the UK.The only problem is that I've not seen ANY advertising other than the webspace and some stores. The carriers only have themselves to blame</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663681</cid>
+	<date>Jan 4, 2011, 12:33 PM</date>
+	<author>jb510</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7)The same thing would be true of iPhones if they were offered unlocked and without a data contract.I think people holding off because gen 2 is coming off is overstated, it has an affect just not that huge of one.I do think many people look at it and recognize that IF they buy a gen 2 iPad in 6 months the gen 1 iPad might still be useful to a family member or around the house but not necessarily need an expensive data plan.Overall I think people are just sick of contracts that ate marketed as &quot;saving you money&quot; when in reality your saving $200 today and spending $1000 over the next year.If I weren't typing this on an iPhone I'd do the math to figure out what the effective interest rate is on the &quot;money saved&quot;...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663700</cid>
+	<date>Jan 4, 2011, 12:36 PM</date>
+	<author>sidewinder3000</author>
+	<text>just a thought..  maybe this has to do with the fact that the holidays are traditionally a big sales time is because they are a big gift-giving time. not a time to buy stuff for yourself. and while contracts might seem like an ok deal if you are buying an iPad for yourself, they might have less appeal to gift givers.maybe the Santas giving iPads as gifts were hesitant to burden the recipients of their generosity with a two year contract, especially when buying it outright is a lot cleaner and makes them look like less of a scrooge.i'd be interested to see how the sales statistics go for these carrier subsidy iPads during a time when people are more likely buying for themselves (e.g. most of the rest of the year...)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663708</cid>
+	<date>Jan 4, 2011, 12:37 PM</date>
+	<author>OllyW</author>
+	<text>Quote:Originally Posted byjb510The same thing would be true of iPhones if they were offered unlocked and without a data contract.They already are.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11663789</cid>
+	<date>Jan 4, 2011, 12:51 PM</date>
+	<author>mikechan1234</author>
+	<text>just too expensive. simple</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11664918</cid>
+	<date>Jan 4, 2011, 04:24 PM</date>
+	<author>Officer_m107</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5)It's the UK phone company's yet again being greedy.I was looking at getting one from three ( who have the best tariffs ).But it was the 24month contract that ultimately decided it's not a good deal.If it had been 12 months with even a slight increase in iPad price, I would have snapped one up !</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667027</cid>
+	<date>Jan 5, 2011, 02:58 AM</date>
+	<author>acidfast7</author>
+	<text>Quote:Originally Posted byjb510Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7)The same thing would be true of iPhones if they were offered unlocked and without a data contract.they are just about everywhere, just not in the states. in some countries, you can just buy the iPhone4 directly off of the apple website.italy for example:http://store.apple.com/it/browse/hom.../family/iphoneit germany/sweden it's slightly more tricky, but not so hard to buy an unlocked one without a contract</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11667037</cid>
+	<date>Jan 5, 2011, 03:04 AM</date>
+	<author>roadbloc</author>
+	<text>Quote:Originally Posted bymikechan1234just too expensive. simpleThis. Why pay more for less functionality than you can get with a netbook? It's just not worth it one bit. No-one wants ANOTHER monthly payment.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668076</cid>
+	<date>Jan 5, 2011, 09:53 AM</date>
+	<author>0815</author>
+	<text>Why on earth would anybody sign a 2 year contract for the subsidized iPad when the announcement of the iPad2 is just around the corner? Maybe they should offer a cheap upgrade option like &quot;Buy the iPad1 now, get the iPad2 for $50&quot;, otherwise I don't see why anybody (who is somewhat informed what's going on in the Apple world) would do that ....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669455</cid>
+	<date>Jan 5, 2011, 01:39 PM</date>
+	<author>SiPat</author>
+	<text>I'm in the UK, bought my iPhone outright (factory unlocked) and have a pretty decent rolling contract with Orange (cross-network minutes + SMS + data capped at 750MB pmth) -- no fixed term contract for me as something like half the monthly subs usually goes towards the next phone upgrade and I have no intention of ever upgrading via the networks.The amount of money I saved went towards a 64GB 3G+WiFi iPad and I have a 10GB £15 per month &quot;contract&quot; with 3 -- Orange charges £25 for the same data limit. I have never seen my iPad go below 4-bars but my iPhone on Orange constantly drops data connections.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670557</cid>
+	<date>Jan 5, 2011, 04:33 PM</date>
+	<author>captain kaos</author>
+	<text>Quote:Originally Posted bystudiomusicBecause people don't want to be tied down to a contract for 2 years?!Exactly! Peoplemaydo it for a phone, but to then ask someone to tie themselves down to another data plan on top of that, nope. The surprise is that the likes of orange, t mobile and O2 think people will fall for it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670807</cid>
+	<date>Jan 5, 2011, 05:15 PM</date>
+	<author>Tunster</author>
+	<text>Quote:Originally Posted byroadblocThis. Why pay more for less functionality than you can get with a netbook?What and pay for a sub-standard bit of plastic with an awful resolution and is dog slow because Windows is too powerful to last 6 months? Personally, no thanks.The only portable laptop I'd go for is the Macbook Air. However, I cannot justify it's cost as I already have a 13&quot; MBP and don't travel to any length or have any reason to use it.As I see it, it's best to buy the iPad outright to suit the needs and do the same with whatever 1-month rolling contract or PAYG SIM for data.</text>
+	<score>0</score>
+</comment>
+<comment>

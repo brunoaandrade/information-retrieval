@@ -1,0 +1,653 @@
+<article>
+	<pid>380009</pid>
+	<title>
+	Flyers sign D Coburn to four-year, $18 million extension
+</title>
+	<url>http://www.tsn.ca/nhl/story/?id=380009</url>
+	<date>11/9/2011 11:24:21 AM</date>
+	<author>TSN.ca Staff</author>
+	<text>The Philadelphia Flyers signed defencemanBraydon&nbsp;Coburnto a four-year, $18 million contract extension on Wednesday.This season, Coburn has three assists in 14 games this season with a plus-1 rating.The Saskatchewan native was originally drafted&nbsp;eighth overall by the Atltanta Thrashers in&nbsp;2003.During the 2006-07 season, he was traded to the Flyers forAlexei&nbsp;Zhitnik.In parts of six seasons in Philadelphia, the 26-year-old Coburn&nbsp;has 26 goals and 99 points.He was in the second year of a two-year deal.</text>
+	<score>294</score>
+</article>
+<comment>
+	<cid>2698179</cid>
+	<date>11/9/2011 11:30:43 AM</date>
+	<author>nhlpepsiguy</author>
+	<text>Seems rich for 3 assists in 14 games. Not saying I"m any good, but I could probably get 3 assists in 14 games on the Flyers...</text>
+	<score>-15</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698181</cid>
+	<date>11/9/2011 11:30:54 AM</date>
+	<author>wwtdd63</author>
+	<text>Nice extension. Soild stay at home d-man. Were going to need him once Timonen"s contract is up.</text>
+	<score>9</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698187</cid>
+	<date>11/9/2011 11:31:39 AM</date>
+	<author>Sask_fan_88</author>
+	<text>Seeing what some defensemen have gone for this offseason this could be considered a pretty good deal. I"d say a slight overpay but at least they got him locked up. Holmgren sure likes to sign guys early before free agency</text>
+	<score>21</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698238</cid>
+	<date>11/9/2011 11:39:46 AM</date>
+	<author>Monstrositor</author>
+	<text>Most lobsided trade of the decade. Nice work Atlanta!</text>
+	<score>34</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698240</cid>
+	<date>11/9/2011 11:40:04 AM</date>
+	<author>phillyfan2020</author>
+	<text>Nice move. 4.5 million is only a small raise for him. Hopefully they can lockup Carle for the same amount.</text>
+	<score>-4</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698246</cid>
+	<date>11/9/2011 11:41:16 AM</date>
+	<author>derekrugby</author>
+	<text>Seems a little high.</text>
+	<score>5</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698248</cid>
+	<date>11/9/2011 11:41:25 AM</date>
+	<author>mikey84</author>
+	<text>Terrible deal</text>
+	<score>-7</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698264</cid>
+	<date>11/9/2011 11:43:53 AM</date>
+	<author>uncle  buck</author>
+	<text>Good D man but $4.5 million worth of good? He would probably get more on the open market so a good signing</text>
+	<score>4</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698296</cid>
+	<date>11/9/2011 11:51:26 AM</date>
+	<author>northey77</author>
+	<text>Over 4 Mil a season? I appreciate Coburns size and relatively young age, but he has been switched to a shutdown role. He has declining offensive numbers, but that could be just his role changing from 2 way to shutdown defensemen, which fits his size better. Philly may have stole him from Atlanta, but they might be paying him a bit too much now.</text>
+	<score>8</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698334</cid>
+	<date>11/9/2011 11:59:53 AM</date>
+	<author>oilcity1988</author>
+	<text>Seems a little high, but sooner rather than later Pronger and Timonen will be retired and someone will have to take the reigns, my moneys on that being Coburn.</text>
+	<score>3</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698347</cid>
+	<date>11/9/2011 12:02:31 PM</date>
+	<author>jammershorts</author>
+	<text>There was a time when this could have been a good deal, but that was when Coburn was showing promise. He has not become what was expected of him.</text>
+	<score>2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698405</cid>
+	<date>11/9/2011 12:15:07 PM</date>
+	<author>Clutterbuck420</author>
+	<text>just one of many amazing trades in the short history of Atlanta Thrashers hockey, haha!</text>
+	<score>7</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698416</cid>
+	<date>11/9/2011 12:17:34 PM</date>
+	<author>micron26</author>
+	<text>Coburn could and should have been signed for less. He"s been painful to watch this season, as he"s making bad decisions particularly in the offensive zone and become a turnover machine. He hasn"t developed into the top pairing D-man many expected after his breakout season in 2007-08.
+
+Signing Carle--who"s also an UFA after this season--to this deal would have made more sense.</text>
+	<score>-5</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698421</cid>
+	<date>11/9/2011 12:18:37 PM</date>
+	<author>DaSim85</author>
+	<text>Looks like Philly might have more cap issues on the horizon.</text>
+	<score>-7</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698451</cid>
+	<date>11/9/2011 12:23:49 PM</date>
+	<author>8iron</author>
+	<text>5 years from now he is making 4.2 mil....what will other accomplished D-men be making?</text>
+	<score>3</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698461</cid>
+	<date>11/9/2011 12:28:12 PM</date>
+	<author>Flyer_Fever</author>
+	<text>Great signing, great player! Well deserved.</text>
+	<score>5</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698464</cid>
+	<date>11/9/2011 12:28:46 PM</date>
+	<author>ODNR</author>
+	<text>GREAT SIGNING! everyone who is trashing coburn"s play has not been watching Philly hockey. He is a dominate force in the D-zone, he is one of the best skaters in the NHL. $4.5 is a great signing, he one of the top 30 d-men in the league. great signing...and Carle will be signed before the deadline.</text>
+	<score>3</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698466</cid>
+	<date>11/9/2011 12:29:16 PM</date>
+	<author>asharksfan</author>
+	<text>Its good to be a decent D man in the NHL right now...</text>
+	<score>5</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698486</cid>
+	<date>11/9/2011 12:34:56 PM</date>
+	<author>blartski</author>
+	<text>decent player but not worth 4.5 mil a year.....wow!!!</text>
+	<score>0</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698493</cid>
+	<date>11/9/2011 12:36:53 PM</date>
+	<author>KBUnitz</author>
+	<text>No offense to Coburn, but kind of overpaid...then again, so is every defensemen...and DiPietro</text>
+	<score>6</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698497</cid>
+	<date>11/9/2011 12:37:47 PM</date>
+	<author>elmoflyers</author>
+	<text>Im a huge flyers fan and can"t wait to see them win the stanley cup...but after reading this, i guess they aint winning the stanley cip for another 4 years! What a mistake re-signing him! Please DO NOT sign Matt Carle also or there never will be a Stanley Cup!</text>
+	<score>-21</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698521</cid>
+	<date>11/9/2011 12:42:30 PM</date>
+	<author>OVIE_8</author>
+	<text>ODNR: He"s a decent defenseman, but not worth 4 million.</text>
+	<score>-2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698540</cid>
+	<date>11/9/2011 12:45:57 PM</date>
+	<author>Flyer_fan69</author>
+	<text>This is a good move. Coburn always struggles during the season but come playoff time this guy is a beast. I think letting Carle go would be good for the team. He has proven he is not very good without Pronger. For his money we need a guy who can handle himself without Pronger holding his hand.</text>
+	<score>11</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698585</cid>
+	<date>11/9/2011 12:54:52 PM</date>
+	<author>ODNR</author>
+	<text>OVIE_8: he is worth 4.5 mill....he"s better then komesarek for the same price. They would"ve lost him for 5 million...so better to lock him up now.</text>
+	<score>2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698617</cid>
+	<date>11/9/2011 1:04:11 PM</date>
+	<author>rroliver360</author>
+	<text>I hope thats enough for him to get a puck on net he"s got a good shot but almost never hits the net. Great skater and would be awesome if he could ever figure out the offensive side of his game.</text>
+	<score>6</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698636</cid>
+	<date>11/9/2011 1:10:48 PM</date>
+	<author>gonshow91</author>
+	<text>wow..overpay much??? Thats about how much giordano makes and he is a much better player</text>
+	<score>-9</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698647</cid>
+	<date>11/9/2011 1:13:12 PM</date>
+	<author>tdawg1</author>
+	<text>this guy drives me nuts at times but then displays skating ability that few defensman in this league have. he has to get over the turnover issue though, rididculous sometimes. but i will take him in a heartbeat over Carle.</text>
+	<score>7</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698678</cid>
+	<date>11/9/2011 1:20:40 PM</date>
+	<author>Pens/Steelers/Rule</author>
+	<text>I love this deal.. He takes up more wasted cap space!!!</text>
+	<score>-14</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698693</cid>
+	<date>11/9/2011 1:23:37 PM</date>
+	<author>Nitroglycerin</author>
+	<text>I like Coburn but in my opinion FLyers overpaid.</text>
+	<score>-4</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698706</cid>
+	<date>11/9/2011 1:25:47 PM</date>
+	<author>J_O_K_E_R</author>
+	<text>Winnipeg"s D could"ve looked scary good if Wadell would have made the right move and kept the blue chip prospect instead of trying to solidify a playoff spot.</text>
+	<score>8</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698711</cid>
+	<date>11/9/2011 1:26:28 PM</date>
+	<author>DRBCP</author>
+	<text>Can someone give me some insight on E.Stall he is -16. What is up with him this year, he is way too talented. The hit on his brother has really affected his play? what"s up, any hurricane fans out there for some thoughts.</text>
+	<score>1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698714</cid>
+	<date>11/9/2011 1:26:40 PM</date>
+	<author>ttman</author>
+	<text>Although the salary is a little high for a less than average player.... i have to agree with a few notes here. Atlanta got burned a little on this one.</text>
+	<score>-8</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698723</cid>
+	<date>11/9/2011 1:28:42 PM</date>
+	<author>seasontix</author>
+	<text>Overpaid - yeah maybe a little but not much. As a Bs fan Coburn is one of those Dmen that you always have to know when he is on the ice. Big and uses his reach effectively and he sure can hit. He is a solid + player and rarely misses a game. He may turn the puck over a bit but forwards have to think twice about wandering into his side of the ice.</text>
+	<score>15</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698725</cid>
+	<date>11/9/2011 1:28:57 PM</date>
+	<author>jharrell</author>
+	<text>another quality player that waddell and his regime lost for nothing.</text>
+	<score>14</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698729</cid>
+	<date>11/9/2011 1:30:10 PM</date>
+	<author>sports_phan</author>
+	<text>this team has money!!!</text>
+	<score>12</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698738</cid>
+	<date>11/9/2011 1:30:58 PM</date>
+	<author>DRBCP</author>
+	<text>28 teams would have offered him 5 mill easy.</text>
+	<score>8</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698834</cid>
+	<date>11/9/2011 1:51:58 PM</date>
+	<author>crashthenet1</author>
+	<text>Yes Coburn can drive you crazy with his decision-making at times, but it"s important to keep in mind that the Flyers have turned him into a shut-down defenseman, from a D-man that used to have more offense in his game.  His minutes are against the top players in the NHL, and used short-handed and even strength.  Keep in mind, Pronger and Kimmo won"t be around forever...I like the deal</text>
+	<score>11</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698905</cid>
+	<date>11/9/2011 2:07:08 PM</date>
+	<author>StarsFan74</author>
+	<text>Probably a $4M player, but a $0.5M extra over 4 years isn"t too much. Flyers will have money coming off via Carle this off-season, and a year after that both Hartnell and Timonen who will be 38 will also be off, giving them a lot of room to extend Voracek, Simmonds, and Giroux.</text>
+	<score>5</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698924</cid>
+	<date>11/9/2011 2:11:38 PM</date>
+	<author>colinmeade</author>
+	<text>4.5 million  per season for someone who averages 16.5 points per season? This works out to approx 2890k per point ... Wow!!!!!! I didn"t think Coburn was that special but I guess that is the going rate for a 16 point per year D man who in 8 years has 4 + and 4 - seasons.</text>
+	<score>-1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2698932</cid>
+	<date>11/9/2011 2:13:36 PM</date>
+	<author>whitebeans</author>
+	<text>Id rather have Coburn at 6 million a year then Komisarek ar 4.5 million a year...Komisarek should be the highest paid AHL player in the league this year.</text>
+	<score>2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699019</cid>
+	<date>11/9/2011 2:34:51 PM</date>
+	<author>flyfan58</author>
+	<text>it was important to resign him but seriously , this is a bit too steep money wise . philly has serious money tied up on the blueline but it is true that a couple of them will be coming off the books in the next couple years .</text>
+	<score>0</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699031</cid>
+	<date>11/9/2011 2:38:09 PM</date>
+	<author>helmetman</author>
+	<text>How about Coburn for all of my Flames!  What a horrible team Calgary is this year!!!!</text>
+	<score>4</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699037</cid>
+	<date>11/9/2011 2:39:42 PM</date>
+	<author>PTP</author>
+	<text>Overpaid for what would be a 5th or 6th D on most teams.  Bad for the league as it establishes an unreasonable standard for an average player.</text>
+	<score>-9</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699055</cid>
+	<date>11/9/2011 2:42:50 PM</date>
+	<author>houseoflords26</author>
+	<text>$4.5 million a season for Coburn? Wow. That is a bit much for an average defenseman. He doesn"t contribute a ton offensively and he is prone to turn overs in his own end. He is not a shut down defensemen. I know a lot of Flyers fans and they call him Slowburn. I think the Flyers over paid, but then again that seems to be happening a lot in the NHL lately</text>
+	<score>-5</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699065</cid>
+	<date>11/9/2011 2:45:05 PM</date>
+	<author>Count Floyd</author>
+	<text>Sorry whitebeans, Redden has that title.</text>
+	<score>4</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699077</cid>
+	<date>11/9/2011 2:46:50 PM</date>
+	<author>ozzy1998</author>
+	<text>At 6"5" 220 lbs and 26 years old this is a prime time contract extension! Well done Philly as here"s a rock steady stay at home big tough D-man! Hopefully Schenn gets his game going soon as he appears to be fighting the puck instead of simply getting back to the basics of playing the man!</text>
+	<score>6</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699080</cid>
+	<date>11/9/2011 2:47:18 PM</date>
+	<author>Hexy</author>
+	<text>I know Leafs fans will say he"s no Komisarek, but us Flyers fans like the deal. LOL. Mostly he"s asked to play a defensive role now with Pronger Timonen Carle and Meszaros in the lineup, so his O #"s won"t look gawdy, but he is a good skater and playes solid D. When he"s playing with as snarl and hitting, that"s when he"s at his best. Angry Coburn=best Coburn IMO.</text>
+	<score>5</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699108</cid>
+	<date>11/9/2011 2:54:22 PM</date>
+	<author>shadesofdeath</author>
+	<text>The only thing worse than this deal is the fact that some people here actually think Carle is worthy of this deal.</text>
+	<score>-1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699147</cid>
+	<date>11/9/2011 3:03:30 PM</date>
+	<author>Derek23</author>
+	<text>I don"t mind this deal.  I like Coburn, although he can drive me nuts occasionally.  We stole him from the thrashers.  Coburn is getting better and he"ll have to anchor the defence core when Pronger retires although the flyers could get someone in a couple of years.  I"d love Shea Weber or Ryan Suter on my team but I don"t see it happening.</text>
+	<score>0</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699160</cid>
+	<date>11/9/2011 3:08:53 PM</date>
+	<author>doublebadboy</author>
+	<text>Flyers are hurting for D men ! Trading some talent up front to shore up the D would have made more sense. Putting the puck in the net is not the problem, stopping it from going in is.</text>
+	<score>1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699161</cid>
+	<date>11/9/2011 3:09:03 PM</date>
+	<author>FastEdddy$$</author>
+	<text>Ridiculous!  The Flyers never seem to learn from thier mistakes. Seems to me about 5 years ago they were saying they had the best D in the league and then ran into a major headache trying to stay under the cap cause they paid top dollar to lock up "key" character d-men.  What they ended up doing then was a few lop-sided trades, and a waiver giveaway or 2, just to stay below the cap. The Flyers are becoming the new Rangers.</text>
+	<score>-8</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699213</cid>
+	<date>11/9/2011 3:24:15 PM</date>
+	<author>colinmeade</author>
+	<text>Flyers are currently @ 0 cap space with this FANTASTIC deal as their fans are calling it. Can"t wait until next season, b/w the RFAs and UFAs who are they going to sign/ not sign? With these type of contracts not a lot of teams are willing to take on these type of salaries via trade. Flyers aren"t going to have a whole lot of money left to anything especially if they want to keep players like Jagr, Carle. I think it is soemthing like 5 million in total to spend next year?</text>
+	<score>-5</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699307</cid>
+	<date>11/9/2011 3:41:11 PM</date>
+	<author>t_gibson</author>
+	<text>People always complain about the salaries good defensive defenseman make.  Time to stop.  Fact is a good top 4 defensive defenseman will cost $4 - $5 million per season.  That"s the going rate nowadays.</text>
+	<score>2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699312</cid>
+	<date>11/9/2011 3:42:15 PM</date>
+	<author>wgagne12</author>
+	<text>What do some of you fools think the Flyers give contracts out like this without having a plan in mind?...  Seriously?  They will be fine.</text>
+	<score>14</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699316</cid>
+	<date>11/9/2011 3:44:40 PM</date>
+	<author>wgagne12</author>
+	<text>He would have easily gotten that contract on the open market.  Good signing.</text>
+	<score>7</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699330</cid>
+	<date>11/9/2011 3:48:00 PM</date>
+	<author>riptide1</author>
+	<text>A tad high, but not bad overall. However when one looks at their cap space, and current dmen signed, you"d think they"d do things slightly differently. Carle is obviously gone this off season if not before. They just need to get through 1 more year then Timonen"s & Hartnell"s contracts are over. That"ll leave them the space they need to retain RFA"s. But next year will certainly be tight for them.</text>
+	<score>1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699487</cid>
+	<date>11/9/2011 4:23:54 PM</date>
+	<author>goat6668</author>
+	<text>at his level of play right now, hes not worth this at all. if he picks it up, he CAN be worth this. to compare him to one of the pens Dmen, hes making more than kris letang. who would you rather have?</text>
+	<score>-8</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699533</cid>
+	<date>11/9/2011 4:31:16 PM</date>
+	<author>MrOosterhuis</author>
+	<text>Is it not worth noting that he has regressed in point production in each of the last 4 seasons?</text>
+	<score>1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699606</cid>
+	<date>11/9/2011 4:44:46 PM</date>
+	<author>broadstreetbully</author>
+	<text>As always, people hate what the Flyers do, then turn around and wonder how the Flyers are beating their teams. Remember how they weren"t going to score any goals after trading Carter and Richards? And how you wouldn"t take Jaromir Jagr on your team? Aren"t some of you the same guys who asked those questions?</text>
+	<score>4</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699627</cid>
+	<date>11/9/2011 4:49:39 PM</date>
+	<author>MoonKnight</author>
+	<text>i know he"s just entering his prime but still can"t believe he"s worth that kind of money. i remember when Atlanta traded him for Zhitnik and everyone went on and on about how Philly robbed them. while it"s true that Zhitnik"s career was nearly over at the time and Coburn was a great prospect, i think it"s safe to say he never developed into anything beyond a number four or five defenseman. he"s certainly steady but he"s really only had one impressive season and you have to wonder how he"d do on a weaker team.</text>
+	<score>2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699654</cid>
+	<date>11/9/2011 4:54:36 PM</date>
+	<author>Orange And Black Fan</author>
+	<text>well goat6668, he WILL pick it up.  some posters already said it, and i agree with them, that he could easily get a contract around 5 mil on open market.  why are you takling about letang?  he got his contract, and the price was right at that time.  i"m sure the price will be WAY higher than 3.5 mil come his next free agency.</text>
+	<score>1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699655</cid>
+	<date>11/9/2011 4:54:57 PM</date>
+	<author>steevogt</author>
+	<text>How can they sign him for that when the Flyers are right up against the Cap?</text>
+	<score>-2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699676</cid>
+	<date>11/9/2011 5:00:52 PM</date>
+	<author>Guffaw26</author>
+	<text>Wow, a bunch of haters here.  He"s not worth this at all, compare him to this D, and that D.  His point production has gone down.  He"s not an offensive D people, he"s a solid defensive defenseman and he"s very good.  Sure he takes a few too many restraining penalties, but that"s fine.</text>
+	<score>0</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699795</cid>
+	<date>11/9/2011 5:30:15 PM</date>
+	<author>WingNut1982</author>
+	<text>Not worth the money...maybe they should talk to the wings and figure out how to make a SMART deal.</text>
+	<score>-1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699830</cid>
+	<date>11/9/2011 5:40:17 PM</date>
+	<author>phillyfan1212</author>
+	<text>I like the slow comments about coburn... He is one of Philadelphia"s fastest skaters! haha the guy has wheels and is steady in his own end.. A little high paid but still not terrible</text>
+	<score>2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2699860</cid>
+	<date>11/9/2011 5:49:16 PM</date>
+	<author>stat82</author>
+	<text>It may seem a little high for the first year or two, but in a couple years when Pronger and possibly Kimmo are gone this will be a fair price for what will then probably be a top 2 Dman on the team. Goat, why are you even comparing Letang to Coburn? Two totally different players at different ages. When Letang has next contract at around Coburn"s age he will be getting A TON more than 4.5 mil a year. There have been contracts given out that made less sense.</text>
+	<score>4</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2700064</cid>
+	<date>11/9/2011 6:46:59 PM</date>
+	<author>Itz Shenanigans</author>
+	<text>They want him signed until he"s grey. Prongs, Timo, Coburn, and Carle will be together for a while longer.</text>
+	<score>1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2700131</cid>
+	<date>11/9/2011 7:00:45 PM</date>
+	<author>goat6668</author>
+	<text>ok orange and black fan. youre right.</text>
+	<score>2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2700159</cid>
+	<date>11/9/2011 7:15:32 PM</date>
+	<author>golfleafslgolf</author>
+	<text>I was doing the math and in a years time, this guy gets paid about $175,000 per turnover. Not bad pay for NHL defencemen nowadays. Goat6668 - Letang and its not even close. 3.5 for a probable Norris candidate or 4.5 for a slow defenceman that coughs the puck up with regularity.</text>
+	<score>-2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2700427</cid>
+	<date>11/9/2011 9:00:46 PM</date>
+	<author>wpgjets2011</author>
+	<text>Bad deal/overpaid...whatever the peeps are complaining about...trust me he will not serve his 4 year contract. That"s all bologna when Philly"s Management gives these contracts. the players won"t complete them because they will get traded. Just look at richards. He was the franchise player. Signed a long term deal..then gone. Sad but true</text>
+	<score>0</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2700561</cid>
+	<date>11/9/2011 10:01:58 PM</date>
+	<author>jas3</author>
+	<text>ODNR: Technically, Komisarek is better this season so far. Same number of points, much better +/- than Coburn. I think they"re both overpaid.</text>
+	<score>0</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2700731</cid>
+	<date>11/9/2011 10:58:47 PM</date>
+	<author>flyershockey91</author>
+	<text>i love coburn as much as the next guy, but this is a bit pricey. rollover from this summer"s overspending maybe? I"m guessing the Flyers organization is banking on him entering the prime of his career and stepping it up a level. He"s a solid defenseman and I"m glad he"s locked up, just needs to elevate his play to match his salary.</text>
+	<score>1</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2701160</cid>
+	<date>11/10/2011 2:12:02 AM</date>
+	<author>riptide1</author>
+	<text>I notice a lot of comments that talk about his point totals. As a Pens fan, I"ve watched a lot of Flyers games over the last 5+ years. Coburn had a couple of decent/great seasons 07 & 08. However with Pronger and Carle coming to town, he"s lost out on all the top PP minutes he would have had to build on those. Not that I think he"s much of a PP guy, but he has a great shot. However without those minutes he"s turned into more of a shutdown guy. Although him and Timo never really seemed to work as a shutdown tandom as Phily hoped. He does have size, a shot, and can skate. He"s not the best in his own end, but he"s not bad either. I still think the money is a bit high, but they"re not paying him for his points. However if he was given PP time, I think he could put some back up on the board - more in tune with the 07 season. This guy is a #3 or #4 on almost every team in the league. The only difference is that Phily has Prongs, Timo, Carle, Mez and him all vying for top 4 ice time which all deserve.</text>
+	<score>2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2701851</cid>
+	<date>11/10/2011 10:20:27 AM</date>
+	<author>beaufleuve81</author>
+	<text>Seems a little overpriced but not too bad. 4y-16mil for a guy who"s decent at his peak seems more appropriate, but whatever...teams are overpaying like whoa nowadays read: Ville Leino!. Go Sabres!</text>
+	<score>0</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2701998</cid>
+	<date>11/10/2011 10:53:51 AM</date>
+	<author>riptide1</author>
+	<text>goat6668, you can"t compare Letang to Coburn. They"re two completely different players. I think Letang is a better all around player, as well has the hands/vision/shot to play top PP minutes on almost any team in the league. And his price tag will most certainly go up likely 5-6m range in 2 years. Coburn at best is the shooter on the #1 PP however he"s currently behind Mez, Prongs, Timo & Carle. I think if Coburn had the same chances as most young dmen, it"s possible he could have turned into a semi offensive player. However he"s been stuck behind some decent offensive guys, and he"s turned into a defensive guy first.</text>
+	<score>0</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2702045</cid>
+	<date>11/10/2011 11:03:10 AM</date>
+	<author>JSM_TML</author>
+	<text>Why is everything tied to offensive production, especially for defencemen?  If that were the case then Marc-Andre Bergeron wouldn"t have had to wait until January to find a job last season.  And he definitely would"ve received more than a two-year deal at $1 million per this past summer.</text>
+	<score>0</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2702275</cid>
+	<date>11/10/2011 11:49:52 AM</date>
+	<author>northey77</author>
+	<text>Relating to last night"s abomination, Coburn showed that he is too afraid to move the puck ahead in a 1-3-1 trap, for fear of having another turnover. His offensive and puck moving confidence is completely shot</text>
+	<score>-3</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2702381</cid>
+	<date>11/10/2011 12:08:30 PM</date>
+	<author>Holy Moly</author>
+	<text>Wow seems like a lot, he must have a great agent</text>
+	<score>0</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2702517</cid>
+	<date>11/10/2011 12:31:29 PM</date>
+	<author>big-bad-bruin</author>
+	<text>The next Jeff Finger, nice.</text>
+	<score>-2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2702531</cid>
+	<date>11/10/2011 12:33:10 PM</date>
+	<author>GTwild</author>
+	<text>wow alot of put downs on coburn on here... the guy got rewarded with a big contract because the management realizes this guys getting better and better every season, he"s strong and responsible, its not all about goals</text>
+	<score>1</score>
+	<parent>0</parent>
+</comment>

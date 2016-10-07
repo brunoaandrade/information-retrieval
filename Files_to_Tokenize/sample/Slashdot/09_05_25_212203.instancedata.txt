@@ -1,0 +1,1398 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_25_212203</id>
+	<title>Public Notices Going Online, Not In Newspapers</title>
+	<author>kdawson</author>
+	<datestamp>1243249200000</datestamp>
+	<htmltext>An anonymous reader tips a story up on Bnet.com about the growing trend for governments and others to <a href="http://industry.bnet.com/media/10002376/more-newspaper-bad-news-public-notices-look-elsewhere/">eschew newspapers and post notices of public record on their own Web sites</a>. It's under discussion at local, state, and national government levels, including in the SEC and the states of Pennsylvania and Wisconsin, so far. <i>"If classified ads were a backbone of the newspaper business, then the very center of the spine was the public notice. Mandated by laws and courts, these often long recitations of detail were to give official notification, to any who were interested, of the legal intents and actions of both government entities and companies that found themselves under some appropriate regulation. But a growing number of state and local governments want to move public notices online to their own sites as a cost-cutting measure. Beyond newspaper economics, critics are concerned that the shift would allow government officials to effectively hide their activities from scrutiny."</i></htmltext>
+<tokenext>An anonymous reader tips a story up on Bnet.com about the growing trend for governments and others to eschew newspapers and post notices of public record on their own Web sites .
+It 's under discussion at local , state , and national government levels , including in the SEC and the states of Pennsylvania and Wisconsin , so far .
+" If classified ads were a backbone of the newspaper business , then the very center of the spine was the public notice .
+Mandated by laws and courts , these often long recitations of detail were to give official notification , to any who were interested , of the legal intents and actions of both government entities and companies that found themselves under some appropriate regulation .
+But a growing number of state and local governments want to move public notices online to their own sites as a cost-cutting measure .
+Beyond newspaper economics , critics are concerned that the shift would allow government officials to effectively hide their activities from scrutiny .
+"</tokentext>
+<sentencetext>An anonymous reader tips a story up on Bnet.com about the growing trend for governments and others to eschew newspapers and post notices of public record on their own Web sites.
+It's under discussion at local, state, and national government levels, including in the SEC and the states of Pennsylvania and Wisconsin, so far.
+"If classified ads were a backbone of the newspaper business, then the very center of the spine was the public notice.
+Mandated by laws and courts, these often long recitations of detail were to give official notification, to any who were interested, of the legal intents and actions of both government entities and companies that found themselves under some appropriate regulation.
+But a growing number of state and local governments want to move public notices online to their own sites as a cost-cutting measure.
+Beyond newspaper economics, critics are concerned that the shift would allow government officials to effectively hide their activities from scrutiny.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088719</id>
+	<title>"Hide"?</title>
+	<author>John Hasler</author>
+	<datestamp>1243253340000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Sounds like a remarkably ineffective way to hide anything.  Google "public notice"+site:.gov .  Should be rather simple to set up publicnotices.org (or<nobr> <wbr></nobr>.com) if you are worried that such notice will be "hidden".</p><p>Publishing in the Pierce County Herald, on the other hand...</p></htmltext>
+<tokenext>Sounds like a remarkably ineffective way to hide anything .
+Google " public notice " + site : .gov .
+Should be rather simple to set up publicnotices.org ( or .com ) if you are worried that such notice will be " hidden " .Publishing in the Pierce County Herald , on the other hand.. .</tokentext>
+<sentencetext>Sounds like a remarkably ineffective way to hide anything.
+Google "public notice"+site:.gov .
+Should be rather simple to set up publicnotices.org (or .com) if you are worried that such notice will be "hidden".Publishing in the Pierce County Herald, on the other hand...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088963</id>
+	<title>Interesting-The day the Internet died.</title>
+	<author>Ostracus</author>
+	<datestamp>1243255140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"Sure, nobody reads newspapers anymore but at least they are saved in the public library for just about all time. "</p><p>Only a geek would say that. A lot of people still read the newspaper, either their own or the libraries copy. If anything's to be hidden it's from those who don't have internet access.</p></htmltext>
+<tokenext>" Sure , nobody reads newspapers anymore but at least they are saved in the public library for just about all time .
+" Only a geek would say that .
+A lot of people still read the newspaper , either their own or the libraries copy .
+If anything 's to be hidden it 's from those who do n't have internet access .</tokentext>
+<sentencetext>"Sure, nobody reads newspapers anymore but at least they are saved in the public library for just about all time.
+"Only a geek would say that.
+A lot of people still read the newspaper, either their own or the libraries copy.
+If anything's to be hidden it's from those who don't have internet access.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088769</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089577</id>
+	<title>Local government websites case study: Tuttle, OK</title>
+	<author>Anonymous</author>
+	<datestamp>1243259220000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p>Local government websites are some of the most poorly designed and hardest to navigate.</p></div><p>I second you on that!</p><p>Take for instance the home page for Tuttle, Oklahoma: <a href="http://mirror.centos.org/mirrorscripts/noindex\_new.html" title="centos.org">http://mirror.centos.org/mirrorscripts/noindex\_new.html</a> [centos.org]</p><p>That single page is so bloody cluttered and difficult to navigate that the Oklahoma City Manager (who is an very important pesron!) had difficulty with it.  See <a href="http://www.centos.org/modules/news/article.php?storyid=127" title="centos.org">http://www.centos.org/modules/news/article.php?storyid=127</a> [centos.org]</p></div>
+	</htmltext>
+<tokenext>Local government websites are some of the most poorly designed and hardest to navigate.I second you on that ! Take for instance the home page for Tuttle , Oklahoma : http : //mirror.centos.org/mirrorscripts/noindex \ _new.html [ centos.org ] That single page is so bloody cluttered and difficult to navigate that the Oklahoma City Manager ( who is an very important pesron !
+) had difficulty with it .
+See http : //www.centos.org/modules/news/article.php ? storyid = 127 [ centos.org ]</tokentext>
+<sentencetext>Local government websites are some of the most poorly designed and hardest to navigate.I second you on that!Take for instance the home page for Tuttle, Oklahoma: http://mirror.centos.org/mirrorscripts/noindex\_new.html [centos.org]That single page is so bloody cluttered and difficult to navigate that the Oklahoma City Manager (who is an very important pesron!
+) had difficulty with it.
+See http://www.centos.org/modules/news/article.php?storyid=127 [centos.org]
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088741</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089431</id>
+	<title>Re:"Hide"?</title>
+	<author>blackest\_k</author>
+	<datestamp>1243258080000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Quotes from Hitchhiker's Guide to the Galaxy<br>Written by Douglas Adams<br>"BEWARE THE LEOPARD"</p><p>"But Mr Dent, the plans have been available in the local planning office for the last nine months."</p><p>"Oh yes, well as soon as I heard I went straight round to see them, yesterday afternoon. You hadn't exactly gone out of your way to call attention to them, had you? I mean, like actually telling anybody or anything."</p><p>"But the plans were on display<nobr> <wbr></nobr>..."</p><p>"On display? I eventually had to go down to the cellar to find them."</p><p>"That's the display department."</p><p>"With a flashlight."</p><p>"Ah, well the lights had probably gone."</p><p>"So had the stairs."</p><p>"But look, you found the notice didn't you?"</p><p>"Yes," said Arthur, "yes I did. It was on display in the bottom of a locked filing cabinet stuck in a disused lavatory with a sign on the door saying 'Beware of the Leopard'."</p></htmltext>
+<tokenext>Quotes from Hitchhiker 's Guide to the GalaxyWritten by Douglas Adams " BEWARE THE LEOPARD " " But Mr Dent , the plans have been available in the local planning office for the last nine months .
+" " Oh yes , well as soon as I heard I went straight round to see them , yesterday afternoon .
+You had n't exactly gone out of your way to call attention to them , had you ?
+I mean , like actually telling anybody or anything .
+" " But the plans were on display ... " " On display ?
+I eventually had to go down to the cellar to find them .
+" " That 's the display department .
+" " With a flashlight .
+" " Ah , well the lights had probably gone .
+" " So had the stairs .
+" " But look , you found the notice did n't you ?
+" " Yes , " said Arthur , " yes I did .
+It was on display in the bottom of a locked filing cabinet stuck in a disused lavatory with a sign on the door saying 'Beware of the Leopard' .
+"</tokentext>
+<sentencetext>Quotes from Hitchhiker's Guide to the GalaxyWritten by Douglas Adams"BEWARE THE LEOPARD""But Mr Dent, the plans have been available in the local planning office for the last nine months.
+""Oh yes, well as soon as I heard I went straight round to see them, yesterday afternoon.
+You hadn't exactly gone out of your way to call attention to them, had you?
+I mean, like actually telling anybody or anything.
+""But the plans were on display ...""On display?
+I eventually had to go down to the cellar to find them.
+""That's the display department.
+""With a flashlight.
+""Ah, well the lights had probably gone.
+""So had the stairs.
+""But look, you found the notice didn't you?
+""Yes," said Arthur, "yes I did.
+It was on display in the bottom of a locked filing cabinet stuck in a disused lavatory with a sign on the door saying 'Beware of the Leopard'.
+"</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088719</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28098755</id>
+	<title>Craigslist?</title>
+	<author>Anonymous</author>
+	<datestamp>1243367220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Why not do like everyone else and move these classifieds to Craigslist? It's public, divided by region, etc.</p><p>Here's the biggest problem with doing it online though: archiving. You're local library doesn't have a complete history of your city council's Web site or local Craigslist.</p></htmltext>
+<tokenext>Why not do like everyone else and move these classifieds to Craigslist ?
+It 's public , divided by region , etc.Here 's the biggest problem with doing it online though : archiving .
+You 're local library does n't have a complete history of your city council 's Web site or local Craigslist .</tokentext>
+<sentencetext>Why not do like everyone else and move these classifieds to Craigslist?
+It's public, divided by region, etc.Here's the biggest problem with doing it online though: archiving.
+You're local library doesn't have a complete history of your city council's Web site or local Craigslist.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089639</id>
+	<title>Re:Slashdot nerd test.</title>
+	<author>Anonymous</author>
+	<datestamp>1243259580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>If you are going to criticize the troll at least try to get the name right, Linus Torvalds created the Linux kernel.</p></htmltext>
+<tokenext>If you are going to criticize the troll at least try to get the name right , Linus Torvalds created the Linux kernel .</tokentext>
+<sentencetext>If you are going to criticize the troll at least try to get the name right, Linus Torvalds created the Linux kernel.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088981</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28110509</id>
+	<title>Re:"Hide"?</title>
+	<author>orev</author>
+	<datestamp>1243442880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>You've fundamentally missed the point.  It's not about public vs. private, it's about placing the notice in a place that general citizens would have a reasonable chance of running across it in daily life.  Unless your (and everyone's) daily web surfing involves checking government web sites every day, you're not going to see these notices.  Even if *your* habits might bring you across it, 99.9\% of other people won't.  The point of having it in the newspaper is that most people (in the past) would be reading the paper for other reasons, and then just happen to stumble across the notice.  THAT is the point.</p></htmltext>
+<tokenext>You 've fundamentally missed the point .
+It 's not about public vs. private , it 's about placing the notice in a place that general citizens would have a reasonable chance of running across it in daily life .
+Unless your ( and everyone 's ) daily web surfing involves checking government web sites every day , you 're not going to see these notices .
+Even if * your * habits might bring you across it , 99.9 \ % of other people wo n't .
+The point of having it in the newspaper is that most people ( in the past ) would be reading the paper for other reasons , and then just happen to stumble across the notice .
+THAT is the point .</tokentext>
+<sentencetext>You've fundamentally missed the point.
+It's not about public vs. private, it's about placing the notice in a place that general citizens would have a reasonable chance of running across it in daily life.
+Unless your (and everyone's) daily web surfing involves checking government web sites every day, you're not going to see these notices.
+Even if *your* habits might bring you across it, 99.9\% of other people won't.
+The point of having it in the newspaper is that most people (in the past) would be reading the paper for other reasons, and then just happen to stumble across the notice.
+THAT is the point.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088719</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28090097</id>
+	<title>In related news</title>
+	<author>Nekomusume</author>
+	<datestamp>1243262640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Vogon ships have been sited heading towards Earth.</p></htmltext>
+<tokenext>Vogon ships have been sited heading towards Earth .</tokentext>
+<sentencetext>Vogon ships have been sited heading towards Earth.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088733</id>
+	<title>How to easily catch changes in pages</title>
+	<author>Kligat</author>
+	<datestamp>1243253400000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Firefox has an extension called <a href="https://addons.mozilla.org/en-US/firefox/addon/427" title="mozilla.org">Scrapbook</a> [mozilla.org] that allows you to save to your cache entire copies of a webpage without saving screenshots to your hard drive. Your browser automatically downloads all pages from a website within a link depth that you set, and you can direct the process to be restricted to one domain.</p><p>I spidered www.whitehouse.gov on January 20 and January 21, 2009 to a link depth of 3. I wish I remembered to do the same thing with Blagojevich's webpages before they were changed.</p></htmltext>
+<tokenext>Firefox has an extension called Scrapbook [ mozilla.org ] that allows you to save to your cache entire copies of a webpage without saving screenshots to your hard drive .
+Your browser automatically downloads all pages from a website within a link depth that you set , and you can direct the process to be restricted to one domain.I spidered www.whitehouse.gov on January 20 and January 21 , 2009 to a link depth of 3 .
+I wish I remembered to do the same thing with Blagojevich 's webpages before they were changed .</tokentext>
+<sentencetext>Firefox has an extension called Scrapbook [mozilla.org] that allows you to save to your cache entire copies of a webpage without saving screenshots to your hard drive.
+Your browser automatically downloads all pages from a website within a link depth that you set, and you can direct the process to be restricted to one domain.I spidered www.whitehouse.gov on January 20 and January 21, 2009 to a link depth of 3.
+I wish I remembered to do the same thing with Blagojevich's webpages before they were changed.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088927</id>
+	<title>Archives?</title>
+	<author>jellybear</author>
+	<datestamp>1243254900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Would the notices be "published" in some archivable form? Or would they be subject to continual revision and modification?</p></htmltext>
+<tokenext>Would the notices be " published " in some archivable form ?
+Or would they be subject to continual revision and modification ?</tokentext>
+<sentencetext>Would the notices be "published" in some archivable form?
+Or would they be subject to continual revision and modification?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28090435</id>
+	<title>Re:Consider it this way...</title>
+	<author>ctmurray</author>
+	<datestamp>1243265280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>We get three papers a day and one weekly. Two big cities nearby and the papers give different information and slants. One paper is a smaller city nearby and the weekly was the one that went under and had the notices for the city I live in. We read them in the morning and I take to work to have something to read during lunch. But then I am on the internet at night. My wife reads the locals to see what is up in the community - she is quite politically active. But we also just turned 50 - so on the cusp of being old enough to need and value newspapers and young enough to be on the tech tide.</htmltext>
+<tokenext>We get three papers a day and one weekly .
+Two big cities nearby and the papers give different information and slants .
+One paper is a smaller city nearby and the weekly was the one that went under and had the notices for the city I live in .
+We read them in the morning and I take to work to have something to read during lunch .
+But then I am on the internet at night .
+My wife reads the locals to see what is up in the community - she is quite politically active .
+But we also just turned 50 - so on the cusp of being old enough to need and value newspapers and young enough to be on the tech tide .</tokentext>
+<sentencetext>We get three papers a day and one weekly.
+Two big cities nearby and the papers give different information and slants.
+One paper is a smaller city nearby and the weekly was the one that went under and had the notices for the city I live in.
+We read them in the morning and I take to work to have something to read during lunch.
+But then I am on the internet at night.
+My wife reads the locals to see what is up in the community - she is quite politically active.
+But we also just turned 50 - so on the cusp of being old enough to need and value newspapers and young enough to be on the tech tide.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089039</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089299</id>
+	<title>Re:Good elements and bad elements.</title>
+	<author>Anonymous</author>
+	<datestamp>1243257180000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Back in the 60s (70s?)  My grandparents had the government dig them a lake and stock it with fish so they could use it for their drinking water.  The stipulation: advertise the fact the lake was there and stocked with fish.  Their solution:  Advertise in the chicago tribune.  They had a small farm about 25 miles southeast of st louis.  Like anybody seeing that ad would drive all the way down there for a small lake and fishing.  Sounds like something similar.</p></htmltext>
+<tokenext>Back in the 60s ( 70s ?
+) My grandparents had the government dig them a lake and stock it with fish so they could use it for their drinking water .
+The stipulation : advertise the fact the lake was there and stocked with fish .
+Their solution : Advertise in the chicago tribune .
+They had a small farm about 25 miles southeast of st louis .
+Like anybody seeing that ad would drive all the way down there for a small lake and fishing .
+Sounds like something similar .</tokentext>
+<sentencetext>Back in the 60s (70s?
+)  My grandparents had the government dig them a lake and stock it with fish so they could use it for their drinking water.
+The stipulation: advertise the fact the lake was there and stocked with fish.
+Their solution:  Advertise in the chicago tribune.
+They had a small farm about 25 miles southeast of st louis.
+Like anybody seeing that ad would drive all the way down there for a small lake and fishing.
+Sounds like something similar.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088741</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088689</id>
+	<title>Slashdot nerd test.</title>
+	<author>Anonymous</author>
+	<datestamp>1243253160000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p><a href="http://www.youtube.com/watch?v=UET4d8s2VN0" title="youtube.com" rel="nofollow">If you watch this</a> [youtube.com], you must uninstall linux for life.</p></htmltext>
+<tokenext>If you watch this [ youtube.com ] , you must uninstall linux for life .</tokentext>
+<sentencetext>If you watch this [youtube.com], you must uninstall linux for life.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28091693</id>
+	<title>Re:Consider it this way...</title>
+	<author>Anonymous</author>
+	<datestamp>1243278540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Get off my Internet, kid.</p></htmltext>
+<tokenext>Get off my Internet , kid .</tokentext>
+<sentencetext>Get off my Internet, kid.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089039</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089779</id>
+	<title>Not quite ready yet</title>
+	<author>WinstonWolfIT</author>
+	<datestamp>1243260600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>First off, notice in printed media will probably never disappear completely. Online notices over time will simply be added to the required list of places to post. Along with the additional requirement, state-based legislation will likely address issues such as data retention and external review.</htmltext>
+<tokenext>First off , notice in printed media will probably never disappear completely .
+Online notices over time will simply be added to the required list of places to post .
+Along with the additional requirement , state-based legislation will likely address issues such as data retention and external review .</tokentext>
+<sentencetext>First off, notice in printed media will probably never disappear completely.
+Online notices over time will simply be added to the required list of places to post.
+Along with the additional requirement, state-based legislation will likely address issues such as data retention and external review.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088951</id>
+	<title>I sympathize with Internet have-nots</title>
+	<author>SirLurksAlot</author>
+	<datestamp>1243255020000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I mean how would you like it if you were caught in a situation where you didn't have access to public information?<nobr> <wbr></nobr>;-)</p><blockquote><div><p>VOGON CAPTAIN: [On Speakers] People of Earth your attention please. This is Prostectic Vogon Jeltz of the Galactic Hyperspace Planet Council. As you no doubt will be aware, the plans for the development of the outlying regions of the western spiral arm of the galaxy require the building of a hyperspace express route through your star system and, regrettably, your planet is one of those scheduled for demolition. The process will take slightly less than two of your Earth minutes thank you very much.
+</p><p>MANKIND: [Yells of protest]
+</p><p>
+VOGON CAPTAIN: There's no point in acting all surprised about it. All the planning charts and demolition orders have been on display at your local planning department in Alpha Centauri for fifty of your Earth years so you've had plenty of time to lodge any formal complaints and its far too late to start making a fuss about it now.
+</p><p>MANKIND: [Louder yells of protest]
+</p><p>VOGON CAPTAIN: What do you mean you've never been to Alpha Centauri? Oh for heaven sake mankind it's only four light years away you know! I'm sorry but if you can't be bothered to take an interest in local affairs that's your own regard. Energise the demolition beams! God I don't know...apathetic bloody planet, I've no sympathy at all...</p><p>The Earth is destroyed in a huge explosion. </p></div>
+</blockquote></div>
+	</htmltext>
+<tokenext>I mean how would you like it if you were caught in a situation where you did n't have access to public information ?
+; - ) VOGON CAPTAIN : [ On Speakers ] People of Earth your attention please .
+This is Prostectic Vogon Jeltz of the Galactic Hyperspace Planet Council .
+As you no doubt will be aware , the plans for the development of the outlying regions of the western spiral arm of the galaxy require the building of a hyperspace express route through your star system and , regrettably , your planet is one of those scheduled for demolition .
+The process will take slightly less than two of your Earth minutes thank you very much .
+MANKIND : [ Yells of protest ] VOGON CAPTAIN : There 's no point in acting all surprised about it .
+All the planning charts and demolition orders have been on display at your local planning department in Alpha Centauri for fifty of your Earth years so you 've had plenty of time to lodge any formal complaints and its far too late to start making a fuss about it now .
+MANKIND : [ Louder yells of protest ] VOGON CAPTAIN : What do you mean you 've never been to Alpha Centauri ?
+Oh for heaven sake mankind it 's only four light years away you know !
+I 'm sorry but if you ca n't be bothered to take an interest in local affairs that 's your own regard .
+Energise the demolition beams !
+God I do n't know...apathetic bloody planet , I 've no sympathy at all...The Earth is destroyed in a huge explosion .</tokentext>
+<sentencetext>I mean how would you like it if you were caught in a situation where you didn't have access to public information?
+;-)VOGON CAPTAIN: [On Speakers] People of Earth your attention please.
+This is Prostectic Vogon Jeltz of the Galactic Hyperspace Planet Council.
+As you no doubt will be aware, the plans for the development of the outlying regions of the western spiral arm of the galaxy require the building of a hyperspace express route through your star system and, regrettably, your planet is one of those scheduled for demolition.
+The process will take slightly less than two of your Earth minutes thank you very much.
+MANKIND: [Yells of protest]
+
+VOGON CAPTAIN: There's no point in acting all surprised about it.
+All the planning charts and demolition orders have been on display at your local planning department in Alpha Centauri for fifty of your Earth years so you've had plenty of time to lodge any formal complaints and its far too late to start making a fuss about it now.
+MANKIND: [Louder yells of protest]
+VOGON CAPTAIN: What do you mean you've never been to Alpha Centauri?
+Oh for heaven sake mankind it's only four light years away you know!
+I'm sorry but if you can't be bothered to take an interest in local affairs that's your own regard.
+Energise the demolition beams!
+God I don't know...apathetic bloody planet, I've no sympathy at all...The Earth is destroyed in a huge explosion. 
+
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088741</id>
+	<title>Good elements and bad elements.</title>
+	<author>JoshuaZ</author>
+	<datestamp>1243253520000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext>The concern here seems reasonable. Local government websites are some of the most poorly designed and hardest to navigate. I could easily see this resulting in problems not out out of malice but out of simple incompetence. Presumably regulations and guidelines should be drafted for how governments should do this. The most obvious thing is that there must be actual incoming links not hidden by either nofollow tags or anything in the robots.txt file to prevent search engine indexing. Also, there needs to be guaranteed backups and permanent searchable archives (which will in some ways make this more transparent than tiny, non-searchable notices in local newspapers). There are probably other simple rules that would be needed but those are the ones that come to mind most immediately.</htmltext>
+<tokenext>The concern here seems reasonable .
+Local government websites are some of the most poorly designed and hardest to navigate .
+I could easily see this resulting in problems not out out of malice but out of simple incompetence .
+Presumably regulations and guidelines should be drafted for how governments should do this .
+The most obvious thing is that there must be actual incoming links not hidden by either nofollow tags or anything in the robots.txt file to prevent search engine indexing .
+Also , there needs to be guaranteed backups and permanent searchable archives ( which will in some ways make this more transparent than tiny , non-searchable notices in local newspapers ) .
+There are probably other simple rules that would be needed but those are the ones that come to mind most immediately .</tokentext>
+<sentencetext>The concern here seems reasonable.
+Local government websites are some of the most poorly designed and hardest to navigate.
+I could easily see this resulting in problems not out out of malice but out of simple incompetence.
+Presumably regulations and guidelines should be drafted for how governments should do this.
+The most obvious thing is that there must be actual incoming links not hidden by either nofollow tags or anything in the robots.txt file to prevent search engine indexing.
+Also, there needs to be guaranteed backups and permanent searchable archives (which will in some ways make this more transparent than tiny, non-searchable notices in local newspapers).
+There are probably other simple rules that would be needed but those are the ones that come to mind most immediately.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28091295</id>
+	<title>Re:Interesting</title>
+	<author>sribe</author>
+	<datestamp>1243273560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Today when you register a corporation you are required to post this fact in one or more newspapers or other similar publications.</p></div><p>Not in all states, Colorado for instance...</p></div>
+	</htmltext>
+<tokenext>Today when you register a corporation you are required to post this fact in one or more newspapers or other similar publications.Not in all states , Colorado for instance.. .</tokentext>
+<sentencetext>Today when you register a corporation you are required to post this fact in one or more newspapers or other similar publications.Not in all states, Colorado for instance...
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088769</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28101863</id>
+	<title>It's workable, but not yet in Johannesburg</title>
+	<author>crowne</author>
+	<datestamp>1243337400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Here in Johannesburg South Africa municipality tried the same thing.
+When half a dozen subirbs started complaining about a water outage, they were told that it was advertised on the municipal web-page.
+
+I for one certainly will not be spending a day a week looking for notices from each and every new governmental / municipal / departmental website.
+
+There could easily be a designated central point into which notices could be posted, as a poster above hinted at.
+
+But for now, I'm more than likely going to assume the position of "Just because you can see it on your intranet, doesn't mean that it is publicised."</htmltext>
+<tokenext>Here in Johannesburg South Africa municipality tried the same thing .
+When half a dozen subirbs started complaining about a water outage , they were told that it was advertised on the municipal web-page .
+I for one certainly will not be spending a day a week looking for notices from each and every new governmental / municipal / departmental website .
+There could easily be a designated central point into which notices could be posted , as a poster above hinted at .
+But for now , I 'm more than likely going to assume the position of " Just because you can see it on your intranet , does n't mean that it is publicised .
+"</tokentext>
+<sentencetext>Here in Johannesburg South Africa municipality tried the same thing.
+When half a dozen subirbs started complaining about a water outage, they were told that it was advertised on the municipal web-page.
+I for one certainly will not be spending a day a week looking for notices from each and every new governmental / municipal / departmental website.
+There could easily be a designated central point into which notices could be posted, as a poster above hinted at.
+But for now, I'm more than likely going to assume the position of "Just because you can see it on your intranet, doesn't mean that it is publicised.
+"</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088939</id>
+	<title>Re:How to easily catch changes in pages</title>
+	<author>iluvcapra</author>
+	<datestamp>1243254960000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext><a href="http://www.gnu.org/software/wget/" title="gnu.org">wget(1)</a> [gnu.org] also does this if you want to build a daily script.</htmltext>
+<tokenext>wget ( 1 ) [ gnu.org ] also does this if you want to build a daily script .</tokentext>
+<sentencetext>wget(1) [gnu.org] also does this if you want to build a daily script.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088733</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088701</id>
+	<title>Which method would get the most dissemination?</title>
+	<author>ctmurray</author>
+	<datestamp>1243253220000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext>I think if the local paper was/is widely distributed this old method might be read more widely (people without internet access, or not visiting city/state web sites often). These can be stored in libraries and seen casually around town. But our local paper of record just closed its doors, not sure where these notices will be printed now.<br> <br> If you are looking for something specific (say you want to bid on a contract which might be announced using these methods) probably an internet site where you can search is best. But for the function of a watchdog or check on govt. both can hide information, with the paper printing less likely (it has to hid in plain site in small print).</htmltext>
+<tokenext>I think if the local paper was/is widely distributed this old method might be read more widely ( people without internet access , or not visiting city/state web sites often ) .
+These can be stored in libraries and seen casually around town .
+But our local paper of record just closed its doors , not sure where these notices will be printed now .
+If you are looking for something specific ( say you want to bid on a contract which might be announced using these methods ) probably an internet site where you can search is best .
+But for the function of a watchdog or check on govt .
+both can hide information , with the paper printing less likely ( it has to hid in plain site in small print ) .</tokentext>
+<sentencetext>I think if the local paper was/is widely distributed this old method might be read more widely (people without internet access, or not visiting city/state web sites often).
+These can be stored in libraries and seen casually around town.
+But our local paper of record just closed its doors, not sure where these notices will be printed now.
+If you are looking for something specific (say you want to bid on a contract which might be announced using these methods) probably an internet site where you can search is best.
+But for the function of a watchdog or check on govt.
+both can hide information, with the paper printing less likely (it has to hid in plain site in small print).</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089097</id>
+	<title>Re:"Hide"?</title>
+	<author>Anonymous</author>
+	<datestamp>1243256040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>"Yes M'lud. It was our junior IT admin who got the robots.txt wrong and put the IP filtering on the webserver by mistake.</p><p>No M'lud we didn't realise it would would mean that only we could see the notices or even know they existed.</p><p>Anyway, it's all to late now as the compulsory purchase orders have gone through and there wasn't anybody in the houses who wanted to object anyway."</p><p>Trust Google to sort it out - yeah great plan. Sigh.</p></htmltext>
+<tokenext>" Yes M'lud .
+It was our junior IT admin who got the robots.txt wrong and put the IP filtering on the webserver by mistake.No M'lud we did n't realise it would would mean that only we could see the notices or even know they existed.Anyway , it 's all to late now as the compulsory purchase orders have gone through and there was n't anybody in the houses who wanted to object anyway .
+" Trust Google to sort it out - yeah great plan .
+Sigh .</tokentext>
+<sentencetext>"Yes M'lud.
+It was our junior IT admin who got the robots.txt wrong and put the IP filtering on the webserver by mistake.No M'lud we didn't realise it would would mean that only we could see the notices or even know they existed.Anyway, it's all to late now as the compulsory purchase orders have gone through and there wasn't anybody in the houses who wanted to object anyway.
+"Trust Google to sort it out - yeah great plan.
+Sigh.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088719</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28094657</id>
+	<title>Re:Interesting</title>
+	<author>Anonymous</author>
+	<datestamp>1243350720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>[quote]Sure, nobody reads newspapers anymore but at least they are saved in the public library for just about all time.[/quote]<br>At the end of the month our library tosses the newspapers out.  We subscribe to a database product which provides archived and indexed full text articles.</p></div>
+	</htmltext>
+<tokenext>[ quote ] Sure , nobody reads newspapers anymore but at least they are saved in the public library for just about all time .
+[ /quote ] At the end of the month our library tosses the newspapers out .
+We subscribe to a database product which provides archived and indexed full text articles .</tokentext>
+<sentencetext>[quote]Sure, nobody reads newspapers anymore but at least they are saved in the public library for just about all time.
+[/quote]At the end of the month our library tosses the newspapers out.
+We subscribe to a database product which provides archived and indexed full text articles.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088769</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088967</id>
+	<title>Slippery Slope</title>
+	<author>lobiusmoop</author>
+	<datestamp>1243255140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Just watch, before long they'll be posting public notices by leaving them in the bottom of a locked filing cabinet stuck in a disused lavatory with a sign on the door saying 'Beware of the Leopard'.</p></htmltext>
+<tokenext>Just watch , before long they 'll be posting public notices by leaving them in the bottom of a locked filing cabinet stuck in a disused lavatory with a sign on the door saying 'Beware of the Leopard' .</tokentext>
+<sentencetext>Just watch, before long they'll be posting public notices by leaving them in the bottom of a locked filing cabinet stuck in a disused lavatory with a sign on the door saying 'Beware of the Leopard'.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28107019</id>
+	<title>Public Notice Kiosk Implementation</title>
+	<author>mrjuice</author>
+	<datestamp>1243421640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I worked at the State level of government as a senior web services programmer and was tasked with improving upon the paper-based process for posting public meeting notices.
+
+Statute required (and still does) that all notices be posted for display in the Capitol building lobby at least 24 hours before the meeting was to take place. Meeting organizers would fax the notices to our main agency fax line and whoever was currently working the front desk was responsible for collecting and posting the notices.
+
+Unfortunately, the building hosting the fax machine and the capitol lobby were located almost a mile apart. This meant that the front desk staff would have to walk the notices over to the other building several times a day to avoid missing any 24 hour notice requirements.
+
+An ADA accessible touch screen/voice kiosk was setup in the Capitol lobby to display notices and was integrated with the existing intranet CMS system. An electronic form was provided at the kiosk and on our public site for people to request meetings and all submissions and staff approvals in the CMS system were tracked for auditing purposes. System  was backed up everyday, and previous requests were archived in an online repository also accessible from the kiosk.
+
+Making sure that government services are available to everyone is a huge consideration when implementing tech based solutions in government. There is the real possibility of a citizen suing state agencies for discrimination due to federal disability discrimination mandates/. For this project it meant that we had to continue to offer the fax and phone submissions regardless of the additional functionality and efficiency the kiosk/cms solution provided. Desk staff had to key the form data received via fax and phone into the CMS by hand.
+
+This was almost 10 years ago and the system is still in operation. Process has been re-evaluated several times since then to fine tune different aspects of accessing the notices and to address system failure points as they were discovered.
+
+An extremely uninteresting project overall, but a great insight into government work-flow in general.</htmltext>
+<tokenext>I worked at the State level of government as a senior web services programmer and was tasked with improving upon the paper-based process for posting public meeting notices .
+Statute required ( and still does ) that all notices be posted for display in the Capitol building lobby at least 24 hours before the meeting was to take place .
+Meeting organizers would fax the notices to our main agency fax line and whoever was currently working the front desk was responsible for collecting and posting the notices .
+Unfortunately , the building hosting the fax machine and the capitol lobby were located almost a mile apart .
+This meant that the front desk staff would have to walk the notices over to the other building several times a day to avoid missing any 24 hour notice requirements .
+An ADA accessible touch screen/voice kiosk was setup in the Capitol lobby to display notices and was integrated with the existing intranet CMS system .
+An electronic form was provided at the kiosk and on our public site for people to request meetings and all submissions and staff approvals in the CMS system were tracked for auditing purposes .
+System was backed up everyday , and previous requests were archived in an online repository also accessible from the kiosk .
+Making sure that government services are available to everyone is a huge consideration when implementing tech based solutions in government .
+There is the real possibility of a citizen suing state agencies for discrimination due to federal disability discrimination mandates/ .
+For this project it meant that we had to continue to offer the fax and phone submissions regardless of the additional functionality and efficiency the kiosk/cms solution provided .
+Desk staff had to key the form data received via fax and phone into the CMS by hand .
+This was almost 10 years ago and the system is still in operation .
+Process has been re-evaluated several times since then to fine tune different aspects of accessing the notices and to address system failure points as they were discovered .
+An extremely uninteresting project overall , but a great insight into government work-flow in general .</tokentext>
+<sentencetext>I worked at the State level of government as a senior web services programmer and was tasked with improving upon the paper-based process for posting public meeting notices.
+Statute required (and still does) that all notices be posted for display in the Capitol building lobby at least 24 hours before the meeting was to take place.
+Meeting organizers would fax the notices to our main agency fax line and whoever was currently working the front desk was responsible for collecting and posting the notices.
+Unfortunately, the building hosting the fax machine and the capitol lobby were located almost a mile apart.
+This meant that the front desk staff would have to walk the notices over to the other building several times a day to avoid missing any 24 hour notice requirements.
+An ADA accessible touch screen/voice kiosk was setup in the Capitol lobby to display notices and was integrated with the existing intranet CMS system.
+An electronic form was provided at the kiosk and on our public site for people to request meetings and all submissions and staff approvals in the CMS system were tracked for auditing purposes.
+System  was backed up everyday, and previous requests were archived in an online repository also accessible from the kiosk.
+Making sure that government services are available to everyone is a huge consideration when implementing tech based solutions in government.
+There is the real possibility of a citizen suing state agencies for discrimination due to federal disability discrimination mandates/.
+For this project it meant that we had to continue to offer the fax and phone submissions regardless of the additional functionality and efficiency the kiosk/cms solution provided.
+Desk staff had to key the form data received via fax and phone into the CMS by hand.
+This was almost 10 years ago and the system is still in operation.
+Process has been re-evaluated several times since then to fine tune different aspects of accessing the notices and to address system failure points as they were discovered.
+An extremely uninteresting project overall, but a great insight into government work-flow in general.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28093175</id>
+	<title>Re:Outside repository</title>
+	<author>ckaminski</author>
+	<datestamp>1243341660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Except those receipts fade after a year... faster if not taken care of, or left in a wallet.</htmltext>
+<tokenext>Except those receipts fade after a year... faster if not taken care of , or left in a wallet .</tokentext>
+<sentencetext>Except those receipts fade after a year... faster if not taken care of, or left in a wallet.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089079</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088769</id>
+	<title>Interesting</title>
+	<author>cdrguru</author>
+	<datestamp>1243253640000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>Today when you register a corporation you are required to post this fact in one or more newspapers or other similar publications.  Often these notices are rather expensive to post as they are not simply standard classified ads.</p><p>Similarly, there are requirements for stock offerings and such.  As well as government contract opportunities.</p><p>Sure, nobody reads newspapers anymore but at least they are saved in the public library for just about all time.  You want to find something?  There is a place to look.  And, for the most part, this historical record is a trustworthy one.</p><p>Who, exactly, is archiving government web site content like this?  Nobody, that's who.  We are hell-bent on destroying any possibility of records for the future, and I have no idea why we are so firmly set on this as a goal.  Easier?  Sure it is.  More relevent?  Maybe.  But there is no way that most of the digital information today is being archived in a meaningful manner, and what there is that is being archived has a very, very low signal to noise ratio, or perhaps more accurately for the Internet, a rather high noise to signal ratio.</p><p>Certainly the US is so firmly focused on entertainment today that newspapers and meaningful news doesn't stand a chance.  It isn't entertaining and attempts to make news entertaining are usually grotesque paradies of reality.</p></htmltext>
+<tokenext>Today when you register a corporation you are required to post this fact in one or more newspapers or other similar publications .
+Often these notices are rather expensive to post as they are not simply standard classified ads.Similarly , there are requirements for stock offerings and such .
+As well as government contract opportunities.Sure , nobody reads newspapers anymore but at least they are saved in the public library for just about all time .
+You want to find something ?
+There is a place to look .
+And , for the most part , this historical record is a trustworthy one.Who , exactly , is archiving government web site content like this ?
+Nobody , that 's who .
+We are hell-bent on destroying any possibility of records for the future , and I have no idea why we are so firmly set on this as a goal .
+Easier ? Sure it is .
+More relevent ?
+Maybe. But there is no way that most of the digital information today is being archived in a meaningful manner , and what there is that is being archived has a very , very low signal to noise ratio , or perhaps more accurately for the Internet , a rather high noise to signal ratio.Certainly the US is so firmly focused on entertainment today that newspapers and meaningful news does n't stand a chance .
+It is n't entertaining and attempts to make news entertaining are usually grotesque paradies of reality .</tokentext>
+<sentencetext>Today when you register a corporation you are required to post this fact in one or more newspapers or other similar publications.
+Often these notices are rather expensive to post as they are not simply standard classified ads.Similarly, there are requirements for stock offerings and such.
+As well as government contract opportunities.Sure, nobody reads newspapers anymore but at least they are saved in the public library for just about all time.
+You want to find something?
+There is a place to look.
+And, for the most part, this historical record is a trustworthy one.Who, exactly, is archiving government web site content like this?
+Nobody, that's who.
+We are hell-bent on destroying any possibility of records for the future, and I have no idea why we are so firmly set on this as a goal.
+Easier?  Sure it is.
+More relevent?
+Maybe.  But there is no way that most of the digital information today is being archived in a meaningful manner, and what there is that is being archived has a very, very low signal to noise ratio, or perhaps more accurately for the Internet, a rather high noise to signal ratio.Certainly the US is so firmly focused on entertainment today that newspapers and meaningful news doesn't stand a chance.
+It isn't entertaining and attempts to make news entertaining are usually grotesque paradies of reality.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088695</id>
+	<title>Hiding news . . .</title>
+	<author>siloko</author>
+	<datestamp>1243253160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Beyond newspaper economics, critics are concerned that the shift would allow government officials to effectively hide their activities from scrutiny.</p></div><p>Well lets be honest there was no better place to hide news than in local newspapers, they were intended to wrap up chips (US: fries) not for reading . . .</p></div>
+	</htmltext>
+<tokenext>Beyond newspaper economics , critics are concerned that the shift would allow government officials to effectively hide their activities from scrutiny.Well lets be honest there was no better place to hide news than in local newspapers , they were intended to wrap up chips ( US : fries ) not for reading .
+. .</tokentext>
+<sentencetext>Beyond newspaper economics, critics are concerned that the shift would allow government officials to effectively hide their activities from scrutiny.Well lets be honest there was no better place to hide news than in local newspapers, they were intended to wrap up chips (US: fries) not for reading .
+. .
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088981</id>
+	<title>Re:Slashdot nerd test.</title>
+	<author>Anonymous</author>
+	<datestamp>1243255260000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>Stallman isn't Linux - he's part of the Gnu herd.......  Good God, not only did you flub the url, but you don't even know who the hell you're talking about.</p><p>Let's try this - Linux - Linus - Linux - Linus.  Linux was created by Linux Torvalds, NOT by the old bearded bull with nasty feet.</p></htmltext>
+<tokenext>Stallman is n't Linux - he 's part of the Gnu herd....... Good God , not only did you flub the url , but you do n't even know who the hell you 're talking about.Let 's try this - Linux - Linus - Linux - Linus .
+Linux was created by Linux Torvalds , NOT by the old bearded bull with nasty feet .</tokentext>
+<sentencetext>Stallman isn't Linux - he's part of the Gnu herd.......  Good God, not only did you flub the url, but you don't even know who the hell you're talking about.Let's try this - Linux - Linus - Linux - Linus.
+Linux was created by Linux Torvalds, NOT by the old bearded bull with nasty feet.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088689</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089039</id>
+	<title>Consider it this way...</title>
+	<author>Senjutsu</author>
+	<datestamp>1243255620000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext>Who reads newspapers?
+<br> <br>
+Old People
+<br> <br>
+What group is most likely to bother to read some long boring public notice and have enough free time and spare outrage to make any noise about it?
+<br> <br>
+Old People
+<br> <br>
+Where do you put things you don't want Old People to find?
+<br> <br>
+<i>The Internet</i></htmltext>
+<tokenext>Who reads newspapers ?
+Old People What group is most likely to bother to read some long boring public notice and have enough free time and spare outrage to make any noise about it ?
+Old People Where do you put things you do n't want Old People to find ?
+The Internet</tokentext>
+<sentencetext>Who reads newspapers?
+Old People
+ 
+What group is most likely to bother to read some long boring public notice and have enough free time and spare outrage to make any noise about it?
+Old People
+ 
+Where do you put things you don't want Old People to find?
+The Internet</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088719</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088989</id>
+	<title>this is go4tsex</title>
+	<author>Anonymous</author>
+	<datestamp>1243255320000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext>EVEERY CHANCE I GOT only way to go: Coomon knowledge that they can hold</htmltext>
+<tokenext>EVEERY CHANCE I GOT only way to go : Coomon knowledge that they can hold</tokentext>
+<sentencetext>EVEERY CHANCE I GOT only way to go: Coomon knowledge that they can hold</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089585</id>
+	<title>When the Internet has nearly 100\% saturation...</title>
+	<author>Anonymous</author>
+	<datestamp>1243259280000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext>When the broadband internet is treated like a utility and everyone, including deep rural dwellers has relatively easy access to it then government can take post their 'public' notices online.<br> <br>
+
+As it stands right now a good percentage of the population still do not have reasonable access to the internet or are not tech savvy enough to own a computer (i.e. many of the elderly).  They should not be punished for their lack of internet access by removing public government notices from newspapers which are still easily accessible by anyone.</htmltext>
+<tokenext>When the broadband internet is treated like a utility and everyone , including deep rural dwellers has relatively easy access to it then government can take post their 'public ' notices online .
+As it stands right now a good percentage of the population still do not have reasonable access to the internet or are not tech savvy enough to own a computer ( i.e .
+many of the elderly ) .
+They should not be punished for their lack of internet access by removing public government notices from newspapers which are still easily accessible by anyone .</tokentext>
+<sentencetext>When the broadband internet is treated like a utility and everyone, including deep rural dwellers has relatively easy access to it then government can take post their 'public' notices online.
+As it stands right now a good percentage of the population still do not have reasonable access to the internet or are not tech savvy enough to own a computer (i.e.
+many of the elderly).
+They should not be punished for their lack of internet access by removing public government notices from newspapers which are still easily accessible by anyone.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089029</id>
+	<title>Re:Interesting</title>
+	<author>Dun Malg</author>
+	<datestamp>1243255620000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p><div class="quote"><p>Today when you register a corporation you are required to post this fact in one or more newspapers or other similar publications.  Often these notices are rather expensive to post as they are not simply standard classified ads.</p><p>Similarly, there are requirements for stock offerings and such.  As well as government contract opportunities.</p><p>Sure, nobody reads newspapers anymore but at least they are saved in the public library for just about all time.</p> </div><p>Actually, the notice requirement varies by locality. I've registered DBA's and have worked with others registering corporations in Los Angeles County. There are actually publications whose sole reason for existing is to publish such legally mandated announcements, and I have yet to see one <b>anywhere</b>. The last one I used (three weekly pubs for my most recent DBA) was done by filling out a web form online and paying forty bucks by credit card. My proof of publication was three dated photocopied sheets of a crude looking advertisement and a receipt from the publisher. It's nothing you'd ever find in a library, that's for sure. I have no freakin' <b>clue</b> where this little rag was publicly available, but the county recorder accepted it. It's all a sham, now. A vestigial organ long since outlived its purpose. I say get rid of it.</p></div>
+	</htmltext>
+<tokenext>Today when you register a corporation you are required to post this fact in one or more newspapers or other similar publications .
+Often these notices are rather expensive to post as they are not simply standard classified ads.Similarly , there are requirements for stock offerings and such .
+As well as government contract opportunities.Sure , nobody reads newspapers anymore but at least they are saved in the public library for just about all time .
+Actually , the notice requirement varies by locality .
+I 've registered DBA 's and have worked with others registering corporations in Los Angeles County .
+There are actually publications whose sole reason for existing is to publish such legally mandated announcements , and I have yet to see one anywhere .
+The last one I used ( three weekly pubs for my most recent DBA ) was done by filling out a web form online and paying forty bucks by credit card .
+My proof of publication was three dated photocopied sheets of a crude looking advertisement and a receipt from the publisher .
+It 's nothing you 'd ever find in a library , that 's for sure .
+I have no freakin ' clue where this little rag was publicly available , but the county recorder accepted it .
+It 's all a sham , now .
+A vestigial organ long since outlived its purpose .
+I say get rid of it .</tokentext>
+<sentencetext>Today when you register a corporation you are required to post this fact in one or more newspapers or other similar publications.
+Often these notices are rather expensive to post as they are not simply standard classified ads.Similarly, there are requirements for stock offerings and such.
+As well as government contract opportunities.Sure, nobody reads newspapers anymore but at least they are saved in the public library for just about all time.
+Actually, the notice requirement varies by locality.
+I've registered DBA's and have worked with others registering corporations in Los Angeles County.
+There are actually publications whose sole reason for existing is to publish such legally mandated announcements, and I have yet to see one anywhere.
+The last one I used (three weekly pubs for my most recent DBA) was done by filling out a web form online and paying forty bucks by credit card.
+My proof of publication was three dated photocopied sheets of a crude looking advertisement and a receipt from the publisher.
+It's nothing you'd ever find in a library, that's for sure.
+I have no freakin' clue where this little rag was publicly available, but the county recorder accepted it.
+It's all a sham, now.
+A vestigial organ long since outlived its purpose.
+I say get rid of it.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088769</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28096703</id>
+	<title>Shenanigans</title>
+	<author>photomonkey</author>
+	<datestamp>1243359120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Working journalist here...</p><p>Public notices are a Good ThingTM, but there is no real journalistic scrutiny as a result of them appearing in a newspaper; or anywhere else for that matter.</p><p>Most of the stuff that's required to print as public notice out here is liquor license applications, articles of incorporation, DUI checkpoint locations and open meeting schedules (not even the minutes).</p><p>If I did my job based only on what public notices and press releases I received from the government, I'd never get anywhere at all.</p><p>As a journalist, you learn pretty early on that the story usually isn't what the government IS telling you, it's what it ISN'T telling you.</p><p>That being said, the government should be required to make public notices available somewhere accessible (general rule of thumb is available at the library and beyond) because people might want to know about a new liquor license being issued or the city council meeting schedule.</p><p>But that's not really where the stories come from.  It's one of the few remaining "easy money" opportunities for the newspapers.</p></htmltext>
+<tokenext>Working journalist here...Public notices are a Good ThingTM , but there is no real journalistic scrutiny as a result of them appearing in a newspaper ; or anywhere else for that matter.Most of the stuff that 's required to print as public notice out here is liquor license applications , articles of incorporation , DUI checkpoint locations and open meeting schedules ( not even the minutes ) .If I did my job based only on what public notices and press releases I received from the government , I 'd never get anywhere at all.As a journalist , you learn pretty early on that the story usually is n't what the government IS telling you , it 's what it IS N'T telling you.That being said , the government should be required to make public notices available somewhere accessible ( general rule of thumb is available at the library and beyond ) because people might want to know about a new liquor license being issued or the city council meeting schedule.But that 's not really where the stories come from .
+It 's one of the few remaining " easy money " opportunities for the newspapers .</tokentext>
+<sentencetext>Working journalist here...Public notices are a Good ThingTM, but there is no real journalistic scrutiny as a result of them appearing in a newspaper; or anywhere else for that matter.Most of the stuff that's required to print as public notice out here is liquor license applications, articles of incorporation, DUI checkpoint locations and open meeting schedules (not even the minutes).If I did my job based only on what public notices and press releases I received from the government, I'd never get anywhere at all.As a journalist, you learn pretty early on that the story usually isn't what the government IS telling you, it's what it ISN'T telling you.That being said, the government should be required to make public notices available somewhere accessible (general rule of thumb is available at the library and beyond) because people might want to know about a new liquor license being issued or the city council meeting schedule.But that's not really where the stories come from.
+It's one of the few remaining "easy money" opportunities for the newspapers.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28091037</id>
+	<title>Bankruptcy/foreclosure info permanently public</title>
+	<author>Anonymous</author>
+	<datestamp>1243270620000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>One thing that would be a big negative about this is the public notices of bankruptcy and foreclosure sales that are currently published.  Usually those go by unnoticed and are never seen again.  Generally there is not a way now, unless you can pull a credit report for a valid reason, to find out if someone (employee, friend, tenant) has had those.  If they went online, they would instantly become permanently public and searchable (regardless of robots.txt, etc, some website will scrape it if there is $$$ demand).</p><p>I'm not bringing that up because I think people should be able to hide a bankruptcy or foreclosure.  They are on your credit report for 7-10 years, but after that they are dropped and it's as if you have never had bankruptcy.  In the meantime, landlords and employers can pull your credit report.  If the notices are online, the landlords and employers can search that and see if you had something bad happen 15, 20 years later and illegally use that in their consideration.  (Right now they're required to tell you why they take adverse action from a credit report, but public notices fall outside of those laws.)</p><p>Bankruptcy and foreclosure are design to help someone who would otherwise be destitute for life get back on their feet for the public good.  Permanent, public, searchable records of those would only hurt that.</p></htmltext>
+<tokenext>One thing that would be a big negative about this is the public notices of bankruptcy and foreclosure sales that are currently published .
+Usually those go by unnoticed and are never seen again .
+Generally there is not a way now , unless you can pull a credit report for a valid reason , to find out if someone ( employee , friend , tenant ) has had those .
+If they went online , they would instantly become permanently public and searchable ( regardless of robots.txt , etc , some website will scrape it if there is $ $ $ demand ) .I 'm not bringing that up because I think people should be able to hide a bankruptcy or foreclosure .
+They are on your credit report for 7-10 years , but after that they are dropped and it 's as if you have never had bankruptcy .
+In the meantime , landlords and employers can pull your credit report .
+If the notices are online , the landlords and employers can search that and see if you had something bad happen 15 , 20 years later and illegally use that in their consideration .
+( Right now they 're required to tell you why they take adverse action from a credit report , but public notices fall outside of those laws .
+) Bankruptcy and foreclosure are design to help someone who would otherwise be destitute for life get back on their feet for the public good .
+Permanent , public , searchable records of those would only hurt that .</tokentext>
+<sentencetext>One thing that would be a big negative about this is the public notices of bankruptcy and foreclosure sales that are currently published.
+Usually those go by unnoticed and are never seen again.
+Generally there is not a way now, unless you can pull a credit report for a valid reason, to find out if someone (employee, friend, tenant) has had those.
+If they went online, they would instantly become permanently public and searchable (regardless of robots.txt, etc, some website will scrape it if there is $$$ demand).I'm not bringing that up because I think people should be able to hide a bankruptcy or foreclosure.
+They are on your credit report for 7-10 years, but after that they are dropped and it's as if you have never had bankruptcy.
+In the meantime, landlords and employers can pull your credit report.
+If the notices are online, the landlords and employers can search that and see if you had something bad happen 15, 20 years later and illegally use that in their consideration.
+(Right now they're required to tell you why they take adverse action from a credit report, but public notices fall outside of those laws.
+)Bankruptcy and foreclosure are design to help someone who would otherwise be destitute for life get back on their feet for the public good.
+Permanent, public, searchable records of those would only hurt that.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28094275</id>
+	<title>Dumping newspapers is premature</title>
+	<author>davidwr</author>
+	<datestamp>1243348980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>In some cities, there are still too many people who rely on public notices in print format.</p><p>Also, there should be an "official write once" record of all such notices deposited somewhere.  This doesn't have to be print, microfilm, CD, or whatever.</p><p>If the "official write once" version is not made at the time of the online version, then a signed hash of the online version should be published in write-once format at the time the online version is made, so there's no chance it could be silently edited.</p></htmltext>
+<tokenext>In some cities , there are still too many people who rely on public notices in print format.Also , there should be an " official write once " record of all such notices deposited somewhere .
+This does n't have to be print , microfilm , CD , or whatever.If the " official write once " version is not made at the time of the online version , then a signed hash of the online version should be published in write-once format at the time the online version is made , so there 's no chance it could be silently edited .</tokentext>
+<sentencetext>In some cities, there are still too many people who rely on public notices in print format.Also, there should be an "official write once" record of all such notices deposited somewhere.
+This doesn't have to be print, microfilm, CD, or whatever.If the "official write once" version is not made at the time of the online version, then a signed hash of the online version should be published in write-once format at the time the online version is made, so there's no chance it could be silently edited.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28103885</id>
+	<title>We don't get "the paper"</title>
+	<author>t2000kw</author>
+	<datestamp>1243348860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Not only do we not get the local paper, but many here have given up on it. I would not be surprised if it goes belly up soon.
+
+I talked with a fellow who was getting it for FREE and he canceled it!
+
+I think that publishing thing in the local paper and NOT on the city web site is a way that the city hides what it wants to do.
+
+We had a red light camera ordinance that was tabled and everyone thought it was dead brought to life quickly without additional public notice even in the paper. Most of the local officials in the city are about to be voted out this year in elections because of this and a new ordinance is  about to be put before voters to make it mandatory that any violations that the red light camera detect be given to the offender by a policeman on the scene. So it makes it necessary for a policeman to be present, making the use of the red light cameras inconvenient and impractical.
+
+But not that many residents even knew anything was going on with these cameras in the first place because the first notice was posted in the local paper that few even read.
+
+I'd like to see it made mandatory that governments publish news, laws, etc. that affect the average person on official web sites. Maybe also in local papers, but definitely on the web. Maybe even provide it in an optional RSS feed.</htmltext>
+<tokenext>Not only do we not get the local paper , but many here have given up on it .
+I would not be surprised if it goes belly up soon .
+I talked with a fellow who was getting it for FREE and he canceled it !
+I think that publishing thing in the local paper and NOT on the city web site is a way that the city hides what it wants to do .
+We had a red light camera ordinance that was tabled and everyone thought it was dead brought to life quickly without additional public notice even in the paper .
+Most of the local officials in the city are about to be voted out this year in elections because of this and a new ordinance is about to be put before voters to make it mandatory that any violations that the red light camera detect be given to the offender by a policeman on the scene .
+So it makes it necessary for a policeman to be present , making the use of the red light cameras inconvenient and impractical .
+But not that many residents even knew anything was going on with these cameras in the first place because the first notice was posted in the local paper that few even read .
+I 'd like to see it made mandatory that governments publish news , laws , etc .
+that affect the average person on official web sites .
+Maybe also in local papers , but definitely on the web .
+Maybe even provide it in an optional RSS feed .</tokentext>
+<sentencetext>Not only do we not get the local paper, but many here have given up on it.
+I would not be surprised if it goes belly up soon.
+I talked with a fellow who was getting it for FREE and he canceled it!
+I think that publishing thing in the local paper and NOT on the city web site is a way that the city hides what it wants to do.
+We had a red light camera ordinance that was tabled and everyone thought it was dead brought to life quickly without additional public notice even in the paper.
+Most of the local officials in the city are about to be voted out this year in elections because of this and a new ordinance is  about to be put before voters to make it mandatory that any violations that the red light camera detect be given to the offender by a policeman on the scene.
+So it makes it necessary for a policeman to be present, making the use of the red light cameras inconvenient and impractical.
+But not that many residents even knew anything was going on with these cameras in the first place because the first notice was posted in the local paper that few even read.
+I'd like to see it made mandatory that governments publish news, laws, etc.
+that affect the average person on official web sites.
+Maybe also in local papers, but definitely on the web.
+Maybe even provide it in an optional RSS feed.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088979</id>
+	<title>This explains a lot</title>
+	<author>Pluvius</author>
+	<datestamp>1243255200000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>For example, how the Vogons managed to get away with hiding that demolition notice in some planning department out in Bum Fuck, Alpha Centauri.</p><p>Rob</p></htmltext>
+<tokenext>For example , how the Vogons managed to get away with hiding that demolition notice in some planning department out in Bum Fuck , Alpha Centauri.Rob</tokentext>
+<sentencetext>For example, how the Vogons managed to get away with hiding that demolition notice in some planning department out in Bum Fuck, Alpha Centauri.Rob</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28090403</id>
+	<title>Re:Consider it this way...</title>
+	<author>PingPongBoy</author>
+	<datestamp>1243264800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Sigh. Old or young who has time to figure out what is going on? That's what we rely on officials for.</p><p>If they're not reliable, then don't pay taxes</p></htmltext>
+<tokenext>Sigh .
+Old or young who has time to figure out what is going on ?
+That 's what we rely on officials for.If they 're not reliable , then do n't pay taxes</tokentext>
+<sentencetext>Sigh.
+Old or young who has time to figure out what is going on?
+That's what we rely on officials for.If they're not reliable, then don't pay taxes</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089039</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28091471</id>
+	<title>Making Corrupt Government More Efficient!</title>
+	<author>CuteSteveJobs</author>
+	<datestamp>1243275720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>&gt; eschew newspapers and post notices of public record on their own Web sites.<br>
+<br>
+This will be great for the Aussie Government. Public servants are supposed to advertise externally so all appointments are competitive, but they typically pick a buddy or relative for the job. The external advertising is a real pain because it gets applicants who might get the job.<br> <br>
+
+No problem! They convene an "Interview Panel" populated by the buddy's friend and three other disinterested public servant chair-warmers who have no interest in the outcome. They advertise for some poor saps to go through the interview process without realising they're wasting their time. The guy makes sure the panel chooses his mate as planned, but the interview is still a waste of every ones time: the saps and the chair-warmers. Advertising will avoid this charade. Yay for Government efficiency.<br>
+<br>
+Summed up here: "Government and councils only advertise a role because they are legally compelled to. They usually have an incumbent in the position, an acting who is taking up the role or someone already lined up. Unless you exceed each part of the person spec by a country mile, you're only wasting your time."
+<a href="http://forums.whirlpool.net.au/forum-replies-archive.cfm/1059770.html" title="whirlpool.net.au">http://forums.whirlpool.net.au/forum-replies-archive.cfm/1059770.html</a> [whirlpool.net.au]</htmltext>
+<tokenext>&gt; eschew newspapers and post notices of public record on their own Web sites .
+This will be great for the Aussie Government .
+Public servants are supposed to advertise externally so all appointments are competitive , but they typically pick a buddy or relative for the job .
+The external advertising is a real pain because it gets applicants who might get the job .
+No problem !
+They convene an " Interview Panel " populated by the buddy 's friend and three other disinterested public servant chair-warmers who have no interest in the outcome .
+They advertise for some poor saps to go through the interview process without realising they 're wasting their time .
+The guy makes sure the panel chooses his mate as planned , but the interview is still a waste of every ones time : the saps and the chair-warmers .
+Advertising will avoid this charade .
+Yay for Government efficiency .
+Summed up here : " Government and councils only advertise a role because they are legally compelled to .
+They usually have an incumbent in the position , an acting who is taking up the role or someone already lined up .
+Unless you exceed each part of the person spec by a country mile , you 're only wasting your time .
+" http : //forums.whirlpool.net.au/forum-replies-archive.cfm/1059770.html [ whirlpool.net.au ]</tokentext>
+<sentencetext>&gt; eschew newspapers and post notices of public record on their own Web sites.
+This will be great for the Aussie Government.
+Public servants are supposed to advertise externally so all appointments are competitive, but they typically pick a buddy or relative for the job.
+The external advertising is a real pain because it gets applicants who might get the job.
+No problem!
+They convene an "Interview Panel" populated by the buddy's friend and three other disinterested public servant chair-warmers who have no interest in the outcome.
+They advertise for some poor saps to go through the interview process without realising they're wasting their time.
+The guy makes sure the panel chooses his mate as planned, but the interview is still a waste of every ones time: the saps and the chair-warmers.
+Advertising will avoid this charade.
+Yay for Government efficiency.
+Summed up here: "Government and councils only advertise a role because they are legally compelled to.
+They usually have an incumbent in the position, an acting who is taking up the role or someone already lined up.
+Unless you exceed each part of the person spec by a country mile, you're only wasting your time.
+"
+http://forums.whirlpool.net.au/forum-replies-archive.cfm/1059770.html [whirlpool.net.au]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089107</id>
+	<title>What an astoundingly bad idea.</title>
+	<author>Jane Q. Public</author>
+	<datestamp>1243256160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>I <b>could</b> see a central County website/repository for public notices... but individual websites? That defeats the whole purpose of a "public" notice!</htmltext>
+<tokenext>I could see a central County website/repository for public notices... but individual websites ?
+That defeats the whole purpose of a " public " notice !</tokentext>
+<sentencetext>I could see a central County website/repository for public notices... but individual websites?
+That defeats the whole purpose of a "public" notice!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088857</id>
+	<title>Part of a social shift.</title>
+	<author>Anonymous</author>
+	<datestamp>1243254300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I think this is just part of the general shift towards everyday interaction over the web.  For example, a number of companies that I buy services from will only send physical bills to me if I make a special request.</p><p>In general I think this is a good thing, as it highlights the growing importance of net neutrality and universal access.  As more necessities of life move online, the more people will concern themselves with these issues.</p></htmltext>
+<tokenext>I think this is just part of the general shift towards everyday interaction over the web .
+For example , a number of companies that I buy services from will only send physical bills to me if I make a special request.In general I think this is a good thing , as it highlights the growing importance of net neutrality and universal access .
+As more necessities of life move online , the more people will concern themselves with these issues .</tokentext>
+<sentencetext>I think this is just part of the general shift towards everyday interaction over the web.
+For example, a number of companies that I buy services from will only send physical bills to me if I make a special request.In general I think this is a good thing, as it highlights the growing importance of net neutrality and universal access.
+As more necessities of life move online, the more people will concern themselves with these issues.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089057</id>
+	<title>Re:Interesting</title>
+	<author>hairyfeet</author>
+	<datestamp>1243255740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>While I agree to a point, unless you are going to take most of the local papers and make them government run subsidies the simple fact is papers are going the way of the 8-track. Nobody reads the things anymore, and with good reason. if your town is big enough to have a local paper, it is big enough to have corruption in office. I want to know which wildcat natural gas bunch is paying off the county to get away with their nasty way of drilling. I want to know who gave a check to the judge that pulled an imminent domain BS when one of the local residents didn't want his land drilled on and refused to sell mineral rights. I want to know why half of the cops live in trailer parks while the other half live in McMansions while their wives drive Lincoln Navigators.</p><p>So I picked up the local paper a couple of weeks back to see if they had grown some balls and did any actual reporting. Nope, even the natural gas tank explosion that killed 4 was nothing but a press release by the company. All we get in our local paper is the same old Ap crap and the only local "news" is who died and which bunch is having a bake sale. Is it any wonder nobody reads the thing? I can get that from Yahoo for $0.00! And last week sitting at the doc's for my checkup I noticed the state paper, which I also heard was in trouble. Picking it up and glancing through it I knew why. Lord save us from the spin!The thing had become so right wing I was surprised they didn't have a "How to break them damned muzzies" By Dick Cheney section. Every story that had anything to do with repubs sounded like "4 alarm fire makes way for GLORIOUS new tractor factory!" while anything Dem was Pelosi=traitor Obama=dangerous fool, etc. Again not a damned local story except who died and who was having a bake sale. Why would I pay for that?</p><p>
+
+So while I agree we need something that is gonna be archived and available, newspapers ain't it. The reason they are dying is because frankly most of them suck. Maybe we should have a "notices.org" which is divided by state and is archived daily by the Internet Archive(for a small fee, of course) to where we could find out at a glance any notices that may or may not affect us. Because as it is now, you might as well be printing those notices on the dark side of the moon in 8 pt type for all the folks that are actually reading it. Hell even my 67 year old dad, who is a total Luddite, has picked up a cheap laptop so he can sit on his couch and "read the paper" as he puts it by going to his Yahoo home page. Nobody is willing to spend money for the same old AP crap printed on dead trees. And after reading my local and state paper I can't say I blame them. Hell it isn't even worth the time to look at, much less actually paying money for it.</p></htmltext>
+<tokenext>While I agree to a point , unless you are going to take most of the local papers and make them government run subsidies the simple fact is papers are going the way of the 8-track .
+Nobody reads the things anymore , and with good reason .
+if your town is big enough to have a local paper , it is big enough to have corruption in office .
+I want to know which wildcat natural gas bunch is paying off the county to get away with their nasty way of drilling .
+I want to know who gave a check to the judge that pulled an imminent domain BS when one of the local residents did n't want his land drilled on and refused to sell mineral rights .
+I want to know why half of the cops live in trailer parks while the other half live in McMansions while their wives drive Lincoln Navigators.So I picked up the local paper a couple of weeks back to see if they had grown some balls and did any actual reporting .
+Nope , even the natural gas tank explosion that killed 4 was nothing but a press release by the company .
+All we get in our local paper is the same old Ap crap and the only local " news " is who died and which bunch is having a bake sale .
+Is it any wonder nobody reads the thing ?
+I can get that from Yahoo for $ 0.00 !
+And last week sitting at the doc 's for my checkup I noticed the state paper , which I also heard was in trouble .
+Picking it up and glancing through it I knew why .
+Lord save us from the spin ! The thing had become so right wing I was surprised they did n't have a " How to break them damned muzzies " By Dick Cheney section .
+Every story that had anything to do with repubs sounded like " 4 alarm fire makes way for GLORIOUS new tractor factory !
+" while anything Dem was Pelosi = traitor Obama = dangerous fool , etc .
+Again not a damned local story except who died and who was having a bake sale .
+Why would I pay for that ?
+So while I agree we need something that is gon na be archived and available , newspapers ai n't it .
+The reason they are dying is because frankly most of them suck .
+Maybe we should have a " notices.org " which is divided by state and is archived daily by the Internet Archive ( for a small fee , of course ) to where we could find out at a glance any notices that may or may not affect us .
+Because as it is now , you might as well be printing those notices on the dark side of the moon in 8 pt type for all the folks that are actually reading it .
+Hell even my 67 year old dad , who is a total Luddite , has picked up a cheap laptop so he can sit on his couch and " read the paper " as he puts it by going to his Yahoo home page .
+Nobody is willing to spend money for the same old AP crap printed on dead trees .
+And after reading my local and state paper I ca n't say I blame them .
+Hell it is n't even worth the time to look at , much less actually paying money for it .</tokentext>
+<sentencetext>While I agree to a point, unless you are going to take most of the local papers and make them government run subsidies the simple fact is papers are going the way of the 8-track.
+Nobody reads the things anymore, and with good reason.
+if your town is big enough to have a local paper, it is big enough to have corruption in office.
+I want to know which wildcat natural gas bunch is paying off the county to get away with their nasty way of drilling.
+I want to know who gave a check to the judge that pulled an imminent domain BS when one of the local residents didn't want his land drilled on and refused to sell mineral rights.
+I want to know why half of the cops live in trailer parks while the other half live in McMansions while their wives drive Lincoln Navigators.So I picked up the local paper a couple of weeks back to see if they had grown some balls and did any actual reporting.
+Nope, even the natural gas tank explosion that killed 4 was nothing but a press release by the company.
+All we get in our local paper is the same old Ap crap and the only local "news" is who died and which bunch is having a bake sale.
+Is it any wonder nobody reads the thing?
+I can get that from Yahoo for $0.00!
+And last week sitting at the doc's for my checkup I noticed the state paper, which I also heard was in trouble.
+Picking it up and glancing through it I knew why.
+Lord save us from the spin!The thing had become so right wing I was surprised they didn't have a "How to break them damned muzzies" By Dick Cheney section.
+Every story that had anything to do with repubs sounded like "4 alarm fire makes way for GLORIOUS new tractor factory!
+" while anything Dem was Pelosi=traitor Obama=dangerous fool, etc.
+Again not a damned local story except who died and who was having a bake sale.
+Why would I pay for that?
+So while I agree we need something that is gonna be archived and available, newspapers ain't it.
+The reason they are dying is because frankly most of them suck.
+Maybe we should have a "notices.org" which is divided by state and is archived daily by the Internet Archive(for a small fee, of course) to where we could find out at a glance any notices that may or may not affect us.
+Because as it is now, you might as well be printing those notices on the dark side of the moon in 8 pt type for all the folks that are actually reading it.
+Hell even my 67 year old dad, who is a total Luddite, has picked up a cheap laptop so he can sit on his couch and "read the paper" as he puts it by going to his Yahoo home page.
+Nobody is willing to spend money for the same old AP crap printed on dead trees.
+And after reading my local and state paper I can't say I blame them.
+Hell it isn't even worth the time to look at, much less actually paying money for it.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088769</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28091833</id>
+	<title>Re:Which method would get the most dissemination?</title>
+	<author>Machtyn</author>
+	<datestamp>1243280520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I can't think of a better way than to hide a public notice than in the local newspaper.  In the past, when everyone got the newspaper, they actually read it all the way through. There wasn't much else to do.  Since more people are getting their news online, it makes sense to move the notices online as well.  I don't think they should be gotten rid of in the newspaper, there are plenty of people (poor or older) who don't have Internet access.
+<br> <br>When I did subscribe, I couldn't even tell you where the public notices were published. I saw the left-leaning headlines on the front page, moved to the comics section and read the few I liked.  Then I went for the coupons.<br> <br>
+Having worked for an attorney (my father), I know that there are rules for distribution, and as another said, the amount of distribution is considered before the public is counted as sufficiently notified.  In some cases in my state, posting on a public bulletin board at the grocery store and/or post office will count.</htmltext>
+<tokenext>I ca n't think of a better way than to hide a public notice than in the local newspaper .
+In the past , when everyone got the newspaper , they actually read it all the way through .
+There was n't much else to do .
+Since more people are getting their news online , it makes sense to move the notices online as well .
+I do n't think they should be gotten rid of in the newspaper , there are plenty of people ( poor or older ) who do n't have Internet access .
+When I did subscribe , I could n't even tell you where the public notices were published .
+I saw the left-leaning headlines on the front page , moved to the comics section and read the few I liked .
+Then I went for the coupons .
+Having worked for an attorney ( my father ) , I know that there are rules for distribution , and as another said , the amount of distribution is considered before the public is counted as sufficiently notified .
+In some cases in my state , posting on a public bulletin board at the grocery store and/or post office will count .</tokentext>
+<sentencetext>I can't think of a better way than to hide a public notice than in the local newspaper.
+In the past, when everyone got the newspaper, they actually read it all the way through.
+There wasn't much else to do.
+Since more people are getting their news online, it makes sense to move the notices online as well.
+I don't think they should be gotten rid of in the newspaper, there are plenty of people (poor or older) who don't have Internet access.
+When I did subscribe, I couldn't even tell you where the public notices were published.
+I saw the left-leaning headlines on the front page, moved to the comics section and read the few I liked.
+Then I went for the coupons.
+Having worked for an attorney (my father), I know that there are rules for distribution, and as another said, the amount of distribution is considered before the public is counted as sufficiently notified.
+In some cases in my state, posting on a public bulletin board at the grocery store and/or post office will count.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088701</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089079</id>
+	<title>Outside repository</title>
+	<author>Todd Knarr</author>
+	<datestamp>1243255920000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>This shouldn't be allowed. Public notices in newspapers serve <i>two</i> purposes. The first is the one mentioned, publishing the notice where interested parties can see it. The second isn't mentioned, though, and that's to create a record of the notice outside the control of the party required to post it. The notice can't be changed later, can't be quietly made to never have happened. We've already seen entities change stories posted on their Web sites when what was in those stories became inconvenient later. Yes, it's going to cost a little extra to maintain that independent record of the notices. When we make a big payment or an important one where not making it has big consequences, it definitely costs for them to give us a receipt that we can use later to prove we did pay and what we paid for. We don't accept the cost savings as a valid reason for not being given a receipt, we don't accept "Trust us, we've got a record of your payment.".</p></htmltext>
+<tokenext>This should n't be allowed .
+Public notices in newspapers serve two purposes .
+The first is the one mentioned , publishing the notice where interested parties can see it .
+The second is n't mentioned , though , and that 's to create a record of the notice outside the control of the party required to post it .
+The notice ca n't be changed later , ca n't be quietly made to never have happened .
+We 've already seen entities change stories posted on their Web sites when what was in those stories became inconvenient later .
+Yes , it 's going to cost a little extra to maintain that independent record of the notices .
+When we make a big payment or an important one where not making it has big consequences , it definitely costs for them to give us a receipt that we can use later to prove we did pay and what we paid for .
+We do n't accept the cost savings as a valid reason for not being given a receipt , we do n't accept " Trust us , we 've got a record of your payment .
+" .</tokentext>
+<sentencetext>This shouldn't be allowed.
+Public notices in newspapers serve two purposes.
+The first is the one mentioned, publishing the notice where interested parties can see it.
+The second isn't mentioned, though, and that's to create a record of the notice outside the control of the party required to post it.
+The notice can't be changed later, can't be quietly made to never have happened.
+We've already seen entities change stories posted on their Web sites when what was in those stories became inconvenient later.
+Yes, it's going to cost a little extra to maintain that independent record of the notices.
+When we make a big payment or an important one where not making it has big consequences, it definitely costs for them to give us a receipt that we can use later to prove we did pay and what we paid for.
+We don't accept the cost savings as a valid reason for not being given a receipt, we don't accept "Trust us, we've got a record of your payment.
+".</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28090473</id>
+	<title>publicnotice.gov?</title>
+	<author>DavidD\_CA</author>
+	<datestamp>1243265760000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Why doesn't the government set up a specific website, such as publicnotice.gov, and require the use of that?</p><p>Governments all over are already using internet web services such as BidSync to post their bids in lieu of other methods for public notice.</p><p>I'd much rather have a single website to review than classified ads which may never make it online.</p><p>Maybe there's a more elegant solution to my 5-second thought above, but we can't keep using local newspapers.  It's practically a monopoly-type service for newspapers (public notices run about $200 or more in a small city because there is no competition), and one that will soon fall apart when these organizations die.</p></htmltext>
+<tokenext>Why does n't the government set up a specific website , such as publicnotice.gov , and require the use of that ? Governments all over are already using internet web services such as BidSync to post their bids in lieu of other methods for public notice.I 'd much rather have a single website to review than classified ads which may never make it online.Maybe there 's a more elegant solution to my 5-second thought above , but we ca n't keep using local newspapers .
+It 's practically a monopoly-type service for newspapers ( public notices run about $ 200 or more in a small city because there is no competition ) , and one that will soon fall apart when these organizations die .</tokentext>
+<sentencetext>Why doesn't the government set up a specific website, such as publicnotice.gov, and require the use of that?Governments all over are already using internet web services such as BidSync to post their bids in lieu of other methods for public notice.I'd much rather have a single website to review than classified ads which may never make it online.Maybe there's a more elegant solution to my 5-second thought above, but we can't keep using local newspapers.
+It's practically a monopoly-type service for newspapers (public notices run about $200 or more in a small city because there is no competition), and one that will soon fall apart when these organizations die.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089259</id>
+	<title>Mr Prosser said:</title>
+	<author>Anonymous</author>
+	<datestamp>1243256940000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>-1</modscore>
+	<htmltext>"You were quite entitled to make any suggestions or protests at the appropriate time you know."
+<p>
+"Appropriate time?" hooted Arthur. "Appropriate time? The first I knew about it was when a workman arrived at my home yesterday. I asked him if he'd come to clean the windows and he said no he'd come to demolish the house. He didn't tell me straight away of course. Oh no. First he wiped a couple of windows and charged me a fiver. Then he told me."
+</p><p>
+"But Mr Dent, the plans have been available in the local planning office for the last nine months."
+</p><p>
+"Oh yes, well as soon as I heard I went straight round to see them, yesterday afternoon. You hadn't exactly gone out of your way to call attention to them had you? I mean like actually telling anybody or anything."
+</p><p>
+"But the plans were on display<nobr> <wbr></nobr>..."
+</p><p>
+"On display? I eventually had to go down to the cellar to find them."
+</p><p>
+"That's the display department."
+</p><p>
+"With a torch."
+</p><p>
+"Ah, well the lights had probably gone."
+</p><p>
+"So had the stairs."
+</p><p>
+"But look, you found the notice didn't you?"
+</p><p>
+"Yes," said Arthur, "yes I did. It was on display in the bottom of a locked filing cabinet stuck in a disused lavatory with a sign on the door saying Beware of the Leopard."</p></htmltext>
+<tokenext>" You were quite entitled to make any suggestions or protests at the appropriate time you know .
+" " Appropriate time ?
+" hooted Arthur .
+" Appropriate time ?
+The first I knew about it was when a workman arrived at my home yesterday .
+I asked him if he 'd come to clean the windows and he said no he 'd come to demolish the house .
+He did n't tell me straight away of course .
+Oh no .
+First he wiped a couple of windows and charged me a fiver .
+Then he told me .
+" " But Mr Dent , the plans have been available in the local planning office for the last nine months .
+" " Oh yes , well as soon as I heard I went straight round to see them , yesterday afternoon .
+You had n't exactly gone out of your way to call attention to them had you ?
+I mean like actually telling anybody or anything .
+" " But the plans were on display ... " " On display ?
+I eventually had to go down to the cellar to find them .
+" " That 's the display department .
+" " With a torch .
+" " Ah , well the lights had probably gone .
+" " So had the stairs .
+" " But look , you found the notice did n't you ?
+" " Yes , " said Arthur , " yes I did .
+It was on display in the bottom of a locked filing cabinet stuck in a disused lavatory with a sign on the door saying Beware of the Leopard .
+"</tokentext>
+<sentencetext>"You were quite entitled to make any suggestions or protests at the appropriate time you know.
+"
+
+"Appropriate time?
+" hooted Arthur.
+"Appropriate time?
+The first I knew about it was when a workman arrived at my home yesterday.
+I asked him if he'd come to clean the windows and he said no he'd come to demolish the house.
+He didn't tell me straight away of course.
+Oh no.
+First he wiped a couple of windows and charged me a fiver.
+Then he told me.
+"
+
+"But Mr Dent, the plans have been available in the local planning office for the last nine months.
+"
+
+"Oh yes, well as soon as I heard I went straight round to see them, yesterday afternoon.
+You hadn't exactly gone out of your way to call attention to them had you?
+I mean like actually telling anybody or anything.
+"
+
+"But the plans were on display ..."
+
+"On display?
+I eventually had to go down to the cellar to find them.
+"
+
+"That's the display department.
+"
+
+"With a torch.
+"
+
+"Ah, well the lights had probably gone.
+"
+
+"So had the stairs.
+"
+
+"But look, you found the notice didn't you?
+"
+
+"Yes," said Arthur, "yes I did.
+It was on display in the bottom of a locked filing cabinet stuck in a disused lavatory with a sign on the door saying Beware of the Leopard.
+"</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28090885</id>
+	<title>It's a good thing if done right, like EDGAR.</title>
+	<author>Animats</author>
+	<datestamp>1243269240000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>
+This is a good thing, but it has to be done right.  Like the SEC's EDGAR system.
+</p><p>
+EDGAR now has a user-friendly interface and a search engine, but underneath is a huge
+collection of raw SGML files accessible via FTP. These files stay up forever and their names
+and contents do not change.  Many big services (Bloomberg, EDGAR Online, Google, etc.)
+grind through that data every day.  One of my systems, <a href="http://www.downside.com/" title="downside.com">Downside</a> [downside.com], does it too.  There's no charge for access, bulk downloads are supported, and the raw filings are accessible. That's the way it should work.
+</p><p>
+What you don't want is something you can only access through a search engine, with some of the information on a pay site.  A bad example is Delaware's corporate record system.
+</p><p>
+So the minimum standards for a public records system that replaces publication should be comparable to those maintained by EDGAR.</p></htmltext>
+<tokenext>This is a good thing , but it has to be done right .
+Like the SEC 's EDGAR system .
+EDGAR now has a user-friendly interface and a search engine , but underneath is a huge collection of raw SGML files accessible via FTP .
+These files stay up forever and their names and contents do not change .
+Many big services ( Bloomberg , EDGAR Online , Google , etc .
+) grind through that data every day .
+One of my systems , Downside [ downside.com ] , does it too .
+There 's no charge for access , bulk downloads are supported , and the raw filings are accessible .
+That 's the way it should work .
+What you do n't want is something you can only access through a search engine , with some of the information on a pay site .
+A bad example is Delaware 's corporate record system .
+So the minimum standards for a public records system that replaces publication should be comparable to those maintained by EDGAR .</tokentext>
+<sentencetext>
+This is a good thing, but it has to be done right.
+Like the SEC's EDGAR system.
+EDGAR now has a user-friendly interface and a search engine, but underneath is a huge
+collection of raw SGML files accessible via FTP.
+These files stay up forever and their names
+and contents do not change.
+Many big services (Bloomberg, EDGAR Online, Google, etc.
+)
+grind through that data every day.
+One of my systems, Downside [downside.com], does it too.
+There's no charge for access, bulk downloads are supported, and the raw filings are accessible.
+That's the way it should work.
+What you don't want is something you can only access through a search engine, with some of the information on a pay site.
+A bad example is Delaware's corporate record system.
+So the minimum standards for a public records system that replaces publication should be comparable to those maintained by EDGAR.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088711</id>
+	<title>So it's easier to hide activities</title>
+	<author>Anonymous</author>
+	<datestamp>1243253280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>by posting to their own govt websites than by hiding them by not posting a classified at all?</p></htmltext>
+<tokenext>by posting to their own govt websites than by hiding them by not posting a classified at all ?</tokentext>
+<sentencetext>by posting to their own govt websites than by hiding them by not posting a classified at all?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28094289</id>
+	<title>Anonymous Coward</title>
+	<author>Anonymous</author>
+	<datestamp>1243349040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Newspapers lost their credibility along with the rest of the media "watchdogs" in the run up to the Iraq debacle. The only ones that made any attempt at keeping anyone honest were the bloggers who were derided as losers living in their folks basement eating cheetos (as opposed to writing in a cubicle eating cheetos).</p><p>I have the unique position of being formally employed by a newspaper business, and now do contracting work for the government (which is why I logged in as "AC"). Public notices are ONLY about the money that they bring in, and the expense is not small for the various entities that are forced to comply. The agency I work for (which is not large), spends OVER $250,000 a year complying with these requirements. This is money that ultimately comes out of our pockets, and into the albeit swindling coffers of the newspaper industry.</p><p>I bet Craigslist would be thrilled to offer free "legals", and they can be physically posted at the city halls, libraries etc., and added to the<nobr> <wbr></nobr>.gov websites, and indexed by the Google.</p><p>Its all about the money. Shut the lights out will you... its over.</p></htmltext>
+<tokenext>Newspapers lost their credibility along with the rest of the media " watchdogs " in the run up to the Iraq debacle .
+The only ones that made any attempt at keeping anyone honest were the bloggers who were derided as losers living in their folks basement eating cheetos ( as opposed to writing in a cubicle eating cheetos ) .I have the unique position of being formally employed by a newspaper business , and now do contracting work for the government ( which is why I logged in as " AC " ) .
+Public notices are ONLY about the money that they bring in , and the expense is not small for the various entities that are forced to comply .
+The agency I work for ( which is not large ) , spends OVER $ 250,000 a year complying with these requirements .
+This is money that ultimately comes out of our pockets , and into the albeit swindling coffers of the newspaper industry.I bet Craigslist would be thrilled to offer free " legals " , and they can be physically posted at the city halls , libraries etc. , and added to the .gov websites , and indexed by the Google.Its all about the money .
+Shut the lights out will you... its over .</tokentext>
+<sentencetext>Newspapers lost their credibility along with the rest of the media "watchdogs" in the run up to the Iraq debacle.
+The only ones that made any attempt at keeping anyone honest were the bloggers who were derided as losers living in their folks basement eating cheetos (as opposed to writing in a cubicle eating cheetos).I have the unique position of being formally employed by a newspaper business, and now do contracting work for the government (which is why I logged in as "AC").
+Public notices are ONLY about the money that they bring in, and the expense is not small for the various entities that are forced to comply.
+The agency I work for (which is not large), spends OVER $250,000 a year complying with these requirements.
+This is money that ultimately comes out of our pockets, and into the albeit swindling coffers of the newspaper industry.I bet Craigslist would be thrilled to offer free "legals", and they can be physically posted at the city halls, libraries etc., and added to the .gov websites, and indexed by the Google.Its all about the money.
+Shut the lights out will you... its over.</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089057
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088769
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28091833
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088701
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088963
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088769
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28090435
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089039
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088719
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28094657
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088769
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089431
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088719
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28091295
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088769
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089639
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088981
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088689
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28093175
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089079
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089299
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088741
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28091693
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089039
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088719
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088939
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088733
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089097
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088719
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089577
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088741
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089029
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088769
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28110509
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088719
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_25_212203_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28090403
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089039
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088719
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_212203.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088769
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28091295
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28094657
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089057
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089029
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088963
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_212203.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28090473
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_212203.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089079
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28093175
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_212203.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088689
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088981
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089639
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_212203.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088979
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_212203.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088857
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_212203.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089585
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_212203.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088733
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088939
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_212203.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088719
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28110509
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089431
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089039
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28091693
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28090403
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28090435
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089097
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_212203.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28091037
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_212203.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088741
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089577
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28089299
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_25_212203.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28088701
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_25_212203.28091833
+</commentlist>
+</conversation>

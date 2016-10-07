@@ -1,0 +1,2060 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_26_159249</id>
+	<title>IBM Wants Patent For Regex SSN Validation</title>
+	<author>timothy</author>
+	<datestamp>1243355880000</datestamp>
+	<htmltext><a href="mailto:theodp@aol.com" rel="nofollow">theodp</a> writes <i>"What do you get when you combine <a href="http://www.dojotoolkit.org/dojo-contributors">IBM contributors</a> with the <a href="http://dojofoundation.org/">Dojo Foundation</a>? A patent for <a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=\%2Fnetahtml\%2FPTO\%2Fsrchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=\%2220090132950\%22.PGNR.&amp;OS=DN/20090132950&amp;RS=DN/20090132950">Real-Time Validation of Text Input Fields Using Regular Expression Evaluation During Text Entry</a>, assuming the newly-disclosed Big Blue patent application passes muster with the USPTO. IBM explains that the invention of four IBMers addresses a 'persistent problem that plagues Web form fields' &mdash; e.g., 'a social security number can be entered with or without dashes.' A non-legalese description of IBM's patent-pending invention can be found <a href="http://docs.dojocampus.org/dijit/form/ValidationTextBox">in The Official Dojo Documentation</a>. While IBM has formed a <a href="http://ajax.phpmagazine.net/2006/06/ibm\_contributes\_ajax\_software.html">Strategic Partnership With the Dojo Foundation</a> which may protect one from a patent infringement lawsuit over validating phone numbers, concerns have been voiced over <a href="http://blogs.zdnet.com/BTL/index.php?p=917">an exception clause</a> in IBM's open source pledge."</i></htmltext>
+<tokenext>theodp writes " What do you get when you combine IBM contributors with the Dojo Foundation ?
+A patent for Real-Time Validation of Text Input Fields Using Regular Expression Evaluation During Text Entry , assuming the newly-disclosed Big Blue patent application passes muster with the USPTO .
+IBM explains that the invention of four IBMers addresses a 'persistent problem that plagues Web form fields ' â € ” e.g. , 'a social security number can be entered with or without dashes .
+' A non-legalese description of IBM 's patent-pending invention can be found in The Official Dojo Documentation .
+While IBM has formed a Strategic Partnership With the Dojo Foundation which may protect one from a patent infringement lawsuit over validating phone numbers , concerns have been voiced over an exception clause in IBM 's open source pledge .
+"</tokentext>
+<sentencetext>theodp writes "What do you get when you combine IBM contributors with the Dojo Foundation?
+A patent for Real-Time Validation of Text Input Fields Using Regular Expression Evaluation During Text Entry, assuming the newly-disclosed Big Blue patent application passes muster with the USPTO.
+IBM explains that the invention of four IBMers addresses a 'persistent problem that plagues Web form fields' â€” e.g., 'a social security number can be entered with or without dashes.
+' A non-legalese description of IBM's patent-pending invention can be found in The Official Dojo Documentation.
+While IBM has formed a Strategic Partnership With the Dojo Foundation which may protect one from a patent infringement lawsuit over validating phone numbers, concerns have been voiced over an exception clause in IBM's open source pledge.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28101629</id>
+	<title>Re:What bullshit?</title>
+	<author>Tired and Emotional</author>
+	<datestamp>1243336140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>That's an editing picture. My COBOL is very rusty but I don't think you can pull just the digits out of it:</p><p>
+&nbsp; &nbsp; &nbsp; &nbsp; 77 SOCIAL-SECURITY-NUMBER PIC 999-99-9999.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; 77 NUMERIC-SOCIAL         PIC 999999999 COMP-3.<nobr> <wbr></nobr>....</p><p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MOVE SOCIAL-SECURITY-NUMBER TO NUMERIC-SOCIAL.</p><p>IIRC, this does not work.</p><p>(the patent app is still crap though)</p></htmltext>
+<tokenext>That 's an editing picture .
+My COBOL is very rusty but I do n't think you can pull just the digits out of it : Â   Â   Â   Â   77 SOCIAL-SECURITY-NUMBER PIC 999-99-9999 .
+Â   Â   Â   Â   77 NUMERIC-SOCIAL PIC 999999999 COMP-3 .
+... . Â   Â   Â   Â   Â   MOVE SOCIAL-SECURITY-NUMBER TO NUMERIC-SOCIAL.IIRC , this does not work .
+( the patent app is still crap though )</tokentext>
+<sentencetext>That's an editing picture.
+My COBOL is very rusty but I don't think you can pull just the digits out of it:
+Â  Â  Â  Â  77 SOCIAL-SECURITY-NUMBER PIC 999-99-9999.
+Â  Â  Â  Â  77 NUMERIC-SOCIAL         PIC 999999999 COMP-3.
+....
+Â  Â  Â  Â  Â  MOVE SOCIAL-SECURITY-NUMBER TO NUMERIC-SOCIAL.IIRC, this does not work.
+(the patent app is still crap though)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097439</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097967</id>
+	<title>Re:More to it than that.</title>
+	<author>PitaBred</author>
+	<datestamp>1243364220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Still... the rules are known. Regex's are just a way to express rules... why in the hell is this patentable again? It's not like the regular expression is anything someone "skilled in the art" wouldn't come up with.</htmltext>
+<tokenext>Still... the rules are known .
+Regex 's are just a way to express rules... why in the hell is this patentable again ?
+It 's not like the regular expression is anything someone " skilled in the art " would n't come up with .</tokentext>
+<sentencetext>Still... the rules are known.
+Regex's are just a way to express rules... why in the hell is this patentable again?
+It's not like the regular expression is anything someone "skilled in the art" wouldn't come up with.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097149</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</id>
+	<title>Prior Art so Prior It Hurts</title>
+	<author>Anonymous</author>
+	<datestamp>1243359540000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext>
+
+<a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=\%2Fnetahtml\%2FPTO\%2Fsrchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=\%2220090132950\%22.PGNR.&amp;OS=DN/20090132950&amp;RS=DN/20090132950" title="uspto.gov" rel="nofollow">Application Patent</a> [uspto.gov] Date: November 20, 2007<br>
+<a href="http://regexlib.com/REDetails.aspx?regexp\_id=535" title="regexlib.com" rel="nofollow">Online Prior Art at the Regex Library</a> [regexlib.com] from 2004:<blockquote><div><p> <tt>^(?!000)([0-6]\d{2}|7([0-6]\d|7[012]))([ -]?)(?!00)\d\d\3(?!0000)\d{4}$</tt></p></div> </blockquote><p>Put that into your favorite Javascript regular expression object and write a stupid onChange reference to it in your HTML and<nobr> <wbr></nobr>... tada!  Too complicated?  <a href="http://javascript.internet.com/forms/val-ssn.html" title="internet.com" rel="nofollow">Here's some more prior art</a> [internet.com].  Or <a href="http://www.breakingpar.com/bkp/home.nsf/0/87256B280015193F87256F6A0072B54C" title="breakingpar.com" rel="nofollow">here</a> [breakingpar.com].  A <a href="http://www.google.com/search?q=javascript+ssn+validation&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a" title="google.com" rel="nofollow">little bit of Googling</a> [google.com] must be too much for the USPTO.  <br> <br>
+
+Are we suddenly shocked to discover one line of code can be patented when a whole mess of code can be patented?</p></div>
+	</htmltext>
+<tokenext>Application Patent [ uspto.gov ] Date : November 20 , 2007 Online Prior Art at the Regex Library [ regexlib.com ] from 2004 : ^ ( ?
+! 000 ) ( [ 0-6 ] \ d { 2 } | 7 ( [ 0-6 ] \ d | 7 [ 012 ] ) ) ( [ - ] ? ) ( ? ! 00 ) \ d \ d \ 3 ( ?
+! 0000 ) \ d { 4 } $ Put that into your favorite Javascript regular expression object and write a stupid onChange reference to it in your HTML and ... tada ! Too complicated ?
+Here 's some more prior art [ internet.com ] .
+Or here [ breakingpar.com ] .
+A little bit of Googling [ google.com ] must be too much for the USPTO .
+Are we suddenly shocked to discover one line of code can be patented when a whole mess of code can be patented ?</tokentext>
+<sentencetext>
+
+Application Patent [uspto.gov] Date: November 20, 2007
+Online Prior Art at the Regex Library [regexlib.com] from 2004: ^(?
+!000)([0-6]\d{2}|7([0-6]\d|7[012]))([ -]?)(?!00)\d\d\3(?
+!0000)\d{4}$ Put that into your favorite Javascript regular expression object and write a stupid onChange reference to it in your HTML and ... tada!  Too complicated?
+Here's some more prior art [internet.com].
+Or here [breakingpar.com].
+A little bit of Googling [google.com] must be too much for the USPTO.
+Are we suddenly shocked to discover one line of code can be patented when a whole mess of code can be patented?
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28101865</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>bit01</author>
+	<datestamp>1243337400000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p> <em>(and for those who think this is a good thing, the result of this line is there's no such thing as an <b>invention</b>, because everybody builds on what's already there).</em> </p><p>Your bias is showing. An "invention" is completely different thing from a "patent". People like you who assume they are the same are part of the problem.</p><p>In addition your claim that obvious software patents are not being awarded is nonsense. Do a <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=\%2Fnetahtml\%2FPTO\%2Fsearch-bool.html&amp;r=0&amp;f=S&amp;l=50&amp;TERM1=software&amp;FIELD1=&amp;co1=AND&amp;TERM2=&amp;FIELD2=&amp;d=PTXT" title="uspto.gov" rel="nofollow">patent search for the word "software"</a> [uspto.gov]. Look at the patent numbers. Almost all recently released patents have the word software in them (look at the patent numbers), most of them are software only patents, virtually all of them are obvious to somebody in the field and almost none of them required any significant research investment to be protected (the entire rational of the patent system).</p><p>---</p><p> <em>The patent system. The whole edifice is based on handwaving.</em> </p></htmltext>
+<tokenext>( and for those who think this is a good thing , the result of this line is there 's no such thing as an invention , because everybody builds on what 's already there ) .
+Your bias is showing .
+An " invention " is completely different thing from a " patent " .
+People like you who assume they are the same are part of the problem.In addition your claim that obvious software patents are not being awarded is nonsense .
+Do a patent search for the word " software " [ uspto.gov ] .
+Look at the patent numbers .
+Almost all recently released patents have the word software in them ( look at the patent numbers ) , most of them are software only patents , virtually all of them are obvious to somebody in the field and almost none of them required any significant research investment to be protected ( the entire rational of the patent system ) .--- The patent system .
+The whole edifice is based on handwaving .</tokentext>
+<sentencetext> (and for those who think this is a good thing, the result of this line is there's no such thing as an invention, because everybody builds on what's already there).
+Your bias is showing.
+An "invention" is completely different thing from a "patent".
+People like you who assume they are the same are part of the problem.In addition your claim that obvious software patents are not being awarded is nonsense.
+Do a patent search for the word "software" [uspto.gov].
+Look at the patent numbers.
+Almost all recently released patents have the word software in them (look at the patent numbers), most of them are software only patents, virtually all of them are obvious to somebody in the field and almost none of them required any significant research investment to be protected (the entire rational of the patent system).--- The patent system.
+The whole edifice is based on handwaving. </sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097363</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28102935</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Zordak</author>
+	<datestamp>1243342800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>One last thing...<p><div class="quote"><p>And if somebody builds on what's already there its not an invention, thats called innovation</p></div><p>Title 35 of the United States code disagrees with you.  If it's new, non-obvious, and useful, it's a patentable invention.</p></div>
+	</htmltext>
+<tokenext>One last thing...And if somebody builds on what 's already there its not an invention , thats called innovationTitle 35 of the United States code disagrees with you .
+If it 's new , non-obvious , and useful , it 's a patentable invention .</tokentext>
+<sentencetext>One last thing...And if somebody builds on what's already there its not an invention, thats called innovationTitle 35 of the United States code disagrees with you.
+If it's new, non-obvious, and useful, it's a patentable invention.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099935</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28104215</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Daniel Dvorkin</author>
+	<datestamp>1243351500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>On a serious note, you stated that you were applying for a software patent.  That information, in and of itself, is enough to tell me that what you are doing is wrong.  My "torturing puppies" example may have been melodramatic, but there's a reason I chose it:  certain things are <b>always wrong</b>, and there is no benefit which can possibly be gained from them sufficient to make them right.  Torturing puppies is one of those things, and patenting software is another.  Your flippant comment about the "chorus of boos" indicates that not only don't you understand this, you don't even understand that there are other people who do understand it.  Maybe you should try.</p></htmltext>
+<tokenext>On a serious note , you stated that you were applying for a software patent .
+That information , in and of itself , is enough to tell me that what you are doing is wrong .
+My " torturing puppies " example may have been melodramatic , but there 's a reason I chose it : certain things are always wrong , and there is no benefit which can possibly be gained from them sufficient to make them right .
+Torturing puppies is one of those things , and patenting software is another .
+Your flippant comment about the " chorus of boos " indicates that not only do n't you understand this , you do n't even understand that there are other people who do understand it .
+Maybe you should try .</tokentext>
+<sentencetext>On a serious note, you stated that you were applying for a software patent.
+That information, in and of itself, is enough to tell me that what you are doing is wrong.
+My "torturing puppies" example may have been melodramatic, but there's a reason I chose it:  certain things are always wrong, and there is no benefit which can possibly be gained from them sufficient to make them right.
+Torturing puppies is one of those things, and patenting software is another.
+Your flippant comment about the "chorus of boos" indicates that not only don't you understand this, you don't even understand that there are other people who do understand it.
+Maybe you should try.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098281</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098281</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Rei</author>
+	<datestamp>1243365540000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p><i>So if your VCs wanted you to torture puppies to death before they'd give you money, would the "chorus of boos" have any effect on your actions?</i></p><p>I assure you that my company, Puppy Waterboards, LLC, does care about your concerns about our patent, "Method and apparatus for puppy euthanasia utilizing superheated corkscrews", and will direct them to the appropriate staff.</p><p><i>There are many ways to get money. Some of them are right, and some of them are wrong. People with consciences know there's a difference.</i></p><p>On a more serious note, you don't even know what my patent is about, and yet you're positive it's "wrong".  People with consciences try to find out the facts before they criticize.</p></htmltext>
+<tokenext>So if your VCs wanted you to torture puppies to death before they 'd give you money , would the " chorus of boos " have any effect on your actions ? I assure you that my company , Puppy Waterboards , LLC , does care about your concerns about our patent , " Method and apparatus for puppy euthanasia utilizing superheated corkscrews " , and will direct them to the appropriate staff.There are many ways to get money .
+Some of them are right , and some of them are wrong .
+People with consciences know there 's a difference.On a more serious note , you do n't even know what my patent is about , and yet you 're positive it 's " wrong " .
+People with consciences try to find out the facts before they criticize .</tokentext>
+<sentencetext>So if your VCs wanted you to torture puppies to death before they'd give you money, would the "chorus of boos" have any effect on your actions?I assure you that my company, Puppy Waterboards, LLC, does care about your concerns about our patent, "Method and apparatus for puppy euthanasia utilizing superheated corkscrews", and will direct them to the appropriate staff.There are many ways to get money.
+Some of them are right, and some of them are wrong.
+People with consciences know there's a difference.On a more serious note, you don't even know what my patent is about, and yet you're positive it's "wrong".
+People with consciences try to find out the facts before they criticize.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097391</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098459</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>DrJimbo</author>
+	<datestamp>1243366140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I was using regex's to normalize phone numbers in HTML pages back in 1999.</htmltext>
+<tokenext>I was using regex 's to normalize phone numbers in HTML pages back in 1999 .</tokentext>
+<sentencetext>I was using regex's to normalize phone numbers in HTML pages back in 1999.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098199</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>JWSmythe</author>
+	<datestamp>1243365180000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>
+&nbsp; &nbsp; It's not trivial, but not impossible.</p><p>
+&nbsp; &nbsp; The first 3 digits are the area (state) code.</p><p>
+&nbsp; &nbsp; The next 2 digits are the group.</p><p>
+&nbsp; &nbsp; The last 4 digits are the serial number.</p><p>
+&nbsp; &nbsp; There is no check digit, so no further math is required to validate it.</p><p>
+&nbsp; &nbsp; State codes are listed here <a href="http://www.socialsecurity.gov/employer/stateweb.htm" title="socialsecurity.gov">http://www.socialsecurity.gov/employer/stateweb.htm</a> [socialsecurity.gov]</p><p>
+&nbsp; &nbsp; The highest issued group as of May 01 2009 is listed here: <a href="http://www.socialsecurity.gov/employer/ssns/highgroup.txt" title="socialsecurity.gov">http://www.socialsecurity.gov/employer/ssns/highgroup.txt</a> [socialsecurity.gov]</p><p>
+&nbsp; &nbsp; You can pull the high group file back to November 2003 from the SSA site here: <a href="http://www.socialsecurity.gov/employer/ssnvhighgroup.htm" title="socialsecurity.gov">http://www.socialsecurity.gov/employer/ssnvhighgroup.htm</a> [socialsecurity.gov]</p><p>
+&nbsp; &nbsp; The group numbers are used out of order for "administrative" reasons.</p><p>
+&nbsp; &nbsp; The groups are assigned as:</p><p>
+&nbsp; &nbsp; ODD 01 -&gt; 09<br>
+&nbsp; &nbsp; EVEN 10 -&gt; 98<br>
+&nbsp; &nbsp; EVEN 02 -&gt; 08<br>
+&nbsp; &nbsp; ODD 11 -&gt; 99</p><p>
+&nbsp; &nbsp; Area 000 is never issued.<br>
+&nbsp; &nbsp; Group 00 is never issued.<br>
+&nbsp; &nbsp; Serial 0000 is never issued.</p><p>
+&nbsp; &nbsp; The Area (state) code is based on where the card is issued, not where the person was born.  If you were born in NYC, but your number was issued in California, you would have a California area (state) code.</p><p>
+&nbsp; &nbsp; Now, the SSN is generally requested by the hospital, so if you have a baby born in the US, part of the stack of paperwork includes the SSN request form.  In those cases, obviously the birth state and SSN state should match, unless for some odd reason the request is sent to another state.</p><p>
+&nbsp; &nbsp; When I was born, there was no requirement to get a SSN issued immediately, and my family moved when I was 5, so my SSN was issued by the second state.</p><p>
+&nbsp; &nbsp; The logic to test if a SSN has been issued is pretty easy with a couple tables in a DB, or a whole lot of hard coded crud that has to be updated monthly.</p></htmltext>
+<tokenext>Â   Â   It 's not trivial , but not impossible .
+Â   Â   The first 3 digits are the area ( state ) code .
+Â   Â   The next 2 digits are the group .
+Â   Â   The last 4 digits are the serial number .
+Â   Â   There is no check digit , so no further math is required to validate it .
+Â   Â   State codes are listed here http : //www.socialsecurity.gov/employer/stateweb.htm [ socialsecurity.gov ] Â   Â   The highest issued group as of May 01 2009 is listed here : http : //www.socialsecurity.gov/employer/ssns/highgroup.txt [ socialsecurity.gov ] Â   Â   You can pull the high group file back to November 2003 from the SSA site here : http : //www.socialsecurity.gov/employer/ssnvhighgroup.htm [ socialsecurity.gov ] Â   Â   The group numbers are used out of order for " administrative " reasons .
+Â   Â   The groups are assigned as : Â   Â   ODD 01 - &gt; 09 Â   Â   EVEN 10 - &gt; 98 Â   Â   EVEN 02 - &gt; 08 Â   Â   ODD 11 - &gt; 99 Â   Â   Area 000 is never issued .
+Â   Â   Group 00 is never issued .
+Â   Â   Serial 0000 is never issued .
+Â   Â   The Area ( state ) code is based on where the card is issued , not where the person was born .
+If you were born in NYC , but your number was issued in California , you would have a California area ( state ) code .
+Â   Â   Now , the SSN is generally requested by the hospital , so if you have a baby born in the US , part of the stack of paperwork includes the SSN request form .
+In those cases , obviously the birth state and SSN state should match , unless for some odd reason the request is sent to another state .
+Â   Â   When I was born , there was no requirement to get a SSN issued immediately , and my family moved when I was 5 , so my SSN was issued by the second state .
+Â   Â   The logic to test if a SSN has been issued is pretty easy with a couple tables in a DB , or a whole lot of hard coded crud that has to be updated monthly .</tokentext>
+<sentencetext>
+Â  Â  It's not trivial, but not impossible.
+Â  Â  The first 3 digits are the area (state) code.
+Â  Â  The next 2 digits are the group.
+Â  Â  The last 4 digits are the serial number.
+Â  Â  There is no check digit, so no further math is required to validate it.
+Â  Â  State codes are listed here http://www.socialsecurity.gov/employer/stateweb.htm [socialsecurity.gov]
+Â  Â  The highest issued group as of May 01 2009 is listed here: http://www.socialsecurity.gov/employer/ssns/highgroup.txt [socialsecurity.gov]
+Â  Â  You can pull the high group file back to November 2003 from the SSA site here: http://www.socialsecurity.gov/employer/ssnvhighgroup.htm [socialsecurity.gov]
+Â  Â  The group numbers are used out of order for "administrative" reasons.
+Â  Â  The groups are assigned as:
+Â  Â  ODD 01 -&gt; 09
+Â  Â  EVEN 10 -&gt; 98
+Â  Â  EVEN 02 -&gt; 08
+Â  Â  ODD 11 -&gt; 99
+Â  Â  Area 000 is never issued.
+Â  Â  Group 00 is never issued.
+Â  Â  Serial 0000 is never issued.
+Â  Â  The Area (state) code is based on where the card is issued, not where the person was born.
+If you were born in NYC, but your number was issued in California, you would have a California area (state) code.
+Â  Â  Now, the SSN is generally requested by the hospital, so if you have a baby born in the US, part of the stack of paperwork includes the SSN request form.
+In those cases, obviously the birth state and SSN state should match, unless for some odd reason the request is sent to another state.
+Â  Â  When I was born, there was no requirement to get a SSN issued immediately, and my family moved when I was 5, so my SSN was issued by the second state.
+Â  Â  The logic to test if a SSN has been issued is pretty easy with a couple tables in a DB, or a whole lot of hard coded crud that has to be updated monthly.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097003</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096935</id>
+	<title>Cuff me...</title>
+	<author>EkriirkE</author>
+	<datestamp>1243360020000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>1</modscore>
+	<htmltext>^\d{3}-\d{2}-\d{4}$</htmltext>
+<tokenext>^ \ d { 3 } - \ d { 2 } - \ d { 4 } $</tokentext>
+<sentencetext>^\d{3}-\d{2}-\d{4}$</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097285</id>
+	<title>What if We Assume They *Are* Idiots?</title>
+	<author>eldavojohn</author>
+	<datestamp>1243361580000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><b>Program Manager</b>:  What the hell is happening?!  Why is the <a href="http://www.thewebsiteisdown.com/" title="thewebsiteisdown.com" rel="nofollow">website down</a> [thewebsiteisdown.com]?! <br>
+<b>Web Programmer</b>:  It's the users, sir, one of them put dashes in their SSN on the form! <br>
+<b>Program Manager</b>:  I don't have time for this mumbo jumbo geek jargon<nobr> <wbr></nobr>... what are you trying to tell me?  This is an emergency, accounting said our money is leaving!  <br>
+<b>Web Programmer</b>:  Well, you see the dashes are <i>inside</i> the string.  <br>
+<b>Program Manager</b>:  <i>Inside</i>?  How is this possible?  <br>
+<b>Web Programmer</b>:  Well, the user must have paused to push the dash key, sir. <br>
+<b>Program Manager</b>:  So if the dashes are inside the string, we have to get them out.  Is there someone we can pay for this service?  <br>
+<b>Web Programmer</b>:  I'm afraid it's too complicated for that.  But maybe if we had it write to a file and one of us kept refreshing a text editor on that file<nobr> <wbr></nobr>... we could remove it and then it could read back the file after waiting for a few seconds.  We would have to hope that more users don't come while we are performing emergency dash extraction.  <br>
+<b>Program Manager</b>:  Goddamnit!  Why didn't testing find this?! <br>
+<b>Web Programmer</b>:  Well, they did but to fix this bug we just removed the dash keys on their keyboards.  <br>
+<b>Program Manager</b>:  Can we do that to each of the users?  <br>
+<i>*IBM employee enters with massive box labeled "Enterprise SSN Dash Extractor"*</i> <br>
+<b>IBM Sales Rep</b>:  Gentlemen, let IBM solve all your SSN problems for a mere $2,000 per site license!</htmltext>
+<tokenext>Program Manager : What the hell is happening ? !
+Why is the website down [ thewebsiteisdown.com ] ? !
+Web Programmer : It 's the users , sir , one of them put dashes in their SSN on the form !
+Program Manager : I do n't have time for this mumbo jumbo geek jargon ... what are you trying to tell me ?
+This is an emergency , accounting said our money is leaving !
+Web Programmer : Well , you see the dashes are inside the string .
+Program Manager : Inside ?
+How is this possible ?
+Web Programmer : Well , the user must have paused to push the dash key , sir .
+Program Manager : So if the dashes are inside the string , we have to get them out .
+Is there someone we can pay for this service ?
+Web Programmer : I 'm afraid it 's too complicated for that .
+But maybe if we had it write to a file and one of us kept refreshing a text editor on that file ... we could remove it and then it could read back the file after waiting for a few seconds .
+We would have to hope that more users do n't come while we are performing emergency dash extraction .
+Program Manager : Goddamnit !
+Why did n't testing find this ? !
+Web Programmer : Well , they did but to fix this bug we just removed the dash keys on their keyboards .
+Program Manager : Can we do that to each of the users ?
+* IBM employee enters with massive box labeled " Enterprise SSN Dash Extractor " * IBM Sales Rep : Gentlemen , let IBM solve all your SSN problems for a mere $ 2,000 per site license !</tokentext>
+<sentencetext>Program Manager:  What the hell is happening?!
+Why is the website down [thewebsiteisdown.com]?!
+Web Programmer:  It's the users, sir, one of them put dashes in their SSN on the form!
+Program Manager:  I don't have time for this mumbo jumbo geek jargon ... what are you trying to tell me?
+This is an emergency, accounting said our money is leaving!
+Web Programmer:  Well, you see the dashes are inside the string.
+Program Manager:  Inside?
+How is this possible?
+Web Programmer:  Well, the user must have paused to push the dash key, sir.
+Program Manager:  So if the dashes are inside the string, we have to get them out.
+Is there someone we can pay for this service?
+Web Programmer:  I'm afraid it's too complicated for that.
+But maybe if we had it write to a file and one of us kept refreshing a text editor on that file ... we could remove it and then it could read back the file after waiting for a few seconds.
+We would have to hope that more users don't come while we are performing emergency dash extraction.
+Program Manager:  Goddamnit!
+Why didn't testing find this?!
+Web Programmer:  Well, they did but to fix this bug we just removed the dash keys on their keyboards.
+Program Manager:  Can we do that to each of the users?
+*IBM employee enters with massive box labeled "Enterprise SSN Dash Extractor"* 
+IBM Sales Rep:  Gentlemen, let IBM solve all your SSN problems for a mere $2,000 per site license!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097121</id>
+	<title>Real time is the key claim</title>
+	<author>wiredlogic</author>
+	<datestamp>1243360800000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>The first claim mentions the real time nature of the validation. The example regexes are for validating a completed string. This is still silly and obvious but you may have a harder time finding specific prior art for this case.</p></htmltext>
+<tokenext>The first claim mentions the real time nature of the validation .
+The example regexes are for validating a completed string .
+This is still silly and obvious but you may have a harder time finding specific prior art for this case .</tokentext>
+<sentencetext>The first claim mentions the real time nature of the validation.
+The example regexes are for validating a completed string.
+This is still silly and obvious but you may have a harder time finding specific prior art for this case.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098147</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Rei</author>
+	<datestamp>1243364940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Irrelevant.  Whether you're a big company or not, you can't afford to waste money on frivolous things.  You have to balance your expenditures versus what else you could be doing with that money.</p></htmltext>
+<tokenext>Irrelevant .
+Whether you 're a big company or not , you ca n't afford to waste money on frivolous things .
+You have to balance your expenditures versus what else you could be doing with that money .</tokentext>
+<sentencetext>Irrelevant.
+Whether you're a big company or not, you can't afford to waste money on frivolous things.
+You have to balance your expenditures versus what else you could be doing with that money.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097909</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097671</id>
+	<title>Re:What bullshit?</title>
+	<author>Tablizer</author>
+	<datestamp>1243363140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>How...hard is it to strip non-numeric characters from a string [SSN]? I cannot believe there could be such programmer incompetence;</p></div></blockquote><p>I once worked on software for a campus e-store for a large university. The credit-card input didn't accept spaces. I find it difficult to visually check credit card numbers without spaces. Unfortunately, I had no control to fix that particular issue. A real head-slapper.</p><p>That being said, the idea of character "input templates" is quite old. These templates are kind of like regular expressions, but more domain-specific. COBOL had them for quite a long time (but not necessarily in UI's), and "xBase" (dBASE and clones) had templates since the early 80's. They not only validated the info, but also provided a visual template. For example, the dashes in SSN would automatically appear on screen and data input would just flow around them automatically, using something like "XXX-XX-XXXX". Same with slashes in dates and decimal points. The existence of the slashes or decimal point also clued the typist in on the type of data expected for a given field. (Special type indicators told the interpreter if something was a date, something like "@D mm/dd/yyy".)</p><p>They simplified a lot of UI code and validation. '''Very practical''' for biz forms. The only downsides I remember was that the character mapping was not customizable, and international adaptations had to be done by the app; but I'm sure such is technically possible to add. After all, we are not stuck with the 64k limit of 8-bit systems anymore. (I just hope that 640k is enough<nobr> <wbr></nobr>:-)</p><p>Thus, if one wants to get around IBM's patent, then just resurrect xBase's template technique, with a few modernization tweaks. xBase lost claim to being proprietary anyhow in a lawsuit that revealed that the language originated from a non-license-protected gov't project.<br>
+&nbsp;</p></div>
+	</htmltext>
+<tokenext>How...hard is it to strip non-numeric characters from a string [ SSN ] ?
+I can not believe there could be such programmer incompetence ; I once worked on software for a campus e-store for a large university .
+The credit-card input did n't accept spaces .
+I find it difficult to visually check credit card numbers without spaces .
+Unfortunately , I had no control to fix that particular issue .
+A real head-slapper.That being said , the idea of character " input templates " is quite old .
+These templates are kind of like regular expressions , but more domain-specific .
+COBOL had them for quite a long time ( but not necessarily in UI 's ) , and " xBase " ( dBASE and clones ) had templates since the early 80 's .
+They not only validated the info , but also provided a visual template .
+For example , the dashes in SSN would automatically appear on screen and data input would just flow around them automatically , using something like " XXX-XX-XXXX " .
+Same with slashes in dates and decimal points .
+The existence of the slashes or decimal point also clued the typist in on the type of data expected for a given field .
+( Special type indicators told the interpreter if something was a date , something like " @ D mm/dd/yyy " .
+) They simplified a lot of UI code and validation .
+'''Very practical'' ' for biz forms .
+The only downsides I remember was that the character mapping was not customizable , and international adaptations had to be done by the app ; but I 'm sure such is technically possible to add .
+After all , we are not stuck with the 64k limit of 8-bit systems anymore .
+( I just hope that 640k is enough : - ) Thus , if one wants to get around IBM 's patent , then just resurrect xBase 's template technique , with a few modernization tweaks .
+xBase lost claim to being proprietary anyhow in a lawsuit that revealed that the language originated from a non-license-protected gov't project .
+Â  </tokentext>
+<sentencetext>How...hard is it to strip non-numeric characters from a string [SSN]?
+I cannot believe there could be such programmer incompetence;I once worked on software for a campus e-store for a large university.
+The credit-card input didn't accept spaces.
+I find it difficult to visually check credit card numbers without spaces.
+Unfortunately, I had no control to fix that particular issue.
+A real head-slapper.That being said, the idea of character "input templates" is quite old.
+These templates are kind of like regular expressions, but more domain-specific.
+COBOL had them for quite a long time (but not necessarily in UI's), and "xBase" (dBASE and clones) had templates since the early 80's.
+They not only validated the info, but also provided a visual template.
+For example, the dashes in SSN would automatically appear on screen and data input would just flow around them automatically, using something like "XXX-XX-XXXX".
+Same with slashes in dates and decimal points.
+The existence of the slashes or decimal point also clued the typist in on the type of data expected for a given field.
+(Special type indicators told the interpreter if something was a date, something like "@D mm/dd/yyy".
+)They simplified a lot of UI code and validation.
+'''Very practical''' for biz forms.
+The only downsides I remember was that the character mapping was not customizable, and international adaptations had to be done by the app; but I'm sure such is technically possible to add.
+After all, we are not stuck with the 64k limit of 8-bit systems anymore.
+(I just hope that 640k is enough :-)Thus, if one wants to get around IBM's patent, then just resurrect xBase's template technique, with a few modernization tweaks.
+xBase lost claim to being proprietary anyhow in a lawsuit that revealed that the language originated from a non-license-protected gov't project.
+Â 
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097909</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>harryandthehenderson</author>
+	<datestamp>1243364040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The amazing part is that IBM is wasting this kind of money applying for a patent...As in a $5k retainer, $5-10k total for a single patent, more if it takes multiple patents to ensure sufficient protection, and if you want international protection, it can go up to $100k or so.</p><p>You do realize that even the 100k cost is barely 1 millionth of a percent of their yearly revenue?  It would also barely make a 1/100000th of a percent dent in their on hand cash.</p></htmltext>
+<tokenext>The amazing part is that IBM is wasting this kind of money applying for a patent...As in a $ 5k retainer , $ 5-10k total for a single patent , more if it takes multiple patents to ensure sufficient protection , and if you want international protection , it can go up to $ 100k or so.You do realize that even the 100k cost is barely 1 millionth of a percent of their yearly revenue ?
+It would also barely make a 1/100000th of a percent dent in their on hand cash .</tokentext>
+<sentencetext>The amazing part is that IBM is wasting this kind of money applying for a patent...As in a $5k retainer, $5-10k total for a single patent, more if it takes multiple patents to ensure sufficient protection, and if you want international protection, it can go up to $100k or so.You do realize that even the 100k cost is barely 1 millionth of a percent of their yearly revenue?
+It would also barely make a 1/100000th of a percent dent in their on hand cash.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097261</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Anonymous</author>
+	<datestamp>1243361460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>From reading the patent it seems that they are patenting the application of a regex to a data input field. The ssn is just an example <br>
+&nbsp; "an input text validator configured to validate a user-entered character of the text field against the validation expression in real-time and visually indicate invalid user-entered characters"</p><p>Not that this is any better but it is different to what everyone is saying</p></htmltext>
+<tokenext>From reading the patent it seems that they are patenting the application of a regex to a data input field .
+The ssn is just an example Â   " an input text validator configured to validate a user-entered character of the text field against the validation expression in real-time and visually indicate invalid user-entered characters " Not that this is any better but it is different to what everyone is saying</tokentext>
+<sentencetext>From reading the patent it seems that they are patenting the application of a regex to a data input field.
+The ssn is just an example 
+Â  "an input text validator configured to validate a user-entered character of the text field against the validation expression in real-time and visually indicate invalid user-entered characters"Not that this is any better but it is different to what everyone is saying</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096883</id>
+	<title>What. The. Fuck.</title>
+	<author>Glendale2x</author>
+	<datestamp>1243359780000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Are you fucking kidding me? Did they just really patent the format "###-##-####"? I didn't RTFA because I didn't want my head to explode.</p></htmltext>
+<tokenext>Are you fucking kidding me ?
+Did they just really patent the format " # # # - # # - # # # # " ?
+I did n't RTFA because I did n't want my head to explode .</tokentext>
+<sentencetext>Are you fucking kidding me?
+Did they just really patent the format "###-##-####"?
+I didn't RTFA because I didn't want my head to explode.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096981</id>
+	<title>How is that an issue?</title>
+	<author>aardwolf64</author>
+	<datestamp>1243360200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>How is it an "issue" that SSNs can be entered with or without dashes?  Just strip the dashes in post-processing, then add them back if you absolutely have to have them...</p></htmltext>
+<tokenext>How is it an " issue " that SSNs can be entered with or without dashes ?
+Just strip the dashes in post-processing , then add them back if you absolutely have to have them.. .</tokentext>
+<sentencetext>How is it an "issue" that SSNs can be entered with or without dashes?
+Just strip the dashes in post-processing, then add them back if you absolutely have to have them...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28103201</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Hurricane78</author>
+	<datestamp>1243344240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Wanna know what both states -- rejecting everything without really checking and accepting everything without really checking -- have in common?</p><p>Lazyness.</p></htmltext>
+<tokenext>Wan na know what both states -- rejecting everything without really checking and accepting everything without really checking -- have in common ? Lazyness .</tokentext>
+<sentencetext>Wanna know what both states -- rejecting everything without really checking and accepting everything without really checking -- have in common?Lazyness.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097363</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097199</id>
+	<title>Re:Cuff me...</title>
+	<author>EkriirkE</author>
+	<datestamp>1243361160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><tt>Err, after RTFA, I suppose this is more on topic:<br><br>&lt;input name=ssn id=ssn onblur="if (!this.value.match(/^\d{3}-\d{2}-\d{4}$/)) {alert('Invalid SSN, blah blah NNN-NN-NNNN.');this.focus();}"<nobr> <wbr></nobr>/&gt;</tt></htmltext>
+<tokenext>Err , after RTFA , I suppose this is more on topic : / &gt;</tokentext>
+<sentencetext>Err, after RTFA, I suppose this is more on topic: /&gt;</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096935</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100971</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>CodeBuster</author>
+	<datestamp>1243332960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>The amazing part is that IBM is wasting this kind of money applying for a patent that has no chance of standing up in court</p></div><p>That is not the point. It would cost a tremendous amount of time and money to go to court, even if you would eventually win, which creates additional barriers of entry against competitors of IBM and adds to their portfolio of defensive patents. Remember that almost all patents these days are taken out for defensive purposes to fend off attacks by patent trolls and their enterprising attorneys, not to actually protect a new idea or innovation. The patent system is broken and backwards, but IBM is just playing the game. If you don't like the rules (and they are indeed stupid when it comes to software patents) then blame the government and the lawyers.</p></div>
+	</htmltext>
+<tokenext>The amazing part is that IBM is wasting this kind of money applying for a patent that has no chance of standing up in courtThat is not the point .
+It would cost a tremendous amount of time and money to go to court , even if you would eventually win , which creates additional barriers of entry against competitors of IBM and adds to their portfolio of defensive patents .
+Remember that almost all patents these days are taken out for defensive purposes to fend off attacks by patent trolls and their enterprising attorneys , not to actually protect a new idea or innovation .
+The patent system is broken and backwards , but IBM is just playing the game .
+If you do n't like the rules ( and they are indeed stupid when it comes to software patents ) then blame the government and the lawyers .</tokentext>
+<sentencetext>The amazing part is that IBM is wasting this kind of money applying for a patent that has no chance of standing up in courtThat is not the point.
+It would cost a tremendous amount of time and money to go to court, even if you would eventually win, which creates additional barriers of entry against competitors of IBM and adds to their portfolio of defensive patents.
+Remember that almost all patents these days are taken out for defensive purposes to fend off attacks by patent trolls and their enterprising attorneys, not to actually protect a new idea or innovation.
+The patent system is broken and backwards, but IBM is just playing the game.
+If you don't like the rules (and they are indeed stupid when it comes to software patents) then blame the government and the lawyers.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098033</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>EvanED</author>
+	<datestamp>1243364520000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><i>I'm in the process of applying for a software patent myself (I know, summon the chorus of boos; but having it could be the difference between being able to raise VC and not being able to raise VC for my starting business; loans, too, are often secured against your IP). These things don't come cheap -- mostly in terms of legal costs. As in a $5k retainer, $5-10k total for a single patent, more if it takes multiple patents to ensure sufficient protection, and if you want international protection, it can go up to $100k or so.</i></p><p>IBM has staff lawyers; they aren't paying standard retainer fees like you are.</p></htmltext>
+<tokenext>I 'm in the process of applying for a software patent myself ( I know , summon the chorus of boos ; but having it could be the difference between being able to raise VC and not being able to raise VC for my starting business ; loans , too , are often secured against your IP ) .
+These things do n't come cheap -- mostly in terms of legal costs .
+As in a $ 5k retainer , $ 5-10k total for a single patent , more if it takes multiple patents to ensure sufficient protection , and if you want international protection , it can go up to $ 100k or so.IBM has staff lawyers ; they are n't paying standard retainer fees like you are .</tokentext>
+<sentencetext>I'm in the process of applying for a software patent myself (I know, summon the chorus of boos; but having it could be the difference between being able to raise VC and not being able to raise VC for my starting business; loans, too, are often secured against your IP).
+These things don't come cheap -- mostly in terms of legal costs.
+As in a $5k retainer, $5-10k total for a single patent, more if it takes multiple patents to ensure sufficient protection, and if you want international protection, it can go up to $100k or so.IBM has staff lawyers; they aren't paying standard retainer fees like you are.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099541</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Anonymous</author>
+	<datestamp>1243370040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>Are we suddenly shocked to discover one line of code can be patented when a whole mess of code can be patented?</p></div><p>No. I'm suddenly shocked to discover anyone bothering to no force users to enter an SSN or credit number exactly THEIR way - as one long number without spaces or dashes - even though that's not how it appears on the card.</p><p>I also have a gripe with apps that expect you you enter expiration dates with a month NAME when the card has it displayed as a number.</p><p>It's not all that much effort to match the Real World. As far as I'm concerned, anyone who can't take the time to make it is just lazy/sloppy.</p></div>
+	</htmltext>
+<tokenext>Are we suddenly shocked to discover one line of code can be patented when a whole mess of code can be patented ? No .
+I 'm suddenly shocked to discover anyone bothering to no force users to enter an SSN or credit number exactly THEIR way - as one long number without spaces or dashes - even though that 's not how it appears on the card.I also have a gripe with apps that expect you you enter expiration dates with a month NAME when the card has it displayed as a number.It 's not all that much effort to match the Real World .
+As far as I 'm concerned , anyone who ca n't take the time to make it is just lazy/sloppy .</tokentext>
+<sentencetext>Are we suddenly shocked to discover one line of code can be patented when a whole mess of code can be patented?No.
+I'm suddenly shocked to discover anyone bothering to no force users to enter an SSN or credit number exactly THEIR way - as one long number without spaces or dashes - even though that's not how it appears on the card.I also have a gripe with apps that expect you you enter expiration dates with a month NAME when the card has it displayed as a number.It's not all that much effort to match the Real World.
+As far as I'm concerned, anyone who can't take the time to make it is just lazy/sloppy.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098535</id>
+	<title>Re:Have you read the patent application?</title>
+	<author>Anonymous</author>
+	<datestamp>1243366440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Even if nobody's done this precise thing before, the best case for IBM is that this is yet another case of "same old thing <i>on the internet</i>", as though taking something common and doing it in JavaScript in a web browser suddenly makes it worthy of being granted a legally-enforcible monopoly.</p></htmltext>
+<tokenext>Even if nobody 's done this precise thing before , the best case for IBM is that this is yet another case of " same old thing on the internet " , as though taking something common and doing it in JavaScript in a web browser suddenly makes it worthy of being granted a legally-enforcible monopoly .</tokentext>
+<sentencetext>Even if nobody's done this precise thing before, the best case for IBM is that this is yet another case of "same old thing on the internet", as though taking something common and doing it in JavaScript in a web browser suddenly makes it worthy of being granted a legally-enforcible monopoly.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097567</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097391</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Daniel Dvorkin</author>
+	<datestamp>1243362000000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><i>I'm in the process of applying for a software patent myself (I know, summon the chorus of boos; but having it could be the difference between being able to raise VC and not being able to raise VC for my starting business; loans, too, are often secured against your IP).</i></p><p>So if your VCs wanted you to torture puppies to death before they'd give you money, would the "chorus of boos" have any effect on your actions?</p><p>There are many ways to get money.  Some of them are right, and some of them are wrong.  People with consciences know there's a difference.</p></htmltext>
+<tokenext>I 'm in the process of applying for a software patent myself ( I know , summon the chorus of boos ; but having it could be the difference between being able to raise VC and not being able to raise VC for my starting business ; loans , too , are often secured against your IP ) .So if your VCs wanted you to torture puppies to death before they 'd give you money , would the " chorus of boos " have any effect on your actions ? There are many ways to get money .
+Some of them are right , and some of them are wrong .
+People with consciences know there 's a difference .</tokentext>
+<sentencetext>I'm in the process of applying for a software patent myself (I know, summon the chorus of boos; but having it could be the difference between being able to raise VC and not being able to raise VC for my starting business; loans, too, are often secured against your IP).So if your VCs wanted you to torture puppies to death before they'd give you money, would the "chorus of boos" have any effect on your actions?There are many ways to get money.
+Some of them are right, and some of them are wrong.
+People with consciences know there's a difference.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097857</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Anonymous</author>
+	<datestamp>1243363860000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Having a patent (or a patent application) does not necessarily mean using that patent to stifle innovation.</p><p>This is like the VCs wanting him to own a puppy-torturing machine. It's up to him if he wants to actually use the machine to torture puppies. He just has to <i>have</i> it to get funding.</p></htmltext>
+<tokenext>Having a patent ( or a patent application ) does not necessarily mean using that patent to stifle innovation.This is like the VCs wanting him to own a puppy-torturing machine .
+It 's up to him if he wants to actually use the machine to torture puppies .
+He just has to have it to get funding .</tokentext>
+<sentencetext>Having a patent (or a patent application) does not necessarily mean using that patent to stifle innovation.This is like the VCs wanting him to own a puppy-torturing machine.
+It's up to him if he wants to actually use the machine to torture puppies.
+He just has to have it to get funding.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097391</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098159</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>harryandthehenderson</author>
+	<datestamp>1243365000000</datestamp>
+	<modclass>Flamebait</modclass>
+	<modscore>0</modscore>
+	<htmltext>Awww, do you want us to cry because you actually have to work hard to get a patent?  Let me call the waaahmbulance for you.</htmltext>
+<tokenext>Awww , do you want us to cry because you actually have to work hard to get a patent ?
+Let me call the waaahmbulance for you .</tokentext>
+<sentencetext>Awww, do you want us to cry because you actually have to work hard to get a patent?
+Let me call the waaahmbulance for you.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097363</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098391</id>
+	<title>Re:What if we assume they *are* on our side?</title>
+	<author>Anonymous</author>
+	<datestamp>1243365960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I guess you mean:</p><p>s/[^0-9]//g;   # remove all non digits</p></htmltext>
+<tokenext>I guess you mean : s/ [ ^ 0-9 ] //g ; # remove all non digits</tokentext>
+<sentencetext>I guess you mean:s/[^0-9]//g;   # remove all non digits</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097613</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Anonymous</author>
+	<datestamp>1243362840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p> <a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=\%2Fnetahtml\%2FPTO\%2Fsrchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=\%2220090132950\%22.PGNR.&amp;OS=DN/20090132950&amp;RS=DN/20090132950" title="uspto.gov" rel="nofollow">Application Patent</a> [uspto.gov] Date: November 20, 2007</p><p><a href="http://regexlib.com/REDetails.aspx?regexp\_id=535" title="regexlib.com" rel="nofollow">Online Prior Art at the Regex Library</a> [regexlib.com] from 2004:</p><blockquote><div><p> <tt>^(?!000)([0-6]\d{2}|7([0-6]\d|7[012]))([ -]?)(?!00)\d\d\3(?!0000)\d{4}$</tt> </p></div></blockquote><p>Put that into your favorite Javascript regular expression object and write a stupid onChange reference to it in your HTML and<nobr> <wbr></nobr>... tada!  Too complicated?  <a href="http://javascript.internet.com/forms/val-ssn.html" title="internet.com" rel="nofollow">Here's some more prior art</a> [internet.com].  Or <a href="http://www.breakingpar.com/bkp/home.nsf/0/87256B280015193F87256F6A0072B54C" title="breakingpar.com" rel="nofollow">here</a> [breakingpar.com].  A <a href="http://www.google.com/search?q=javascript+ssn+validation&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a" title="google.com" rel="nofollow">little bit of Googling</a> [google.com] must be too much for the USPTO.</p><p>Are we suddenly shocked to discover one line of code can be patented when a whole mess of code can be patented?</p></div><p>You do realize that is just a patent application publication, and that nothing has actually been patented, right? Just because it's a silly application doesn't prohibit the USPTO from publishing it.</p><p>Depending on the backlog for that particular area, it probably hasn't even been picked up by an examiner yet.</p></div>
+	</htmltext>
+<tokenext>Application Patent [ uspto.gov ] Date : November 20 , 2007Online Prior Art at the Regex Library [ regexlib.com ] from 2004 : ^ ( ?
+! 000 ) ( [ 0-6 ] \ d { 2 } | 7 ( [ 0-6 ] \ d | 7 [ 012 ] ) ) ( [ - ] ? ) ( ? ! 00 ) \ d \ d \ 3 ( ?
+! 0000 ) \ d { 4 } $ Put that into your favorite Javascript regular expression object and write a stupid onChange reference to it in your HTML and ... tada ! Too complicated ?
+Here 's some more prior art [ internet.com ] .
+Or here [ breakingpar.com ] .
+A little bit of Googling [ google.com ] must be too much for the USPTO.Are we suddenly shocked to discover one line of code can be patented when a whole mess of code can be patented ? You do realize that is just a patent application publication , and that nothing has actually been patented , right ?
+Just because it 's a silly application does n't prohibit the USPTO from publishing it.Depending on the backlog for that particular area , it probably has n't even been picked up by an examiner yet .</tokentext>
+<sentencetext> Application Patent [uspto.gov] Date: November 20, 2007Online Prior Art at the Regex Library [regexlib.com] from 2004: ^(?
+!000)([0-6]\d{2}|7([0-6]\d|7[012]))([ -]?)(?!00)\d\d\3(?
+!0000)\d{4}$ Put that into your favorite Javascript regular expression object and write a stupid onChange reference to it in your HTML and ... tada!  Too complicated?
+Here's some more prior art [internet.com].
+Or here [breakingpar.com].
+A little bit of Googling [google.com] must be too much for the USPTO.Are we suddenly shocked to discover one line of code can be patented when a whole mess of code can be patented?You do realize that is just a patent application publication, and that nothing has actually been patented, right?
+Just because it's a silly application doesn't prohibit the USPTO from publishing it.Depending on the backlog for that particular area, it probably hasn't even been picked up by an examiner yet.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099935</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>burnin1965</author>
+	<datestamp>1243328520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>Those guys have gone absolutely freakin' nuts with KSR.</p></div></blockquote><p>Or it could be they are one step closer to sanity. If you trace the history of software patents back to the 1960s you'll notice that there has been a continual battle by lawyers representing corporations to make it possible to patent the abstract idea that software implements rather than the software itself. They were not happy with the copyright protection that protects the software, they wanted to thwart the advancement of science and art to benefit their bottom line, the exact opposite of the intent and purpose of<br>Article I, Section 8, Clause 8 of the United States Constitution. To make patents sane again the idiocy of software patents needs to be outlawed completely.</p><blockquote><div><p>They just mechanically reject everything as obvious if they can find the pieces in any prior art, regardless of whether it was obvious to put them together (and for those who think this is a good thing, the result of this line is there's no such thing as an invention, because everybody builds on what's already there).</p></div></blockquote><p>How can you get it but not get it. LOL</p><p>Care to provide some evidence to backup your claim that the USPTO went through all the work to find the prior art and research your invention only to fall short on the analysis and do a knee jerk rejection?</p><p>And if somebody builds on what's already there its not an invention, thats called innovation. Patents can cover innovations, the abstract concept from which your software was derived is not an innovation.</p><p>And one last request, could you direct us to a single software patent that comes even close to the scientific advancement that would be necessary to develop an FTL drive? One click and regex expressions are hardly an advancement on the same level as pretty much any space propulsion system.</p></div>
+	</htmltext>
+<tokenext>Those guys have gone absolutely freakin ' nuts with KSR.Or it could be they are one step closer to sanity .
+If you trace the history of software patents back to the 1960s you 'll notice that there has been a continual battle by lawyers representing corporations to make it possible to patent the abstract idea that software implements rather than the software itself .
+They were not happy with the copyright protection that protects the software , they wanted to thwart the advancement of science and art to benefit their bottom line , the exact opposite of the intent and purpose ofArticle I , Section 8 , Clause 8 of the United States Constitution .
+To make patents sane again the idiocy of software patents needs to be outlawed completely.They just mechanically reject everything as obvious if they can find the pieces in any prior art , regardless of whether it was obvious to put them together ( and for those who think this is a good thing , the result of this line is there 's no such thing as an invention , because everybody builds on what 's already there ) .How can you get it but not get it .
+LOLCare to provide some evidence to backup your claim that the USPTO went through all the work to find the prior art and research your invention only to fall short on the analysis and do a knee jerk rejection ? And if somebody builds on what 's already there its not an invention , thats called innovation .
+Patents can cover innovations , the abstract concept from which your software was derived is not an innovation.And one last request , could you direct us to a single software patent that comes even close to the scientific advancement that would be necessary to develop an FTL drive ?
+One click and regex expressions are hardly an advancement on the same level as pretty much any space propulsion system .</tokentext>
+<sentencetext>Those guys have gone absolutely freakin' nuts with KSR.Or it could be they are one step closer to sanity.
+If you trace the history of software patents back to the 1960s you'll notice that there has been a continual battle by lawyers representing corporations to make it possible to patent the abstract idea that software implements rather than the software itself.
+They were not happy with the copyright protection that protects the software, they wanted to thwart the advancement of science and art to benefit their bottom line, the exact opposite of the intent and purpose ofArticle I, Section 8, Clause 8 of the United States Constitution.
+To make patents sane again the idiocy of software patents needs to be outlawed completely.They just mechanically reject everything as obvious if they can find the pieces in any prior art, regardless of whether it was obvious to put them together (and for those who think this is a good thing, the result of this line is there's no such thing as an invention, because everybody builds on what's already there).How can you get it but not get it.
+LOLCare to provide some evidence to backup your claim that the USPTO went through all the work to find the prior art and research your invention only to fall short on the analysis and do a knee jerk rejection?And if somebody builds on what's already there its not an invention, thats called innovation.
+Patents can cover innovations, the abstract concept from which your software was derived is not an innovation.And one last request, could you direct us to a single software patent that comes even close to the scientific advancement that would be necessary to develop an FTL drive?
+One click and regex expressions are hardly an advancement on the same level as pretty much any space propulsion system.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097363</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097707</id>
+	<title>Re:Real time is the key claim</title>
+	<author>glebovitz</author>
+	<datestamp>1243363260000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Stick the RE ^\d{3}-?\d{2}-?\d{4}$ in a QRegExpValidator in Qt and you have real time validation. Nokia has an example of this in their Qt course materials.</p></htmltext>
+<tokenext>Stick the RE ^ \ d { 3 } - ? \ d { 2 } - ? \ d { 4 } $ in a QRegExpValidator in Qt and you have real time validation .
+Nokia has an example of this in their Qt course materials .</tokentext>
+<sentencetext>Stick the RE ^\d{3}-?\d{2}-?\d{4}$ in a QRegExpValidator in Qt and you have real time validation.
+Nokia has an example of this in their Qt course materials.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097121</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099861</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>\_Swank</author>
+	<datestamp>1243371480000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>really, i'm not trying to defend IBM here, but you realize that the prior art you list at regexlib.com fails *Claim 1* of the actual patent application don't you?</p><p>the patent claims that the specific character(s) that breaks the regex is flagged.  which the method at regexlib.com (as well as your other examples) does not do.</p><p>you recognized that the patent also claims real-time checking, but passed that off as trivial.  but if either or both of these differences are really trivial where are all the examples of this being done?</p></htmltext>
+<tokenext>really , i 'm not trying to defend IBM here , but you realize that the prior art you list at regexlib.com fails * Claim 1 * of the actual patent application do n't you ? the patent claims that the specific character ( s ) that breaks the regex is flagged .
+which the method at regexlib.com ( as well as your other examples ) does not do.you recognized that the patent also claims real-time checking , but passed that off as trivial .
+but if either or both of these differences are really trivial where are all the examples of this being done ?</tokentext>
+<sentencetext>really, i'm not trying to defend IBM here, but you realize that the prior art you list at regexlib.com fails *Claim 1* of the actual patent application don't you?the patent claims that the specific character(s) that breaks the regex is flagged.
+which the method at regexlib.com (as well as your other examples) does not do.you recognized that the patent also claims real-time checking, but passed that off as trivial.
+but if either or both of these differences are really trivial where are all the examples of this being done?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098307</id>
+	<title>Re:Real time is the key claim</title>
+	<author>Dhalka226</author>
+	<datestamp>1243365600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>This sounds like nothing more than text field input masks, which have existed for years.  The first result from a Google search for "masked input fields" turns up a listing of a bunch of different ones: <a href="http://www.webresourcesdepot.com/javascript-input-masks/" title="webresourcesdepot.com">http://www.webresourcesdepot.com/javascript-input-masks/</a> [webresourcesdepot.com]</htmltext>
+<tokenext>This sounds like nothing more than text field input masks , which have existed for years .
+The first result from a Google search for " masked input fields " turns up a listing of a bunch of different ones : http : //www.webresourcesdepot.com/javascript-input-masks/ [ webresourcesdepot.com ]</tokentext>
+<sentencetext>This sounds like nothing more than text field input masks, which have existed for years.
+The first result from a Google search for "masked input fields" turns up a listing of a bunch of different ones: http://www.webresourcesdepot.com/javascript-input-masks/ [webresourcesdepot.com]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097121</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097439</id>
+	<title>Re:What bullshit?</title>
+	<author>fizzup</author>
+	<datestamp>1243362180000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Maybe if we put it in a format IBM can understand:</p><p><tt>SOCIAL-SECURITY-NUMBER PIC 99-999-9999</tt></p></htmltext>
+<tokenext>Maybe if we put it in a format IBM can understand : SOCIAL-SECURITY-NUMBER PIC 99-999-9999</tokentext>
+<sentencetext>Maybe if we put it in a format IBM can understand:SOCIAL-SECURITY-NUMBER PIC 99-999-9999</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100133</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Anonymous</author>
+	<datestamp>1243329420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p><div class="quote"><p>When I was born, there was no requirement to get a SSN issued immediately, and my family moved when I was 5, so my SSN was issued by the second state.</p></div><p>There still is no requirement.</p></div>
+	</htmltext>
+<tokenext>When I was born , there was no requirement to get a SSN issued immediately , and my family moved when I was 5 , so my SSN was issued by the second state.There still is no requirement .</tokentext>
+<sentencetext>When I was born, there was no requirement to get a SSN issued immediately, and my family moved when I was 5, so my SSN was issued by the second state.There still is no requirement.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098199</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099705</id>
+	<title>Re:What bullshit?</title>
+	<author>jefu</author>
+	<datestamp>1243370760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>How fucking hard is it to strip non-numeric characters from a string?</p></div><p>
+It must be incredibly difficult or you'd have web sites that could actually manage to take a credit card number with dashes in it, or a phone number with slightly different formats.   But since the incredibly brilliant software types that wrote the system couldn't figure out how to manage it (see how hard a problem it is), users are required to type in long numeric strings and then verify them without the visual cues of spaces or dashes.  Betcha they saved a couple of bucks in development costs though.</p></div>
+	</htmltext>
+<tokenext>How fucking hard is it to strip non-numeric characters from a string ?
+It must be incredibly difficult or you 'd have web sites that could actually manage to take a credit card number with dashes in it , or a phone number with slightly different formats .
+But since the incredibly brilliant software types that wrote the system could n't figure out how to manage it ( see how hard a problem it is ) , users are required to type in long numeric strings and then verify them without the visual cues of spaces or dashes .
+Betcha they saved a couple of bucks in development costs though .</tokentext>
+<sentencetext>How fucking hard is it to strip non-numeric characters from a string?
+It must be incredibly difficult or you'd have web sites that could actually manage to take a credit card number with dashes in it, or a phone number with slightly different formats.
+But since the incredibly brilliant software types that wrote the system couldn't figure out how to manage it (see how hard a problem it is), users are required to type in long numeric strings and then verify them without the visual cues of spaces or dashes.
+Betcha they saved a couple of bucks in development costs though.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097141</id>
+	<title>Finally!!!</title>
+	<author>Anonymous</author>
+	<datestamp>1243360920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>IBM deserves an Oscar and a Nobel Prize for this!!! This problem has persistently plagued me for ages! I'm glad someone finally came up with a solution to this. My only recourse up to this point has been to avoid SSN fields on any web form. If my boss wants something that requires a unique personal identifier I tell him it can't be done--not unless he wants to hire a team of interns to parse whatever voodoo people put into that SSN field!</p><p>Thank you so much for this new knowledge IBM! Now if we can do something about phone number fields I'll be in web developer heaven!</p></htmltext>
+<tokenext>IBM deserves an Oscar and a Nobel Prize for this ! ! !
+This problem has persistently plagued me for ages !
+I 'm glad someone finally came up with a solution to this .
+My only recourse up to this point has been to avoid SSN fields on any web form .
+If my boss wants something that requires a unique personal identifier I tell him it ca n't be done--not unless he wants to hire a team of interns to parse whatever voodoo people put into that SSN field ! Thank you so much for this new knowledge IBM !
+Now if we can do something about phone number fields I 'll be in web developer heaven !</tokentext>
+<sentencetext>IBM deserves an Oscar and a Nobel Prize for this!!!
+This problem has persistently plagued me for ages!
+I'm glad someone finally came up with a solution to this.
+My only recourse up to this point has been to avoid SSN fields on any web form.
+If my boss wants something that requires a unique personal identifier I tell him it can't be done--not unless he wants to hire a team of interns to parse whatever voodoo people put into that SSN field!Thank you so much for this new knowledge IBM!
+Now if we can do something about phone number fields I'll be in web developer heaven!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096909</id>
+	<title>psst... hey buddy!</title>
+	<author>Anonymous</author>
+	<datestamp>1243359900000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>^\d{3}-\d{2}-\d{4}$</p><p>ahh thats right baby, patent infringement!<br>I live on the edge...</p></htmltext>
+<tokenext>^ \ d { 3 } - \ d { 2 } - \ d { 4 } $ ahh thats right baby , patent infringement ! I live on the edge.. .</tokentext>
+<sentencetext>^\d{3}-\d{2}-\d{4}$ahh thats right baby, patent infringement!I live on the edge...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097369</id>
+	<title>Re:Real time is the key claim</title>
+	<author>zoips</author>
+	<datestamp>1243361940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>It seems to me the only thing unique about their patent is not the supposed real-time nature of it (people have been using onchange to ensure valid input in fields for years), but rather the uniquely Dojo (and only because everyone stopped doing it years ago) abomination of putting invalid attributes on XHTML elements to embed Dijit specific information. In this case, the patent seems to hinge on this embedding nature by its constant reference of "validation enhanced text-input element."</htmltext>
+<tokenext>It seems to me the only thing unique about their patent is not the supposed real-time nature of it ( people have been using onchange to ensure valid input in fields for years ) , but rather the uniquely Dojo ( and only because everyone stopped doing it years ago ) abomination of putting invalid attributes on XHTML elements to embed Dijit specific information .
+In this case , the patent seems to hinge on this embedding nature by its constant reference of " validation enhanced text-input element .
+"</tokentext>
+<sentencetext>It seems to me the only thing unique about their patent is not the supposed real-time nature of it (people have been using onchange to ensure valid input in fields for years), but rather the uniquely Dojo (and only because everyone stopped doing it years ago) abomination of putting invalid attributes on XHTML elements to embed Dijit specific information.
+In this case, the patent seems to hinge on this embedding nature by its constant reference of "validation enhanced text-input element.
+"</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097121</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097569</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Anonymous</author>
+	<datestamp>1243362660000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>That is a patent application; it hasn't been accepted yet.  The patent office is so far behind in processing patent applications that they probably won't get to it for another 2 years.  The summary even says "assuming the newly-disclosed Big Blue patent application passes muster with the USPTO."</p></htmltext>
+<tokenext>That is a patent application ; it has n't been accepted yet .
+The patent office is so far behind in processing patent applications that they probably wo n't get to it for another 2 years .
+The summary even says " assuming the newly-disclosed Big Blue patent application passes muster with the USPTO .
+"</tokentext>
+<sentencetext>That is a patent application; it hasn't been accepted yet.
+The patent office is so far behind in processing patent applications that they probably won't get to it for another 2 years.
+The summary even says "assuming the newly-disclosed Big Blue patent application passes muster with the USPTO.
+"</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28105745</id>
+	<title>Re:What bullshit?</title>
+	<author>LaskoVortex</author>
+	<datestamp>1243366920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>How fucking hard is it to strip non-numeric characters from a string?</p></div><p>Notice how you never got an answer to your question? It's that hard.</p></div>
+	</htmltext>
+<tokenext>How fucking hard is it to strip non-numeric characters from a string ? Notice how you never got an answer to your question ?
+It 's that hard .</tokentext>
+<sentencetext>How fucking hard is it to strip non-numeric characters from a string?Notice how you never got an answer to your question?
+It's that hard.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28101593</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>lannocc</author>
+	<datestamp>1243335960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I was doing the same thing in 2001 for my job. And I wrote a document about doing it too! I'm sure there are plenty of others before me...</htmltext>
+<tokenext>I was doing the same thing in 2001 for my job .
+And I wrote a document about doing it too !
+I 'm sure there are plenty of others before me.. .</tokentext>
+<sentencetext>I was doing the same thing in 2001 for my job.
+And I wrote a document about doing it too!
+I'm sure there are plenty of others before me...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096953</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>i\_want\_you\_to\_throw\_</author>
+	<datestamp>1243360080000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>I wish I could mod this up to "6". "Prior Art so Prior It Hurts". I love it.</htmltext>
+<tokenext>I wish I could mod this up to " 6 " .
+" Prior Art so Prior It Hurts " .
+I love it .</tokentext>
+<sentencetext>I wish I could mod this up to "6".
+"Prior Art so Prior It Hurts".
+I love it.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098157</id>
+	<title>Re:Cuff me...</title>
+	<author>ShinmaWa</author>
+	<datestamp>1243365000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Seems like you need to read more.  You completely missed the point of the patent.  The idea is not to validate a field against a regexp.  That's easy.   This patent will check to see if a partial string will EVER be able to match a regexp and if not indicate what prevents it.   (See line 0007 of the application).</p><p>Let's take email addresses:<br>These will validate DURING typing:<br>cmdr\_ta<br>cmdr\_taco<br>cmdr\_taco@sla<br>cmdr\_taco@slashdot</p><p>This will fail DURING typing:<br>cmdr\_taco@slashdot,</p><p>In addition, the "," will be highlighted as preventing the regular expression from ever being able to match. (Line 0009)</p><p>I, personally, have never seen that on any web form with anything complex, like an email address.  Sure, I've seen it on very simple things like "number only" fields and I see full-field checks all the time.  Even your code is a full-field check, which has the added ugliness of failing while typing in something valid.</p><p>I don't know if this is patentable or if there is prior art (even if I've personally never seen it as described in this patent), but its not what you present it to be.</p></htmltext>
+<tokenext>Seems like you need to read more .
+You completely missed the point of the patent .
+The idea is not to validate a field against a regexp .
+That 's easy .
+This patent will check to see if a partial string will EVER be able to match a regexp and if not indicate what prevents it .
+( See line 0007 of the application ) .Let 's take email addresses : These will validate DURING typing : cmdr \ _tacmdr \ _tacocmdr \ _taco @ slacmdr \ _taco @ slashdotThis will fail DURING typing : cmdr \ _taco @ slashdot,In addition , the " , " will be highlighted as preventing the regular expression from ever being able to match .
+( Line 0009 ) I , personally , have never seen that on any web form with anything complex , like an email address .
+Sure , I 've seen it on very simple things like " number only " fields and I see full-field checks all the time .
+Even your code is a full-field check , which has the added ugliness of failing while typing in something valid.I do n't know if this is patentable or if there is prior art ( even if I 've personally never seen it as described in this patent ) , but its not what you present it to be .</tokentext>
+<sentencetext>Seems like you need to read more.
+You completely missed the point of the patent.
+The idea is not to validate a field against a regexp.
+That's easy.
+This patent will check to see if a partial string will EVER be able to match a regexp and if not indicate what prevents it.
+(See line 0007 of the application).Let's take email addresses:These will validate DURING typing:cmdr\_tacmdr\_tacocmdr\_taco@slacmdr\_taco@slashdotThis will fail DURING typing:cmdr\_taco@slashdot,In addition, the "," will be highlighted as preventing the regular expression from ever being able to match.
+(Line 0009)I, personally, have never seen that on any web form with anything complex, like an email address.
+Sure, I've seen it on very simple things like "number only" fields and I see full-field checks all the time.
+Even your code is a full-field check, which has the added ugliness of failing while typing in something valid.I don't know if this is patentable or if there is prior art (even if I've personally never seen it as described in this patent), but its not what you present it to be.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097199</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097995</id>
+	<title>Re:What bullshit?</title>
+	<author>obarel</author>
+	<datestamp>1243364340000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext>How can you not believe programmer incompetence?<br><br>I still see the old "1 object(s) processed" (in multiple forms, of course). How hard can it be?<br><br>"\%d object\%s processed", num, num == 1 ? "" : "s"<br><br>I even see the odd "1 objects processed" every now and again. How hard can it be?!<br><br>I see these things on the PS3 and my blood boils - with the price of the hardware and the games, how can they justify this incompetence? How can a usability tester pass this "object(s)" non-word? Do they also talk like that? "I take two bus or buses to get to work".</htmltext>
+<tokenext>How can you not believe programmer incompetence ? I still see the old " 1 object ( s ) processed " ( in multiple forms , of course ) .
+How hard can it be ?
+" \ % d object \ % s processed " , num , num = = 1 ?
+" " : " s " I even see the odd " 1 objects processed " every now and again .
+How hard can it be ?
+! I see these things on the PS3 and my blood boils - with the price of the hardware and the games , how can they justify this incompetence ?
+How can a usability tester pass this " object ( s ) " non-word ?
+Do they also talk like that ?
+" I take two bus or buses to get to work " .</tokentext>
+<sentencetext>How can you not believe programmer incompetence?I still see the old "1 object(s) processed" (in multiple forms, of course).
+How hard can it be?
+"\%d object\%s processed", num, num == 1 ?
+"" : "s"I even see the odd "1 objects processed" every now and again.
+How hard can it be?
+!I see these things on the PS3 and my blood boils - with the price of the hardware and the games, how can they justify this incompetence?
+How can a usability tester pass this "object(s)" non-word?
+Do they also talk like that?
+"I take two bus or buses to get to work".</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097321</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Charles Dodgeson</author>
+	<datestamp>1243361760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>
+In the 1990s at Cranfield University, Peter Lister developed a mod\_perl Apache handler for creating web forms.  (I wrote the documentation and trained people to use it).  At one point we added the ability for form creators to list perl regular expressions for validating input.  This was in the UK, so social security numbers were never an issue, but we did provided a general mechanism for this kind of input validation using REs.</p><p>Somewhere I probably have an old hard drive or tape with the code, but I really don't think I could find it.</p></htmltext>
+<tokenext>In the 1990s at Cranfield University , Peter Lister developed a mod \ _perl Apache handler for creating web forms .
+( I wrote the documentation and trained people to use it ) .
+At one point we added the ability for form creators to list perl regular expressions for validating input .
+This was in the UK , so social security numbers were never an issue , but we did provided a general mechanism for this kind of input validation using REs.Somewhere I probably have an old hard drive or tape with the code , but I really do n't think I could find it .</tokentext>
+<sentencetext>
+In the 1990s at Cranfield University, Peter Lister developed a mod\_perl Apache handler for creating web forms.
+(I wrote the documentation and trained people to use it).
+At one point we added the ability for form creators to list perl regular expressions for validating input.
+This was in the UK, so social security numbers were never an issue, but we did provided a general mechanism for this kind of input validation using REs.Somewhere I probably have an old hard drive or tape with the code, but I really don't think I could find it.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097115</id>
+	<title>Even bigger problem</title>
+	<author>Anonymous</author>
+	<datestamp>1243360800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>You say people put in an SSN without dashes when your website requests them?</p><p>put a damned example on your site, like this: nnn-nn-nnnn</p></htmltext>
+<tokenext>You say people put in an SSN without dashes when your website requests them ? put a damned example on your site , like this : nnn-nn-nnnn</tokentext>
+<sentencetext>You say people put in an SSN without dashes when your website requests them?put a damned example on your site, like this: nnn-nn-nnnn</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28103535</id>
+	<title>Re:Cuff me...</title>
+	<author>DamnStupidElf</author>
+	<datestamp>1243346160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It's pretty simple to implement if you have access to the DFA for the regular expression by just adding a transition to an empty accepting state when the end-of-string symbol is encountered in any existing state, and returning the position in the string at which the match fails.  This would be hard to do in general by re-using an existing regular expression engine, unless it allows manipulation of the DFA state machine and returns the character position that caused a potential string to fail to match, since it would basically involve building the DFA from the regular expression, modifying it, and then translating it back into a regular expression that could be passed to the engine.  PCRE supports <a href="http://regexkit.sourceforge.net/Documentation/pcre/pcrepartial.html" title="sourceforge.net">partial matches</a> [sourceforge.net] and can return the partially matched string in some circumstances, which would allow one to find the problem character by chopping characters off the end of the string until a partial match occurs.</p><p>See this <a href="http://forums.devx.com/showthread.php?t=26514" title="devx.com">post</a> [devx.com] about the problem that at least predates the patent by a few years.  Unfortunately, no one mentions how to solve the problem in the regexp library.</p><p>The IBM patent includes some other features such as ignoring invalid characters in an input string and continuing to match the remaining characters.  This could be accomplished by further modifying the regular expression engine to not return failure when there is no transition from a state for a particular character in the trial string, but to merely flag the character as invalid and remain in the same state and trying the next character in the string.  The return value for such a function could just be a array of boolean flags for each character in the trial string identifying it as valid or invalid.</p><p>Overall, it looks like a novel use of DFAs for user interface feedback.  Still, not something I'd consider worthy of a patent.</p></htmltext>
+<tokenext>It 's pretty simple to implement if you have access to the DFA for the regular expression by just adding a transition to an empty accepting state when the end-of-string symbol is encountered in any existing state , and returning the position in the string at which the match fails .
+This would be hard to do in general by re-using an existing regular expression engine , unless it allows manipulation of the DFA state machine and returns the character position that caused a potential string to fail to match , since it would basically involve building the DFA from the regular expression , modifying it , and then translating it back into a regular expression that could be passed to the engine .
+PCRE supports partial matches [ sourceforge.net ] and can return the partially matched string in some circumstances , which would allow one to find the problem character by chopping characters off the end of the string until a partial match occurs.See this post [ devx.com ] about the problem that at least predates the patent by a few years .
+Unfortunately , no one mentions how to solve the problem in the regexp library.The IBM patent includes some other features such as ignoring invalid characters in an input string and continuing to match the remaining characters .
+This could be accomplished by further modifying the regular expression engine to not return failure when there is no transition from a state for a particular character in the trial string , but to merely flag the character as invalid and remain in the same state and trying the next character in the string .
+The return value for such a function could just be a array of boolean flags for each character in the trial string identifying it as valid or invalid.Overall , it looks like a novel use of DFAs for user interface feedback .
+Still , not something I 'd consider worthy of a patent .</tokentext>
+<sentencetext>It's pretty simple to implement if you have access to the DFA for the regular expression by just adding a transition to an empty accepting state when the end-of-string symbol is encountered in any existing state, and returning the position in the string at which the match fails.
+This would be hard to do in general by re-using an existing regular expression engine, unless it allows manipulation of the DFA state machine and returns the character position that caused a potential string to fail to match, since it would basically involve building the DFA from the regular expression, modifying it, and then translating it back into a regular expression that could be passed to the engine.
+PCRE supports partial matches [sourceforge.net] and can return the partially matched string in some circumstances, which would allow one to find the problem character by chopping characters off the end of the string until a partial match occurs.See this post [devx.com] about the problem that at least predates the patent by a few years.
+Unfortunately, no one mentions how to solve the problem in the regexp library.The IBM patent includes some other features such as ignoring invalid characters in an input string and continuing to match the remaining characters.
+This could be accomplished by further modifying the regular expression engine to not return failure when there is no transition from a state for a particular character in the trial string, but to merely flag the character as invalid and remain in the same state and trying the next character in the string.
+The return value for such a function could just be a array of boolean flags for each character in the trial string identifying it as valid or invalid.Overall, it looks like a novel use of DFAs for user interface feedback.
+Still, not something I'd consider worthy of a patent.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098157</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28110387</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Anonymous</author>
+	<datestamp>1243442460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>ok, and what does this have to do with regular expressions?</htmltext>
+<tokenext>ok , and what does this have to do with regular expressions ?</tokentext>
+<sentencetext>ok, and what does this have to do with regular expressions?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098199</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100331</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>HiThere</author>
+	<datestamp>1243330260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>You are forgetting that IBM has the necessary lawyers on the payroll, so it doesn't need to pay those retainers.  They're already on salary.</p></htmltext>
+<tokenext>You are forgetting that IBM has the necessary lawyers on the payroll , so it does n't need to pay those retainers .
+They 're already on salary .</tokentext>
+<sentencetext>You are forgetting that IBM has the necessary lawyers on the payroll, so it doesn't need to pay those retainers.
+They're already on salary.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097909</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28104065</id>
+	<title>Re:What if We Assume They *Are* Idiots?</title>
+	<author>Anonymous</author>
+	<datestamp>1243350180000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>$2,000 site license. I call bullsh**. Try $50,000 per core + 18\% support contract + professional services at $250 an hour 3 day minimum to come in and show you how to use the tool, not to mention the cost of new servers, SAN space, IBM Websphere to run the Websphere Enterprise SSN Dash Extractor, XD to manage the Websphere cluster, etc.,. BLEH!!! And let's also remember that you'll need to decide on which brand Extractor you will use the Websphere branded version, the Filenet version, or the Lotus version none of which can be used with the other system unless a separate license is purchased.<nobr> <wbr></nobr>:)</p></htmltext>
+<tokenext>$ 2,000 site license .
+I call bullsh * * .
+Try $ 50,000 per core + 18 \ % support contract + professional services at $ 250 an hour 3 day minimum to come in and show you how to use the tool , not to mention the cost of new servers , SAN space , IBM Websphere to run the Websphere Enterprise SSN Dash Extractor , XD to manage the Websphere cluster , etc., .
+BLEH ! ! ! And let 's also remember that you 'll need to decide on which brand Extractor you will use the Websphere branded version , the Filenet version , or the Lotus version none of which can be used with the other system unless a separate license is purchased .
+: )</tokentext>
+<sentencetext>$2,000 site license.
+I call bullsh**.
+Try $50,000 per core + 18\% support contract + professional services at $250 an hour 3 day minimum to come in and show you how to use the tool, not to mention the cost of new servers, SAN space, IBM Websphere to run the Websphere Enterprise SSN Dash Extractor, XD to manage the Websphere cluster, etc.,.
+BLEH!!! And let's also remember that you'll need to decide on which brand Extractor you will use the Websphere branded version, the Filenet version, or the Lotus version none of which can be used with the other system unless a separate license is purchased.
+:)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097285</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097567</id>
+	<title>Have you read the patent application?</title>
+	<author>dzfoo</author>
+	<datestamp>1243362660000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>You didn't read the patent application, did you?</p><p>They are not patenting a regular expression to validate social-security numbers, they are patenting an entire validation system for web application, in which there is an API for a developer to specify a regular expression, and the framework will then validate the user input in real-time, while the front-end highlights the specific characters that caused the failure.  The particular problem they are trying to solve is the user confusion when they submit a form which tells them that a field was rejected without telling them what's wrong with the input.</p><p>This is not to say that there isn't prior art for that, but as you can see it is much more than just a patent on a simple reg-exp pattern.</p><p>
+&nbsp; &nbsp; &nbsp; &nbsp; -dZ.</p></htmltext>
+<tokenext>You did n't read the patent application , did you ? They are not patenting a regular expression to validate social-security numbers , they are patenting an entire validation system for web application , in which there is an API for a developer to specify a regular expression , and the framework will then validate the user input in real-time , while the front-end highlights the specific characters that caused the failure .
+The particular problem they are trying to solve is the user confusion when they submit a form which tells them that a field was rejected without telling them what 's wrong with the input.This is not to say that there is n't prior art for that , but as you can see it is much more than just a patent on a simple reg-exp pattern .
+Â   Â   Â   Â   -dZ .</tokentext>
+<sentencetext>You didn't read the patent application, did you?They are not patenting a regular expression to validate social-security numbers, they are patenting an entire validation system for web application, in which there is an API for a developer to specify a regular expression, and the framework will then validate the user input in real-time, while the front-end highlights the specific characters that caused the failure.
+The particular problem they are trying to solve is the user confusion when they submit a form which tells them that a field was rejected without telling them what's wrong with the input.This is not to say that there isn't prior art for that, but as you can see it is much more than just a patent on a simple reg-exp pattern.
+Â  Â  Â  Â  -dZ.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28105125</id>
+	<title>Re:What bullshit?</title>
+	<author>Joe Mucchiello</author>
+	<datestamp>1243359180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Ahhh, PL/1. Most but not quite all the power of COBOL and FORTRAN...... Combined!!</p></htmltext>
+<tokenext>Ahhh , PL/1 .
+Most but not quite all the power of COBOL and FORTRAN..... .
+Combined ! !</tokentext>
+<sentencetext>Ahhh, PL/1.
+Most but not quite all the power of COBOL and FORTRAN......
+Combined!!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100391</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099201</id>
+	<title>Re:As a programmer at a federal agency that uses P</title>
+	<author>Anonymous</author>
+	<datestamp>1243368840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>And do you parse them as they were being typed in and give feedback before the submit button is hit?  Or were you too lazy to even read the title of the patent?</htmltext>
+<tokenext>And do you parse them as they were being typed in and give feedback before the submit button is hit ?
+Or were you too lazy to even read the title of the patent ?</tokentext>
+<sentencetext>And do you parse them as they were being typed in and give feedback before the submit button is hit?
+Or were you too lazy to even read the title of the patent?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096937</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098141</id>
+	<title>Re:What if we assume they *are* on our side?</title>
+	<author>Rary</author>
+	<datestamp>1243364940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Penn Jillette got a patent on <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=\%2Fnetahtml\%2FPTO\%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN\%2F5920923" title="uspto.gov">masturbating in a hot tub</a> [uspto.gov] in 1999. A patent lawyer's kid got a patent on <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=\%2Fnetahtml\%2FPTO\%2Fsrchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=6,368,227.PN.&amp;OS=PN/6,368,227&amp;RS=PN/6,368,227" title="uspto.gov">swinging sideways on a swing</a> [uspto.gov] in 2002. If neither of these made enough of a point to bring about any patent reform, how will this?</p></htmltext>
+<tokenext>Penn Jillette got a patent on masturbating in a hot tub [ uspto.gov ] in 1999 .
+A patent lawyer 's kid got a patent on swinging sideways on a swing [ uspto.gov ] in 2002 .
+If neither of these made enough of a point to bring about any patent reform , how will this ?</tokentext>
+<sentencetext>Penn Jillette got a patent on masturbating in a hot tub [uspto.gov] in 1999.
+A patent lawyer's kid got a patent on swinging sideways on a swing [uspto.gov] in 2002.
+If neither of these made enough of a point to bring about any patent reform, how will this?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098155</id>
+	<title>Re:What bullshit?</title>
+	<author>TheRaven64</author>
+	<datestamp>1243365000000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Sorry, your post was in ASCII, so we couldn't understand it.  Could you try resubmitting it in EBCDIC please?</p><p>Thanks,<br>
+IBM</p></htmltext>
+<tokenext>Sorry , your post was in ASCII , so we could n't understand it .
+Could you try resubmitting it in EBCDIC please ? Thanks , IBM</tokentext>
+<sentencetext>Sorry, your post was in ASCII, so we couldn't understand it.
+Could you try resubmitting it in EBCDIC please?Thanks,
+IBM</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097439</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098333</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Anonymous</author>
+	<datestamp>1243365720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Excellent use of the 'Puppies' argument Sir !<br>Too many times have I seen the poor defenseless puppies being used to protect un-worthy causes.</p></htmltext>
+<tokenext>Excellent use of the 'Puppies ' argument Sir ! Too many times have I seen the poor defenseless puppies being used to protect un-worthy causes .</tokentext>
+<sentencetext>Excellent use of the 'Puppies' argument Sir !Too many times have I seen the poor defenseless puppies being used to protect un-worthy causes.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097391</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097469</id>
+	<title>Re:More to it than that.</title>
+	<author>Amouth</author>
+	<datestamp>1243362360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>while that is true.. the SSN was only and example of a possiable aplication.</p><p>what they are trying to patant is the idea of validating input durring input..</p><p>aka you have a number only field and onKeyUp you check that the char is numeric (that is a most basic way of doing it)</p><p>either way the simple or more indept lookup is nothing more than input validation during input..</p><p>everyone here seems to get hooked on the SSN thing..</p><p>but really this is anything..</p><p>which is just fucking stupid..</p><p>while finding prior art for this is simplistic.. finding the first is god knows hard because i can't remember that far back.</p></htmltext>
+<tokenext>while that is true.. the SSN was only and example of a possiable aplication.what they are trying to patant is the idea of validating input durring input..aka you have a number only field and onKeyUp you check that the char is numeric ( that is a most basic way of doing it ) either way the simple or more indept lookup is nothing more than input validation during input..everyone here seems to get hooked on the SSN thing..but really this is anything..which is just fucking stupid..while finding prior art for this is simplistic.. finding the first is god knows hard because i ca n't remember that far back .</tokentext>
+<sentencetext>while that is true.. the SSN was only and example of a possiable aplication.what they are trying to patant is the idea of validating input durring input..aka you have a number only field and onKeyUp you check that the char is numeric (that is a most basic way of doing it)either way the simple or more indept lookup is nothing more than input validation during input..everyone here seems to get hooked on the SSN thing..but really this is anything..which is just fucking stupid..while finding prior art for this is simplistic.. finding the first is god knows hard because i can't remember that far back.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097149</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097433</id>
+	<title>Re:More to it than that.</title>
+	<author>Anonymous</author>
+	<datestamp>1243362120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Claim 3 states that validation is done via regular expression. A regular expression doesn't really have that capability (except perhaps what Perl calls regular expressions).</htmltext>
+<tokenext>Claim 3 states that validation is done via regular expression .
+A regular expression does n't really have that capability ( except perhaps what Perl calls regular expressions ) .</tokentext>
+<sentencetext>Claim 3 states that validation is done via regular expression.
+A regular expression doesn't really have that capability (except perhaps what Perl calls regular expressions).</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097149</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Rei</author>
+	<datestamp>1243360440000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>The amazing part is that IBM is wasting this kind of money applying for a patent that has no chance of standing up in court, if they're even dumb enough to grant it in the first place.  I'm in the process of applying for a software patent myself (I know, summon the chorus of boos; but having it could be the difference between being able to raise VC and not being able to raise VC for my starting business; loans, too, are often secured against your IP).  These things don't come cheap -- mostly in terms of legal costs.  As in a $5k retainer, $5-10k total for a single patent, more if it takes multiple patents to ensure sufficient protection, and if you want international protection, it can go up to $100k or so.  Also, from discussions with my attorney, it's really hard to get away with the "bloody obvious" software patents anymore after all of the blowback from things like the Amazon 1-click patent.</p><p>I'm surprised they'd waste the money trying.  Perhaps their legal department didn't have enough work to do but they didn't want to cut staff.</p></htmltext>
+<tokenext>The amazing part is that IBM is wasting this kind of money applying for a patent that has no chance of standing up in court , if they 're even dumb enough to grant it in the first place .
+I 'm in the process of applying for a software patent myself ( I know , summon the chorus of boos ; but having it could be the difference between being able to raise VC and not being able to raise VC for my starting business ; loans , too , are often secured against your IP ) .
+These things do n't come cheap -- mostly in terms of legal costs .
+As in a $ 5k retainer , $ 5-10k total for a single patent , more if it takes multiple patents to ensure sufficient protection , and if you want international protection , it can go up to $ 100k or so .
+Also , from discussions with my attorney , it 's really hard to get away with the " bloody obvious " software patents anymore after all of the blowback from things like the Amazon 1-click patent.I 'm surprised they 'd waste the money trying .
+Perhaps their legal department did n't have enough work to do but they did n't want to cut staff .</tokentext>
+<sentencetext>The amazing part is that IBM is wasting this kind of money applying for a patent that has no chance of standing up in court, if they're even dumb enough to grant it in the first place.
+I'm in the process of applying for a software patent myself (I know, summon the chorus of boos; but having it could be the difference between being able to raise VC and not being able to raise VC for my starting business; loans, too, are often secured against your IP).
+These things don't come cheap -- mostly in terms of legal costs.
+As in a $5k retainer, $5-10k total for a single patent, more if it takes multiple patents to ensure sufficient protection, and if you want international protection, it can go up to $100k or so.
+Also, from discussions with my attorney, it's really hard to get away with the "bloody obvious" software patents anymore after all of the blowback from things like the Amazon 1-click patent.I'm surprised they'd waste the money trying.
+Perhaps their legal department didn't have enough work to do but they didn't want to cut staff.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853</id>
+	<title>What bullshit?</title>
+	<author>Pig Hogger</author>
+	<datestamp>1243359720000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>What is this buillshit? &quot;<em>A persistent problem is dashes in SSNs</em>&quot;???</p><p>How fucking hard is it to strip non-numeric characters from a string?</p><p>I cannot believe there could be such programmer incompetence; no, it has to be some managerial cluelessness and hard-headness.</p></htmltext>
+<tokenext>What is this buillshit ?
+" A persistent problem is dashes in SSNs " ? ?
+? How fucking hard is it to strip non-numeric characters from a string ? I can not believe there could be such programmer incompetence ; no , it has to be some managerial cluelessness and hard-headness .</tokentext>
+<sentencetext>What is this buillshit?
+"A persistent problem is dashes in SSNs"??
+?How fucking hard is it to strip non-numeric characters from a string?I cannot believe there could be such programmer incompetence; no, it has to be some managerial cluelessness and hard-headness.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097045</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Anonymous</author>
+	<datestamp>1243360500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I've been doing this in my apps for years.</p></htmltext>
+<tokenext>I 've been doing this in my apps for years .</tokentext>
+<sentencetext>I've been doing this in my apps for years.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097727</id>
+	<title>Re:What bullshit?</title>
+	<author>Jurily</author>
+	<datestamp>1243363320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>How fucking hard is it to strip non-numeric characters from a string?</p></div><p>So you're suggesting we write one for loop with one switch statement in it, instead of a complete general-purpose parser library and a syntax that makes programmers a bad name? Now what's the fun in that?</p></div>
+	</htmltext>
+<tokenext>How fucking hard is it to strip non-numeric characters from a string ? So you 're suggesting we write one for loop with one switch statement in it , instead of a complete general-purpose parser library and a syntax that makes programmers a bad name ?
+Now what 's the fun in that ?</tokentext>
+<sentencetext>How fucking hard is it to strip non-numeric characters from a string?So you're suggesting we write one for loop with one switch statement in it, instead of a complete general-purpose parser library and a syntax that makes programmers a bad name?
+Now what's the fun in that?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097003</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Anonymous</author>
+	<datestamp>1243360320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Indeed, now go make one that also validates that it *could* be a valid SSN, meaning taking into account odd-even semantics and state prefixes/et cetera. This is non-trivial to accomplish actually.</p></htmltext>
+<tokenext>Indeed , now go make one that also validates that it * could * be a valid SSN , meaning taking into account odd-even semantics and state prefixes/et cetera .
+This is non-trivial to accomplish actually .</tokentext>
+<sentencetext>Indeed, now go make one that also validates that it *could* be a valid SSN, meaning taking into account odd-even semantics and state prefixes/et cetera.
+This is non-trivial to accomplish actually.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096939</id>
+	<title>Look, it's easy</title>
+	<author>riceboy50</author>
+	<datestamp>1243360080000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>1</modscore>
+	<htmltext>/^\d{3}-?\d{2}-?\d{4}$/g
+<br>
+How is that a persistent problem?</htmltext>
+<tokenext>/ ^ \ d { 3 } - ? \ d { 2 } - ? \ d { 4 } $ /g How is that a persistent problem ?</tokentext>
+<sentencetext>/^\d{3}-?\d{2}-?\d{4}$/g
+
+How is that a persistent problem?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947</id>
+	<title>What if we assume they *are* on our side?</title>
+	<author>Anonymous</author>
+	<datestamp>1243360080000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I see lots of comments coming up about how ridiculous this is.  Maybe that's the point.  Maybe the best way to bring out patent reform to to patent every simple thing there is.  You have to remember that IBM is paying to patent something as simple as:</p><p>s/(^[0-9])+//g</p><p>which most certainly has prior art all over the web.  Why would it be worth IBMs money and time to do such a thing?  The best reason I can come up with is that they want to prove a point.  There's probably quite a bit an open-source firm can gain by causing a collapse of the software patent system, and this may be the best way to do it.</p></htmltext>
+<tokenext>I see lots of comments coming up about how ridiculous this is .
+Maybe that 's the point .
+Maybe the best way to bring out patent reform to to patent every simple thing there is .
+You have to remember that IBM is paying to patent something as simple as : s/ ( ^ [ 0-9 ] ) + //gwhich most certainly has prior art all over the web .
+Why would it be worth IBMs money and time to do such a thing ?
+The best reason I can come up with is that they want to prove a point .
+There 's probably quite a bit an open-source firm can gain by causing a collapse of the software patent system , and this may be the best way to do it .</tokentext>
+<sentencetext>I see lots of comments coming up about how ridiculous this is.
+Maybe that's the point.
+Maybe the best way to bring out patent reform to to patent every simple thing there is.
+You have to remember that IBM is paying to patent something as simple as:s/(^[0-9])+//gwhich most certainly has prior art all over the web.
+Why would it be worth IBMs money and time to do such a thing?
+The best reason I can come up with is that they want to prove a point.
+There's probably quite a bit an open-source firm can gain by causing a collapse of the software patent system, and this may be the best way to do it.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28107081</id>
+	<title>Re:Have you read the patent application?</title>
+	<author>Waccoon</author>
+	<datestamp>1243422240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I downloaded an app called "Regex Coach" which does this just fine.  It's a Windows application, but you can call it a "web application", I suppose, since I did actually download it off the web.</p></htmltext>
+<tokenext>I downloaded an app called " Regex Coach " which does this just fine .
+It 's a Windows application , but you can call it a " web application " , I suppose , since I did actually download it off the web .</tokentext>
+<sentencetext>I downloaded an app called "Regex Coach" which does this just fine.
+It's a Windows application, but you can call it a "web application", I suppose, since I did actually download it off the web.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097567</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099837</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Rene S. Hollan</author>
+	<datestamp>1243371360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>No kidding.</p><p>How is this not "obvious to one practiced in the art"?</p></htmltext>
+<tokenext>No kidding.How is this not " obvious to one practiced in the art " ?</tokentext>
+<sentencetext>No kidding.How is this not "obvious to one practiced in the art"?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097387</id>
+	<title>Microsoft got elseif patented</title>
+	<author>HannethCom</author>
+	<datestamp>1243362000000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>As ridiculous as it is, Microsoft has a patent on the "elseif" statement, so every non-Microsoft programming language now has to suffer with just "else if". *slight sarcasm*</htmltext>
+<tokenext>As ridiculous as it is , Microsoft has a patent on the " elseif " statement , so every non-Microsoft programming language now has to suffer with just " else if " .
+* slight sarcasm *</tokentext>
+<sentencetext>As ridiculous as it is, Microsoft has a patent on the "elseif" statement, so every non-Microsoft programming language now has to suffer with just "else if".
+*slight sarcasm*</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098491</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Anonymous</author>
+	<datestamp>1243366260000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Some junior lawyer was told to go try patenting whatever the software guys are doing. He picked this bit up because it did something he understood and could describe in a patent application.</p><p>Neither he nor the patent reviewer knew anything about software or had any idea what is obvious to someone skilled in the art. But at least the junior lawyer had something to turn into his boss showing that he is working on something-or-other and should stay on the payroll.</p><p>That's how I imagine it, anyway.</p><p>Aside: the comment-posting system seems way screwed up right now... I guess that's what I get for agreeing to try the beta version.</p></htmltext>
+<tokenext>Some junior lawyer was told to go try patenting whatever the software guys are doing .
+He picked this bit up because it did something he understood and could describe in a patent application.Neither he nor the patent reviewer knew anything about software or had any idea what is obvious to someone skilled in the art .
+But at least the junior lawyer had something to turn into his boss showing that he is working on something-or-other and should stay on the payroll.That 's how I imagine it , anyway.Aside : the comment-posting system seems way screwed up right now... I guess that 's what I get for agreeing to try the beta version .</tokentext>
+<sentencetext>Some junior lawyer was told to go try patenting whatever the software guys are doing.
+He picked this bit up because it did something he understood and could describe in a patent application.Neither he nor the patent reviewer knew anything about software or had any idea what is obvious to someone skilled in the art.
+But at least the junior lawyer had something to turn into his boss showing that he is working on something-or-other and should stay on the payroll.That's how I imagine it, anyway.Aside: the comment-posting system seems way screwed up right now... I guess that's what I get for agreeing to try the beta version.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099777</id>
+	<title>Re:What bullshit?</title>
+	<author>jefu</author>
+	<datestamp>1243371120000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>They not only validated the info, but also provided a visual template</p></div><p>
+My bank requires that account numbers for their pay-online system are entered in exactly the right format for the system they're talking to.   So, they put the format (with no help text, of course, on the top of the page so you can refer to it handily).   Why they can't prefill the text area with the format, or put the format immediately above the text area I don't understand.   Even better would be a javascript engine that would prefix the text area and check the digits/letters as they get entered.  Then the dashes and spaces some formats use could be automagically skipped over - not like there's much point in requiring the user to enter them is there?
+</p><p>
+I suppose I should just be grateful that I can do payments online and grateful too that they don't just make me guess at the right format.</p></div>
+	</htmltext>
+<tokenext>They not only validated the info , but also provided a visual template My bank requires that account numbers for their pay-online system are entered in exactly the right format for the system they 're talking to .
+So , they put the format ( with no help text , of course , on the top of the page so you can refer to it handily ) .
+Why they ca n't prefill the text area with the format , or put the format immediately above the text area I do n't understand .
+Even better would be a javascript engine that would prefix the text area and check the digits/letters as they get entered .
+Then the dashes and spaces some formats use could be automagically skipped over - not like there 's much point in requiring the user to enter them is there ?
+I suppose I should just be grateful that I can do payments online and grateful too that they do n't just make me guess at the right format .</tokentext>
+<sentencetext>They not only validated the info, but also provided a visual template
+My bank requires that account numbers for their pay-online system are entered in exactly the right format for the system they're talking to.
+So, they put the format (with no help text, of course, on the top of the page so you can refer to it handily).
+Why they can't prefill the text area with the format, or put the format immediately above the text area I don't understand.
+Even better would be a javascript engine that would prefix the text area and check the digits/letters as they get entered.
+Then the dashes and spaces some formats use could be automagically skipped over - not like there's much point in requiring the user to enter them is there?
+I suppose I should just be grateful that I can do payments online and grateful too that they don't just make me guess at the right format.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097671</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097363</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Zordak</author>
+	<datestamp>1243361940000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>5</modscore>
+	<htmltext><p><div class="quote"><p>Also, from discussions with my attorney, it's really hard to get away with the "bloody obvious" software patents anymore after all of the blowback from things like the Amazon 1-click patent.</p></div><p>Somebody mod parent up.  The days of the patent office just rubber stamping software patents (if there ever were such days) are over.  Those guys have gone absolutely freakin' nuts with <em>KSR</em>.  Seriously, you could send them an application for a working FTL drive, and they'd just shoot back an obviousness rejection combining one of Einstein's publications with an episode of <em>Star Trek</em>.  I'm not saying it's bad to treat obviousness as a hard fact question where we have to actually use our heads rather than mechanically use the Teaching/Suggestion/Motivation test.  But these guys have gone totally the other way.  They <em>don't</em> use their heads.  They just mechanically reject <em>everything</em> as obvious if they can find the pieces in any prior art, regardless of whether it was obvious to put them together (and for those who think this is a good thing, the result of this line is there's no such thing as an invention, because everybody builds on what's already there).</p><p>And now with <em>Bilski</em>, the examiners are all hot to reject any software claim as not patentable subject matter.  Really, the landscape has changed.  Anybody sitting around posting on Slashdot and grousing about the USPTO rubber stamping software patents really has no idea what they're talking about.</p></div>
+	</htmltext>
+<tokenext>Also , from discussions with my attorney , it 's really hard to get away with the " bloody obvious " software patents anymore after all of the blowback from things like the Amazon 1-click patent.Somebody mod parent up .
+The days of the patent office just rubber stamping software patents ( if there ever were such days ) are over .
+Those guys have gone absolutely freakin ' nuts with KSR .
+Seriously , you could send them an application for a working FTL drive , and they 'd just shoot back an obviousness rejection combining one of Einstein 's publications with an episode of Star Trek .
+I 'm not saying it 's bad to treat obviousness as a hard fact question where we have to actually use our heads rather than mechanically use the Teaching/Suggestion/Motivation test .
+But these guys have gone totally the other way .
+They do n't use their heads .
+They just mechanically reject everything as obvious if they can find the pieces in any prior art , regardless of whether it was obvious to put them together ( and for those who think this is a good thing , the result of this line is there 's no such thing as an invention , because everybody builds on what 's already there ) .And now with Bilski , the examiners are all hot to reject any software claim as not patentable subject matter .
+Really , the landscape has changed .
+Anybody sitting around posting on Slashdot and grousing about the USPTO rubber stamping software patents really has no idea what they 're talking about .</tokentext>
+<sentencetext>Also, from discussions with my attorney, it's really hard to get away with the "bloody obvious" software patents anymore after all of the blowback from things like the Amazon 1-click patent.Somebody mod parent up.
+The days of the patent office just rubber stamping software patents (if there ever were such days) are over.
+Those guys have gone absolutely freakin' nuts with KSR.
+Seriously, you could send them an application for a working FTL drive, and they'd just shoot back an obviousness rejection combining one of Einstein's publications with an episode of Star Trek.
+I'm not saying it's bad to treat obviousness as a hard fact question where we have to actually use our heads rather than mechanically use the Teaching/Suggestion/Motivation test.
+But these guys have gone totally the other way.
+They don't use their heads.
+They just mechanically reject everything as obvious if they can find the pieces in any prior art, regardless of whether it was obvious to put them together (and for those who think this is a good thing, the result of this line is there's no such thing as an invention, because everybody builds on what's already there).And now with Bilski, the examiners are all hot to reject any software claim as not patentable subject matter.
+Really, the landscape has changed.
+Anybody sitting around posting on Slashdot and grousing about the USPTO rubber stamping software patents really has no idea what they're talking about.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100451</id>
+	<title>Re:Prior Art so Prior It Hurts</title>
+	<author>Anonymous</author>
+	<datestamp>1243330740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The problem here is that 'IBM' didn't decide to file a patent. 4 developers, who each get a cash bonus for each patent they file, another bonus if it's granted, and extra bonuses for each 'plateau' they reach decided to file for a patent. An IBM patent lawyer, who is not a programmer and who has a quarterly quota of patent applications to fill, decided to approve the filing, and straight to Slashdot it goes.</p><p>So 'IBM' doesn't file stupid patents, it just created a set of rules that encourage its employees to patent anything laying around that's not breathing, and backs its lawyers into a corner  at the end of each quarter where they will search the recycling bins for any scrap of paper they can  wrap a boilerplate patent application around.</p><p>As a side note, the costs come down when you are a big firm that files so many patents it has an in-house staff of patent lawyers.</p></htmltext>
+<tokenext>The problem here is that 'IBM ' did n't decide to file a patent .
+4 developers , who each get a cash bonus for each patent they file , another bonus if it 's granted , and extra bonuses for each 'plateau ' they reach decided to file for a patent .
+An IBM patent lawyer , who is not a programmer and who has a quarterly quota of patent applications to fill , decided to approve the filing , and straight to Slashdot it goes.So 'IBM ' does n't file stupid patents , it just created a set of rules that encourage its employees to patent anything laying around that 's not breathing , and backs its lawyers into a corner at the end of each quarter where they will search the recycling bins for any scrap of paper they can wrap a boilerplate patent application around.As a side note , the costs come down when you are a big firm that files so many patents it has an in-house staff of patent lawyers .</tokentext>
+<sentencetext>The problem here is that 'IBM' didn't decide to file a patent.
+4 developers, who each get a cash bonus for each patent they file, another bonus if it's granted, and extra bonuses for each 'plateau' they reach decided to file for a patent.
+An IBM patent lawyer, who is not a programmer and who has a quarterly quota of patent applications to fill, decided to approve the filing, and straight to Slashdot it goes.So 'IBM' doesn't file stupid patents, it just created a set of rules that encourage its employees to patent anything laying around that's not breathing, and backs its lawyers into a corner  at the end of each quarter where they will search the recycling bins for any scrap of paper they can  wrap a boilerplate patent application around.As a side note, the costs come down when you are a big firm that files so many patents it has an in-house staff of patent lawyers.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097149</id>
+	<title>More to it than that.</title>
+	<author>gurps\_npc</author>
+	<datestamp>1243360920000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext>The numbers in your social security number mean things.  By State originally.   I am sure, IBM is at least including double-checking that information, to make sure that you can't type in 741-99-0000 and have the machine mistakenly think it is a valid social security number.
+
+How do I know this?  Because the numbers mean things, you can tell that certain things are obviously bad social security numbers.  For example, no field can have all 0.  111-00-1111 has never been assigned.  Similarly, no number above 740-##-#### has ever been assigned.
+
+<p>You can read more about it <a href="http://www.usrecordsearch.com/ssn.htm" title="usrecordsearch.com">here</a> [usrecordsearch.com]</p></htmltext>
+<tokenext>The numbers in your social security number mean things .
+By State originally .
+I am sure , IBM is at least including double-checking that information , to make sure that you ca n't type in 741-99-0000 and have the machine mistakenly think it is a valid social security number .
+How do I know this ?
+Because the numbers mean things , you can tell that certain things are obviously bad social security numbers .
+For example , no field can have all 0 .
+111-00-1111 has never been assigned .
+Similarly , no number above 740- # # - # # # # has ever been assigned .
+You can read more about it here [ usrecordsearch.com ]</tokentext>
+<sentencetext>The numbers in your social security number mean things.
+By State originally.
+I am sure, IBM is at least including double-checking that information, to make sure that you can't type in 741-99-0000 and have the machine mistakenly think it is a valid social security number.
+How do I know this?
+Because the numbers mean things, you can tell that certain things are obviously bad social security numbers.
+For example, no field can have all 0.
+111-00-1111 has never been assigned.
+Similarly, no number above 740-##-#### has ever been assigned.
+You can read more about it here [usrecordsearch.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100391</id>
+	<title>Re:What bullshit?</title>
+	<author>HiThere</author>
+	<datestamp>1243330500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>You forgot PL/I.  Remember, IBM's favorite language.  (It wasn't that bad, but much to complex for the time.  Simpler than C++ though.)  It, also, had pic formats.  It borrowed them from COBOL.</p></htmltext>
+<tokenext>You forgot PL/I .
+Remember , IBM 's favorite language .
+( It was n't that bad , but much to complex for the time .
+Simpler than C + + though .
+) It , also , had pic formats .
+It borrowed them from COBOL .</tokentext>
+<sentencetext>You forgot PL/I.
+Remember, IBM's favorite language.
+(It wasn't that bad, but much to complex for the time.
+Simpler than C++ though.
+)  It, also, had pic formats.
+It borrowed them from COBOL.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097671</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097011</id>
+	<title>you're on notice slashdot</title>
+	<author>circletimessquare</author>
+	<datestamp>1243360320000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>pursuant to my patent on any internet-based stories involving ibm and dojo. pay up or face the wrath of my lawyer rush</p></htmltext>
+<tokenext>pursuant to my patent on any internet-based stories involving ibm and dojo .
+pay up or face the wrath of my lawyer rush</tokentext>
+<sentencetext>pursuant to my patent on any internet-based stories involving ibm and dojo.
+pay up or face the wrath of my lawyer rush</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096937</id>
+	<title>As a programmer at a federal agency that uses Perl</title>
+	<author>Anonymous</author>
+	<datestamp>1243360020000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext>this is bullshit.
+<br> <br>
+We parse SSNs all day long. I think WE may have prior art.</htmltext>
+<tokenext>this is bullshit .
+We parse SSNs all day long .
+I think WE may have prior art .</tokentext>
+<sentencetext>this is bullshit.
+We parse SSNs all day long.
+I think WE may have prior art.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097537</id>
+	<title>Re:More to it than that.</title>
+	<author>i.r.id10t</author>
+	<datestamp>1243362600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>700-xx-xxxx was for the railroad retirement society... but yes, otherwise for states and/or territories (puerto rico, guam, etc)</p></htmltext>
+<tokenext>700-xx-xxxx was for the railroad retirement society... but yes , otherwise for states and/or territories ( puerto rico , guam , etc )</tokentext>
+<sentencetext>700-xx-xxxx was for the railroad retirement society... but yes, otherwise for states and/or territories (puerto rico, guam, etc)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097149</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097837</id>
+	<title>Re:Real time is the key claim</title>
+	<author>Bill, Shooter of Bul</author>
+	<datestamp>1243363740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>No, that isn't the novel part. If you read further to the background 009.<blockquote><div><p> [0009]What is needed is a solution that provides real-time validation feedback during entry into a text input field. That is, characters are validated as they are inputted with invalid characters being visually accentuated. For example, any numbers accidentally typed into the text field for a city name would be highlighted. Ideally, this solution would leverage regular expressions to define expected input formats.</p></div> </blockquote><p>
+So it seems they are really only saying that the highlighting of the individual invalid chars in real time is novel. That may or may not have prior art, but it seems rather obvious and not patent worthy.</p></div>
+	</htmltext>
+<tokenext>No , that is n't the novel part .
+If you read further to the background 009 .
+[ 0009 ] What is needed is a solution that provides real-time validation feedback during entry into a text input field .
+That is , characters are validated as they are inputted with invalid characters being visually accentuated .
+For example , any numbers accidentally typed into the text field for a city name would be highlighted .
+Ideally , this solution would leverage regular expressions to define expected input formats .
+So it seems they are really only saying that the highlighting of the individual invalid chars in real time is novel .
+That may or may not have prior art , but it seems rather obvious and not patent worthy .</tokentext>
+<sentencetext>No, that isn't the novel part.
+If you read further to the background 009.
+[0009]What is needed is a solution that provides real-time validation feedback during entry into a text input field.
+That is, characters are validated as they are inputted with invalid characters being visually accentuated.
+For example, any numbers accidentally typed into the text field for a city name would be highlighted.
+Ideally, this solution would leverage regular expressions to define expected input formats.
+So it seems they are really only saying that the highlighting of the individual invalid chars in real time is novel.
+That may or may not have prior art, but it seems rather obvious and not patent worthy.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097121</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098003</id>
+	<title>spaces in credit card numbers?</title>
+	<author>Anonymous</author>
+	<datestamp>1243364400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p> <i>How fucking hard is it to strip non-numeric characters from a string?</i></p></div> </blockquote><p>Damned hard, based on my testing over the last few years.</p><p>As an exercise in futility -- the next time you're buying something online, try entering your credit card number with spaces in it, so it's legible, and easier to compare to what's on your card.</p><p>It used to be that it'd occasionally work -- but I don't think I've had a single success in the last year or two.  They either put in limits so I can't type enough characters, or it gets rejected with no useful message but works fine without them.</p><p>... on another note, I once had a member number for a company that on the membership card had a leading zero -- their site worked fine for years.  They upgraded the site, and I couldn't log on anymore.  After an hour with customer service, they finally told me to log in without the leading zero, and it worked.</p></div>
+	</htmltext>
+<tokenext>How fucking hard is it to strip non-numeric characters from a string ?
+Damned hard , based on my testing over the last few years.As an exercise in futility -- the next time you 're buying something online , try entering your credit card number with spaces in it , so it 's legible , and easier to compare to what 's on your card.It used to be that it 'd occasionally work -- but I do n't think I 've had a single success in the last year or two .
+They either put in limits so I ca n't type enough characters , or it gets rejected with no useful message but works fine without them.... on another note , I once had a member number for a company that on the membership card had a leading zero -- their site worked fine for years .
+They upgraded the site , and I could n't log on anymore .
+After an hour with customer service , they finally told me to log in without the leading zero , and it worked .</tokentext>
+<sentencetext> How fucking hard is it to strip non-numeric characters from a string?
+Damned hard, based on my testing over the last few years.As an exercise in futility -- the next time you're buying something online, try entering your credit card number with spaces in it, so it's legible, and easier to compare to what's on your card.It used to be that it'd occasionally work -- but I don't think I've had a single success in the last year or two.
+They either put in limits so I can't type enough characters, or it gets rejected with no useful message but works fine without them.... on another note, I once had a member number for a company that on the membership card had a leading zero -- their site worked fine for years.
+They upgraded the site, and I couldn't log on anymore.
+After an hour with customer service, they finally told me to log in without the leading zero, and it worked.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099221</id>
+	<title>Re:Have you read the patent application?</title>
+	<author>Anonymous</author>
+	<datestamp>1243368900000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>so what you mean to say is that it is a simple regex inside of an if statement that if true executes an alert or msgbox back to the user with instruction of a properly formatted 'whatever'.  Wow. sounds crazy complicated.</p></htmltext>
+<tokenext>so what you mean to say is that it is a simple regex inside of an if statement that if true executes an alert or msgbox back to the user with instruction of a properly formatted 'whatever' .
+Wow. sounds crazy complicated .</tokentext>
+<sentencetext>so what you mean to say is that it is a simple regex inside of an if statement that if true executes an alert or msgbox back to the user with instruction of a properly formatted 'whatever'.
+Wow. sounds crazy complicated.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097567</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097527</id>
+	<title>Re:More to it than that.</title>
+	<author>byner</author>
+	<datestamp>1243362540000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Is that really all the vital though? The problem that has most people concerned is not accepting erroneous SSNs that are made up, but perfectly valid SSNs being used fraudulently in identity theft, is it not?</p></htmltext>
+<tokenext>Is that really all the vital though ?
+The problem that has most people concerned is not accepting erroneous SSNs that are made up , but perfectly valid SSNs being used fraudulently in identity theft , is it not ?</tokentext>
+<sentencetext>Is that really all the vital though?
+The problem that has most people concerned is not accepting erroneous SSNs that are made up, but perfectly valid SSNs being used fraudulently in identity theft, is it not?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097149</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098459
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_46</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28102935
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099935
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097363
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_40</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098391
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_36</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098003
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098491
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099777
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097671
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100451
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_41</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097613
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_28</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098535
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097567
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097707
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097121
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_33</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099705
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098159
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097363
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_52</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099861
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28103201
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097363
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_30</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28101593
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097469
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097149
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097433
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097149
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_31</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097387
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097045
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098155
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097439
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_45</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28107081
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097567
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_50</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099541
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098141
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098033
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097537
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097149
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_37</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097857
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097391
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_39</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097995
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_44</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28103535
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098157
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097199
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096935
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_27</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098307
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097121
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_29</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28101865
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097363
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097837
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097121
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_43</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100133
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098199
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097003
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_34</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097321
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100331
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097909
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097727
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_35</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097369
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097121
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098333
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097391
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_26</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28110387
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098199
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097003
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_49</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098147
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097909
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_42</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100971
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_25</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097967
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097149
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099201
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096937
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_32</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096953
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28104215
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098281
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097391
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28101629
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097439
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_48</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28105745
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_51</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28105125
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100391
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097671
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28104065
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097285
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_47</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097569
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_38</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099221
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097567
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099837
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097527
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097149
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_159249_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097261
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_159249.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096935
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097199
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098157
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28103535
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_159249.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096939
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_159249.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097115
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_159249.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097149
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097469
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097537
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097433
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097967
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097527
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_159249.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096947
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097387
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097567
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28107081
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099221
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098535
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097285
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28104065
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098141
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098391
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_159249.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096909
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_159249.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096937
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099201
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_159249.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097121
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097369
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097707
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097837
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098307
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_159249.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096827
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098459
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097045
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097037
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100971
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097391
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098333
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098281
+----http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28104215
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097857
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098033
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097363
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28101865
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099935
+----http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28102935
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098159
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28103201
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100451
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098491
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097909
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098147
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100331
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097613
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097569
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099861
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28101593
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097003
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098199
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100133
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28110387
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096953
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099837
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099541
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097261
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097321
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_159249.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096853
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097671
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099777
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28100391
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28105125
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28105745
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097727
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097439
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28101629
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098155
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28098003
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28099705
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097995
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_159249.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28097141
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_159249.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_159249.28096883
+</commentlist>
+</conversation>

@@ -1,0 +1,17 @@
+<article>
+	<pid>8476</pid>
+	<title>Possible Magic follow-up user agent pops up | Android Central</title>
+	<url>http://www.androidcentral.com/mytouch-slide-user-agent-pops</url>
+	<date>   Jan 20 2010  10:20 am   </date>
+	<author>Phil Nickinson</author>
+	<text>
+Need more proof that the long-rumored HTC myTouch Slide (aka the myTouch 2 and Espresso) is on the way? This may be it. The user-agent string (which is what identifies browsers to the Web sites on which they're calling) is live at HTC. It clearly shows a 320x480 screen (same size as the myTouch 3G) along with a QWERTY keyboard. Still looking at a possible launch in May. It's also being called a possible follow to the HTC Magic, which is still in the same ballpark. We'll have to see, of course, as nothing's been announced.HTC via Unwired View </text>
+	<score>1</score>
+</article>
+<comment>
+	<cid>16613</cid>
+	<date>Jan 25 2010  12:24 pm</date>
+	<author>Peter</author>
+	<text>That's not a user-agent string (http://en.wikipedia.org/wiki/User_agent) but a user-agent profile (http://en.wikipedia.org/wiki/UAProf), two different things.</text>
+	<score>100</score>
+</comment>

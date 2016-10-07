@@ -1,0 +1,138 @@
+<article>
+	<pid>13</pid>
+	<title>4 Investing Predictions For 2012 - Business Insider</title>
+	<url>http://www.businessinsider.com//investing-predictions-for-2012-2011-12</url>
+	<date>Jan.  1, 2012, 11:52 AM</date>
+	<author>Alex Dumortier</author>
+	<text>3 Things That Can Make SodaStream PopLockheed Snags $174.7 Million Worth of Pentagon ContractsWarning: Buy While You Still Have the ChanceLast week, Motley Fool founderDavid Gardnermade a spirited call to hold investing pundits to account inMoneyballing the Financial World.Here's my contribution, as I reviewfour predictionsI made at the end of last year -- and make a few new ones for 2012.1. Stocks will outperform bonds: WRONGYear-to-date return, stocks:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.9%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[S&amp;P 500 Total Return Index]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Year-to-date return, bonds:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.3%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[BarclaysCapital U.S. Aggregate Bond Index]Unless stocks rally strongly to close out the year, there'll be no sugar-coating this one; I got it flatly wrong. Year-to-date, bonds have beaten stocks by nearly six-and-a-half percentage points (using a broad market bond index that includes U.S. government and agencies, corporate, and mortgage- and asset-backed securities.) That's not the half of it: While stocks were content to tread water, long-dated Treasuries produced a growth-stock-worthy 31% return!I was looking for increases in share buybacks and M&amp;A activity to lift share prices. Both of those things occurred. Companies in the S&amp;P 500 bought back roughly $400 billion of their own shares in the 12 months to Sept. 30 -- a 55% increase over the prior 12 months. In dollar terms, acquisitions activity grew 15%. I also thought individual investors would return to stocks, whichdidn'thappen.2. Large- and mega-cap stocks will outperform small caps: RIGHTCapitalization Segment2011 Return*Benchmark IndexMega cap2.5%Russell Top 200 IndexLarge cap1.2%Russell 1000 IndexSmall cap(3.7%)Russell 2000 Index*At Dec. 22, 2011. Source: Russell IndexesAt the end of last year, small caps had beaten large caps by a whopping 4.5 percentage points on an annualized basis over the prior 10 years (that may not sound like much, but when it is compounded, it amounts to a real difference.) This year, small caps' reversal of fortune has reduced that margin to 2.4 percentage points.Will this continuein 2012? I think so. The relative performance of different market capitalization segments is cyclical. The pendulum of small cap outperformance will swing back to zero -- that's ineluctable.In addition, the high-risk and high-uncertainty macroeconomic environment favors larger, better-established names. Look for large-cap stocks to beat small caps next year, with the mega-cap segment beating both of them (i.e. the same performance ranking as this year). You can track my predictionin CAPS, The Motley Fool's investor-driven, stock-rating application.I'm going to ratetheiShares Russell 2000 ETF'underperform' and theRydex Russell Top 50 ETFas 'outperform.'3. Gold will break $1,600 and $1,150: PARTIALLY RIGHTYTD High (closing price):&nbsp;&nbsp;&nbsp;&nbsp;$1,895YTD Low (closing price): &nbsp;&nbsp;&nbsp;$1,319YTD Return:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.7%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I got this one half-right. Predicting that gold would break $1,600 in 2011 must seem like a slam-dunk in hindsight. The yellow metal smashed through $1,600 on its way to an all-time (nominal) high above $1,900 on the back of Europe's festering sovereign debt crisis. Since then, gold haslost much of its momentumand we are now back down around... $1,600. Despite a eurozone crisis that is far from over (among other problems), owning gold now is even riskier than it was at the beginning of the year.SPDR Gold Trust(NYSE:GLD&nbsp;&nbsp;) shareholders, you've been warned! (The same warning holds for investors in another precious metal via theiShares Silver Trust(NYSE:SLV&nbsp;&nbsp;) , by the way.)4.Facebookgoes public: WRONGI thought for sure that Facebook would launch its initial public offering in 2011, arguing that "Facebook's employees and its venture-capital backers must be intensely impatient" to monetize the buzz surrounding the company and the broader social-networking sector. I overlooked early investors' ability to monetize their pre-IPO shares through private markets. Therewasa gold rush of social-networking IPOs this year, but Facebook remained above the fray.Facebook's flotation is nowexpected for 2012. At the end of June, I predicted that the company would close its first day of trading in the public markets with a market capitalization above $150 billion. I still stand by that prediction today.While we're on the topic, many investors will be able to share one experience: That of earning poor returns on social-networking stocks. I predict that an equal-weight, 'new-tech' portfolio ofLinkedIn(Nasdaq:LNKD&nbsp;&nbsp;) ,Groupon(NYSE:GRPN&nbsp;&nbsp;) , andZyngawill underperform an 'old tech' one made up ofMicrosoft(Nasdaq:MSFT&nbsp;&nbsp;) ,CiscoSystems(Nasdaq:CSCO&nbsp;&nbsp;) andHewlett-Packard(NYSE:HPQ&nbsp;&nbsp;) over the next three years.Looking forwardMy score is three out of six (numbers two and three actually contain two separate predictions), or 50%. It's nice to know that an expensive education, and much time and effort have lifted (lowered?) me to the same level as a dart-throwing monkey. Can you do better? Tell me if you agree or disagree with the new predictions I've made above or give me your predictions for 2012 in the comment area below.Thispostoriginally appeared atThe Motley Fool.This story was originally published by&nbsp;The Motley Fool.</text>
+	<score>17</score>
+</article>
+<comment>
+	<date>Mon, 02 Jan 2012 07:56:04</date>
+	<author>Dr. Chicago</author>
+	<text>Elbis is obvioulsy a hi-com (hired commentor) perhaps in tandem with B. Subu. Could someone at BI delete half of these, if not all. Hi-Coms are very popular as corporations and political parties hire them to protect their &quot;reputation&quot; but really are only distorting public opinion by posting onesided biased information. Read all comments with a bit of skeptism especially when you see technical glitches as this one. Happy New Years.
+
+Thank You.</text>
+	<score>4</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 21:31:36</date>
+	<author>Elbis</author>
+	<text>Agree in the first 2</text>
+	<score>3</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 21:31:31</date>
+	<author>Elbis</author>
+	<text>Agree in the first 2</text>
+	<score>10</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 21:31:29</date>
+	<author>Elbis</author>
+	<text>Agree in the first 2</text>
+	<score>-1</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 21:31:27</date>
+	<author>Elbis</author>
+	<text>Agree in the first 2</text>
+	<score>0</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 21:31:26</date>
+	<author>Elbis</author>
+	<text>Agree in the first 2</text>
+	<score>3</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 21:31:23</date>
+	<author>Elbis</author>
+	<text>Agree in the first 2</text>
+	<score>7</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 21:31:21</date>
+	<author>Elbis</author>
+	<text>Agree in the first 2</text>
+	<score>8</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 21:31:20</date>
+	<author>Elbis</author>
+	<text>Agree in the first 2</text>
+	<score>-2</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 21:31:07</date>
+	<author>Elbis</author>
+	<text>Agree in the first 2</text>
+	<score>4</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 21:31:06</date>
+	<author>Elbis</author>
+	<text>Agree in the first 2</text>
+	<score>5</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 21:31:03</date>
+	<author>Elbis</author>
+	<text>Agree in the first 2</text>
+	<score>-2</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 21:28:20</date>
+	<author>Elbis</author>
+	<text>All &quot;WRONG&quot; why would I listen to you!!??</text>
+	<score>3</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 16:38:26</date>
+	<author>The G Manifesto</author>
+	<text>&quot;I predict that an equal-weight, 'new-tech' portfolio of LinkedIn (Nasdaq: LNKD ) , Groupon (NYSE: GRPN ) , and Zynga will underperform an 'old tech' one&quot;
+
+Possibly. Maybe.
+
+But who the hell wants to put their money there and find out?</text>
+	<score>4</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 14:02:51</date>
+	<author>And3</author>
+	<text>So basically a coin toss would have had equal predictive power.</text>
+	<score>9</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 13:36:05</date>
+	<author>CanuckMtl</author>
+	<text>-Bankruptcies of Groupon (GRPN) and Netflix (NFLX) = Short GRPN &amp; NFLX
+-Research in Motion (RIMM) acquisition by IBM or HP = Buy RIMM
+-Facebook (FB) IPO is a flop, the share price loses 40% from the IPO price = Short FB
+-Oil prices top $150 per barrel = Buy oil futures
+-Gold prices top $2500 per once = Buy gold
+-US, UK &amp; Israel attack on Iran = Buy oil, buy gold, buy ITA &amp; PPA</text>
+	<score>6</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 13:27:11</date>
+	<author>ResultsMatter</author>
+	<text>Excellent article. It is nice to see attempts at accountability, and writers willing to grade their own work.
+
+my only disagreement is on the tech comparisons. I think any benchmark that contains HPQ is destined to underperform. They have a long way to go before the bleeding stops. I love their products, but hate their stock. They don't have much further that they can fall, true. But I don't see them with any upward momentum for at least 2 more years or CEOs, whichever comes first.</text>
+	<score>7</score>
+</comment>
+<comment>
+	<date>Sun, 01 Jan 2012 12:54:08</date>
+	<author>dump Congress</author>
+	<text>I was reading the title, &quot;4 Outrageous Investing Predictions That Could Make You Rich In 2012,&quot; and then I read &quot;Motley Fool&quot; and I was so disappointed.</text>
+	<score>2</score>
+</comment>
+<comment>
+	<date>Fri, 30 Dec 2011 11:23:45</date>
+	<author>B.Subu</author>
+	<text>gold crashes to 1000
+dow goes to 16000
+people go to stocks in drowes loose faith in banks</text>
+	<score>6</score>
+</comment>

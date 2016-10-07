@@ -1,0 +1,1323 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_26_1815244</id>
+	<title>Apple Plans $1 Billion iDataCenter</title>
+	<author>kdawson</author>
+	<datestamp>1243338060000</datestamp>
+	<htmltext><a href="http://www.gamehostingguide.com/" rel="nofollow">1sockchuck</a> writes <i>"Apple is planning a major East Coast data center to boost the capacity of its online operations, and may invest <a href="http://www.datacenterknowledge.com/archives/2009/05/26/apple-planning-1-billion-idatacenter/">more than $1 billion</a> in building and operating the huge server farm. That's nearly twice what Google and Microsoft typically invest in their massive cloud computing centers. The scope of the project raises interesting questions about Apple's plans, and has politicians in North Carolina jumping through hoops to pass incentives to win the project. The proposed NC incentives build on a package for Google that later <a href="//politics.slashdot.org/article.pl?sid=07/02/04/0953259&amp;tid=217">proved controversial</a>."</i></htmltext>
+<tokenext>1sockchuck writes " Apple is planning a major East Coast data center to boost the capacity of its online operations , and may invest more than $ 1 billion in building and operating the huge server farm .
+That 's nearly twice what Google and Microsoft typically invest in their massive cloud computing centers .
+The scope of the project raises interesting questions about Apple 's plans , and has politicians in North Carolina jumping through hoops to pass incentives to win the project .
+The proposed NC incentives build on a package for Google that later proved controversial .
+"</tokentext>
+<sentencetext>1sockchuck writes "Apple is planning a major East Coast data center to boost the capacity of its online operations, and may invest more than $1 billion in building and operating the huge server farm.
+That's nearly twice what Google and Microsoft typically invest in their massive cloud computing centers.
+The scope of the project raises interesting questions about Apple's plans, and has politicians in North Carolina jumping through hoops to pass incentives to win the project.
+The proposed NC incentives build on a package for Google that later proved controversial.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105129</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>Smurf</author>
+	<datestamp>1243359240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Last year, Maryland raised marginal tax rate on millionaires.  This year, the number of millionaires in Maryland dropped by 30\% and total tax revenue collected from them dropped as well.</p></div><p>Lemme see. Last year, <a href="http://www.forbes.com/2009/03/11/worlds-richest-people-billionaires-2009-billionaires\_land.html" title="forbes.com">Forbes</a> [forbes.com] counted 1,125 billionaires in the world, and this year only 793. So the number of billionaires dropped by 30\%. According to your logic, that's because they moved to... Mars?</p></div>
+	</htmltext>
+<tokenext>Last year , Maryland raised marginal tax rate on millionaires .
+This year , the number of millionaires in Maryland dropped by 30 \ % and total tax revenue collected from them dropped as well.Lem me see .
+Last year , Forbes [ forbes.com ] counted 1,125 billionaires in the world , and this year only 793 .
+So the number of billionaires dropped by 30 \ % .
+According to your logic , that 's because they moved to... Mars ?</tokentext>
+<sentencetext>Last year, Maryland raised marginal tax rate on millionaires.
+This year, the number of millionaires in Maryland dropped by 30\% and total tax revenue collected from them dropped as well.Lemme see.
+Last year, Forbes [forbes.com] counted 1,125 billionaires in the world, and this year only 793.
+So the number of billionaires dropped by 30\%.
+According to your logic, that's because they moved to... Mars?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105551</id>
+	<title>Applying for a job...</title>
+	<author>mi</author>
+	<datestamp>1243363740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I think, I'd love to work in a data-center of this caliber belonging to a company like Apple... Too bad, their <a href="http://www.apple.com/jobs/us/" title="apple.com">job listings</a> [apple.com] don't mention anything on the East Coast...</p></htmltext>
+<tokenext>I think , I 'd love to work in a data-center of this caliber belonging to a company like Apple... Too bad , their job listings [ apple.com ] do n't mention anything on the East Coast.. .</tokentext>
+<sentencetext>I think, I'd love to work in a data-center of this caliber belonging to a company like Apple... Too bad, their job listings [apple.com] don't mention anything on the East Coast...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105191</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>Anonymous</author>
+	<datestamp>1243359600000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Actually, the person was referencing this Op-ed article in Tuesday's Wall Street Journal:</p><p>http://online.wsj.com/article/SB124329282377252471.html</p><p>And here is the (relevant) portion of that article:</p><p>""""<br>Maryland couldn't balance its budget last year, so the state tried to close the shortfall by fleecing the wealthy. Politicians in Annapolis created a millionaire tax bracket, raising the top marginal income-tax rate to 6.25\%. And because cities such as Baltimore and Bethesda also impose income taxes, the state-local tax rate can go as high as 9.45\%. Governor Martin O'Malley, a dedicated class warrior, declared that these richest 0.3\% of filers were "willing and able to pay their fair share." The Baltimore Sun predicted the rich would "grin and bear it."</p><p>One year later, nobody's grinning. One-third of the millionaires have disappeared from Maryland tax rolls. In 2008 roughly 3,000 million-dollar income tax returns were filed by the end of April. This year there were 2,000, which the state comptroller's office concedes is a "substantial decline." On those missing returns, the government collects 6.25\% of nothing. Instead of the state coffers gaining the extra $106 million the politicians predicted, millionaires paid $100 million less in taxes than they did last year -- even at higher rates.</p><p>No doubt the majority of that loss in millionaire filings results from the recession. However, this is one reason that depending on the rich to finance government is so ill-advised: Progressive tax rates create mountains of cash during good times that vanish during recessions. For evidence, consult California, New York and New Jersey (see here).<br>"""""</p><p>However, you're rant against the person is ALSO unfounded.  You, along with the WSJ author, are assuming that 30\%, THIRTY PERCENT, of those people fell out of THAT tax bracket during the recession.  I find it unlikely...</p><p>But, so as not to leave you hanging, here's the finale of the WSJ article:</p><p>"""""<br>The Maryland state revenue office says it's "way too early" to tell how many millionaires moved out of the state when the tax rates rose. But no one disputes that some rich filers did leave. It's easier than the redistributionists think. Christopher Summers, president of the Maryland Public Policy Institute, notes: "Marylanders with high incomes typically own second homes in tax friendlier states like Florida, Delaware, South Carolina and Virginia. So it's easy for them to change their residency."</p><p>All of this means that the burden of paying for bloated government in Annapolis will fall on the middle class. Thanks to the futility of soaking the rich, these working families will now pay Mr. O'Malley's "fair share."<br>"""""</p></htmltext>
+<tokenext>Actually , the person was referencing this Op-ed article in Tuesday 's Wall Street Journal : http : //online.wsj.com/article/SB124329282377252471.htmlAnd here is the ( relevant ) portion of that article : " " " " Maryland could n't balance its budget last year , so the state tried to close the shortfall by fleecing the wealthy .
+Politicians in Annapolis created a millionaire tax bracket , raising the top marginal income-tax rate to 6.25 \ % .
+And because cities such as Baltimore and Bethesda also impose income taxes , the state-local tax rate can go as high as 9.45 \ % .
+Governor Martin O'Malley , a dedicated class warrior , declared that these richest 0.3 \ % of filers were " willing and able to pay their fair share .
+" The Baltimore Sun predicted the rich would " grin and bear it .
+" One year later , nobody 's grinning .
+One-third of the millionaires have disappeared from Maryland tax rolls .
+In 2008 roughly 3,000 million-dollar income tax returns were filed by the end of April .
+This year there were 2,000 , which the state comptroller 's office concedes is a " substantial decline .
+" On those missing returns , the government collects 6.25 \ % of nothing .
+Instead of the state coffers gaining the extra $ 106 million the politicians predicted , millionaires paid $ 100 million less in taxes than they did last year -- even at higher rates.No doubt the majority of that loss in millionaire filings results from the recession .
+However , this is one reason that depending on the rich to finance government is so ill-advised : Progressive tax rates create mountains of cash during good times that vanish during recessions .
+For evidence , consult California , New York and New Jersey ( see here ) .
+" " " " " However , you 're rant against the person is ALSO unfounded .
+You , along with the WSJ author , are assuming that 30 \ % , THIRTY PERCENT , of those people fell out of THAT tax bracket during the recession .
+I find it unlikely...But , so as not to leave you hanging , here 's the finale of the WSJ article : " " " " " The Maryland state revenue office says it 's " way too early " to tell how many millionaires moved out of the state when the tax rates rose .
+But no one disputes that some rich filers did leave .
+It 's easier than the redistributionists think .
+Christopher Summers , president of the Maryland Public Policy Institute , notes : " Marylanders with high incomes typically own second homes in tax friendlier states like Florida , Delaware , South Carolina and Virginia .
+So it 's easy for them to change their residency .
+" All of this means that the burden of paying for bloated government in Annapolis will fall on the middle class .
+Thanks to the futility of soaking the rich , these working families will now pay Mr. O'Malley 's " fair share .
+" " " " " "</tokentext>
+<sentencetext>Actually, the person was referencing this Op-ed article in Tuesday's Wall Street Journal:http://online.wsj.com/article/SB124329282377252471.htmlAnd here is the (relevant) portion of that article:""""Maryland couldn't balance its budget last year, so the state tried to close the shortfall by fleecing the wealthy.
+Politicians in Annapolis created a millionaire tax bracket, raising the top marginal income-tax rate to 6.25\%.
+And because cities such as Baltimore and Bethesda also impose income taxes, the state-local tax rate can go as high as 9.45\%.
+Governor Martin O'Malley, a dedicated class warrior, declared that these richest 0.3\% of filers were "willing and able to pay their fair share.
+" The Baltimore Sun predicted the rich would "grin and bear it.
+"One year later, nobody's grinning.
+One-third of the millionaires have disappeared from Maryland tax rolls.
+In 2008 roughly 3,000 million-dollar income tax returns were filed by the end of April.
+This year there were 2,000, which the state comptroller's office concedes is a "substantial decline.
+" On those missing returns, the government collects 6.25\% of nothing.
+Instead of the state coffers gaining the extra $106 million the politicians predicted, millionaires paid $100 million less in taxes than they did last year -- even at higher rates.No doubt the majority of that loss in millionaire filings results from the recession.
+However, this is one reason that depending on the rich to finance government is so ill-advised: Progressive tax rates create mountains of cash during good times that vanish during recessions.
+For evidence, consult California, New York and New Jersey (see here).
+"""""However, you're rant against the person is ALSO unfounded.
+You, along with the WSJ author, are assuming that 30\%, THIRTY PERCENT, of those people fell out of THAT tax bracket during the recession.
+I find it unlikely...But, so as not to leave you hanging, here's the finale of the WSJ article:"""""The Maryland state revenue office says it's "way too early" to tell how many millionaires moved out of the state when the tax rates rose.
+But no one disputes that some rich filers did leave.
+It's easier than the redistributionists think.
+Christopher Summers, president of the Maryland Public Policy Institute, notes: "Marylanders with high incomes typically own second homes in tax friendlier states like Florida, Delaware, South Carolina and Virginia.
+So it's easy for them to change their residency.
+"All of this means that the burden of paying for bloated government in Annapolis will fall on the middle class.
+Thanks to the futility of soaking the rich, these working families will now pay Mr. O'Malley's "fair share.
+""""""</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103661</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104371</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>Anonymous</author>
+	<datestamp>1243352700000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>I am a fan of the flat tax.  Why should those who work hard for their millions get taxed more?  Not fair I say...</p><p>BTW, I'm a poor military person who's also a poor student...I see unfairness in the tax system...</p></htmltext>
+<tokenext>I am a fan of the flat tax .
+Why should those who work hard for their millions get taxed more ?
+Not fair I say...BTW , I 'm a poor military person who 's also a poor student...I see unfairness in the tax system.. .</tokentext>
+<sentencetext>I am a fan of the flat tax.
+Why should those who work hard for their millions get taxed more?
+Not fair I say...BTW, I'm a poor military person who's also a poor student...I see unfairness in the tax system...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28108287</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>Anonymous</author>
+	<datestamp>1243432440000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>cum hoc ergo propter hoc</p></htmltext>
+<tokenext>cum hoc ergo propter hoc</tokentext>
+<sentencetext>cum hoc ergo propter hoc</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104169</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103875</id>
+	<title>Another relocation incentive deal?</title>
+	<author>Anonymous</author>
+	<datestamp>1243348740000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>First, I've never been a big fan of these side deals that state and local governments make to entice businesses to relocate or expand to their area. I understand why they do it, but there's a flip side that a lot of people don't realize.</p><ul> <li>Several posts have already pointed out instances where a company moves in, sets up, then closes their operation as soon as the free power/zero taxes run out. This means that all the people who were employed are either unemployed or (if they're lucky) forced to move somewhere else. Companies can play this game as many times as municipalities will allow them to.</li><li>Especially in economically depressed areas, where the company may be one of the only high-wage employers, what happens when a worker at the company loses their job? If the spouse works, is there any employment opportunity beyond your company and retail/service jobs?</li><li>On the local front, an employer coming to town and increasing average wages may sound good, but it's only good for the employees of that company. Locals who don't work there have to deal with higher housing, food and other prices. Local businesses have to raise wages to keep up with the newcomer, which means they have to charge customers more.</li><li>I know a lot of people claim that the rich pay a lot of taxes, but it seems to me that reducing their companies' tax rate makes local budget problems even worse. As good as it would be, running a local government is not free. You need to pay for roads, schools, police, etc. Economically depressed areas that don't spend money on these things stay economically depressed (bad infrastructure, crappy schools and teachers, high crime due to the underfunded police.) Instead of forcing middle class taxpayers to pay more taxes, share the burden with those who can afford it more.</li></ul><p>Second, I actually have reverse experience with this. I live in the Northeast, which is not the cheapest place in the country to do business by a long shot. The company I work for has decided to relocate a lot of their work down South. That's great if you love the heat and don't care about moving. Tech workers are often the first to consider in any move like this -- I seriously think executives believe a stereotype that all tech workers live in a one-bedroom apartment or with Mom, have posessions that fit in half a U-Haul, don't care if they live in Boston, MA or Branson, MO and will move wherever the company tells them to. This has happened to me at 2 companies before (I'm on Offered Relocation #3 now,) and I'm not going (again.) That decision boiled down to a few things for me. First, I really like living where I live -- I don't think I could be happy where they're relocating. Second, if I did move, it'd be one-way. Sure, you can sell your house in the Northeast and buy 2.5 of them in the South, but you'll never be able to move back without huge sacrifice. Third, even if I kept my salary, there' s no guarantee I'll keep my job. Companies aren't the same way about their employees anymore -- even if you do an awesome job and have a long tenure with the company, they won't blink at the idea of letting you go. Then what? The local market salaries are 50\% less than they are back home. Fortunately, I'd have savings from not spending all my money on a new house, but I know way too many people who would move down and live like kings on the salary differential.</p><p>As I said, I definitely get why municipalities jump at the chance to get a new employer in town, and why employers pursue these tax incentive deals. But just like they taught the MBAs in Economics 101, everything has externalities and nothing is free!</p></htmltext>
+<tokenext>First , I 've never been a big fan of these side deals that state and local governments make to entice businesses to relocate or expand to their area .
+I understand why they do it , but there 's a flip side that a lot of people do n't realize .
+Several posts have already pointed out instances where a company moves in , sets up , then closes their operation as soon as the free power/zero taxes run out .
+This means that all the people who were employed are either unemployed or ( if they 're lucky ) forced to move somewhere else .
+Companies can play this game as many times as municipalities will allow them to.Especially in economically depressed areas , where the company may be one of the only high-wage employers , what happens when a worker at the company loses their job ?
+If the spouse works , is there any employment opportunity beyond your company and retail/service jobs ? On the local front , an employer coming to town and increasing average wages may sound good , but it 's only good for the employees of that company .
+Locals who do n't work there have to deal with higher housing , food and other prices .
+Local businesses have to raise wages to keep up with the newcomer , which means they have to charge customers more.I know a lot of people claim that the rich pay a lot of taxes , but it seems to me that reducing their companies ' tax rate makes local budget problems even worse .
+As good as it would be , running a local government is not free .
+You need to pay for roads , schools , police , etc .
+Economically depressed areas that do n't spend money on these things stay economically depressed ( bad infrastructure , crappy schools and teachers , high crime due to the underfunded police .
+) Instead of forcing middle class taxpayers to pay more taxes , share the burden with those who can afford it more.Second , I actually have reverse experience with this .
+I live in the Northeast , which is not the cheapest place in the country to do business by a long shot .
+The company I work for has decided to relocate a lot of their work down South .
+That 's great if you love the heat and do n't care about moving .
+Tech workers are often the first to consider in any move like this -- I seriously think executives believe a stereotype that all tech workers live in a one-bedroom apartment or with Mom , have posessions that fit in half a U-Haul , do n't care if they live in Boston , MA or Branson , MO and will move wherever the company tells them to .
+This has happened to me at 2 companies before ( I 'm on Offered Relocation # 3 now , ) and I 'm not going ( again .
+) That decision boiled down to a few things for me .
+First , I really like living where I live -- I do n't think I could be happy where they 're relocating .
+Second , if I did move , it 'd be one-way .
+Sure , you can sell your house in the Northeast and buy 2.5 of them in the South , but you 'll never be able to move back without huge sacrifice .
+Third , even if I kept my salary , there ' s no guarantee I 'll keep my job .
+Companies are n't the same way about their employees anymore -- even if you do an awesome job and have a long tenure with the company , they wo n't blink at the idea of letting you go .
+Then what ?
+The local market salaries are 50 \ % less than they are back home .
+Fortunately , I 'd have savings from not spending all my money on a new house , but I know way too many people who would move down and live like kings on the salary differential.As I said , I definitely get why municipalities jump at the chance to get a new employer in town , and why employers pursue these tax incentive deals .
+But just like they taught the MBAs in Economics 101 , everything has externalities and nothing is free !</tokentext>
+<sentencetext>First, I've never been a big fan of these side deals that state and local governments make to entice businesses to relocate or expand to their area.
+I understand why they do it, but there's a flip side that a lot of people don't realize.
+Several posts have already pointed out instances where a company moves in, sets up, then closes their operation as soon as the free power/zero taxes run out.
+This means that all the people who were employed are either unemployed or (if they're lucky) forced to move somewhere else.
+Companies can play this game as many times as municipalities will allow them to.Especially in economically depressed areas, where the company may be one of the only high-wage employers, what happens when a worker at the company loses their job?
+If the spouse works, is there any employment opportunity beyond your company and retail/service jobs?On the local front, an employer coming to town and increasing average wages may sound good, but it's only good for the employees of that company.
+Locals who don't work there have to deal with higher housing, food and other prices.
+Local businesses have to raise wages to keep up with the newcomer, which means they have to charge customers more.I know a lot of people claim that the rich pay a lot of taxes, but it seems to me that reducing their companies' tax rate makes local budget problems even worse.
+As good as it would be, running a local government is not free.
+You need to pay for roads, schools, police, etc.
+Economically depressed areas that don't spend money on these things stay economically depressed (bad infrastructure, crappy schools and teachers, high crime due to the underfunded police.
+) Instead of forcing middle class taxpayers to pay more taxes, share the burden with those who can afford it more.Second, I actually have reverse experience with this.
+I live in the Northeast, which is not the cheapest place in the country to do business by a long shot.
+The company I work for has decided to relocate a lot of their work down South.
+That's great if you love the heat and don't care about moving.
+Tech workers are often the first to consider in any move like this -- I seriously think executives believe a stereotype that all tech workers live in a one-bedroom apartment or with Mom, have posessions that fit in half a U-Haul, don't care if they live in Boston, MA or Branson, MO and will move wherever the company tells them to.
+This has happened to me at 2 companies before (I'm on Offered Relocation #3 now,) and I'm not going (again.
+) That decision boiled down to a few things for me.
+First, I really like living where I live -- I don't think I could be happy where they're relocating.
+Second, if I did move, it'd be one-way.
+Sure, you can sell your house in the Northeast and buy 2.5 of them in the South, but you'll never be able to move back without huge sacrifice.
+Third, even if I kept my salary, there' s no guarantee I'll keep my job.
+Companies aren't the same way about their employees anymore -- even if you do an awesome job and have a long tenure with the company, they won't blink at the idea of letting you go.
+Then what?
+The local market salaries are 50\% less than they are back home.
+Fortunately, I'd have savings from not spending all my money on a new house, but I know way too many people who would move down and live like kings on the salary differential.As I said, I definitely get why municipalities jump at the chance to get a new employer in town, and why employers pursue these tax incentive deals.
+But just like they taught the MBAs in Economics 101, everything has externalities and nothing is free!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105481</id>
+	<title>Re:I figured out the Data Center Configuration!</title>
+	<author>bakes</author>
+	<datestamp>1243362840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>I've heard rumors that their are multiple precognitive algorithms though, and that they don't always agree.</p></div><p>That's not good news.  We all know how pissed off AI's can get when they get conflicting instructions.</p></div>
+	</htmltext>
+<tokenext>I 've heard rumors that their are multiple precognitive algorithms though , and that they do n't always agree.That 's not good news .
+We all know how pissed off AI 's can get when they get conflicting instructions .</tokentext>
+<sentencetext>I've heard rumors that their are multiple precognitive algorithms though, and that they don't always agree.That's not good news.
+We all know how pissed off AI's can get when they get conflicting instructions.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104013</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28108417</id>
+	<title>Re:Another relocation incentive deal?</title>
+	<author>Anonymous</author>
+	<datestamp>1243433220000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Um - Ok so there's a job availability in the South.  My mom's basement is in the south too!  Sweet!  Give me the info man - I am getting tired of reading Reddit everyday...</p></htmltext>
+<tokenext>Um - Ok so there 's a job availability in the South .
+My mom 's basement is in the south too !
+Sweet ! Give me the info man - I am getting tired of reading Reddit everyday.. .</tokentext>
+<sentencetext>Um - Ok so there's a job availability in the South.
+My mom's basement is in the south too!
+Sweet!  Give me the info man - I am getting tired of reading Reddit everyday...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103875</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103015</id>
+	<title>Streaming Gaming</title>
+	<author>Enderandrew</author>
+	<datestamp>1243343280000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>I think Apple will take a page out of Nintendo's book and reinvent casual, portable gaming.  Imagine streamed games to your iPhone?</p></htmltext>
+<tokenext>I think Apple will take a page out of Nintendo 's book and reinvent casual , portable gaming .
+Imagine streamed games to your iPhone ?</tokentext>
+<sentencetext>I think Apple will take a page out of Nintendo's book and reinvent casual, portable gaming.
+Imagine streamed games to your iPhone?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103865</id>
+	<title>It's not really worth $1bn</title>
+	<author>therufus</author>
+	<datestamp>1243348740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The data center will be built in China at a cost of approximately $250m then shipped to the US. Technical support for this data center will be in India and when the data center crashes, a "sad face" will be projected into the clouds above much like the bat-signal. The $1bn price tag is simply because it's made of funky white plastic, all staff members will be lit so only their silhouettes are showing and it will have an Apple logo on it.</p><p>Think different.</p></htmltext>
+<tokenext>The data center will be built in China at a cost of approximately $ 250m then shipped to the US .
+Technical support for this data center will be in India and when the data center crashes , a " sad face " will be projected into the clouds above much like the bat-signal .
+The $ 1bn price tag is simply because it 's made of funky white plastic , all staff members will be lit so only their silhouettes are showing and it will have an Apple logo on it.Think different .</tokentext>
+<sentencetext>The data center will be built in China at a cost of approximately $250m then shipped to the US.
+Technical support for this data center will be in India and when the data center crashes, a "sad face" will be projected into the clouds above much like the bat-signal.
+The $1bn price tag is simply because it's made of funky white plastic, all staff members will be lit so only their silhouettes are showing and it will have an Apple logo on it.Think different.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>larry bagina</author>
+	<datestamp>1243343100000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>
+They're also big enough that they can build their data center in any other state.
+</p><p>
+Last year, Maryland raised marginal tax rate on millionaires.  This year, the number of millionaires in Maryland dropped by 30\% and total tax revenue collected from them dropped as well.
+</p><p>
+You can complain all you want, but if you look at the numbers you'll find the top 1\% of earners pay 40\% (or more) of income taxes.</p></htmltext>
+<tokenext>They 're also big enough that they can build their data center in any other state .
+Last year , Maryland raised marginal tax rate on millionaires .
+This year , the number of millionaires in Maryland dropped by 30 \ % and total tax revenue collected from them dropped as well .
+You can complain all you want , but if you look at the numbers you 'll find the top 1 \ % of earners pay 40 \ % ( or more ) of income taxes .</tokentext>
+<sentencetext>
+They're also big enough that they can build their data center in any other state.
+Last year, Maryland raised marginal tax rate on millionaires.
+This year, the number of millionaires in Maryland dropped by 30\% and total tax revenue collected from them dropped as well.
+You can complain all you want, but if you look at the numbers you'll find the top 1\% of earners pay 40\% (or more) of income taxes.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102729</id>
+	<title>let me guess</title>
+	<author>Anonymous</author>
+	<datestamp>1243341780000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Tax Rebates, Free / Discounted Land, and a host of other incentives?</p></htmltext>
+<tokenext>Tax Rebates , Free / Discounted Land , and a host of other incentives ?</tokentext>
+<sentencetext>Tax Rebates, Free / Discounted Land, and a host of other incentives?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104187</id>
+	<title>Incentives don't always work out...</title>
+	<author>billybob\_jcv</author>
+	<datestamp>1243351200000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>I worked for a company that had received huge state and local tax incentives to build a new HQ in Kansas.  The incentives had provisions that required the company to maintain a certain number of employees and very high (for the area) average salary.  It took 2 years to build the building, and it was a model of "green" construction that had all the state &amp; local politicians creaming their pants.  30 days before move-in, the company was bought out.  The buying company had no choice but to let them move in - if they didn't, they would immediately owe a big chunk of money to the state.  But, the new company also began downsizing the Kansas staff, and in January they announced that we no longer met the provisions of the incentives.  So, they are now going to move out of that brand new building and try to lease it out at a loss until they can figure out how to get out of this mess.</p><p>The final result will be MORE downsizing of the Kansas staff than would have ever happened without all this nonsense - and the state of Kansas will lose both the tax money and an employer.</p><p>There was stupidity a plenty in this deal - the company for thinking they needed to build a Taj Mahal while sales were tanking, the state for believing they needed to cut them an incentive deal, the buying company for acquiring this pig for $2B or me for taking a job in this industry!</p><p>Did anyone else read TFA and immediately flash back to 2001-2002 and hundreds of thousands of square feet of data center space sitting empty?<br><a href="http://www.crn.com/it-channel/18838014;jsessionid=QYMHD1PL3SZSYQSNDLPCKHSCJUNN2JVN" title="crn.com" rel="nofollow">http://www.crn.com/it-channel/18838014;jsessionid=QYMHD1PL3SZSYQSNDLPCKHSCJUNN2JVN</a> [crn.com]<br><a href="http://www.internetnews.com/xSP/article.php/898681" title="internetnews.com" rel="nofollow">http://www.internetnews.com/xSP/article.php/898681</a> [internetnews.com]</p></htmltext>
+<tokenext>I worked for a company that had received huge state and local tax incentives to build a new HQ in Kansas .
+The incentives had provisions that required the company to maintain a certain number of employees and very high ( for the area ) average salary .
+It took 2 years to build the building , and it was a model of " green " construction that had all the state &amp; local politicians creaming their pants .
+30 days before move-in , the company was bought out .
+The buying company had no choice but to let them move in - if they did n't , they would immediately owe a big chunk of money to the state .
+But , the new company also began downsizing the Kansas staff , and in January they announced that we no longer met the provisions of the incentives .
+So , they are now going to move out of that brand new building and try to lease it out at a loss until they can figure out how to get out of this mess.The final result will be MORE downsizing of the Kansas staff than would have ever happened without all this nonsense - and the state of Kansas will lose both the tax money and an employer.There was stupidity a plenty in this deal - the company for thinking they needed to build a Taj Mahal while sales were tanking , the state for believing they needed to cut them an incentive deal , the buying company for acquiring this pig for $ 2B or me for taking a job in this industry ! Did anyone else read TFA and immediately flash back to 2001-2002 and hundreds of thousands of square feet of data center space sitting empty ? http : //www.crn.com/it-channel/18838014 ; jsessionid = QYMHD1PL3SZSYQSNDLPCKHSCJUNN2JVN [ crn.com ] http : //www.internetnews.com/xSP/article.php/898681 [ internetnews.com ]</tokentext>
+<sentencetext>I worked for a company that had received huge state and local tax incentives to build a new HQ in Kansas.
+The incentives had provisions that required the company to maintain a certain number of employees and very high (for the area) average salary.
+It took 2 years to build the building, and it was a model of "green" construction that had all the state &amp; local politicians creaming their pants.
+30 days before move-in, the company was bought out.
+The buying company had no choice but to let them move in - if they didn't, they would immediately owe a big chunk of money to the state.
+But, the new company also began downsizing the Kansas staff, and in January they announced that we no longer met the provisions of the incentives.
+So, they are now going to move out of that brand new building and try to lease it out at a loss until they can figure out how to get out of this mess.The final result will be MORE downsizing of the Kansas staff than would have ever happened without all this nonsense - and the state of Kansas will lose both the tax money and an employer.There was stupidity a plenty in this deal - the company for thinking they needed to build a Taj Mahal while sales were tanking, the state for believing they needed to cut them an incentive deal, the buying company for acquiring this pig for $2B or me for taking a job in this industry!Did anyone else read TFA and immediately flash back to 2001-2002 and hundreds of thousands of square feet of data center space sitting empty?http://www.crn.com/it-channel/18838014;jsessionid=QYMHD1PL3SZSYQSNDLPCKHSCJUNN2JVN [crn.com]http://www.internetnews.com/xSP/article.php/898681 [internetnews.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103345</id>
+	<title>Re:Frosty</title>
+	<author>Anonymous</author>
+	<datestamp>1243345200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>It's for streaming music.  They've realised that people are going to stop buying music.  Spotify pwns.  When Apple releases a streaming service I expect the bandwidth usage to be massive.</htmltext>
+<tokenext>It 's for streaming music .
+They 've realised that people are going to stop buying music .
+Spotify pwns .
+When Apple releases a streaming service I expect the bandwidth usage to be massive .</tokentext>
+<sentencetext>It's for streaming music.
+They've realised that people are going to stop buying music.
+Spotify pwns.
+When Apple releases a streaming service I expect the bandwidth usage to be massive.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102723</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28108965</id>
+	<title>RTP</title>
+	<author>Anonymous</author>
+	<datestamp>1243436100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>They can use the Outsourced empty IBM and Bankrupt Nortel facilities in the Research Triangle Park.</p></htmltext>
+<tokenext>They can use the Outsourced empty IBM and Bankrupt Nortel facilities in the Research Triangle Park .</tokentext>
+<sentencetext>They can use the Outsourced empty IBM and Bankrupt Nortel facilities in the Research Triangle Park.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103753</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>4D6963</author>
+	<datestamp>1243347960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>So let's see, the millionaires who'd rather stay and pay more stay and pay more, and the ones who don't move out and pay the same thing in another state? Globally for the US it's a win.</htmltext>
+<tokenext>So let 's see , the millionaires who 'd rather stay and pay more stay and pay more , and the ones who do n't move out and pay the same thing in another state ?
+Globally for the US it 's a win .</tokentext>
+<sentencetext>So let's see, the millionaires who'd rather stay and pay more stay and pay more, and the ones who don't move out and pay the same thing in another state?
+Globally for the US it's a win.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104135</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>idobi</author>
+	<datestamp>1243350780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>And you're confusing net worth with income. My net worth is significantly less than it was a year ago, but my income hasn't changed.
+
+However, the fact is that many people from Maryland do flee to Deleware or Virginia to pay lower income taxes or property taxes.</htmltext>
+<tokenext>And you 're confusing net worth with income .
+My net worth is significantly less than it was a year ago , but my income has n't changed .
+However , the fact is that many people from Maryland do flee to Deleware or Virginia to pay lower income taxes or property taxes .</tokentext>
+<sentencetext>And you're confusing net worth with income.
+My net worth is significantly less than it was a year ago, but my income hasn't changed.
+However, the fact is that many people from Maryland do flee to Deleware or Virginia to pay lower income taxes or property taxes.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103661</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104315</id>
+	<title>How do they intend to power $1 billion...</title>
+	<author>ianm.phil</author>
+	<datestamp>1243352160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I bet the coal industry has a serious erection from this project. Given the amount of power even super-efficient server farms draw (let alone billion dollar ones), where does Apple expect to get its electricity to run this monstrosity? I am no expert in the area, but I can't imagine they have much in the way of hydro electric or a large renewable infrastructure (unless Apple intends to build one), so most likely they will rely on coal as their primary source which is a huge problem.</p></htmltext>
+<tokenext>I bet the coal industry has a serious erection from this project .
+Given the amount of power even super-efficient server farms draw ( let alone billion dollar ones ) , where does Apple expect to get its electricity to run this monstrosity ?
+I am no expert in the area , but I ca n't imagine they have much in the way of hydro electric or a large renewable infrastructure ( unless Apple intends to build one ) , so most likely they will rely on coal as their primary source which is a huge problem .</tokentext>
+<sentencetext>I bet the coal industry has a serious erection from this project.
+Given the amount of power even super-efficient server farms draw (let alone billion dollar ones), where does Apple expect to get its electricity to run this monstrosity?
+I am no expert in the area, but I can't imagine they have much in the way of hydro electric or a large renewable infrastructure (unless Apple intends to build one), so most likely they will rely on coal as their primary source which is a huge problem.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28109615</id>
+	<title>Re:It's for the ipad...</title>
+	<author>vertinox</author>
+	<datestamp>1243439160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>(assuming your net connection stays up).</i></p><p>That is what the $30 a month tethering plan with the iPhone is for.</p><p>See where is this is leading us.</p></htmltext>
+<tokenext>( assuming your net connection stays up ) .That is what the $ 30 a month tethering plan with the iPhone is for.See where is this is leading us .</tokentext>
+<sentencetext>(assuming your net connection stays up).That is what the $30 a month tethering plan with the iPhone is for.See where is this is leading us.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103271</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28109097</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>QuantumRiff</author>
+	<datestamp>1243436760000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>You can complain all you want, but if you look at the numbers you'll find the top 1\% of earners pay 40\% (or more) of income taxes.</p></div><p>
+
+I love seeing this quote.  Its always spit out, and nobody bothers to mention what percentage of INCOME the top 1\% receives.  They could very well be paying much less percentage of their income than others, but they just make soo much more.. Who knows...
+</p><p>If you want to sound intelligent, please start saying<i> "the top 1\% of earners pay \%40 (or more) of income taxes, while only accounting for X\% of income."</i></p></div>
+	</htmltext>
+<tokenext>You can complain all you want , but if you look at the numbers you 'll find the top 1 \ % of earners pay 40 \ % ( or more ) of income taxes .
+I love seeing this quote .
+Its always spit out , and nobody bothers to mention what percentage of INCOME the top 1 \ % receives .
+They could very well be paying much less percentage of their income than others , but they just make soo much more.. Who knows.. . If you want to sound intelligent , please start saying " the top 1 \ % of earners pay \ % 40 ( or more ) of income taxes , while only accounting for X \ % of income .
+"</tokentext>
+<sentencetext>You can complain all you want, but if you look at the numbers you'll find the top 1\% of earners pay 40\% (or more) of income taxes.
+I love seeing this quote.
+Its always spit out, and nobody bothers to mention what percentage of INCOME the top 1\% receives.
+They could very well be paying much less percentage of their income than others, but they just make soo much more.. Who knows...
+If you want to sound intelligent, please start saying "the top 1\% of earners pay \%40 (or more) of income taxes, while only accounting for X\% of income.
+"
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103587</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>maxume</author>
+	<datestamp>1243346460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I guess it would vary for local areas (because the incomes of the 1\% and the 99\% will impact the taxes paid by quite a bit), but at the federal level, it is more like 25\% of income taxes:</p><p><a href="http://www.cbo.gov/ftpdocs/88xx/doc8885/EffectiveTaxRates.shtml#1011535" title="cbo.gov" rel="nofollow">http://www.cbo.gov/ftpdocs/88xx/doc8885/EffectiveTaxRates.shtml#1011535</a> [cbo.gov]</p></htmltext>
+<tokenext>I guess it would vary for local areas ( because the incomes of the 1 \ % and the 99 \ % will impact the taxes paid by quite a bit ) , but at the federal level , it is more like 25 \ % of income taxes : http : //www.cbo.gov/ftpdocs/88xx/doc8885/EffectiveTaxRates.shtml # 1011535 [ cbo.gov ]</tokentext>
+<sentencetext>I guess it would vary for local areas (because the incomes of the 1\% and the 99\% will impact the taxes paid by quite a bit), but at the federal level, it is more like 25\% of income taxes:http://www.cbo.gov/ftpdocs/88xx/doc8885/EffectiveTaxRates.shtml#1011535 [cbo.gov]</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103803</id>
+	<title>Dear Apple...</title>
+	<author>BorgCopyeditor</author>
+	<datestamp>1243348500000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Don't be too proud of this technological terror you've constructed. The ability to boost the capacity of your online operations is insignificant next to the power of the Force.</p></htmltext>
+<tokenext>Do n't be too proud of this technological terror you 've constructed .
+The ability to boost the capacity of your online operations is insignificant next to the power of the Force .</tokentext>
+<sentencetext>Don't be too proud of this technological terror you've constructed.
+The ability to boost the capacity of your online operations is insignificant next to the power of the Force.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105337</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>twostix</author>
+	<datestamp>1243361280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"You can complain all you want, but if you look at the numbers you'll find the top 1\% of earners pay 40\% (or more) of income taxes."</p><p>You're entirely correct,</p><p>I wish we had a time machine, then we could go back to Feudal Europe where the Lords used to pay 80\% of all the taxes and tell the upstart peasants who only paid 10\% of the overall taxes to shut the fuck up and learn their place under the feet of the top 1\% of 'earners'.  The lords owned 95\% of all the land, resources and had 80\% more influence over the king than the peasants to make laws to suit themselves  and had the kings army to back them up if the peasants got a bit unruly - but that's no matter.  They earned that money and position damn it!</p><p>Damned peasants not accepting their lot.</p><p>Did you miss the fact that 60\% of the worlds 'wealth' was lost last year??  I guess there's a few less millionaires no?</p></htmltext>
+<tokenext>" You can complain all you want , but if you look at the numbers you 'll find the top 1 \ % of earners pay 40 \ % ( or more ) of income taxes .
+" You 're entirely correct,I wish we had a time machine , then we could go back to Feudal Europe where the Lords used to pay 80 \ % of all the taxes and tell the upstart peasants who only paid 10 \ % of the overall taxes to shut the fuck up and learn their place under the feet of the top 1 \ % of 'earners' .
+The lords owned 95 \ % of all the land , resources and had 80 \ % more influence over the king than the peasants to make laws to suit themselves and had the kings army to back them up if the peasants got a bit unruly - but that 's no matter .
+They earned that money and position damn it ! Damned peasants not accepting their lot.Did you miss the fact that 60 \ % of the worlds 'wealth ' was lost last year ? ?
+I guess there 's a few less millionaires no ?</tokentext>
+<sentencetext>"You can complain all you want, but if you look at the numbers you'll find the top 1\% of earners pay 40\% (or more) of income taxes.
+"You're entirely correct,I wish we had a time machine, then we could go back to Feudal Europe where the Lords used to pay 80\% of all the taxes and tell the upstart peasants who only paid 10\% of the overall taxes to shut the fuck up and learn their place under the feet of the top 1\% of 'earners'.
+The lords owned 95\% of all the land, resources and had 80\% more influence over the king than the peasants to make laws to suit themselves  and had the kings army to back them up if the peasants got a bit unruly - but that's no matter.
+They earned that money and position damn it!Damned peasants not accepting their lot.Did you miss the fact that 60\% of the worlds 'wealth' was lost last year??
+I guess there's a few less millionaires no?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103677</id>
+	<title>1B datacenter explanation</title>
+	<author>Herby Sagues</author>
+	<datestamp>1243347120000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>3</modscore>
+	<htmltext>Maybe the datacenter is not that big. Maybe it is just a $500M datacenter but they plan to power it with Macs.</htmltext>
+<tokenext>Maybe the datacenter is not that big .
+Maybe it is just a $ 500M datacenter but they plan to power it with Macs .</tokentext>
+<sentencetext>Maybe the datacenter is not that big.
+Maybe it is just a $500M datacenter but they plan to power it with Macs.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28111153</id>
+	<title>and on what hardware/?</title>
+	<author>junkfish</author>
+	<datestamp>1243445340000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>seems like that would be a lot of xserves<br>what does apple use in the data center when they don't need to show off their flashy expensive hardware</p></htmltext>
+<tokenext>seems like that would be a lot of xserveswhat does apple use in the data center when they do n't need to show off their flashy expensive hardware</tokentext>
+<sentencetext>seems like that would be a lot of xserveswhat does apple use in the data center when they don't need to show off their flashy expensive hardware</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105037</id>
+	<title>Re:Another relocation incentive deal?</title>
+	<author>ArsonSmith</author>
+	<datestamp>1243358520000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>So they should keep the area economically depressed rather than boasting it even if only shortly?  You try to use the ole "Economics 101" argument.  Well maybe you should read up on that class once again.  Boasting an economy even for a few boasts the entire economy.  Repeat after me, "It's not a fixed size Pie."  Just by taking your piece of the pie you create a bigger pie.</p></htmltext>
+<tokenext>So they should keep the area economically depressed rather than boasting it even if only shortly ?
+You try to use the ole " Economics 101 " argument .
+Well maybe you should read up on that class once again .
+Boasting an economy even for a few boasts the entire economy .
+Repeat after me , " It 's not a fixed size Pie .
+" Just by taking your piece of the pie you create a bigger pie .</tokentext>
+<sentencetext>So they should keep the area economically depressed rather than boasting it even if only shortly?
+You try to use the ole "Economics 101" argument.
+Well maybe you should read up on that class once again.
+Boasting an economy even for a few boasts the entire economy.
+Repeat after me, "It's not a fixed size Pie.
+"  Just by taking your piece of the pie you create a bigger pie.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103875</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829</id>
+	<title>Tax breaks for the rich?</title>
+	<author>Anonymous</author>
+	<datestamp>1243342200000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>From TFA:</p><blockquote><div><p>would offer income tax breaks to companies that invest more than $1 billion over nine years</p></div></blockquote><p>Why should a company receive more tax breaks because they've gotten big enough to be able to drop $1 billion on a data center? If they can afford $1 billion, they can afford whatever taxes apply. How about you cut the taxes for small companies who struggle because of monopolies like Apple? Stop helping the companies who obviously don't need the help, and start helping the businesses who are risking having their doors closed forever because of a shitty economy.</p><p>Frankly, I'm sick of seeing the rich get the gold platter treatment.</p></div>
+	</htmltext>
+<tokenext>From TFA : would offer income tax breaks to companies that invest more than $ 1 billion over nine yearsWhy should a company receive more tax breaks because they 've gotten big enough to be able to drop $ 1 billion on a data center ?
+If they can afford $ 1 billion , they can afford whatever taxes apply .
+How about you cut the taxes for small companies who struggle because of monopolies like Apple ?
+Stop helping the companies who obviously do n't need the help , and start helping the businesses who are risking having their doors closed forever because of a shitty economy.Frankly , I 'm sick of seeing the rich get the gold platter treatment .</tokentext>
+<sentencetext>From TFA:would offer income tax breaks to companies that invest more than $1 billion over nine yearsWhy should a company receive more tax breaks because they've gotten big enough to be able to drop $1 billion on a data center?
+If they can afford $1 billion, they can afford whatever taxes apply.
+How about you cut the taxes for small companies who struggle because of monopolies like Apple?
+Stop helping the companies who obviously don't need the help, and start helping the businesses who are risking having their doors closed forever because of a shitty economy.Frankly, I'm sick of seeing the rich get the gold platter treatment.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103423</id>
+	<title>We consumers need to demand new power</title>
+	<author>Anonymous</author>
+	<datestamp>1243345680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>If you think about it, data centers in the US must be Green.</p><p>Especially if they are built by Google, MSFT, or Apple.</p><p>We should demand that 100 percent of the anticipated max power draw of all "needed" data centers come from new construction of alternate energy sources - e.g. tidal, solar, wind, geothermal,hydro - that is literally BUILT in America to provide new power.</p><p>The days of power centers being built as if it doesn't matter that they contribute to global warming and help fund terrorists are over.</p><p>Demand it.</p><p>Consumers = Power.</p></htmltext>
+<tokenext>If you think about it , data centers in the US must be Green.Especially if they are built by Google , MSFT , or Apple.We should demand that 100 percent of the anticipated max power draw of all " needed " data centers come from new construction of alternate energy sources - e.g .
+tidal , solar , wind , geothermal,hydro - that is literally BUILT in America to provide new power.The days of power centers being built as if it does n't matter that they contribute to global warming and help fund terrorists are over.Demand it.Consumers = Power .</tokentext>
+<sentencetext>If you think about it, data centers in the US must be Green.Especially if they are built by Google, MSFT, or Apple.We should demand that 100 percent of the anticipated max power draw of all "needed" data centers come from new construction of alternate energy sources - e.g.
+tidal, solar, wind, geothermal,hydro - that is literally BUILT in America to provide new power.The days of power centers being built as if it doesn't matter that they contribute to global warming and help fund terrorists are over.Demand it.Consumers = Power.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104169</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>ceoyoyo</author>
+	<datestamp>1243351080000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><p><i>Correlation is not causation!</i></p><p>Wow, I hate that sentence.  I don't think I've ever seen it used properly here.  The correct objection in this case is: "one data point does not indicate a correlation."</p><p>If the OP watches Maryland raise and lower taxes many times, and if the number of millionaires in Maryland tracks well enough to yield a strong <i>probability</i> that a correlation exists, THEN you may object that correlation does not <i>imply</i> causation.  Although in that case you're arguing that a third factor consistently both causes Maryland to raise taxes <i>and</i> millionaires to leave.</p></htmltext>
+<tokenext>Correlation is not causation ! Wow , I hate that sentence .
+I do n't think I 've ever seen it used properly here .
+The correct objection in this case is : " one data point does not indicate a correlation .
+" If the OP watches Maryland raise and lower taxes many times , and if the number of millionaires in Maryland tracks well enough to yield a strong probability that a correlation exists , THEN you may object that correlation does not imply causation .
+Although in that case you 're arguing that a third factor consistently both causes Maryland to raise taxes and millionaires to leave .</tokentext>
+<sentencetext>Correlation is not causation!Wow, I hate that sentence.
+I don't think I've ever seen it used properly here.
+The correct objection in this case is: "one data point does not indicate a correlation.
+"If the OP watches Maryland raise and lower taxes many times, and if the number of millionaires in Maryland tracks well enough to yield a strong probability that a correlation exists, THEN you may object that correlation does not imply causation.
+Although in that case you're arguing that a third factor consistently both causes Maryland to raise taxes and millionaires to leave.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103661</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103271</id>
+	<title>It's for the ipad...</title>
+	<author>Culture20</author>
+	<datestamp>1243344660000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext>You know, that mini-touchscreen tablet that everyone thinks is coming?  Instead of allowing people to use google-docs and discover that the touch interface doesn't work with regular software, Apple has been developing its own cloud computing software applications.  With your $1,500 purchase of $300 of hardware, you get to use Apple's cluster-farm to write your iDocs (assuming your net connection stays up).</htmltext>
+<tokenext>You know , that mini-touchscreen tablet that everyone thinks is coming ?
+Instead of allowing people to use google-docs and discover that the touch interface does n't work with regular software , Apple has been developing its own cloud computing software applications .
+With your $ 1,500 purchase of $ 300 of hardware , you get to use Apple 's cluster-farm to write your iDocs ( assuming your net connection stays up ) .</tokentext>
+<sentencetext>You know, that mini-touchscreen tablet that everyone thinks is coming?
+Instead of allowing people to use google-docs and discover that the touch interface doesn't work with regular software, Apple has been developing its own cloud computing software applications.
+With your $1,500 purchase of $300 of hardware, you get to use Apple's cluster-farm to write your iDocs (assuming your net connection stays up).</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28200515</id>
+	<title>And drive a tractor</title>
+	<author>z0mbie byte</author>
+	<datestamp>1244020980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I want to be a server farmer. I'd wear overalls.</htmltext>
+<tokenext>I want to be a server farmer .
+I 'd wear overalls .</tokentext>
+<sentencetext>I want to be a server farmer.
+I'd wear overalls.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28136323</id>
+	<title>Why so expensive ?</title>
+	<author>valen</author>
+	<datestamp>1243593600000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"That's nearly twice what Google spend on a datacenter" - yeah. They'll likely stock it with Xserves, rather than decent priced hardware!</p></htmltext>
+<tokenext>" That 's nearly twice what Google spend on a datacenter " - yeah .
+They 'll likely stock it with Xserves , rather than decent priced hardware !</tokentext>
+<sentencetext>"That's nearly twice what Google spend on a datacenter" - yeah.
+They'll likely stock it with Xserves, rather than decent priced hardware!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28109825</id>
+	<title>Why not Austin?</title>
+	<author>stewbacca</author>
+	<datestamp>1243440180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I wonder why they didn't pick Austin?  They already have the iTunes/iPhone/customer service division here.  There's a ton of talent with UT and lots of other tech companies in town (AMD, Freescale, Dell, to name a few).  Real estate and taxes are cheap.  Austin has recently been rated the #1 job market in a couple of magazines and is consistently at the tops of quality-of-life ratings.  As we say around here, the worst part about Austin is it's surrounded by Texas.</htmltext>
+<tokenext>I wonder why they did n't pick Austin ?
+They already have the iTunes/iPhone/customer service division here .
+There 's a ton of talent with UT and lots of other tech companies in town ( AMD , Freescale , Dell , to name a few ) .
+Real estate and taxes are cheap .
+Austin has recently been rated the # 1 job market in a couple of magazines and is consistently at the tops of quality-of-life ratings .
+As we say around here , the worst part about Austin is it 's surrounded by Texas .</tokentext>
+<sentencetext>I wonder why they didn't pick Austin?
+They already have the iTunes/iPhone/customer service division here.
+There's a ton of talent with UT and lots of other tech companies in town (AMD, Freescale, Dell, to name a few).
+Real estate and taxes are cheap.
+Austin has recently been rated the #1 job market in a couple of magazines and is consistently at the tops of quality-of-life ratings.
+As we say around here, the worst part about Austin is it's surrounded by Texas.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103575</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>LordNimon</author>
+	<datestamp>1243346400000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><i>Last year, Maryland raised marginal tax rate on millionaires. This year, the number of millionaires in Maryland dropped by 30\% and total tax revenue collected from them dropped as well. </i>
+<br> <br>
+Are you implying that many millions in Maryland left for other states because of the tax?  Have you considered that perhaps there were many millionaires who lost a lot of money, and therefore were no longer millionaires?</htmltext>
+<tokenext>Last year , Maryland raised marginal tax rate on millionaires .
+This year , the number of millionaires in Maryland dropped by 30 \ % and total tax revenue collected from them dropped as well .
+Are you implying that many millions in Maryland left for other states because of the tax ?
+Have you considered that perhaps there were many millionaires who lost a lot of money , and therefore were no longer millionaires ?</tokentext>
+<sentencetext>Last year, Maryland raised marginal tax rate on millionaires.
+This year, the number of millionaires in Maryland dropped by 30\% and total tax revenue collected from them dropped as well.
+Are you implying that many millions in Maryland left for other states because of the tax?
+Have you considered that perhaps there were many millionaires who lost a lot of money, and therefore were no longer millionaires?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104155</id>
+	<title>Re:Another relocation incentive deal?</title>
+	<author>Anonymous</author>
+	<datestamp>1243350960000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Sadly, nothing is not free.  It can  actually cost quite a lot.  Just ask any of the places with nothing.</p></htmltext>
+<tokenext>Sadly , nothing is not free .
+It can actually cost quite a lot .
+Just ask any of the places with nothing .</tokentext>
+<sentencetext>Sadly, nothing is not free.
+It can  actually cost quite a lot.
+Just ask any of the places with nothing.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103875</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28108983</id>
+	<title>Re:It's for the ipad...</title>
+	<author>chord.wav</author>
+	<datestamp>1243436160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>You forget the ATT fee and the MobileMe account. And they get to chose which applications you can run, which videos you can watch and which texts you can read. But everybody will want one and feel special because they have such pleasure while using it for their pasteiurized needs.</p></htmltext>
+<tokenext>You forget the ATT fee and the MobileMe account .
+And they get to chose which applications you can run , which videos you can watch and which texts you can read .
+But everybody will want one and feel special because they have such pleasure while using it for their pasteiurized needs .</tokentext>
+<sentencetext>You forget the ATT fee and the MobileMe account.
+And they get to chose which applications you can run, which videos you can watch and which texts you can read.
+But everybody will want one and feel special because they have such pleasure while using it for their pasteiurized needs.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103271</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104635</id>
+	<title>Its INCOME tax.  Pay up if you have any INCOME.</title>
+	<author>Anonymous</author>
+	<datestamp>1243354920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>40 \% is getting off cheap for those who earn 70\% of the profits and hide the rest in off shore accounts and AIG golf junkets in Dubai.
+
+If we can't tax em' we might as well feed them to the dogs.</htmltext>
+<tokenext>40 \ % is getting off cheap for those who earn 70 \ % of the profits and hide the rest in off shore accounts and AIG golf junkets in Dubai .
+If we ca n't tax em ' we might as well feed them to the dogs .</tokentext>
+<sentencetext>40 \% is getting off cheap for those who earn 70\% of the profits and hide the rest in off shore accounts and AIG golf junkets in Dubai.
+If we can't tax em' we might as well feed them to the dogs.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28106035</id>
+	<title>Moble ME expanded for tablet</title>
+	<author>eiapoce</author>
+	<datestamp>1243455840000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>170 Comments and still no-one has linked this datacenter to the coming MacTablet and the mobile ME. What about the tablet operates mostly on internet??</p></htmltext>
+<tokenext>170 Comments and still no-one has linked this datacenter to the coming MacTablet and the mobile ME .
+What about the tablet operates mostly on internet ?
+?</tokentext>
+<sentencetext>170 Comments and still no-one has linked this datacenter to the coming MacTablet and the mobile ME.
+What about the tablet operates mostly on internet?
+?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105561</id>
+	<title>Flip of your flip</title>
+	<author>SuperKendall</author>
+	<datestamp>1243363800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>Several posts have already pointed out instances where a company moves in, sets up, then closes their operation as soon as the free power/zero taxes run out.</i></p><p>Yes, this is called "running from the Bait &amp; Switch".   If the company moves to the area with a promise of some cheap resource or lower tax rate, why should they stay when that promise is broken.</p><p><i>Especially in economically depressed areas, where the company may be one of the only high-wage employers, what happens when a worker at the company loses their job?</i></p><p>From experience, either (a) get re-hired with the same company after using the severance as an extending vacation, (b) change careers to something with more promise, (c) start a company of some kind (which helps boost the region if you get money from other areas of the country), (d) move elsewhere...</p><p>I mean, what CAN'T you do?</p><p><i>On the local front, an employer coming to town and increasing average wages may sound good, but it's only good for the employees of that company</i></p><p>Right, because people earning more spend less.  Oh wait.</p><p><i>I know a lot of people claim that the rich pay a lot of taxes, but it seems to me that reducing their companies' tax rate makes local budget problems even worse. As good as it would be, running a local government is not free. You need to pay for roads, schools, police, etc.</i></p><p>The cost of which you have presumably factored into the offer you are giving, including the fact that a large company can act as an anchor company to convince other smaller companies to move into the same region...  government is no different than any other business, and the smart local governments act like it.</p><p><i>Companies aren't the same way about their employees anymore -- even if you do an awesome job and have a long tenure with the company, they won't blink at the idea of letting you go.</i></p><p>Which goes two ways now, companies used to be able to count on people staying for a long time and now they might be gone in a month.</p><p><i>Sure, you can sell your house in the Northeast and buy 2.5 of them in the South, but you'll never be able to move back without huge sacrifice.</i></p><p>Not even if you invested carefully using your now boosted salary to pay more?  You paint this as a terrible thing but like everything else it boils down to personal responsibility, you should be saving enough to move elsewhere if you have to, or to weather a year without work.</p></htmltext>
+<tokenext>Several posts have already pointed out instances where a company moves in , sets up , then closes their operation as soon as the free power/zero taxes run out.Yes , this is called " running from the Bait &amp; Switch " .
+If the company moves to the area with a promise of some cheap resource or lower tax rate , why should they stay when that promise is broken.Especially in economically depressed areas , where the company may be one of the only high-wage employers , what happens when a worker at the company loses their job ? From experience , either ( a ) get re-hired with the same company after using the severance as an extending vacation , ( b ) change careers to something with more promise , ( c ) start a company of some kind ( which helps boost the region if you get money from other areas of the country ) , ( d ) move elsewhere...I mean , what CA N'T you do ? On the local front , an employer coming to town and increasing average wages may sound good , but it 's only good for the employees of that companyRight , because people earning more spend less .
+Oh wait.I know a lot of people claim that the rich pay a lot of taxes , but it seems to me that reducing their companies ' tax rate makes local budget problems even worse .
+As good as it would be , running a local government is not free .
+You need to pay for roads , schools , police , etc.The cost of which you have presumably factored into the offer you are giving , including the fact that a large company can act as an anchor company to convince other smaller companies to move into the same region... government is no different than any other business , and the smart local governments act like it.Companies are n't the same way about their employees anymore -- even if you do an awesome job and have a long tenure with the company , they wo n't blink at the idea of letting you go.Which goes two ways now , companies used to be able to count on people staying for a long time and now they might be gone in a month.Sure , you can sell your house in the Northeast and buy 2.5 of them in the South , but you 'll never be able to move back without huge sacrifice.Not even if you invested carefully using your now boosted salary to pay more ?
+You paint this as a terrible thing but like everything else it boils down to personal responsibility , you should be saving enough to move elsewhere if you have to , or to weather a year without work .</tokentext>
+<sentencetext>Several posts have already pointed out instances where a company moves in, sets up, then closes their operation as soon as the free power/zero taxes run out.Yes, this is called "running from the Bait &amp; Switch".
+If the company moves to the area with a promise of some cheap resource or lower tax rate, why should they stay when that promise is broken.Especially in economically depressed areas, where the company may be one of the only high-wage employers, what happens when a worker at the company loses their job?From experience, either (a) get re-hired with the same company after using the severance as an extending vacation, (b) change careers to something with more promise, (c) start a company of some kind (which helps boost the region if you get money from other areas of the country), (d) move elsewhere...I mean, what CAN'T you do?On the local front, an employer coming to town and increasing average wages may sound good, but it's only good for the employees of that companyRight, because people earning more spend less.
+Oh wait.I know a lot of people claim that the rich pay a lot of taxes, but it seems to me that reducing their companies' tax rate makes local budget problems even worse.
+As good as it would be, running a local government is not free.
+You need to pay for roads, schools, police, etc.The cost of which you have presumably factored into the offer you are giving, including the fact that a large company can act as an anchor company to convince other smaller companies to move into the same region...  government is no different than any other business, and the smart local governments act like it.Companies aren't the same way about their employees anymore -- even if you do an awesome job and have a long tenure with the company, they won't blink at the idea of letting you go.Which goes two ways now, companies used to be able to count on people staying for a long time and now they might be gone in a month.Sure, you can sell your house in the Northeast and buy 2.5 of them in the South, but you'll never be able to move back without huge sacrifice.Not even if you invested carefully using your now boosted salary to pay more?
+You paint this as a terrible thing but like everything else it boils down to personal responsibility, you should be saving enough to move elsewhere if you have to, or to weather a year without work.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103875</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103847</id>
+	<title>Re:I figured out the Data Center Configuration!</title>
+	<author>Anonymous</author>
+	<datestamp>1243348680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>...and where were you planning on putting these servers, with your 0 remaining budget for a physical structure?</p><p>(I suspect you're gunning for a funny tag, but still...)</p></htmltext>
+<tokenext>...and where were you planning on putting these servers , with your 0 remaining budget for a physical structure ?
+( I suspect you 're gunning for a funny tag , but still... )</tokentext>
+<sentencetext>...and where were you planning on putting these servers, with your 0 remaining budget for a physical structure?
+(I suspect you're gunning for a funny tag, but still...)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103707</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104705</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>Anonymous</author>
+	<datestamp>1243355640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>I see you get your financial information from Rush "Oxycontin' Limbaugh.  Think for yourself and find out if this statement is true.  It isn't.  Hint; Google is your friend.</p></htmltext>
+<tokenext>I see you get your financial information from Rush " Oxycontin ' Limbaugh .
+Think for yourself and find out if this statement is true .
+It is n't .
+Hint ; Google is your friend .</tokentext>
+<sentencetext>I see you get your financial information from Rush "Oxycontin' Limbaugh.
+Think for yourself and find out if this statement is true.
+It isn't.
+Hint; Google is your friend.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104013</id>
+	<title>Re:I figured out the Data Center Configuration!</title>
+	<author>c\_forq</author>
+	<datestamp>1243349760000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext><p><div class="quote"><p>Also, I used Google to do the math. Since they likely want to compete with Apple, they might be up to what I am doing (even before it is indexed) and are intentionally fudging the numbers.</p></div><p>It's in the lab features, it's called under the "Pre-Index" feature.  They use a precognitive algorithm to predict how the internet will change before the changes are posted.  I've heard rumors that their are multiple precognitive algorithms though, and that they don't always agree.</p></div>
+	</htmltext>
+<tokenext>Also , I used Google to do the math .
+Since they likely want to compete with Apple , they might be up to what I am doing ( even before it is indexed ) and are intentionally fudging the numbers.It 's in the lab features , it 's called under the " Pre-Index " feature .
+They use a precognitive algorithm to predict how the internet will change before the changes are posted .
+I 've heard rumors that their are multiple precognitive algorithms though , and that they do n't always agree .</tokentext>
+<sentencetext>Also, I used Google to do the math.
+Since they likely want to compete with Apple, they might be up to what I am doing (even before it is indexed) and are intentionally fudging the numbers.It's in the lab features, it's called under the "Pre-Index" feature.
+They use a precognitive algorithm to predict how the internet will change before the changes are posted.
+I've heard rumors that their are multiple precognitive algorithms though, and that they don't always agree.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103707</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102723</id>
+	<title>Frosty</title>
+	<author>sexconker</author>
+	<datestamp>1243341780000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>Fist Prose</p></htmltext>
+<tokenext>Fist Prose</tokentext>
+<sentencetext>Fist Prose</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103707</id>
+	<title>I figured out the Data Center Configuration!</title>
+	<author>Anonymous</author>
+	<datestamp>1243347360000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Pffft! This is so easy to figure out, they don't need a veil of secrecy. I've already figured out the datacenter setup.</p><p>I decided Apple should setup a lot of Mac Pros for their data center. Reason: Cost to Performance Ratio. Don't go telling me Apple is more expensive than Dell. You cannot compare the two since Dell does not sell AppleCare.</p><p>I went on the Apple Website, to order 999 Maxed out Mac Pro systems with RAID cards, 32 GB of RAM and max hard drives, and 3 year Apple care. Did the same thing with some Xserves (but this has support contract + something called a "Promise VTrak E-Class 16x SAS RAID Subsystem"). Whatever. My only concern is maxing out the shopping cart so that I know I am getting the best possible configuration. Note: Apple's systems are more expensive in the Europe which is why they are setting up in the US.</p><p>I also included next business day shipping (at 999 systems its $5,000 and BTW is was the same price as 2 business day shipping so I'm not splurging).</p><p>Here's my tally:<br>999 Mac Pro (Maxed out) Total = ~ $16,000,000<br>999 XServe (Maxed out)Total = ~ $86,000,000</p><p>So for $1 Billion, Apple could have</p><p>(1,000,000,000/16,000,000) * 99 = 6,187.5 Mad Pro Systems<br>(1,000,000,000 / 86,000,000) = 11.627907 * 99 = 1,151.16279 XServe Systems</p><p>Footnote: Use these numbers with a grain of salt as I explain below.</p><p>1) I didn't account if  Apple will give themselves a discount. If they wait for back-to-school time, they might give themselves a free iPod and printer with each system purchase. Probably not the Xserves though. All the more in favor of the Mac Pro.</p><p>2) Also, I used Google to do the math. Since they likely want to compete with Apple, they might be up to what I am doing (even before it is indexed) and are intentionally fudging the numbers.</p></htmltext>
+<tokenext>Pffft !
+This is so easy to figure out , they do n't need a veil of secrecy .
+I 've already figured out the datacenter setup.I decided Apple should setup a lot of Mac Pros for their data center .
+Reason : Cost to Performance Ratio .
+Do n't go telling me Apple is more expensive than Dell .
+You can not compare the two since Dell does not sell AppleCare.I went on the Apple Website , to order 999 Maxed out Mac Pro systems with RAID cards , 32 GB of RAM and max hard drives , and 3 year Apple care .
+Did the same thing with some Xserves ( but this has support contract + something called a " Promise VTrak E-Class 16x SAS RAID Subsystem " ) .
+Whatever. My only concern is maxing out the shopping cart so that I know I am getting the best possible configuration .
+Note : Apple 's systems are more expensive in the Europe which is why they are setting up in the US.I also included next business day shipping ( at 999 systems its $ 5,000 and BTW is was the same price as 2 business day shipping so I 'm not splurging ) .Here 's my tally : 999 Mac Pro ( Maxed out ) Total = ~ $ 16,000,000999 XServe ( Maxed out ) Total = ~ $ 86,000,000So for $ 1 Billion , Apple could have ( 1,000,000,000/16,000,000 ) * 99 = 6,187.5 Mad Pro Systems ( 1,000,000,000 / 86,000,000 ) = 11.627907 * 99 = 1,151.16279 XServe SystemsFootnote : Use these numbers with a grain of salt as I explain below.1 ) I did n't account if Apple will give themselves a discount .
+If they wait for back-to-school time , they might give themselves a free iPod and printer with each system purchase .
+Probably not the Xserves though .
+All the more in favor of the Mac Pro.2 ) Also , I used Google to do the math .
+Since they likely want to compete with Apple , they might be up to what I am doing ( even before it is indexed ) and are intentionally fudging the numbers .</tokentext>
+<sentencetext>Pffft!
+This is so easy to figure out, they don't need a veil of secrecy.
+I've already figured out the datacenter setup.I decided Apple should setup a lot of Mac Pros for their data center.
+Reason: Cost to Performance Ratio.
+Don't go telling me Apple is more expensive than Dell.
+You cannot compare the two since Dell does not sell AppleCare.I went on the Apple Website, to order 999 Maxed out Mac Pro systems with RAID cards, 32 GB of RAM and max hard drives, and 3 year Apple care.
+Did the same thing with some Xserves (but this has support contract + something called a "Promise VTrak E-Class 16x SAS RAID Subsystem").
+Whatever. My only concern is maxing out the shopping cart so that I know I am getting the best possible configuration.
+Note: Apple's systems are more expensive in the Europe which is why they are setting up in the US.I also included next business day shipping (at 999 systems its $5,000 and BTW is was the same price as 2 business day shipping so I'm not splurging).Here's my tally:999 Mac Pro (Maxed out) Total = ~ $16,000,000999 XServe (Maxed out)Total = ~ $86,000,000So for $1 Billion, Apple could have(1,000,000,000/16,000,000) * 99 = 6,187.5 Mad Pro Systems(1,000,000,000 / 86,000,000) = 11.627907 * 99 = 1,151.16279 XServe SystemsFootnote: Use these numbers with a grain of salt as I explain below.1) I didn't account if  Apple will give themselves a discount.
+If they wait for back-to-school time, they might give themselves a free iPod and printer with each system purchase.
+Probably not the Xserves though.
+All the more in favor of the Mac Pro.2) Also, I used Google to do the math.
+Since they likely want to compete with Apple, they might be up to what I am doing (even before it is indexed) and are intentionally fudging the numbers.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105421</id>
+	<title>for the love of fucking god</title>
+	<author>Anonymous</author>
+	<datestamp>1243362360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>do they have to put "i" in front of fucking everything? jesus christ..</p></htmltext>
+<tokenext>do they have to put " i " in front of fucking everything ?
+jesus christ. .</tokentext>
+<sentencetext>do they have to put "i" in front of fucking everything?
+jesus christ..</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103151</id>
+	<title>What For? iStupid?</title>
+	<author>His Shadow</author>
+	<datestamp>1243343940000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext>Who is reading Slashdot these days? More than the required amount of mouth breathers? Apple is the most effective and popular online retailer of music, and has 30000+ apps in the App Store for it's iPhone and it's not obvious what an Apple datacenter would be used for? Give your heads a shake.</htmltext>
+<tokenext>Who is reading Slashdot these days ?
+More than the required amount of mouth breathers ?
+Apple is the most effective and popular online retailer of music , and has 30000 + apps in the App Store for it 's iPhone and it 's not obvious what an Apple datacenter would be used for ?
+Give your heads a shake .</tokentext>
+<sentencetext>Who is reading Slashdot these days?
+More than the required amount of mouth breathers?
+Apple is the most effective and popular online retailer of music, and has 30000+ apps in the App Store for it's iPhone and it's not obvious what an Apple datacenter would be used for?
+Give your heads a shake.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28108543</id>
+	<title>relos nothing new in the computing biz...</title>
+	<author>airdrummer</author>
+	<datestamp>1243433940000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>IBM used to stand for I've Been Moved;-}</p></htmltext>
+<tokenext>IBM used to stand for I 've Been Moved ; - }</tokentext>
+<sentencetext>IBM used to stand for I've Been Moved;-}</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103875</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102989</id>
+	<title>Expensive boxes!</title>
+	<author>Anonymous</author>
+	<datestamp>1243343160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Well, of course it costs $1B. They're using nothing but Xserves. If Dell was building it, it'd only cost $172M...</p></htmltext>
+<tokenext>Well , of course it costs $ 1B .
+They 're using nothing but Xserves .
+If Dell was building it , it 'd only cost $ 172M.. .</tokentext>
+<sentencetext>Well, of course it costs $1B.
+They're using nothing but Xserves.
+If Dell was building it, it'd only cost $172M...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28109199</id>
+	<title>Apple's new portable gaming device: the iBoy?</title>
+	<author>jonaskoelker</author>
+	<datestamp>1243437180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>I think Apple will take a page out of Nintendo's book and reinvent casual, portable gaming.</p></div><p>Would that be the iBoy?</p><p>Or maybe the iDS, which will also monitor your network<nobr> <wbr></nobr>:D</p></div>
+	</htmltext>
+<tokenext>I think Apple will take a page out of Nintendo 's book and reinvent casual , portable gaming.Would that be the iBoy ? Or maybe the iDS , which will also monitor your network : D</tokentext>
+<sentencetext>I think Apple will take a page out of Nintendo's book and reinvent casual, portable gaming.Would that be the iBoy?Or maybe the iDS, which will also monitor your network :D
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103015</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103903</id>
+	<title>Re:We consumers need to demand new power</title>
+	<author>Anonymous</author>
+	<datestamp>1243348980000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p>If you think about it, data centers in the US must be Green.</p><p>Especially if they are built by Google, MSFT, or Apple.</p><p>We should demand that 100 percent of the anticipated max power draw of all "needed" data centers come from new construction of alternate energy sources - e.g. tidal, solar, wind, geothermal,hydro - that is literally BUILT in America to provide new power.</p><p>The days of power centers being built as if it doesn't matter that they contribute to global warming and help fund terrorists are over.</p></div><p>Umm.. you (we) don't need to *demand* anything here. Operational cost is the single most important metric of operating a datacenter. More so than even storage cost (which is a contributing factor to operating costs). Any company operating datacenter(s) is already looking into every manner imaginable to cut the cost of powering it. If a non-green cost is significantly cheaper, the company will simply not go green. If you tax stuff to make greenness more attractive (say a carbon tax) they will automatically shift to green sources. If the green source is cheaper to begin with, they will go green all the way.
+
+</p><p>For the environmentalists -- don't spend cycles on forcing people to adopt stuff that doesn't work for them. People in general want to do the right thing. You just have to spend your cycles on making the green thing the right thing. Make the environmentally friendly option equal to or cheaper than the non-environmentally option, and people will automatically do the right thing.</p></div>
+	</htmltext>
+<tokenext>If you think about it , data centers in the US must be Green.Especially if they are built by Google , MSFT , or Apple.We should demand that 100 percent of the anticipated max power draw of all " needed " data centers come from new construction of alternate energy sources - e.g .
+tidal , solar , wind , geothermal,hydro - that is literally BUILT in America to provide new power.The days of power centers being built as if it does n't matter that they contribute to global warming and help fund terrorists are over.Umm.. you ( we ) do n't need to * demand * anything here .
+Operational cost is the single most important metric of operating a datacenter .
+More so than even storage cost ( which is a contributing factor to operating costs ) .
+Any company operating datacenter ( s ) is already looking into every manner imaginable to cut the cost of powering it .
+If a non-green cost is significantly cheaper , the company will simply not go green .
+If you tax stuff to make greenness more attractive ( say a carbon tax ) they will automatically shift to green sources .
+If the green source is cheaper to begin with , they will go green all the way .
+For the environmentalists -- do n't spend cycles on forcing people to adopt stuff that does n't work for them .
+People in general want to do the right thing .
+You just have to spend your cycles on making the green thing the right thing .
+Make the environmentally friendly option equal to or cheaper than the non-environmentally option , and people will automatically do the right thing .</tokentext>
+<sentencetext>If you think about it, data centers in the US must be Green.Especially if they are built by Google, MSFT, or Apple.We should demand that 100 percent of the anticipated max power draw of all "needed" data centers come from new construction of alternate energy sources - e.g.
+tidal, solar, wind, geothermal,hydro - that is literally BUILT in America to provide new power.The days of power centers being built as if it doesn't matter that they contribute to global warming and help fund terrorists are over.Umm.. you (we) don't need to *demand* anything here.
+Operational cost is the single most important metric of operating a datacenter.
+More so than even storage cost (which is a contributing factor to operating costs).
+Any company operating datacenter(s) is already looking into every manner imaginable to cut the cost of powering it.
+If a non-green cost is significantly cheaper, the company will simply not go green.
+If you tax stuff to make greenness more attractive (say a carbon tax) they will automatically shift to green sources.
+If the green source is cheaper to begin with, they will go green all the way.
+For the environmentalists -- don't spend cycles on forcing people to adopt stuff that doesn't work for them.
+People in general want to do the right thing.
+You just have to spend your cycles on making the green thing the right thing.
+Make the environmentally friendly option equal to or cheaper than the non-environmentally option, and people will automatically do the right thing.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103423</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104459</id>
+	<title>It must be nice for a hardware company</title>
+	<author>melted</author>
+	<datestamp>1243353360000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>It must be nice for a hardware company to build its own datacenters. They get the hardware at cost, and since they're one of the largest purchasers of components, their cost is probably better than Google's. Which is not to say that XServe comes out being cheaper than Google's bare bone server, but you get my drift. Throw some Cisco and F5 on all this goodness, hook up HVAC and UPS and it's all ready to go.</p></htmltext>
+<tokenext>It must be nice for a hardware company to build its own datacenters .
+They get the hardware at cost , and since they 're one of the largest purchasers of components , their cost is probably better than Google 's .
+Which is not to say that XServe comes out being cheaper than Google 's bare bone server , but you get my drift .
+Throw some Cisco and F5 on all this goodness , hook up HVAC and UPS and it 's all ready to go .</tokentext>
+<sentencetext>It must be nice for a hardware company to build its own datacenters.
+They get the hardware at cost, and since they're one of the largest purchasers of components, their cost is probably better than Google's.
+Which is not to say that XServe comes out being cheaper than Google's bare bone server, but you get my drift.
+Throw some Cisco and F5 on all this goodness, hook up HVAC and UPS and it's all ready to go.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103685</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>TubeSteak</author>
+	<datestamp>1243347180000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>3</modscore>
+	<htmltext><p><div class="quote"><p>You can complain all you want, but if you look at the numbers you'll find the top 1\% of earners pay 40\% (or more) of income taxes.</p></div><p>And to put things in perspective, the top 1\% nationally earn *440 times more than the avg person in the bottom 50\%.<br>Not to mention that Maryland has some of the richest counties in the country.</p><p>*in 2007, I'm not sure what the 2008 number is</p></div>
+	</htmltext>
+<tokenext>You can complain all you want , but if you look at the numbers you 'll find the top 1 \ % of earners pay 40 \ % ( or more ) of income taxes.And to put things in perspective , the top 1 \ % nationally earn * 440 times more than the avg person in the bottom 50 \ % .Not to mention that Maryland has some of the richest counties in the country .
+* in 2007 , I 'm not sure what the 2008 number is</tokentext>
+<sentencetext>You can complain all you want, but if you look at the numbers you'll find the top 1\% of earners pay 40\% (or more) of income taxes.And to put things in perspective, the top 1\% nationally earn *440 times more than the avg person in the bottom 50\%.Not to mention that Maryland has some of the richest counties in the country.
+*in 2007, I'm not sure what the 2008 number is
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103661</id>
+	<title>Re:Tax breaks for the rich?</title>
+	<author>Anonymous</author>
+	<datestamp>1243347000000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>5</modscore>
+	<htmltext><blockquote><div><p>Last year, Maryland raised marginal tax rate on millionaires. This year, the number of millionaires in Maryland dropped by 30\% and total tax revenue collected from them dropped as well.</p></div> </blockquote><p>You seem to be trying to lead readers into believing that the tax increase caused the drop in millionaires. If so, you're badly mistaken or dishonest, and judging by your post's score some people were stupid enough to fall for it.
+
+</p><p> <b>Correlation is not causation!</b> larry bagina failed to mention other, more significant factors. Namely that <b>we're in a recession!</b> The S&amp;P 500 index went down 36\% between 2008-01-01 to 2009-01-01! Many, many, many people's income and net worth has gone down (though not all of us were so lucky as to be above $1 million to begin with), and tax revenue has fallen all across the US! Several major states are broke! Given the economic climate, it's ridiculous to even suggest that the tax increase is at all related to the drop in millionaires without doing much better, such as:
+
+</p><ul>
+<li>showing theoretically that the tax increase was significant enough to cause so many people to no longer be millionaires.</li>
+<li>showing that many millionaires have moved out of Maryland.</li>
+<li>using a comparable state with no tax increase as a control, demonstrating that Maryland's fall was much greater. (This is hard, though, because there are so many things different between states, so it's a tough argument to make that another is "comparable".)</li>
+</ul></div>
+	</htmltext>
+<tokenext>Last year , Maryland raised marginal tax rate on millionaires .
+This year , the number of millionaires in Maryland dropped by 30 \ % and total tax revenue collected from them dropped as well .
+You seem to be trying to lead readers into believing that the tax increase caused the drop in millionaires .
+If so , you 're badly mistaken or dishonest , and judging by your post 's score some people were stupid enough to fall for it .
+Correlation is not causation !
+larry bagina failed to mention other , more significant factors .
+Namely that we 're in a recession !
+The S&amp;P 500 index went down 36 \ % between 2008-01-01 to 2009-01-01 !
+Many , many , many people 's income and net worth has gone down ( though not all of us were so lucky as to be above $ 1 million to begin with ) , and tax revenue has fallen all across the US !
+Several major states are broke !
+Given the economic climate , it 's ridiculous to even suggest that the tax increase is at all related to the drop in millionaires without doing much better , such as : showing theoretically that the tax increase was significant enough to cause so many people to no longer be millionaires .
+showing that many millionaires have moved out of Maryland .
+using a comparable state with no tax increase as a control , demonstrating that Maryland 's fall was much greater .
+( This is hard , though , because there are so many things different between states , so it 's a tough argument to make that another is " comparable " .
+)</tokentext>
+<sentencetext>Last year, Maryland raised marginal tax rate on millionaires.
+This year, the number of millionaires in Maryland dropped by 30\% and total tax revenue collected from them dropped as well.
+You seem to be trying to lead readers into believing that the tax increase caused the drop in millionaires.
+If so, you're badly mistaken or dishonest, and judging by your post's score some people were stupid enough to fall for it.
+Correlation is not causation!
+larry bagina failed to mention other, more significant factors.
+Namely that we're in a recession!
+The S&amp;P 500 index went down 36\% between 2008-01-01 to 2009-01-01!
+Many, many, many people's income and net worth has gone down (though not all of us were so lucky as to be above $1 million to begin with), and tax revenue has fallen all across the US!
+Several major states are broke!
+Given the economic climate, it's ridiculous to even suggest that the tax increase is at all related to the drop in millionaires without doing much better, such as:
+
+
+showing theoretically that the tax increase was significant enough to cause so many people to no longer be millionaires.
+showing that many millionaires have moved out of Maryland.
+using a comparable state with no tax increase as a control, demonstrating that Maryland's fall was much greater.
+(This is hard, though, because there are so many things different between states, so it's a tough argument to make that another is "comparable".
+)
+
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103569</id>
+	<title>wow...</title>
+	<author>Mants</author>
+	<datestamp>1243346400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Wow, with this Ill be able to use filters in photoshop sooo fast!</htmltext>
+<tokenext>Wow , with this Ill be able to use filters in photoshop sooo fast !</tokentext>
+<sentencetext>Wow, with this Ill be able to use filters in photoshop sooo fast!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105885</id>
+	<title>iiiEnough</title>
+	<author>Weh</author>
+	<datestamp>1243454580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>iI iThink iThis iiThing (iYes, iThat iIs iA iDouble ii) iIs iIs iSo i90's iAnd iIt iIs iGetting iVery iAnnoying.</p></htmltext>
+<tokenext>iI iThink iThis iiThing ( iYes , iThat iIs iA iDouble ii ) iIs iIs iSo i90 's iAnd iIt iIs iGetting iVery iAnnoying .</tokentext>
+<sentencetext>iI iThink iThis iiThing (iYes, iThat iIs iA iDouble ii) iIs iIs iSo i90's iAnd iIt iIs iGetting iVery iAnnoying.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103925</id>
+	<title>It Costs More Because...</title>
+	<author>Nom du Keyboard</author>
+	<datestamp>1243349100000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>0</modscore>
+	<htmltext>It costs more than Microsoft or Google because Apple is insisting on only using XServes.</htmltext>
+<tokenext>It costs more than Microsoft or Google because Apple is insisting on only using XServes .</tokentext>
+<sentencetext>It costs more than Microsoft or Google because Apple is insisting on only using XServes.</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28109097
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104371
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28108983
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103271
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105037
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103875
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28108287
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104169
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103661
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105337
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105481
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104013
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103707
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103345
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102723
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28109615
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103271
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103575
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104135
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103661
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103685
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28109199
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103015
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104705
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103753
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103903
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103423
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105191
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103661
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103587
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105561
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103875
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104155
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103875
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28108543
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103875
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103847
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103707
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28108417
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103875
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105129
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1815244_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104635
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1815244.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102829
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102985
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103587
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105337
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104371
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103575
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104705
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103661
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104169
+----http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28108287
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105191
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104135
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105129
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28109097
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103753
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103685
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104635
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1815244.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103271
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28109615
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28108983
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1815244.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102989
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1815244.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103925
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1815244.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103015
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28109199
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1815244.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104315
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1815244.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103151
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1815244.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103423
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103903
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1815244.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102723
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103345
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1815244.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103707
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103847
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104013
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105481
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1815244.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28102729
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1815244.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28103875
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105561
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28108417
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28104155
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28105037
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1815244.28108543
+</commentlist>
+</conversation>

@@ -1,0 +1,1039 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_26_1851207</id>
+	<title>Chemical "Infofuses" Communicate Without Electricity</title>
+	<author>kdawson</author>
+	<datestamp>1243329720000</datestamp>
+	<htmltext><a href="http://www.technologyreview.com/" rel="nofollow">Al</a> writes <i>"Researchers at Harvard and Tufts University have developed a way to <a href="http://www.technologyreview.com/blog/editors/23561/">send coded messages without using electricity</a>. David Walt, professor of chemistry at Tufts, and Harvard's George Whitesides have developed 'infofuses' that can transmit information simply by burning. The fuses &mdash; metallic salts depositing on a nitrocellulose strand &mdash; emit pulses of infrared and visible light of different colors whose sequence encodes information. They were developed in response to a call from the Defense Advanced Research Projects Agency for technologies to allow soldiers stranded without a power source to communicate. In the first demonstration of the idea, they used the infofuses to transmit the message <em>look mom no electricity</em>."</i> Currently the researchers are "trying to figure out a way to dynamically encode a message on the fly in the field without specialized equipment."</htmltext>
+<tokenext>Al writes " Researchers at Harvard and Tufts University have developed a way to send coded messages without using electricity .
+David Walt , professor of chemistry at Tufts , and Harvard 's George Whitesides have developed 'infofuses ' that can transmit information simply by burning .
+The fuses â € ” metallic salts depositing on a nitrocellulose strand â € ” emit pulses of infrared and visible light of different colors whose sequence encodes information .
+They were developed in response to a call from the Defense Advanced Research Projects Agency for technologies to allow soldiers stranded without a power source to communicate .
+In the first demonstration of the idea , they used the infofuses to transmit the message look mom no electricity .
+" Currently the researchers are " trying to figure out a way to dynamically encode a message on the fly in the field without specialized equipment .
+"</tokentext>
+<sentencetext>Al writes "Researchers at Harvard and Tufts University have developed a way to send coded messages without using electricity.
+David Walt, professor of chemistry at Tufts, and Harvard's George Whitesides have developed 'infofuses' that can transmit information simply by burning.
+The fuses â€” metallic salts depositing on a nitrocellulose strand â€” emit pulses of infrared and visible light of different colors whose sequence encodes information.
+They were developed in response to a call from the Defense Advanced Research Projects Agency for technologies to allow soldiers stranded without a power source to communicate.
+In the first demonstration of the idea, they used the infofuses to transmit the message look mom no electricity.
+" Currently the researchers are "trying to figure out a way to dynamically encode a message on the fly in the field without specialized equipment.
+"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102973</id>
+	<title>I'm curious...</title>
+	<author>gbutler69</author>
+	<datestamp>1243343040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>How many people responding have actually performed tactical miltary maneuvers in the field? Because, if you haven't, it would explain a lot of the silly comments of the kind, "...someone has to be looking in the right direction...blah...blah...blah..."</htmltext>
+<tokenext>How many people responding have actually performed tactical miltary maneuvers in the field ?
+Because , if you have n't , it would explain a lot of the silly comments of the kind , " ...someone has to be looking in the right direction...blah...blah...blah... "</tokentext>
+<sentencetext>How many people responding have actually performed tactical miltary maneuvers in the field?
+Because, if you haven't, it would explain a lot of the silly comments of the kind, "...someone has to be looking in the right direction...blah...blah...blah..."</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101389</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101579</id>
+	<title>Re:Tarps, flags, semaphore, mirrors....</title>
+	<author>fooslacker</author>
+	<datestamp>1243335900000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext>Maybe I'm feeding the trolls but perhaps the key is that it's not a giant flag telling the enemy where you are down behind enemy lines.  Maybe the fact that it's IR and can be activated when you hear your rescue run coming could have something to do with the fact that DARPA finds value in it.</htmltext>
+<tokenext>Maybe I 'm feeding the trolls but perhaps the key is that it 's not a giant flag telling the enemy where you are down behind enemy lines .
+Maybe the fact that it 's IR and can be activated when you hear your rescue run coming could have something to do with the fact that DARPA finds value in it .</tokentext>
+<sentencetext>Maybe I'm feeding the trolls but perhaps the key is that it's not a giant flag telling the enemy where you are down behind enemy lines.
+Maybe the fact that it's IR and can be activated when you hear your rescue run coming could have something to do with the fact that DARPA finds value in it.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101091</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101967</id>
+	<title>It's a DARPA project.</title>
+	<author>Chris Burke</author>
+	<datestamp>1243338060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><i>My congrats go to the DoD for coming up with a solution that costs a couple million per soldier, when I just handed them a solution that costs a few dollars per soldier and took me less than a minute to think up. Way to innovate.</i></p><p>Look, this is a DARPA funded project.  So it might seem like they are stupid for not thinking of obvious solutions like yours, but they're simply not allowed to under DoD rules.  The <b>AR</b> in DARPA stands for <b>Advanced Research</b>.  DFORPA is the DoD agency you're looking for (the O stands for Obvious).  They don't give much in the way of grants, so you may be smarter than the DoD, but those Harvard and Tufts researchers are the real geniuses here.<nobr> <wbr></nobr>:)</p></htmltext>
+<tokenext>My congrats go to the DoD for coming up with a solution that costs a couple million per soldier , when I just handed them a solution that costs a few dollars per soldier and took me less than a minute to think up .
+Way to innovate.Look , this is a DARPA funded project .
+So it might seem like they are stupid for not thinking of obvious solutions like yours , but they 're simply not allowed to under DoD rules .
+The AR in DARPA stands for Advanced Research .
+DFORPA is the DoD agency you 're looking for ( the O stands for Obvious ) .
+They do n't give much in the way of grants , so you may be smarter than the DoD , but those Harvard and Tufts researchers are the real geniuses here .
+: )</tokentext>
+<sentencetext>My congrats go to the DoD for coming up with a solution that costs a couple million per soldier, when I just handed them a solution that costs a few dollars per soldier and took me less than a minute to think up.
+Way to innovate.Look, this is a DARPA funded project.
+So it might seem like they are stupid for not thinking of obvious solutions like yours, but they're simply not allowed to under DoD rules.
+The AR in DARPA stands for Advanced Research.
+DFORPA is the DoD agency you're looking for (the O stands for Obvious).
+They don't give much in the way of grants, so you may be smarter than the DoD, but those Harvard and Tufts researchers are the real geniuses here.
+:)</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101439</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101335</id>
+	<title>Re:GI Joseph and the Amazing Technicolor Smoke Sig</title>
+	<author>nizo</author>
+	<datestamp>1243334880000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>How about an inexpensive crank flashlight with a morse code key engraved on it?</p><p>On the upside, not only would you not need matches, but you could use it as a flashlight.</p></htmltext>
+<tokenext>How about an inexpensive crank flashlight with a morse code key engraved on it ? On the upside , not only would you not need matches , but you could use it as a flashlight .</tokentext>
+<sentencetext>How about an inexpensive crank flashlight with a morse code key engraved on it?On the upside, not only would you not need matches, but you could use it as a flashlight.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101141</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28136389</id>
+	<title>Re:Tarps, flags, semaphore, mirrors....</title>
+	<author>Anonymous</author>
+	<datestamp>1243594380000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Yes, the point is that it is IR. The ultimate goal is to move it in to a part of the IR spectrum that the atmosphere is transparent to and that can be detected easily by a hi-tech military, but not by random civilians.</p><p>In the paper you'll notice that the message was encoded in the NIR, but since you can't see IR pictures would have shown nothing, thus the pictures/movies of colored emitters.</p><p>This was also one of many approaches to achieving the goals of a self-powered system that can encode information without the use of electricity. It works well and is easy to understand so it was published first.</p><p>Also, there are more applications than search/rescue. Imagine a "leave behind" that looks like a piece of garbage or chewing gum that can be stuck to a vehicle. Now you have a tracking device that also transmits information and is nearly impossible to detect.</p><p>I know all you trolls think you are smart and clever--and by and large you probably are--but this sort of stuff isn't as easy as it looks.</p></htmltext>
+<tokenext>Yes , the point is that it is IR .
+The ultimate goal is to move it in to a part of the IR spectrum that the atmosphere is transparent to and that can be detected easily by a hi-tech military , but not by random civilians.In the paper you 'll notice that the message was encoded in the NIR , but since you ca n't see IR pictures would have shown nothing , thus the pictures/movies of colored emitters.This was also one of many approaches to achieving the goals of a self-powered system that can encode information without the use of electricity .
+It works well and is easy to understand so it was published first.Also , there are more applications than search/rescue .
+Imagine a " leave behind " that looks like a piece of garbage or chewing gum that can be stuck to a vehicle .
+Now you have a tracking device that also transmits information and is nearly impossible to detect.I know all you trolls think you are smart and clever--and by and large you probably are--but this sort of stuff is n't as easy as it looks .</tokentext>
+<sentencetext>Yes, the point is that it is IR.
+The ultimate goal is to move it in to a part of the IR spectrum that the atmosphere is transparent to and that can be detected easily by a hi-tech military, but not by random civilians.In the paper you'll notice that the message was encoded in the NIR, but since you can't see IR pictures would have shown nothing, thus the pictures/movies of colored emitters.This was also one of many approaches to achieving the goals of a self-powered system that can encode information without the use of electricity.
+It works well and is easy to understand so it was published first.Also, there are more applications than search/rescue.
+Imagine a "leave behind" that looks like a piece of garbage or chewing gum that can be stuck to a vehicle.
+Now you have a tracking device that also transmits information and is nearly impossible to detect.I know all you trolls think you are smart and clever--and by and large you probably are--but this sort of stuff isn't as easy as it looks.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101579</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101273</id>
+	<title>Can't they...</title>
+	<author>Anonymous</author>
+	<datestamp>1243334460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>just talk to one another? I can communicate by talking and listening without needing electricity (unless you count synapse firings).<br> <br>Oh, I see the article says "greater than 2 km." The US Navy still uses semaphores, and a (non-electric) lantern could be used for nighttime signaling. Duh. Where's my million dollar research grant?</htmltext>
+<tokenext>just talk to one another ?
+I can communicate by talking and listening without needing electricity ( unless you count synapse firings ) .
+Oh , I see the article says " greater than 2 km .
+" The US Navy still uses semaphores , and a ( non-electric ) lantern could be used for nighttime signaling .
+Duh. Where 's my million dollar research grant ?</tokentext>
+<sentencetext>just talk to one another?
+I can communicate by talking and listening without needing electricity (unless you count synapse firings).
+Oh, I see the article says "greater than 2 km.
+" The US Navy still uses semaphores, and a (non-electric) lantern could be used for nighttime signaling.
+Duh. Where's my million dollar research grant?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102907</id>
+	<title>Re:Weird</title>
+	<author>Blakey Rat</author>
+	<datestamp>1243342680000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>They're planning for an invasion of the Waverlies, I guess.</p></htmltext>
+<tokenext>They 're planning for an invasion of the Waverlies , I guess .</tokentext>
+<sentencetext>They're planning for an invasion of the Waverlies, I guess.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101225</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28109505</id>
+	<title>Re:Weird</title>
+	<author>Anonymous</author>
+	<datestamp>1243438680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>The British did this in WW2, flares that changed color, and as for location, the flares are not far from where they were fired.<br>If you go by firework colors - red, green, blue yellow  white and orange - thats 6 bits, so a tricolor flare could be 6*5*4 = 120 bits of information<br>Funny how colored filters over a flashlight would do the tick</p><p>Scientists have miniature animal tracking devices to stick on migrating birds, and sats pick them up fine.<br>Hand cranked radios, or mobile phones do the job, except when an emp goes off.</p><p>The only fuse that shoud go off , is the birdbrain who recons this has use.</p></htmltext>
+<tokenext>The British did this in WW2 , flares that changed color , and as for location , the flares are not far from where they were fired.If you go by firework colors - red , green , blue yellow white and orange - thats 6 bits , so a tricolor flare could be 6 * 5 * 4 = 120 bits of informationFunny how colored filters over a flashlight would do the tickScientists have miniature animal tracking devices to stick on migrating birds , and sats pick them up fine.Hand cranked radios , or mobile phones do the job , except when an emp goes off.The only fuse that shoud go off , is the birdbrain who recons this has use .</tokentext>
+<sentencetext>The British did this in WW2, flares that changed color, and as for location, the flares are not far from where they were fired.If you go by firework colors - red, green, blue yellow  white and orange - thats 6 bits, so a tricolor flare could be 6*5*4 = 120 bits of informationFunny how colored filters over a flashlight would do the tickScientists have miniature animal tracking devices to stick on migrating birds, and sats pick them up fine.Hand cranked radios, or mobile phones do the job, except when an emp goes off.The only fuse that shoud go off , is the birdbrain who recons this has use.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101225</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101197</id>
+	<title>cause...</title>
+	<author>Random2</author>
+	<datestamp>1243333980000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>4</modscore>
+	<htmltext>cause, you know...sending smoke signals when stranded in enemy territory is really going to help you....</htmltext>
+<tokenext>cause , you know...sending smoke signals when stranded in enemy territory is really going to help you... .</tokentext>
+<sentencetext>cause, you know...sending smoke signals when stranded in enemy territory is really going to help you....</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101105</id>
+	<title>troll penis</title>
+	<author>Anonymous</author>
+	<datestamp>1243333500000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p><a href="http://www.youtube.com/watch?v=UET4d8s2VN0&amp;feature=related" title="youtube.com" rel="nofollow">Uninstall linux</a> [youtube.com]</p></htmltext>
+<tokenext>Uninstall linux [ youtube.com ]</tokentext>
+<sentencetext>Uninstall linux [youtube.com]</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101553</id>
+	<title>Extra battery?</title>
+	<author>Anonymous</author>
+	<datestamp>1243335780000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>Which would you rather add to your pack? A pound of flammable material, or a half-pound radio/battery with a half-pound hand-cranked generator?</p></htmltext>
+<tokenext>Which would you rather add to your pack ?
+A pound of flammable material , or a half-pound radio/battery with a half-pound hand-cranked generator ?</tokentext>
+<sentencetext>Which would you rather add to your pack?
+A pound of flammable material, or a half-pound radio/battery with a half-pound hand-cranked generator?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101141</id>
+	<title>GI Joseph and the Amazing Technicolor Smoke Signal</title>
+	<author>Red Flayer</author>
+	<datestamp>1243333680000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext>Smoke signals... in color.<br> <br>Morse code... without electricity.<br> <br>In order to communicate effectively without electricity, it makes sense to look back to the time before electricity.<br> <br>As for coding-messages-on-the-fly for the flare o' many colors, what kind of data density are they looking for?  Wafers of colored fuel could be dropped into a tube that is then sealed for burning.<br> <br>Or, they could just figure out a way to send morse code with a flare... maybe some kind of retractable hood to be used as an interrupt?</htmltext>
+<tokenext>Smoke signals... in color .
+Morse code... without electricity .
+In order to communicate effectively without electricity , it makes sense to look back to the time before electricity .
+As for coding-messages-on-the-fly for the flare o ' many colors , what kind of data density are they looking for ?
+Wafers of colored fuel could be dropped into a tube that is then sealed for burning .
+Or , they could just figure out a way to send morse code with a flare... maybe some kind of retractable hood to be used as an interrupt ?</tokentext>
+<sentencetext>Smoke signals... in color.
+Morse code... without electricity.
+In order to communicate effectively without electricity, it makes sense to look back to the time before electricity.
+As for coding-messages-on-the-fly for the flare o' many colors, what kind of data density are they looking for?
+Wafers of colored fuel could be dropped into a tube that is then sealed for burning.
+Or, they could just figure out a way to send morse code with a flare... maybe some kind of retractable hood to be used as an interrupt?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101371</id>
+	<title>Darpa keeps reinventing the wheel</title>
+	<author>Anonymous</author>
+	<datestamp>1243335000000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>DARPA keeps reinventing the wheel. Isn't it simpler to use a portable hand cranked generator to power a normal radio using spread spectrum communications? Using spread spectrum gives reasonable safety level and hand cranked generator is power source which works as long as you have hands. This solution is so obvious, that it amazes me why DARPA would even think of something else.</p></htmltext>
+<tokenext>DARPA keeps reinventing the wheel .
+Is n't it simpler to use a portable hand cranked generator to power a normal radio using spread spectrum communications ?
+Using spread spectrum gives reasonable safety level and hand cranked generator is power source which works as long as you have hands .
+This solution is so obvious , that it amazes me why DARPA would even think of something else .</tokentext>
+<sentencetext>DARPA keeps reinventing the wheel.
+Isn't it simpler to use a portable hand cranked generator to power a normal radio using spread spectrum communications?
+Using spread spectrum gives reasonable safety level and hand cranked generator is power source which works as long as you have hands.
+This solution is so obvious, that it amazes me why DARPA would even think of something else.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28103907</id>
+	<title>Re:Lets get something straight here....</title>
+	<author>BeaverCleaver</author>
+	<datestamp>1243349040000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Infra-red is hardly invisible though, more like "security through obscurity." For example, cheap night-vison goggles can detect IR, as can cheap, off-the-shelf digital cameras or web-cams. None of this is high-tech, or only available to the military... Even if you live in a cave in the desert, if you can afford an AK47 and some ammunition, you can probably get your hands on something that will detect a soldier's info-fuse.</p><p>You can also verfy this easily by pointing a TV remote at a webcam or camcorder. Unless the camera has *very* good filtering, you'll be able to see the LED on the remote flickering.</p><p>Can I have a big government grant now please?</p></htmltext>
+<tokenext>Infra-red is hardly invisible though , more like " security through obscurity .
+" For example , cheap night-vison goggles can detect IR , as can cheap , off-the-shelf digital cameras or web-cams .
+None of this is high-tech , or only available to the military... Even if you live in a cave in the desert , if you can afford an AK47 and some ammunition , you can probably get your hands on something that will detect a soldier 's info-fuse.You can also verfy this easily by pointing a TV remote at a webcam or camcorder .
+Unless the camera has * very * good filtering , you 'll be able to see the LED on the remote flickering.Can I have a big government grant now please ?</tokentext>
+<sentencetext>Infra-red is hardly invisible though, more like "security through obscurity.
+" For example, cheap night-vison goggles can detect IR, as can cheap, off-the-shelf digital cameras or web-cams.
+None of this is high-tech, or only available to the military... Even if you live in a cave in the desert, if you can afford an AK47 and some ammunition, you can probably get your hands on something that will detect a soldier's info-fuse.You can also verfy this easily by pointing a TV remote at a webcam or camcorder.
+Unless the camera has *very* good filtering, you'll be able to see the LED on the remote flickering.Can I have a big government grant now please?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101439</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101211</id>
+	<title>...Why?</title>
+	<author>Monkeedude1212</author>
+	<datestamp>1243334100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Aren't smoke signals and flashing light based communication inferior to electricity?
+
+How would you encode a message into a fuse without the use of some electrical device? Wouldn't that mean they have to be pre-determined messages before put into the field?
+
+I'm sure I'm just not understanding the full symantics of how these things work.
+
+I mean, I thought the whole "Fire the Green Flares!" thing has worked pretty well when people don't have a radio.</htmltext>
+<tokenext>Are n't smoke signals and flashing light based communication inferior to electricity ?
+How would you encode a message into a fuse without the use of some electrical device ?
+Would n't that mean they have to be pre-determined messages before put into the field ?
+I 'm sure I 'm just not understanding the full symantics of how these things work .
+I mean , I thought the whole " Fire the Green Flares !
+" thing has worked pretty well when people do n't have a radio .</tokentext>
+<sentencetext>Aren't smoke signals and flashing light based communication inferior to electricity?
+How would you encode a message into a fuse without the use of some electrical device?
+Wouldn't that mean they have to be pre-determined messages before put into the field?
+I'm sure I'm just not understanding the full symantics of how these things work.
+I mean, I thought the whole "Fire the Green Flares!
+" thing has worked pretty well when people don't have a radio.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101491</id>
+	<title>Sent message "x"</title>
+	<author>noidentity</author>
+	<datestamp>1243335480000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><blockquote><div><p>In the first demonstration of the idea, they used the infofuses to transmit the message "look mom no electricity".</p></div></blockquote><p>Said message could be sent with <a href="http://en.wikipedia.org/wiki/Information\_theory#Entropy" title="wikipedia.org">a single flash</a> [wikipedia.org], if that's the only message they might send. The question is how many <i>other</i> possible messages they could have sent. For example, if they sent this as 7-bit ASCII, it'd be more impressive, though some kind of <a href="http://en.wikipedia.org/wiki/Huffman\_coding" title="wikipedia.org">Huffman encoding</a> [wikipedia.org] would be most appropriate.</p></div>
+	</htmltext>
+<tokenext>In the first demonstration of the idea , they used the infofuses to transmit the message " look mom no electricity " .Said message could be sent with a single flash [ wikipedia.org ] , if that 's the only message they might send .
+The question is how many other possible messages they could have sent .
+For example , if they sent this as 7-bit ASCII , it 'd be more impressive , though some kind of Huffman encoding [ wikipedia.org ] would be most appropriate .</tokentext>
+<sentencetext>In the first demonstration of the idea, they used the infofuses to transmit the message "look mom no electricity".Said message could be sent with a single flash [wikipedia.org], if that's the only message they might send.
+The question is how many other possible messages they could have sent.
+For example, if they sent this as 7-bit ASCII, it'd be more impressive, though some kind of Huffman encoding [wikipedia.org] would be most appropriate.
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101599</id>
+	<title>Re:Lets get something straight here....</title>
+	<author>Anonymous</author>
+	<datestamp>1243336020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Ah, I looked at the article again and they do mention that they give off different color light in addition to infrared. Sorry about that.</p></htmltext>
+<tokenext>Ah , I looked at the article again and they do mention that they give off different color light in addition to infrared .
+Sorry about that .</tokentext>
+<sentencetext>Ah, I looked at the article again and they do mention that they give off different color light in addition to infrared.
+Sorry about that.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101439</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28105693</id>
+	<title>Re:In other news...</title>
+	<author>Anonymous</author>
+	<datestamp>1243366080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p> I just patented this. Use with out licensing it from me at your peril.</p></htmltext>
+<tokenext>I just patented this .
+Use with out licensing it from me at your peril .</tokentext>
+<sentencetext> I just patented this.
+Use with out licensing it from me at your peril.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101147</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101785</id>
+	<title>Re:GI Joseph and the Amazing Technicolor Smoke Sig</title>
+	<author>nospam007</author>
+	<datestamp>1243336980000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>"In order to communicate effectively without electricity, it makes sense to look back to the time before electricity."</p><p>Even now there are still railways that give their trains every signal with mechanical means.</p><p>P.S. Not to mention, even the most sophisticated aircraft gets hand signals at the very end before you get out.</p></htmltext>
+<tokenext>" In order to communicate effectively without electricity , it makes sense to look back to the time before electricity .
+" Even now there are still railways that give their trains every signal with mechanical means.P.S .
+Not to mention , even the most sophisticated aircraft gets hand signals at the very end before you get out .</tokentext>
+<sentencetext>"In order to communicate effectively without electricity, it makes sense to look back to the time before electricity.
+"Even now there are still railways that give their trains every signal with mechanical means.P.S.
+Not to mention, even the most sophisticated aircraft gets hand signals at the very end before you get out.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101141</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101565</id>
+	<title>Re:Doesn't seem terribly practical.</title>
+	<author>ColdWetDog</author>
+	<datestamp>1243335840000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext><blockquote><div><p>One thing that might be interesting, the ability to produce a powerful radio signal by some chemical means</p></div></blockquote><p>
+Like a battery?  Nope, never gonna happen.  Too complex and dangerous.</p></div>
+	</htmltext>
+<tokenext>One thing that might be interesting , the ability to produce a powerful radio signal by some chemical means Like a battery ?
+Nope , never gon na happen .
+Too complex and dangerous .</tokentext>
+<sentencetext>One thing that might be interesting, the ability to produce a powerful radio signal by some chemical means
+Like a battery?
+Nope, never gonna happen.
+Too complex and dangerous.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101389</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101243</id>
+	<title>Until the enemy learns to decode your smoke signal</title>
+	<author>L3370</author>
+	<datestamp>1243334280000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>I'm sure enemy forces would love to see this technology used by their adversaries. Instant "come-get-me-with-your-guns" attention.</htmltext>
+<tokenext>I 'm sure enemy forces would love to see this technology used by their adversaries .
+Instant " come-get-me-with-your-guns " attention .</tokentext>
+<sentencetext>I'm sure enemy forces would love to see this technology used by their adversaries.
+Instant "come-get-me-with-your-guns" attention.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102307</id>
+	<title>i believe tcp/ip was ported to passenger pigeons</title>
+	<author>Anonymous</author>
+	<datestamp>1243339740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>too bad they went extinct. i guess all those filthy hippies and poets were right after all.</p></htmltext>
+<tokenext>too bad they went extinct .
+i guess all those filthy hippies and poets were right after all .</tokentext>
+<sentencetext>too bad they went extinct.
+i guess all those filthy hippies and poets were right after all.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101141</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101541</id>
+	<title>New version of Old tech.</title>
+	<author>meerling</author>
+	<datestamp>1243335720000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext>It's not much more than a new version of signal mirrors, heliograph, signal fires, etc.
+
+Even a minor power source (such as a hand operated generator) would allow a radio to outperform infofuses.<br>
+<br>
+The only reason I see for this item, is when you are someplace electricity doesn't work. Of course, then the sensor package used to read the infofuse signal would need power also, and be within 1.5km/0.9 miles. Guess it's not really that good in an EMP field. <br>
+<br>
+Of course, what about the gear to encode the message?<br>
+They are trying to make it simpler and smaller, but it doesn't sound like it's going to be an easy piece of gear to run without electricity. Of course, the troops could be sent out with a packet of pre-recorded messages. Or maybe just extra batteries for their radios...<br>
+<br>
+Maybe I'm being a little hypercritical, but it seems as if they are trying to solve a non-existent problem with an overcomplicated solution.  <br>(Kind of like trying to move the 15' from your parking space to the mailbox when you don't have your car keys but think you can hotwire the car with a screwdriver...  Just walk over there stupid!)<br>
+<br>
+<br>
+Here's another idea, give the troopies binoculars and semaphore flags. Of course they'd then have to be trained in semaphore, but it's technology that's available and works without electricity, even after your choice of nuclear apocalypse or alien invasion.</htmltext>
+<tokenext>It 's not much more than a new version of signal mirrors , heliograph , signal fires , etc .
+Even a minor power source ( such as a hand operated generator ) would allow a radio to outperform infofuses .
+The only reason I see for this item , is when you are someplace electricity does n't work .
+Of course , then the sensor package used to read the infofuse signal would need power also , and be within 1.5km/0.9 miles .
+Guess it 's not really that good in an EMP field .
+Of course , what about the gear to encode the message ?
+They are trying to make it simpler and smaller , but it does n't sound like it 's going to be an easy piece of gear to run without electricity .
+Of course , the troops could be sent out with a packet of pre-recorded messages .
+Or maybe just extra batteries for their radios.. . Maybe I 'm being a little hypercritical , but it seems as if they are trying to solve a non-existent problem with an overcomplicated solution .
+( Kind of like trying to move the 15 ' from your parking space to the mailbox when you do n't have your car keys but think you can hotwire the car with a screwdriver... Just walk over there stupid !
+) Here 's another idea , give the troopies binoculars and semaphore flags .
+Of course they 'd then have to be trained in semaphore , but it 's technology that 's available and works without electricity , even after your choice of nuclear apocalypse or alien invasion .</tokentext>
+<sentencetext>It's not much more than a new version of signal mirrors, heliograph, signal fires, etc.
+Even a minor power source (such as a hand operated generator) would allow a radio to outperform infofuses.
+The only reason I see for this item, is when you are someplace electricity doesn't work.
+Of course, then the sensor package used to read the infofuse signal would need power also, and be within 1.5km/0.9 miles.
+Guess it's not really that good in an EMP field.
+Of course, what about the gear to encode the message?
+They are trying to make it simpler and smaller, but it doesn't sound like it's going to be an easy piece of gear to run without electricity.
+Of course, the troops could be sent out with a packet of pre-recorded messages.
+Or maybe just extra batteries for their radios...
+
+Maybe I'm being a little hypercritical, but it seems as if they are trying to solve a non-existent problem with an overcomplicated solution.
+(Kind of like trying to move the 15' from your parking space to the mailbox when you don't have your car keys but think you can hotwire the car with a screwdriver...  Just walk over there stupid!
+)
+
+
+Here's another idea, give the troopies binoculars and semaphore flags.
+Of course they'd then have to be trained in semaphore, but it's technology that's available and works without electricity, even after your choice of nuclear apocalypse or alien invasion.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101159</id>
+	<title>Flapping Lanterns</title>
+	<author>Anonymous</author>
+	<datestamp>1243333860000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>2</modscore>
+	<htmltext>One if by land, two if by sea</htmltext>
+<tokenext>One if by land , two if by sea</tokentext>
+<sentencetext>One if by land, two if by sea</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28108177</id>
+	<title>Re:Extra battery?</title>
+	<author>drinkypoo</author>
+	<datestamp>1243431720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The half-pound battery CERTAINLY contains more energy than the (say) five fuses you'd need to carry to get 120 possible messages. (Remember, this is a prototype, but the military has been buying expensive batteries for years.) When a battery takes a bullet, you get rid of it really fucking quick, because they do have a tendency to burst into flame.</p></htmltext>
+<tokenext>The half-pound battery CERTAINLY contains more energy than the ( say ) five fuses you 'd need to carry to get 120 possible messages .
+( Remember , this is a prototype , but the military has been buying expensive batteries for years .
+) When a battery takes a bullet , you get rid of it really fucking quick , because they do have a tendency to burst into flame .</tokentext>
+<sentencetext>The half-pound battery CERTAINLY contains more energy than the (say) five fuses you'd need to carry to get 120 possible messages.
+(Remember, this is a prototype, but the military has been buying expensive batteries for years.
+) When a battery takes a bullet, you get rid of it really fucking quick, because they do have a tendency to burst into flame.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101553</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102061</id>
+	<title>Re:Chicken eggs</title>
+	<author>Locke2005</author>
+	<datestamp>1243338660000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>0</modscore>
+	<htmltext>I see several flaws with this scenario: 1) Chicken's can't fly. 2) Even homing pigeons can't return to somewhere they've never been before, and 3) the hatched chicks would be dinner for someone long before they matured to the point where they could carry a message. I've got a much better scheme: Use 2 parabolic acoustical reflectors pointed directly at each other. One person speaks at the focal point of one reflector, while the other listens at the focal point of the other. Works for 2 way communication. Only potential problem: It may require a laser to line up the reflectors.</htmltext>
+<tokenext>I see several flaws with this scenario : 1 ) Chicken 's ca n't fly .
+2 ) Even homing pigeons ca n't return to somewhere they 've never been before , and 3 ) the hatched chicks would be dinner for someone long before they matured to the point where they could carry a message .
+I 've got a much better scheme : Use 2 parabolic acoustical reflectors pointed directly at each other .
+One person speaks at the focal point of one reflector , while the other listens at the focal point of the other .
+Works for 2 way communication .
+Only potential problem : It may require a laser to line up the reflectors .</tokentext>
+<sentencetext>I see several flaws with this scenario: 1) Chicken's can't fly.
+2) Even homing pigeons can't return to somewhere they've never been before, and 3) the hatched chicks would be dinner for someone long before they matured to the point where they could carry a message.
+I've got a much better scheme: Use 2 parabolic acoustical reflectors pointed directly at each other.
+One person speaks at the focal point of one reflector, while the other listens at the focal point of the other.
+Works for 2 way communication.
+Only potential problem: It may require a laser to line up the reflectors.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101411</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101101</id>
+	<title>... Smoke signals?</title>
+	<author>Anonymous</author>
+	<datestamp>1243333500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext>I wonder how much DARPA paid for this innovative research into centuries-old techniques.</htmltext>
+<tokenext>I wonder how much DARPA paid for this innovative research into centuries-old techniques .</tokentext>
+<sentencetext>I wonder how much DARPA paid for this innovative research into centuries-old techniques.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28104281</id>
+	<title>Re:Doesn't seem terribly practical.</title>
+	<author>ceoyoyo</author>
+	<datestamp>1243351920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Purely chemical... no, sorry, can't think of one.  Would you settle for nuclear?</p></htmltext>
+<tokenext>Purely chemical... no , sorry , ca n't think of one .
+Would you settle for nuclear ?</tokentext>
+<sentencetext>Purely chemical... no, sorry, can't think of one.
+Would you settle for nuclear?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101389</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101419</id>
+	<title>Old tech</title>
+	<author>Todd Knarr</author>
+	<datestamp>1243335180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Hmm. Infrared and visible-light pulses. No electricity. Needs to have a message encoded on-the-fly in the field. That sounds an awful lot like a small lantern with an oil wick or candle burning in it and a shutter to conceal or reveal the light/heat source at will. We could even use Morse code. All you'd need is an ignition source to light the lamp. Matches would work, or steel-and-flint to light a small piece of tinder scavenged from the surroundings.</p></htmltext>
+<tokenext>Hmm .
+Infrared and visible-light pulses .
+No electricity .
+Needs to have a message encoded on-the-fly in the field .
+That sounds an awful lot like a small lantern with an oil wick or candle burning in it and a shutter to conceal or reveal the light/heat source at will .
+We could even use Morse code .
+All you 'd need is an ignition source to light the lamp .
+Matches would work , or steel-and-flint to light a small piece of tinder scavenged from the surroundings .</tokentext>
+<sentencetext>Hmm.
+Infrared and visible-light pulses.
+No electricity.
+Needs to have a message encoded on-the-fly in the field.
+That sounds an awful lot like a small lantern with an oil wick or candle burning in it and a shutter to conceal or reveal the light/heat source at will.
+We could even use Morse code.
+All you'd need is an ignition source to light the lamp.
+Matches would work, or steel-and-flint to light a small piece of tinder scavenged from the surroundings.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28109963</id>
+	<title>Re:Doesn't seem terribly practical.</title>
+	<author>jeffb (2.718)</author>
+	<datestamp>1243440720000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Whether there are chemical reactions that produce radio signals, I have no idea.</p></div><p>If you can <a href="http://en.wikipedia.org/wiki/Chemical\_oxygen\_iodine\_laser" title="wikipedia.org">pump a laser chemically</a> [wikipedia.org], I'd expect that it would be possible to do the same with a <a href="http://en.wikipedia.org/wiki/Maser" title="wikipedia.org">maser</a> [wikipedia.org].</p></div>
+	</htmltext>
+<tokenext>Whether there are chemical reactions that produce radio signals , I have no idea.If you can pump a laser chemically [ wikipedia.org ] , I 'd expect that it would be possible to do the same with a maser [ wikipedia.org ] .</tokentext>
+<sentencetext>Whether there are chemical reactions that produce radio signals, I have no idea.If you can pump a laser chemically [wikipedia.org], I'd expect that it would be possible to do the same with a maser [wikipedia.org].
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101389</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28107177</id>
+	<title>Re:Weird</title>
+	<author>Anonymous</author>
+	<datestamp>1243423200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>All amateur ham radios are crank-powered, crank-owner, and crank-operated.</p></htmltext>
+<tokenext>All amateur ham radios are crank-powered , crank-owner , and crank-operated .</tokentext>
+<sentencetext>All amateur ham radios are crank-powered, crank-owner, and crank-operated.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101225</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101801</id>
+	<title>Practicality Aside, Maybe This Way</title>
+	<author>tanmanX</author>
+	<datestamp>1243337100000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>After glancing at the article, this idea came to mind: For field use, a sort of Vertical Typewriter in three pieces.  The "writer" itself would be a vertical tube with little pushers filled with an amount of powder.  Attaching to this tube at the bottom would be the message holder, where the bits of powder would rest.  The third piece would be a tamper to tighten the whole thing up so it doesn't spill out.  The message holders would have to be strong enough to hold the compressed power, but be "inconsequential" enough to burn with little to no light output of interest, or just have the reader calibrated to subtract what it itself puts out.  Powder amount Vs letter frequencies and numbers aside, it seems like it would work.</p></htmltext>
+<tokenext>After glancing at the article , this idea came to mind : For field use , a sort of Vertical Typewriter in three pieces .
+The " writer " itself would be a vertical tube with little pushers filled with an amount of powder .
+Attaching to this tube at the bottom would be the message holder , where the bits of powder would rest .
+The third piece would be a tamper to tighten the whole thing up so it does n't spill out .
+The message holders would have to be strong enough to hold the compressed power , but be " inconsequential " enough to burn with little to no light output of interest , or just have the reader calibrated to subtract what it itself puts out .
+Powder amount Vs letter frequencies and numbers aside , it seems like it would work .</tokentext>
+<sentencetext>After glancing at the article, this idea came to mind: For field use, a sort of Vertical Typewriter in three pieces.
+The "writer" itself would be a vertical tube with little pushers filled with an amount of powder.
+Attaching to this tube at the bottom would be the message holder, where the bits of powder would rest.
+The third piece would be a tamper to tighten the whole thing up so it doesn't spill out.
+The message holders would have to be strong enough to hold the compressed power, but be "inconsequential" enough to burn with little to no light output of interest, or just have the reader calibrated to subtract what it itself puts out.
+Powder amount Vs letter frequencies and numbers aside, it seems like it would work.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101147</id>
+	<title>In other news...</title>
+	<author>kpainter</author>
+	<datestamp>1243333800000</datestamp>
+	<modclass>Funny</modclass>
+	<modscore>4</modscore>
+	<htmltext>DARPA researchers discover messages can be transmitted using nothing more than a simple mirror.</htmltext>
+<tokenext>DARPA researchers discover messages can be transmitted using nothing more than a simple mirror .</tokentext>
+<sentencetext>DARPA researchers discover messages can be transmitted using nothing more than a simple mirror.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28108141</id>
+	<title>Re:Weird</title>
+	<author>drinkypoo</author>
+	<datestamp>1243431480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>My Drill Sargent demonstrated how easy it is to spot someone smoking in the dark.</p></div><p>But apparently not how to spell sergeant.</p><p><div class="quote"><p>Is a crank-powered radio really out of the question? I mean, it would even work during the day.</p></div><p>You mean, enemy midges could home in on it even during the day? That's true.</p><p>The truth is, it's all bad. But the flare is not even a bad solution. Light fuse, <em>step away</em>.</p></div>
+	</htmltext>
+<tokenext>My Drill Sargent demonstrated how easy it is to spot someone smoking in the dark.But apparently not how to spell sergeant.Is a crank-powered radio really out of the question ?
+I mean , it would even work during the day.You mean , enemy midges could home in on it even during the day ?
+That 's true.The truth is , it 's all bad .
+But the flare is not even a bad solution .
+Light fuse , step away .</tokentext>
+<sentencetext>My Drill Sargent demonstrated how easy it is to spot someone smoking in the dark.But apparently not how to spell sergeant.Is a crank-powered radio really out of the question?
+I mean, it would even work during the day.You mean, enemy midges could home in on it even during the day?
+That's true.The truth is, it's all bad.
+But the flare is not even a bad solution.
+Light fuse, step away.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101225</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101277</id>
+	<title>Classified Military Secret Revealed: +1, Seditious</title>
+	<author>Anonymous</author>
+	<datestamp>1243334520000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>Smoke signals!</p><p>Yours In Peace,<br>K. Trout, Peace ACTIVIST</p></htmltext>
+<tokenext>Smoke signals ! Yours In Peace,K .
+Trout , Peace ACTIVIST</tokentext>
+<sentencetext>Smoke signals!Yours In Peace,K.
+Trout, Peace ACTIVIST</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101507</id>
+	<title>War is king in the U.S., or actually a dictator.</title>
+	<author>Anonymous</author>
+	<datestamp>1243335540000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext>United States government: Any amount of money for war.</htmltext>
+<tokenext>United States government : Any amount of money for war .</tokentext>
+<sentencetext>United States government: Any amount of money for war.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101091</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101623</id>
+	<title>Existing methods.</title>
+	<author>SloWave</author>
+	<datestamp>1243336140000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>&gt;Currently the researchers are "trying to figure out a way to dynamically encode a message on the fly in &gt;the field without specialized equipment."</p><p>What about semaphore flags, signal lanterns, smoke signals, mirrors, shouting real loud etc?</p></htmltext>
+<tokenext>&gt; Currently the researchers are " trying to figure out a way to dynamically encode a message on the fly in &gt; the field without specialized equipment .
+" What about semaphore flags , signal lanterns , smoke signals , mirrors , shouting real loud etc ?</tokentext>
+<sentencetext>&gt;Currently the researchers are "trying to figure out a way to dynamically encode a message on the fly in &gt;the field without specialized equipment.
+"What about semaphore flags, signal lanterns, smoke signals, mirrors, shouting real loud etc?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102255</id>
+	<title>Re:GI Joseph and the Amazing Technicolor Smoke Sig</title>
+	<author>FatdogHaiku</author>
+	<datestamp>1243339500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Ahmed, where is the stranded soldier hiding? And what the hell is that colored flashing light on the side of this hill?</htmltext>
+<tokenext>Ahmed , where is the stranded soldier hiding ?
+And what the hell is that colored flashing light on the side of this hill ?</tokentext>
+<sentencetext>Ahmed, where is the stranded soldier hiding?
+And what the hell is that colored flashing light on the side of this hill?</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101141</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101645</id>
+	<title>Re:...Why?</title>
+	<author>nospam007</author>
+	<datestamp>1243336200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>The Romans had no problems to send either "need more garum" or anything else a couple of thousand years ago with their signal towers.</p></htmltext>
+<tokenext>The Romans had no problems to send either " need more garum " or anything else a couple of thousand years ago with their signal towers .</tokentext>
+<sentencetext>The Romans had no problems to send either "need more garum" or anything else a couple of thousand years ago with their signal towers.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101211</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101659</id>
+	<title>combat engineering</title>
+	<author>Anonymous</author>
+	<datestamp>1243336320000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>&gt; In the first demonstration of the idea, they used the infofuses to transmit the message look mom no electricity.</p><p>In other news, researchers developed a communication device for combat engineering. The first message they transmitted was "look mom no hands".</p></htmltext>
+<tokenext>&gt; In the first demonstration of the idea , they used the infofuses to transmit the message look mom no electricity.In other news , researchers developed a communication device for combat engineering .
+The first message they transmitted was " look mom no hands " .</tokentext>
+<sentencetext>&gt; In the first demonstration of the idea, they used the infofuses to transmit the message look mom no electricity.In other news, researchers developed a communication device for combat engineering.
+The first message they transmitted was "look mom no hands".</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101091</id>
+	<title>Tarps, flags, semaphore, mirrors....</title>
+	<author>Anonymous</author>
+	<datestamp>1243333500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>There's plenty of ways already documented.  For this, we needed DARPA?</p></htmltext>
+<tokenext>There 's plenty of ways already documented .
+For this , we needed DARPA ?</tokentext>
+<sentencetext>There's plenty of ways already documented.
+For this, we needed DARPA?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28103647</id>
+	<title>Re:New version of Old tech.</title>
+	<author>Faerunner</author>
+	<datestamp>1243346880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I see nothing wrong with handing them several small jars of powdered chemicals and a fine paintbrush. Just add whatever liquid is handy - spit would probably do in desert warfare, but other places might have water available. Paint your stripes on the infofuse any way you like. A small field manual (laminated business-card size) would probably be enough info to help a soldier transmit all kinds of messages.</htmltext>
+<tokenext>I see nothing wrong with handing them several small jars of powdered chemicals and a fine paintbrush .
+Just add whatever liquid is handy - spit would probably do in desert warfare , but other places might have water available .
+Paint your stripes on the infofuse any way you like .
+A small field manual ( laminated business-card size ) would probably be enough info to help a soldier transmit all kinds of messages .</tokentext>
+<sentencetext>I see nothing wrong with handing them several small jars of powdered chemicals and a fine paintbrush.
+Just add whatever liquid is handy - spit would probably do in desert warfare, but other places might have water available.
+Paint your stripes on the infofuse any way you like.
+A small field manual (laminated business-card size) would probably be enough info to help a soldier transmit all kinds of messages.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101541</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101411</id>
+	<title>Chicken eggs</title>
+	<author>Tired and Emotional</author>
+	<datestamp>1243335180000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>You give each soldier a set of (fertile) chicken eggs, wrapped in bubble wrap.
+<p>
+When they want to send a message, they hatch an egg, and then tie the message to one of the chicken's legs before sending it flying back to base (I forgot to say they are also issued a catapult)
+</p><p>
+Probably no less plausible an approach than these "infofuses".</p></htmltext>
+<tokenext>You give each soldier a set of ( fertile ) chicken eggs , wrapped in bubble wrap .
+When they want to send a message , they hatch an egg , and then tie the message to one of the chicken 's legs before sending it flying back to base ( I forgot to say they are also issued a catapult ) Probably no less plausible an approach than these " infofuses " .</tokentext>
+<sentencetext>You give each soldier a set of (fertile) chicken eggs, wrapped in bubble wrap.
+When they want to send a message, they hatch an egg, and then tie the message to one of the chicken's legs before sending it flying back to base (I forgot to say they are also issued a catapult)
+
+Probably no less plausible an approach than these "infofuses".</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101389</id>
+	<title>Doesn't seem terribly practical.</title>
+	<author>Vellmont</author>
+	<datestamp>1243335060000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>So it only transmits 2 km, and presumably someone has to be looking in the right direction to receive your signal, and you need some kind of special equipment to encode a long message.  This just looks like the wrong approach.  It seems to me there's always a trade-off between distance, information transmitted, and signal power (a rough restating of Shannon/Hartley).  I don't know how far flares can be seen, but that's already a chemical means of sending a short message a limited distance.</p><p>One thing that might be interesting, the ability to produce a powerful radio signal by some chemical means.  You wouldn't be able to transmit much information beyond say "help!", but if you had a satellite in geo-stationary orbit looking for these signals (and somehow triangulating the position) that might solve the "has to be someone looking" problem.  Whether there are chemical reactions that produce radio signals, I have no idea.</p></htmltext>
+<tokenext>So it only transmits 2 km , and presumably someone has to be looking in the right direction to receive your signal , and you need some kind of special equipment to encode a long message .
+This just looks like the wrong approach .
+It seems to me there 's always a trade-off between distance , information transmitted , and signal power ( a rough restating of Shannon/Hartley ) .
+I do n't know how far flares can be seen , but that 's already a chemical means of sending a short message a limited distance.One thing that might be interesting , the ability to produce a powerful radio signal by some chemical means .
+You would n't be able to transmit much information beyond say " help !
+" , but if you had a satellite in geo-stationary orbit looking for these signals ( and somehow triangulating the position ) that might solve the " has to be someone looking " problem .
+Whether there are chemical reactions that produce radio signals , I have no idea .</tokentext>
+<sentencetext>So it only transmits 2 km, and presumably someone has to be looking in the right direction to receive your signal, and you need some kind of special equipment to encode a long message.
+This just looks like the wrong approach.
+It seems to me there's always a trade-off between distance, information transmitted, and signal power (a rough restating of Shannon/Hartley).
+I don't know how far flares can be seen, but that's already a chemical means of sending a short message a limited distance.One thing that might be interesting, the ability to produce a powerful radio signal by some chemical means.
+You wouldn't be able to transmit much information beyond say "help!
+", but if you had a satellite in geo-stationary orbit looking for these signals (and somehow triangulating the position) that might solve the "has to be someone looking" problem.
+Whether there are chemical reactions that produce radio signals, I have no idea.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101225</id>
+	<title>Weird</title>
+	<author>Anonymous</author>
+	<datestamp>1243334220000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>5</modscore>
+	<htmltext><p>Step 1, smoke a cigarette under a poncho.  Step 2, light an "infofuse".  Step 3, get shot in the face.</p><p>My Drill Sargent demonstrated how easy it is to spot someone smoking in the dark.</p><p>Is a crank-powered radio really out of the question?  I mean, it would even work during the day.</p><p>-Peter</p></htmltext>
+<tokenext>Step 1 , smoke a cigarette under a poncho .
+Step 2 , light an " infofuse " .
+Step 3 , get shot in the face.My Drill Sargent demonstrated how easy it is to spot someone smoking in the dark.Is a crank-powered radio really out of the question ?
+I mean , it would even work during the day.-Peter</tokentext>
+<sentencetext>Step 1, smoke a cigarette under a poncho.
+Step 2, light an "infofuse".
+Step 3, get shot in the face.My Drill Sargent demonstrated how easy it is to spot someone smoking in the dark.Is a crank-powered radio really out of the question?
+I mean, it would even work during the day.-Peter</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101439</id>
+	<title>Lets get something straight here....</title>
+	<author>Anonymous</author>
+	<datestamp>1243335300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>To all the morons who didn't RTFA, infofuses send infrared light, e.g. not visible to the naked eye. Please stop suggesting this is as stupid as sending a smoke signal in enemy territory.</p><p>What I find idiotic though, is that they're going to all this effort to create a technology which requires you to carry around lots of extra dead weight of salt and the equipment to communicate with it.</p><p>They could just simply invent an electronic signaling device that is powered by the kinetic or electric energy generated by your body. Especially since these soldiers do a lot of long hikes with heavy packs on their backs, the amount of energy generated would be substantial. A piezoelectric doodad in the sole of their boots recharging a couple of rechargeable AA batteries would do. The technology to pull this off has been around for a long time and it is really cheap and easy.</p><p>My congrats go to the DoD for coming up with a solution that costs a couple million per soldier, when I just handed them a solution that costs a few dollars per soldier and took me less than a minute to think up. Way to innovate.</p><p>On the bright side they came up with a technology that I'm sure will find its way into the private sector at some point and be useful somewhere, somehow.</p></htmltext>
+<tokenext>To all the morons who did n't RTFA , infofuses send infrared light , e.g .
+not visible to the naked eye .
+Please stop suggesting this is as stupid as sending a smoke signal in enemy territory.What I find idiotic though , is that they 're going to all this effort to create a technology which requires you to carry around lots of extra dead weight of salt and the equipment to communicate with it.They could just simply invent an electronic signaling device that is powered by the kinetic or electric energy generated by your body .
+Especially since these soldiers do a lot of long hikes with heavy packs on their backs , the amount of energy generated would be substantial .
+A piezoelectric doodad in the sole of their boots recharging a couple of rechargeable AA batteries would do .
+The technology to pull this off has been around for a long time and it is really cheap and easy.My congrats go to the DoD for coming up with a solution that costs a couple million per soldier , when I just handed them a solution that costs a few dollars per soldier and took me less than a minute to think up .
+Way to innovate.On the bright side they came up with a technology that I 'm sure will find its way into the private sector at some point and be useful somewhere , somehow .</tokentext>
+<sentencetext>To all the morons who didn't RTFA, infofuses send infrared light, e.g.
+not visible to the naked eye.
+Please stop suggesting this is as stupid as sending a smoke signal in enemy territory.What I find idiotic though, is that they're going to all this effort to create a technology which requires you to carry around lots of extra dead weight of salt and the equipment to communicate with it.They could just simply invent an electronic signaling device that is powered by the kinetic or electric energy generated by your body.
+Especially since these soldiers do a lot of long hikes with heavy packs on their backs, the amount of energy generated would be substantial.
+A piezoelectric doodad in the sole of their boots recharging a couple of rechargeable AA batteries would do.
+The technology to pull this off has been around for a long time and it is really cheap and easy.My congrats go to the DoD for coming up with a solution that costs a couple million per soldier, when I just handed them a solution that costs a few dollars per soldier and took me less than a minute to think up.
+Way to innovate.On the bright side they came up with a technology that I'm sure will find its way into the private sector at some point and be useful somewhere, somehow.</sentencetext>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102973
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101389
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28107177
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101225
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101565
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101389
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28109505
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101225
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101335
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101141
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101507
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28136389
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101579
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101091
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101645
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101211
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28108177
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101553
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28105693
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101147
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28108141
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101225
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28103907
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101439
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102307
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101141
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28103647
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101541
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101785
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101141
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101599
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101439
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28104281
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101389
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102061
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101411
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102255
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101141
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28109963
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101389
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102907
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101225
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_26_1851207_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101967
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101439
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101197
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101491
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101273
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101439
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101967
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28103907
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101599
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101147
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28105693
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101411
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102061
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101371
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101211
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101645
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101553
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28108177
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101419
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101225
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28107177
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28108141
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102907
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28109505
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101541
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28103647
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101101
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101389
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28109963
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28104281
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102973
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101565
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101141
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101785
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102307
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101335
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28102255
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101243
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101159
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_26_1851207.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101091
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101579
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28136389
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_26_1851207.28101507
+</commentlist>
+</conversation>

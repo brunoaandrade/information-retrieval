@@ -1,0 +1,35 @@
+<article>
+	<pid>380026</pid>
+	<title>
+	Patrick changes opponents as injured McDonald exits UFC 140
+</title>
+	<url>http://www.tsn.ca/nhl/story/?id=380026</url>
+	<date>11/9/2011 2:26:25 PM</date>
+	<author>The Canadian Press</author>
+	<text>TORONTO -- Claude (The Prince) Patrick is moving up to the main card of UFC 140, replacing fellow Canadian welterweight Rory (Ares) McDonald who has been sidelined by injury.Patrick (14-1) had been slated to face (Raging Bull) Rich Attonito. Now he will take on Brian (Bad Boy) Ebersole on the Dec. 10 card at Toronto's Air Canada Centre.Patrick's management announced the move via a news release.The Toronto fighter has won his last 13 fights, including all three in the UFC.Ebersole (48-14-1 with one no contest) is also 3-0 in the UFC.</text>
+	<score>913</score>
+</article>
+<comment>
+	<cid>2700347</cid>
+	<date>11/9/2011 8:27:02 PM</date>
+	<author>megajabs</author>
+	<text>Wow!!! that card just got knocked back down to mediocre</text>
+	<score>3</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2708092</cid>
+	<date>11/11/2011 2:27:10 PM</date>
+	<author>Hallgren</author>
+	<text>Too bad for Rory, he is the next big thing in MMA. I look forward to his fights.</text>
+	<score>2</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2715127</cid>
+	<date>11/13/2011 5:03:06 PM</date>
+	<author>Ron-The-King</author>
+	<text>too bad.... i was looking forward to watching rory kick butt</text>
+	<score>1</score>
+	<parent>0</parent>
+</comment>

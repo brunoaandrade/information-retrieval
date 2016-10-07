@@ -1,0 +1,590 @@
+<article>
+	<pid>15</pid>
+	<title>AT&T; 4G LTE iPhone Planned for 2012 Launch? [Updated] - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/05/atandt-4g-lte-iphone-planned-for-2012-launch/</url>
+	<date>Wednesday January 5, 2011 8:43 am PST</date>
+	<author>Eric Slivka</author>
+	<text>One of the major questions about future iPhones has been at what point Apple will choose to offer "4G" LTE compatibility.  With Verizon only just beginning to roll out its own 4G network, rumors have indicated that the CDMA-based iPhone 4 widely rumored for a launch early this year will not support 4G.  The bigger question has been whether Apple will support 4G in the fifth-generation iPhone presumably set to debut sometime in the middle of the year, withseveral reportsindicating that Apple will skip 4G compatibility at that point as well.In covering a CES keynote address by AT&T;'s Ralph de la Vega,Boy Genius Reportnotesthat de la Vega's comments suggest that a 4G LTE iPhone is in fact not coming until 2012.De la Vega included Apple in his list of manufacturers set to launch LTE devices in 2012, implying that AT&T; will launch a 4G LTE-compatible Apple iPhone next yearDe la Vega reportedly also confirmed AT&T;'s plans for an accelerated timetable for deployment of its LTE network, looking to launchsometime this yearwith completion set for 2013.  He also noted that the HSPA+ improvements that have already spread to much of the company's network already come relatively close to 4G speeds.While many observers have been hoping that Apple will be an early adopter of LTE technology to support the ever-increasing data demands of iPhone users, past history has suggested that Apple will sit on the sidelines until the LTE service becomes more widespread and has had time to mature.  Despite the fact that AT&T; offered a 3G data network at the time of the iPhone's initial launch in 2007, the first-generation device did not support the technology and operated only on the carrier's slower-but-more-widely-available EDGE network.Update:Boy Genius Reporthas updated its article to note that AT&T; has officially denied that de la Vega confirmed an LTE iPhone for 2012.  It appears that the confusion has stemmed from AT&T;'s decision to call both its existing HSPA+ network and its forthcoming LTE network "4G" for marketing purposes.Well, AT&T;'s ridiculous decision to call both HSPA+ and LTE "4G" is already causing problems -- AT&T; contacted us to let us know that no iPhone-related LTE announcements were made. Apparently the "4G" mentioned alongside de la Vega's mention of Apple did not refer to LTE "4G".</text>
+	<score>83</score>
+</article>
+<comment>
+	<cid>11668759</cid>
+	<date>Jan 5, 2011, 12:03 PM</date>
+	<author>troop231</author>
+	<text>Can't wait for a LTE iPhone!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668770</cid>
+	<date>Jan 5, 2011, 12:05 PM</date>
+	<author>ImNoSuperMan</author>
+	<text>2012 makes sense. Assuming those theories about 2012 are right :P</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668771</cid>
+	<date>Jan 5, 2011, 12:05 PM</date>
+	<author>iphone1105</author>
+	<text>4G iPad also perhaps?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668799</cid>
+	<date>Jan 5, 2011, 12:08 PM</date>
+	<author>0815</author>
+	<text>no point in offering the LTE iPhone before the network is wide spread enough. If they release it too early people will only bash the iPhone for bad service not realizing the the LTE network is not ready for it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668811</cid>
+	<date>Jan 5, 2011, 12:10 PM</date>
+	<author>Warbrain</author>
+	<text>Apple waits until networks are mature to a stable point. That's why they waited on 3G. Same thing is happening with LTE.So there's your answer on Verizon - LTE iPhone in 2012. If there's a Verizon iPhone this year it will be CDMA only. They aren't supporting two different devices until AT&amp;T gets it into gear.Also gives a hint to what will be in the next iPhone - HSDPA+.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668819</cid>
+	<date>Jan 5, 2011, 12:11 PM</date>
+	<author>shartypants</author>
+	<text>I just assume wait for 4G to be more widespread.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668833</cid>
+	<date>Jan 5, 2011, 12:12 PM</date>
+	<author>lsvtecjohn3</author>
+	<text>At least we get At&amp;t other &quot;4G&quot; this year HSPA+. I can see it now this year iPhone going to be call iPhone 4G HSPA+http://gizmodo.com/5725501/atts-4g-i...like-t+mobiles</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668841</cid>
+	<date>Jan 5, 2011, 12:13 PM</date>
+	<author>ten-oak-druid</author>
+	<text>2012 will be a good year.LTE iphone on ATT and iphone on other networks like Verizon.I finally got an iphone in November figuring 2012 would be a good time for my contract to run out.  Should have done it earlier in the year but no matter.  A few months wait in 2012 will be all right.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668852</cid>
+	<date>Jan 5, 2011, 12:15 PM</date>
+	<author>bmustaf</author>
+	<text>I am eagerly awaiting the launch of a 3G network that does what it is promised in a consistent and reliable fashion! 2012 sounds about right for that. 4G LTE in 2012  that has the chipset, network coverage, and backhaul to create an acceptable experience that lives up to the hype sounds like a pipe dream.Think I sound grumpy/unrealistic? Remember, it was in 2007 when people were looking at Jobs cockeyed for offering an EDGE only device. Today, 3+ yrs later, a vast majority of US iPhone users aren't much better off.Network coverage is poor, 3G areas with coverage don't have good spectrum design, or are quite over-subscribed.It's not about the hardware outside of having a chipset that is efficient and a battery with the mAh to drive it, so the pace of HW development is largely irrelevant to whether 4G will happen in 2012.I wouldn't hold my breath, if it happens, it will be mostly in name only/will only function as promised in large markets with very low population density (e.g. forget major metros - more sprawling suburban areas bordering these markets).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668854</cid>
+	<date>Jan 5, 2011, 12:15 PM</date>
+	<author>slicecom</author>
+	<text>I just hope they call it the iPhone 5 and not the iPhone 4G.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668855</cid>
+	<date>Jan 5, 2011, 12:15 PM</date>
+	<author>vincenz</author>
+	<text>Not surprised.  3G is not that slow as it is, so there really is no rush.  Summer 2012 seems like a viable release date for a 4G iPhone.  Though I don't know how Apple will hold off the competition.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668866</cid>
+	<date>Jan 5, 2011, 12:17 PM</date>
+	<author>IBradMac</author>
+	<text>iPhone Eternity.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668875</cid>
+	<date>Jan 5, 2011, 12:18 PM</date>
+	<author>bmustaf</author>
+	<text>I wish ATT wouldn't take Fancy Feast out of the can, put it on a plate, and tell us they're serving us fine French Foie Fras.That's what they're doing. HSPA+ is *NOT* 4G but they're trying to market it as such (as is TMO).VZW is the only player calling a spade a spade.Quote:Originally Posted bylsvtecjohn3At least we get At&amp;t other &quot;4G&quot; this year HSPA+. I can see it now this year iPhone going to be call iPhone 4G HSPA+http://gizmodo.com/5725501/atts-4g-i...like-t+mobiles</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668899</cid>
+	<date>Jan 5, 2011, 12:22 PM</date>
+	<author>rhinosrcool</author>
+	<text>Quote:Originally Posted byslicecomI just hope they call it the iPhone 5 and not the iPhone 4G.Since the iphone 5 (if that's its name) will be coming in June 2011, the 2012 version should be called iPhone 6.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668903</cid>
+	<date>Jan 5, 2011, 12:23 PM</date>
+	<author>alexhasfun28</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)I'd do the exact same thing if I were Jobs. not too much 4G/LTE equals less experience &amp; cooperation with the consumer. There's no point for it. What the other manufacturers are doing is unveiling worth less devices at this time of year. Look at Evo. Only a few chosen markets would equip 4G speeds for the phone, and the people went running around, showing off a 4G phone without a 4G location (unless you're in a larger city). &amp; yet drain the battery dramatically. Apple. what they're gonna do is experiment they're phones + data usage/speeds to determine how long they can keep they're battery running. Just like they did with multi-tasking. now that's true engineering!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668931</cid>
+	<date>Jan 5, 2011, 12:26 PM</date>
+	<author>Precision4</author>
+	<text>Isnt this obvious??They will not release an LTE version because they want more of your money. VZN users have been waiting a long time for the iphone. All will jump on for the first CDMA version, 6 months later, they will all upgrade to an LTE version. Brilliant Apple planning once again.Don't think this is about anything other then taking your cash.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668935</cid>
+	<date>Jan 5, 2011, 12:27 PM</date>
+	<author>Willis</author>
+	<text>Ok for US customers, but what about European markets?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668942</cid>
+	<date>Jan 5, 2011, 12:28 PM</date>
+	<author>dagamer34</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Mobile/8B117)Did you really need to be an analyst to figure this out? I want to be paid to state the obvious!Regardless, the major issue is if Apple is ever going to make a CDMA/GSM world phone this year. Multiple models means increased costs.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668956</cid>
+	<date>Jan 5, 2011, 12:30 PM</date>
+	<author>h1r0ll3r</author>
+	<text>Quote:Originally Posted byslicecomI just hope they call it the iPhone 5 and not the iPhone 4G.iPhone 4G+</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668958</cid>
+	<date>Jan 5, 2011, 12:30 PM</date>
+	<author>NoExpectations</author>
+	<text>Quote:Originally Posted bybmustafI wish ATT wouldn't take Fancy Feast out of the can, put it on a plate, and tell us they're serving us fine French Foie Fras.That's what they're doing. HSPA+ is *NOT* 4G but they're trying to market it as such (as is TMO).VZW is the only player calling a spade a spade.Here we go again.....the ITU defines &quot;4G&quot; as a network capable of 100mps download.  None of the carriers in the US, or rest of world, comply.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668960</cid>
+	<date>Jan 5, 2011, 12:31 PM</date>
+	<author>Small White Car</author>
+	<text>Quote:Originally Posted byPrecision4Isnt this obvious??They will not release an LTE version because they want more of your money. VZN users have been waiting a long time for the iphone. All will jump on for the first CDMA version, 6 months later, they will all upgrade to an LTE version. Brilliant Apple planning once again.Don't think this is about anything other then taking your cash.When at&amp;t says something about their company that doesn't mean Verizon is going to do the same thing, you know.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668971</cid>
+	<date>Jan 5, 2011, 12:32 PM</date>
+	<author>Wang Foolio</author>
+	<text>Quote:Originally Posted byPrecision4Isnt this obvious??They will not release an LTE version because they want more of your money. VZN users have been waiting a long time for the iphone. All will jump on for the first CDMA version, 6 months later, they will all upgrade to an LTE version. Brilliant Apple planning once again.Don't think this is about anything other then taking your cash.Diabolical! That's just about cynical enough that it might be true. Hrm, I guess we'll know soon enough what's in store for 2011.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668973</cid>
+	<date>Jan 5, 2011, 12:32 PM</date>
+	<author>darthraige</author>
+	<text>How do we not know that the CDMA chips were for the Verizon iPad only and not an iPhone this year? Wouldn't Apple just wait until LTE for Verizon?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668986</cid>
+	<date>Jan 5, 2011, 12:34 PM</date>
+	<author>kre62</author>
+	<text>Quote:Originally Posted byNoExpectationsHere we go again.....the ITU defines &quot;4G&quot; as a network capable of 100mps download.  None of the carriers in the US, or rest of world, comply.WRONG, BOTH OF YOUTHe ITU recently revised their definition of 4G to included enhanced 3G technologies that offer significant speed improvements. HSPA+ is now 4G!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11668988</cid>
+	<date>Jan 5, 2011, 12:35 PM</date>
+	<author>rfahey</author>
+	<text>Quote:Originally Posted bylsvtecjohn3At least we get At&amp;t other &quot;4G&quot; this year HSPA+. I can see it now this year iPhone going to be call iPhone 4G HSPA+http://gizmodo.com/5725501/atts-4g-i...like-t+mobilesiPhones have been HSPA+ compatible since the 3Gs</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669004</cid>
+	<date>Jan 5, 2011, 12:37 PM</date>
+	<author>Nermal</author>
+	<text>Quote:Originally Posted byrfaheyiPhones have been HSPA+ compatible since the 3GsPlease show me an Apple document specifying this.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669005</cid>
+	<date>Jan 5, 2011, 12:37 PM</date>
+	<author>NoExpectations</author>
+	<text>Quote:Originally Posted bykre62WRONG, BOTH OF YOUTHe ITU recently revised their definition of 4G to included enhanced 3G technologies that offer significant speed improvements. HSPA+ is now 4G!Wow...I guess the ITU has no backbone anymore.  Thanks.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669009</cid>
+	<date>Jan 5, 2011, 12:38 PM</date>
+	<author>blackpond</author>
+	<text>Quote:Originally Posted byPrecision4Don't think this is about anything other then taking your cash.Taking your cash would be stealing. iPhone and its data plan are voluntary purchases. You are exchanging your cash for something you agree has value to you. If it doesn't have value to you then don't hand over your cash!Good grief.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669010</cid>
+	<date>Jan 5, 2011, 12:38 PM</date>
+	<author>walnuts</author>
+	<text>The &quot;previous history&quot; that we all base our expectations upon is a single data point: Apple released the first iPhone with edge rather than 3G.  While apple seemed satisfied, it was one of the major complaints against the device (justified or not).Apple did have even the iPhone 3GS be capable of HSPA+ before it was widely available.Finally, what about backwards compatibility?  Unless there is a technical tradeoff (3G has worse battery life as compared to EDGE), why wouldn't apple release an LTE phone to let users benefit where they can and just default back to 3G where it isn't available?  Let the blame rest on AT&amp;T to get their network in line.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669012</cid>
+	<date>Jan 5, 2011, 12:39 PM</date>
+	<author>kre62</author>
+	<text>Quote:Originally Posted byrfaheyiPhones have been HSPA+ compatible since the 3GsWOWWrong, the phones are only HSPA compatible, not +. HSPA gets you up to 7.2mbps, the + gets you up to 21mbps.AT&amp;T's + network is already in place and broadcasting! All 250 million people covered! No devices are currently available that can access it, but many were announced today.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669023</cid>
+	<date>Jan 5, 2011, 12:40 PM</date>
+	<author>NKT</author>
+	<text>Quote:Originally Posted byrfaheyiPhones have been HSPA+ compatible since the 3GsHSPA, not HSPA+. The iPhone does not support +</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669032</cid>
+	<date>Jan 5, 2011, 12:41 PM</date>
+	<author>Warbrain</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Quote:Originally Posted byNoExpectationsQuote:Originally Posted bybmustafI wish ATT wouldn't take Fancy Feast out of the can, put it on a plate, and tell us they're serving us fine French Foie Fras.That's what they're doing. HSPA+ is *NOT* 4G but they're trying to market it as such (as is TMO).VZW is the only player calling a spade a spade.Here we go again.....the ITU defines &quot;4G&quot; as a network capable of 100mps download.  None of the carriers in the US, or rest of world, comply.You all missed the story a few weeks ago saying evolved 3G is allowed to be called 4G.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669037</cid>
+	<date>Jan 5, 2011, 12:42 PM</date>
+	<author>walnuts</author>
+	<text>Quote:Originally Posted bykre62WOWWrong, the phones are only HSPA compatible, not +. HSPA gets you up to 7.2mbps, the + gets you up to 21mbps.AT&amp;T's + network is already in place and broadcasting! All 250 million people covered! No devices are currently available that can access it, but many were announced today.Point taken, but even then, when the 3GS was released, I believe that AT&amp;T's network didn't fully support even HSPA in most areas.  I think NYC just got updated a few months ago.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669049</cid>
+	<date>Jan 5, 2011, 12:43 PM</date>
+	<author>Warbrain</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Quote:Originally Posted byNermalQuote:Originally Posted byrfaheyiPhones have been HSPA+ compatible since the 3GsPlease show me an Apple document specifying this.I went looking myself and found nothing.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669071</cid>
+	<date>Jan 5, 2011, 12:45 PM</date>
+	<author>lsvtecjohn3</author>
+	<text>Quote:Originally Posted bykre62WRONG, BOTH OF YOUTHe ITU recently revised their definition of 4G to included enhanced 3G technologies that offer significant speed improvements. HSPA+ is now 4G!yeah you can go ahead a believe these carriers all you want but true 4G is 100 Mbpshttp://gizmodo.com/5680755/the-dirty...-4g-its-not-4gQuote:Originally Posted byrfaheyiPhones have been HSPA+ compatible since the 3Gsthat's a negative ghost rider. iPhones no iPhone has HSPA+ how can they when At&amp;t has turn on the network? iPhone 4 and 3GS supports HSPA not HSPA+</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669079</cid>
+	<date>Jan 5, 2011, 12:46 PM</date>
+	<author>gr8whtd0pe</author>
+	<text>Quote:Originally Posted byslicecomI just hope they call it the iPhone 5 and not the iPhone 4G.Nope, next will be 5 or 5G, and then 5GS the S is for SPEEEEED remember?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669093</cid>
+	<date>Jan 5, 2011, 12:48 PM</date>
+	<author>swagi</author>
+	<text>Quote:Originally Posted byWillisOk for US customers, but what about European markets?Well...we get Android or WM7 devices, that are LTE-capable. Just like many Europeans skipped that EDGE-iPhone. You know, the one that couldn't do MMS for whatever reason...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669099</cid>
+	<date>Jan 5, 2011, 12:48 PM</date>
+	<author>WannaGoMac</author>
+	<text>I don't want 4g given they will just charge more. 3G is more than enough speed for mobile use, so unless 4G is more solid connections and I can tether I have no interest in paying even more to the phone company.How about solid 3G speeds and work on dropped call issues?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669102</cid>
+	<date>Jan 5, 2011, 12:49 PM</date>
+	<author>swarmster</author>
+	<text>Yeah, obvious there won't be a &quot;4G&quot; iPhone yet, even for the upcoming fake 4G networks. There is no national 4G network of any significance, and we don't even have HSPA+ support yet. Cellular network technology developments and rollouts move much slower than a lot of people seem to understand.The headlining news here is that De la Vega apparently leaked Apple's iPhone plans at a CES keynote? A &quot;4G&quot; iPhone next year was absolutely not a sure thing, and even if it had been, you don't talk Apple's plans before Apple does. Is AT&amp;T maybe feeling less beholden now that Verizon's getting the green light?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669126</cid>
+	<date>Jan 5, 2011, 12:52 PM</date>
+	<author>Earendil</author>
+	<text>This makes a certain amount of Apple sense to me. The strategy Apple seems to take more often then not, is to rely on other peoples unproven technology. They will be an &quot;Early Adopter&quot;, if the technology has been proven. Additionally, any problems with a Network Provider's LTE service would reflect on the iPhone, even if undeserved. I'm sure Apple is well aware of that.Basically, if Apple takes on an unproven network service, they will make nerds happy, and run the risk of making the general consumer population unhappy. If they don't run with the technology out of the gate, nerds that don't understand Apple will be unhappy, but the general consumer population will be happy.Guess which audience gives Apple more money, and has more sum total influence</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669131</cid>
+	<date>Jan 5, 2011, 12:53 PM</date>
+	<author>Willis</author>
+	<text>Quote:Originally Posted byswagiWell...we get Android or WM7 devices, that are LTE-capable. Just like many Europeans skipped that EDGE-iPhone. You know, the one that couldn't do MMS for whatever reason...I meant as for the LTE Network. Then I remembered reading an article on the BBC a few months back. Just went to find it.Linky link linkQuote:Ofcom's chief executive Ed Richards has laid out the timetable which will pave the way for next-generation mobile services in the UK.The airwaves that will enable 4G networks will be auctioned off in the first half of 2012, Mr Richards said.It means the spectrum will become available from 2013.The auction was originally earmarked for 2009 but was delayed because of legal action by mobile firms.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669140</cid>
+	<date>Jan 5, 2011, 12:54 PM</date>
+	<author>lukefinch</author>
+	<text>The fifth iPhone isn't even out yet and there is already speculation about the sixth?This has got to be some sort of record. Who knows what will happen. I'm waiting 'till june first to get my iPhone 5, 4G, 4GS or whatever.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669157</cid>
+	<date>Jan 5, 2011, 12:55 PM</date>
+	<author>Wang Foolio</author>
+	<text>Honestly, what in God's green earth requires 100 Mbps on a cell phone right now? I won't go so far as to say &quot;640K ought to be enough for everybody&quot; or anything, but please do explain to me why you need your cell phone to be 5x faster than my home broadband that gives me three-tuner HD PVR capability in addition to all them lovely Interwebs.I know this is CES season and big shiny numbers are all the rage, but seriously. Priorities, people</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669174</cid>
+	<date>Jan 5, 2011, 12:57 PM</date>
+	<author>joshwalker</author>
+	<text>Summer of 2012 is too late.  With major cities allready being covered now, it doesn't make sense to wait another full release cycle.I think Apple is going to revise the June launch cycle.  We have all heard about the Verizon getting iPhone this spring.  But what sense would it make to bring a 9month old iphone 4 to VZ.  They will release the iPhone5 ahead of schedule, breaking the pattern set in previous years.  This will make releases more like 9-10 months instead of 12.  So the 2012 release, when they finally go full 4G (LTE or WiMax), will be early in the first quarter.  Apple needs to do this with all the increased pressure in the smartphone market.As for the iPhone5, HSPA+ is a possibility.  I don't think the form factor or other options will change much, other than a software upgrade.  Verizon users will be happy, but so will AT&amp;T users with big speed increases.  And look for T-Mobile to get in on the fun.  If AT&amp;T exclusiveness is over, why wouldn't all carriers get on board?  I don't see Verizon paying a big premium to be 'second exclusive' carrier.  T-Mobile and Sprint are minor players, but will help make iPhone5 a huge seller.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669202</cid>
+	<date>Jan 5, 2011, 01:01 PM</date>
+	<author>NoExpectations</author>
+	<text>My Thoughts.Now that that ITU has changed the definition of &quot;4G&quot;....http://www.networkworld.com/news/201...efinition.html...all the major carriers can now claim to be 4G....and they are.Now it comes down to speed, coverage, user experience (4G still has a battery life issue), and backup network.I think that Verizon is at a disadvantage here.  When Verizon users have to fallback to 3G (4G-LTE won't be built out until 2013-2014), they will go back down to a theoretical speed limit of 3.2mbps (actual is less than 1 mbps) and lose voice or data (Verizon's CDMA can not support both at the same time).However, T-Mobile and AT&amp;T can fallback to their HSPA+ 4G networks that support a theoretical speed limit of 21mbps and support concurrent data/voice.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669236</cid>
+	<date>Jan 5, 2011, 01:07 PM</date>
+	<author>swagi</author>
+	<text>Quote:Originally Posted byWillisI meant as for the LTE Network. Then I remembered reading an article on the BBC a few months back. Just went to find it.Linky link linkOh, sorry for you Brits.Here in Germany the LTE revolution has begun, as all major Telcos are rolling out LTE. Basically they start LTE in the rural areas so they don't have to bring fibre cable there. It's a way cheaper method to deliver broadband internet speeds to rural areas.So ironically the weakest network spots are the ones to first get the LTE treatment. But OTOH it's making the telcos money as they earn in selling broadband internet access.More background hereSo, yeah, my next phone has to be LTE-capable (because LTE will be here within 2 years before contract expiry)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669242</cid>
+	<date>Jan 5, 2011, 01:09 PM</date>
+	<author>nehalvpatel</author>
+	<text>dammit!i made a bet for 200 bucks that the iphone will come early in 2011 because of a certain post on a certain site called macrumors</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669293</cid>
+	<date>Jan 5, 2011, 01:17 PM</date>
+	<author>walnuts</author>
+	<text>Quote:Originally Posted byEarendilThis makes a certain amount of Apple sense to me. The strategy Apple seems to take more often then not, is to rely on other peoples unproven technology. They will be an &quot;Early Adopter&quot;, if the technology has been proven. Additionally, any problems with a Network Provider's LTE service would reflect on the iPhone, even if undeserved. I'm sure Apple is well aware of that.Basically, if Apple takes on an unproven network service, they will make nerds happy, and run the risk of making the general consumer population unhappy. If they don't run with the technology out of the gate, nerds that don't understand Apple will be unhappy, but the general consumer population will be happy.Guess which audience gives Apple more money, and has more sum total influenceThat's a good point, and you may be right.But, the potential issue is that if the nerds (I'll use your term for now), make enough noise, it can color the general public opinion.  For example, the whole antennagate issue made a big stir over an issue that most of the general public never would have noticed.  I met many people who knew &quot;something was wrong&quot; with the iPhone 4 but didn't really understand what it was or whether it would really affect them. However, I may be proving you right here, as despite the significant publicity the antenna issue got, the iPhone 4 still sold really well.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669295</cid>
+	<date>Jan 5, 2011, 01:17 PM</date>
+	<author>2 Replies</author>
+	<text>Regardless of whether it's true 4g or not, in the overall consumer's eye (which is really all that matters) if Apple doesn't release some sort of 4G handset this year they'll officially be leapfrogged by android and WP7 handsets that do.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669303</cid>
+	<date>Jan 5, 2011, 01:18 PM</date>
+	<author>thetexan</author>
+	<text>By the end of 2011 Verizon will have more LTE coverage than AT&amp;T will have 3G coverage. AT&amp;T's 3G network is a joke, I can't even begin to imagine how laughable their LTE coverage will be when this phone releases.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669381</cid>
+	<date>Jan 5, 2011, 01:29 PM</date>
+	<author>NKT</author>
+	<text>Quote:Originally Posted byNoExpectationsI think that Verizon is at a disadvantage here.  When Verizon users have to fallback to 3G (4G-LTE won't be built out until 2013-2014), they will go back down to a theoretical speed limit of 3.2mbps (actual is less than 1 mbps) and lose voice or data (Verizon's CDMA can not support both at the same time).However, T-Mobile and AT&amp;T can fallback to their HSPA+ 4G networks that support a theoretical speed limit of 21mbps and support concurrent data/voice.They may fall back to HSPA+ but that network isn't anywhere near as widespread as VZW's EvDO. Thus, they will probably be falling back to EDGE, which is way worse than EvDO.VZW's LTE footprint will probably outcover AT&amp;T's HSPA+ network before AT&amp;T even upgrades their EDGE to HSPA...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669424</cid>
+	<date>Jan 5, 2011, 01:35 PM</date>
+	<author>lsvtecjohn3</author>
+	<text>Quote:Originally Posted bythetexanBy the end of 2011 Verizon will have more LTE coverage than AT&amp;T will have 3G coverage. AT&amp;T's 3G network is a joke, I can't even begin to imagine how laughable their LTE coverage will be when this phone releases.Read thisQuote:Originally Posted byNoExpectationsMy Thoughts.Now that that ITU has changed the definition of &quot;4G&quot;....http://www.networkworld.com/news/201...efinition.html...all the major carriers can now claim to be 4G....and they are.Now it comes down to speed, coverage, user experience (4G still has a battery life issue), and backup network.I think that Verizon is at a disadvantage here.  When Verizon users have to fallback to 3G (4G-LTE won't be built out until 2013-2014), they will go back down to a theoretical speed limit of 3.2mbps (actual is less than 1 mbps) and lose voice or data (Verizon's CDMA can not support both at the same time).However, T-Mobile and AT&amp;T can fallback to their HSPA+ 4G networks that support a theoretical speed limit of 21mbps and support concurrent data/voice.I agree IMO At&amp;t is in the best spot. Verizon LTE is going to be a lot smaller than At&amp;t HSPA+ so if you lost your signal on Verizon LTE out screwed, were at least At&amp;t LTE if you fall back you're on HSPA+I don't know whats going on with T-Moblie and their LTE plans but their HSPA+ 4G is smaller than At&amp;t's HSPA+</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669467</cid>
+	<date>Jan 5, 2011, 01:40 PM</date>
+	<author>triceretops</author>
+	<text>Quote:Originally Posted byNoExpectationsHere we go again.....the ITU defines &quot;4G&quot; as a network capable of 100mps download.  None of the carriers in the US, or rest of world, comply.Isn't that what the LTE stands for 4G lite?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669504</cid>
+	<date>Jan 5, 2011, 01:45 PM</date>
+	<author>spazzcat</author>
+	<text>Quote:Originally Posted bynehalvpateldammit!i made a bet for 200 bucks that the iphone will come early in 2011 because of a certain post on a certain site called macrumorsSee bold part...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669532</cid>
+	<date>Jan 5, 2011, 01:49 PM</date>
+	<author>ferrous</author>
+	<text>While ATT's current 3G network is far from decent, I really don't know why they'd move to 4G. When good strength, 3G is awesome, I say work on fixing 3G before adding another level of bandwidth because call me a fortune teller, but I am pretty sure 4G will suck ever more than 3G at ATT's network.Amen</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669572</cid>
+	<date>Jan 5, 2011, 01:57 PM</date>
+	<author>thetexan</author>
+	<text>Quote:Originally Posted byferrousWhile ATT's current 3G network is far from decent, I really don't know why they'd move to 4G. When good strength, 3G is awesome, I say work on fixing 3G before adding another level of bandwidth because call me a fortune teller, but I am pretty sure 4G will suck ever more than 3G at ATT's network.AmenThat's what I'd focus on...AT&amp;T's 3G network is great when it works. The problem is the coverage sucks, and even inside of coverage zones I found myself falling back to EDGE quiet often even though the map says I should have 3G. Verizon might not be as fast as AT&amp;T peaks but it's consistent and I never fall back to 1X (CDMA's equivalent to EDGE).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669630</cid>
+	<date>Jan 5, 2011, 02:05 PM</date>
+	<author>alent1234</author>
+	<text>Quote:Originally Posted byferrousWhile ATT's current 3G network is far from decent, I really don't know why they'd move to 4G. When good strength, 3G is awesome, I say work on fixing 3G before adding another level of bandwidth because call me a fortune teller, but I am pretty sure 4G will suck ever more than 3G at ATT's network.Amenduh, because HSPA+ and other newer technologies will fix the problems that people are experiencing now due to demand</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669962</cid>
+	<date>Jan 5, 2011, 02:55 PM</date>
+	<author>ten-oak-druid</author>
+	<text>Apple needs to put some satellites in orbit and establish a viable satellite phone system.  Perhaps a dual system.  Towers for a wifi network and satellites for phone service and internet when no towers are about.  Perhaps they could buy a company in the satellite communications business?The isat or something.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669988</cid>
+	<date>Jan 5, 2011, 02:59 PM</date>
+	<author>BigQid</author>
+	<text>My biggest concern is cost and battery life.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670103</cid>
+	<date>Jan 5, 2011, 03:22 PM</date>
+	<author>bmustaf</author>
+	<text>They're not &quot;taking&quot; anyone's cash, people are willingly giving them their cash. You seem really bitter around the whole concept of &quot;paying for nice things&quot;, what's up with that?Apple makes nice things, they tend to make and release nice things on a predictable yearly basis, what about this is so evil?People LINE UP to give Apple their cash, anticipate, and make whole websites about the nice things Apple makes. If all this is just highway robbery to you and isn't a valuable/desireable upgrade, why are you party to it?Apple *IS* a for-profit business, I'll remind you, taking in cash is a huge part of what they do. But, I don't think anyone can reasonably argue that the pace of innovation is stagnant or just superficial. Go throw rocks at other businesses who put out point releases purely for the &quot;upgrade&quot; - but you'll lose that argument with Apple for the vast majority of products. Besides, legacy support on Apple hardware is very good. They're not a &quot;planned obsolescence&quot; business model.Quote:Originally Posted byPrecision4Isnt this obvious??They will not release an LTE version because they want more of your money. VZN users have been waiting a long time for the iphone. All will jump on for the first CDMA version, 6 months later, they will all upgrade to an LTE version. Brilliant Apple planning once again.Don't think this is about anything other then taking your cash.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670173</cid>
+	<date>Jan 5, 2011, 03:33 PM</date>
+	<author>bmustaf</author>
+	<text>ATT *hopes* we think HSPA+, etc will fix the problem. It won't. The problem isn't a carrier signal. It's spectrum, backhaul, and plain oversubscription.ATT sold massive amounts of unlimited data plans, data handsets, and didn't have the spectrum from the handset to the tower to do it, regardless of what 3G technology or 3G+ technology they try to schelp.Then, they simply didn't do the investment (or couldn't get approval) for the right physical presence sites to operate the various spectrum they bought at auction/from the Cingular acquisition. They had their old TDMA stations they migrated to GSM and later to 3G, but the physical design of a voice-centric TDMA network (e.g. the spacing/needs/density of physical sites) is MARKEDLY different from a GSM network, let alone a network evolving into being very data (packet) centric.Then, from what under-built physical network they did deploy, they didn't build in a very good backhaul infrastructure.ATT isn't stupid, neither is it poor. But, they do have some massive leadership issues, some difficult legacy/technology/real estate/heritage/acquisition issues, etc that are all exacerbated more on the focus more on marketing &amp; sounding good than walking the walk.This HSPA+ thing is a great example. de Vega and team are putting Fancy Feast on a plate and calling it fine Foie Gras. They want to win this &quot;4G&quot; war in words &amp; labels when they really should be focused on winning the &quot;customer experience&quot; war. They're *lying* (and they know it, how can de Vega go up there and call HSPA+ 4G? He's got no ethics). HSPA+ is NOT 4G. It's sexed up 3G.It's not a question of whether they can do it, the technology exists, or even if the capital exists - it's a question of willingness, culture, and priorities. ATT shows what theirs are everyday, and it's not the build out of a network with the best customer service. That company is called Verizon(they have their own bevy of issues, but being focused on network build-out and coverage is NOT one of them!).Quote:Originally Posted byalent1234duh, because HSPA+ and other newer technologies will fix the problems that people are experiencing now due to demand</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670195</cid>
+	<date>Jan 5, 2011, 03:36 PM</date>
+	<author>Hastings101</author>
+	<text>AT&amp;T doesn't even have 3G in most places and that's been around for a while, I doubt 4G will get very far either.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670196</cid>
+	<date>Jan 5, 2011, 03:36 PM</date>
+	<author>bmustaf</author>
+	<text>+1! In usable, actual throughput, I wouldn't be surprised if Verizon's EVDO network was faster than ATT's &quot;4G&quot; (either LTE or HSPA+, which is just really 3G incremented with a 4 by ATT marketing to make ATT look good) when it goes live.Quote:Originally Posted bythetexanBy the end of 2011 Verizon will have more LTE coverage than AT&amp;T will have 3G coverage. AT&amp;T's 3G network is a joke, I can't even begin to imagine how laughable their LTE coverage will be when this phone releases.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670209</cid>
+	<date>Jan 5, 2011, 03:38 PM</date>
+	<author>Mattsasa</author>
+	<text>Quote:Originally Posted bydarthraigeHow do we not know that the CDMA chips were for the Verizon iPad only and not an iPhone this year? Wouldn't Apple just wait until LTE for Verizon?no they wouldn't, because if they did I would only buy the iphone once. Plus there losing developers to android,anyways 2012 LTE sounds right on to me</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670232</cid>
+	<date>Jan 5, 2011, 03:42 PM</date>
+	<author>bergmef</author>
+	<text>Quote:Originally Posted byten-oak-druidApple needs to put some satellites in orbit and establish a viable satellite phone system.  Perhaps a dual system.  Towers for a wifi network and satellites for phone service and internet when no towers are about.  Perhaps they could buy a company in the satellite communications business?The isat or something.Doubt that.  Ever use a sat phone?  You would never put up with the delay.  When you talk across the 'pond', you are using fiber and copper under the ocean.  Heck, straight up and down would be over 44,000 miles.  Use the speed of light and do the calculation.  Ever watch a tv report from another country that uses a sat?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670252</cid>
+	<date>Jan 5, 2011, 03:45 PM</date>
+	<author>bmustaf</author>
+	<text>Are you from ATT marketing? Do you really believe that or are you just really misinformed? Do you *really* believe ATT covers 250M people? Do you really think ATT's HSPA+ network is just sitting there ready to go?It isn't. ATT doesn't cover 250M people, they cover *perhaps* half that, and they don't cover them with solid, reliable service, either, that takes the pool down to perhaps 75M - on a good day with you head pointed in just the right direction/angle.Do you know how ATT came up with that 250M number? Some ATT marketing wonk looked at a map of where they have cell sites, put a 5 mile radius around each one, colored it in in photoshop/some GIS package, added up the cities' populations and came up with that 250M number.Have you ever used a cellular network? ATT specifically? If so, then surely you know that just because you have a site somewhere within a 5 mile radius of yourself whether it is usable to actually place a call or transfer data is a completely different story.That ATT map, their claims, and your assumptions about ATT have more holes in them than Windows 7.Quote:Originally Posted bykre62WOWWrong, the phones are only HSPA compatible, not +. HSPA gets you up to 7.2mbps, the + gets you up to 21mbps.AT&amp;T's + network is already in place and broadcasting! All 250 million people covered! No devices are currently available that can access it, but many were announced today.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670260</cid>
+	<date>Jan 5, 2011, 03:46 PM</date>
+	<author>whatever</author>
+	<text>Quote:Originally Posted by2 RepliesRegardless of whether it's true 4g or not, in the overall consumer's eye (which is really all that matters) if Apple doesn't release some sort of 4G handset this year they'll officially be leapfrogged by android and WP7 handsets that do.No they won't.People will still take an iPhone over a Droid or and WP7, because the average user now understands that the iPhone will set the standard and it has a one year life span, versus the 2 month life span of an Android or Windows Phone 7 device.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670288</cid>
+	<date>Jan 5, 2011, 03:51 PM</date>
+	<author>bmustaf</author>
+	<text>That's a technicality, it was buried in a press release on Dec 17. Just because you can &quot;technically&quot; get away with lying, doesn't make it right.It's not ethical to call your HSPA+ network 4G, whether you bought the decision from the ITU or not. I know ATT and TMO need to compete in the marketing war, but the best marketing tactic isn't a number letter combo that is meaningless to most people, it's having a network that WORKS.Ironically, the only carrier out there doing that is also the only carrier with a real bona-fide 4G network - VZW.Quote:Originally Posted byWarbrainWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)You all missed the story a few weeks ago saying evolved 3G is allowed to be called 4G.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670299</cid>
+	<date>Jan 5, 2011, 03:54 PM</date>
+	<author>bmustaf</author>
+	<text>Yup, ATT and TMO beat the tar out of VZW on paper...but we don't make calls and send data packets on paper, that in real life over real physical carriers, and let me tell you what, there are VERY few circumstances where real handsets, over real air, to real POPs validate your paper assumptions.Quote:Originally Posted byNoExpectationsMy Thoughts.Now that that ITU has changed the definition of &quot;4G&quot;....http://www.networkworld.com/news/201...efinition.html...all the major carriers can now claim to be 4G....and they are.Now it comes down to speed, coverage, user experience (4G still has a battery life issue), and backup network.I think that Verizon is at a disadvantage here.  When Verizon users have to fallback to 3G (4G-LTE won't be built out until 2013-2014), they will go back down to a theoretical speed limit of 3.2mbps (actual is less than 1 mbps) and lose voice or data (Verizon's CDMA can not support both at the same time).However, T-Mobile and AT&amp;T can fallback to their HSPA+ 4G networks that support a theoretical speed limit of 21mbps and support concurrent data/voice.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670316</cid>
+	<date>Jan 5, 2011, 03:56 PM</date>
+	<author>bmustaf</author>
+	<text>Because some corporate lobbyists got their way with the ITU doesn't make it right or true.I can pay a scientist to tell you the world is flat, will you believe it? I can pay a publisher to print a dictionary that tells you dark is light and light is dark, will you believe that, too?It's a technicality that was born out of a bunch of lobbying and money from T-Mobile and ATT so they could keep up in the marketing wars.Quote:Originally Posted bykre62WRONG, BOTH OF YOUTHe ITU recently revised their definition of 4G to included enhanced 3G technologies that offer significant speed improvements. HSPA+ is now 4G!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670387</cid>
+	<date>Jan 5, 2011, 04:08 PM</date>
+	<author>geko29</author>
+	<text>Quote:Originally Posted bybmustafIronically, the only carrier out there doing that is also the only carrier with a real bona-fide 4G network - VZW.Sprint has a bona-fide 4G network as well--or more accurately, their subsidiary Clearwire does.  Their WiMax network is substantially larger than VZWs, and the technologies are similar enough that even the hardware is the same.Tmo and ATT are playing games/lying, but Sprint and VZW both have the real deal.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670462</cid>
+	<date>Jan 5, 2011, 04:18 PM</date>
+	<author>whatever</author>
+	<text>Quote:Originally Posted bybmustafThat's a technicality, it was buried in a press release on Dec 17. Just because you can &quot;technically&quot; get away with lying, doesn't make it right.It's not ethical to call your HSPA+ network 4G, whether you bought the decision from the ITU or not.It's not ethical?Are we still talking about technology?Remember, don't hate the player, hate the game.If HSPA+ falls within the requirements that the ITU put forth defining 4G, then it's 4G. End of story.Why do people get so excited over this stuff.I actually switch my iPhone to Edge only and guess what it works great. On my iPhone 4 I have never dropped a call. And I spend a lot of time in both NYC and San Francisco. Go figure. But then again I don't walk around with a phone or a Bluetooth ear piece connected to my ear like an idiot either. Blabbering away, looking like I'm crazy, talking to myself.As far as data goes the AT&amp;T network and my iPhone does it job. But again, that's just me, some one who is on the road traveling between 2 to 3 weeks a month.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670561</cid>
+	<date>Jan 5, 2011, 04:34 PM</date>
+	<author>daveathall</author>
+	<text>Quote:Originally Posted byWillisOk for US customers, but what about European markets?I&rsquo;m on O2 in the UK, reception for me is brilliant, it aint broke as far as I&rsquo;m concerned, no need to fix (break) it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670986</cid>
+	<date>Jan 5, 2011, 05:55 PM</date>
+	<author>louis Fashion</author>
+	<text>Quote:Originally Posted bykre62WRONG, BOTH OF YOUTHe ITU recently revised their definition of 4G to included enhanced 3G technologies that offer significant speed improvements. HSPA+ is now 4G!Bottom line:  it is what it is unless we revise it to be what we say it is, even if it is not.Fan me later.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671763</cid>
+	<date>Jan 5, 2011, 08:50 PM</date>
+	<author>Willis</author>
+	<text>Quote:Originally Posted bydaveathallI&rsquo;m on O2 in the UK, reception for me is brilliant, it aint broke as far as I&rsquo;m concerned, no need to fix (break) it.Same, I've been with O2 for a couple of years now, iPhone for most of it. But there are places such as my house where I only get 2/4 bar on Edge and nearly no 3G. I know my house has something to do with it but that isn't what I'm getting at.LTE wont arrive in the UK until 2013 at the earliest. Behind everyone else</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671948</cid>
+	<date>Jan 5, 2011, 09:38 PM</date>
+	<author>S.Jobs</author>
+	<text>it is not even close to June when they update, so right now i am looking forward to the iPad 2.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673125</cid>
+	<date>Jan 6, 2011, 05:24 AM</date>
+	<author>bergmef</author>
+	<text>Quote:Originally Posted bybmustafATT *hopes* we think HSPA+, etc will fix the problem. It won't. The problem isn't a carrier signal. It's spectrum, backhaul, and plain oversubscription.ATT sold massive amounts of unlimited data plans, data handsets, and didn't have the spectrum from the handset to the tower to do it, regardless of what 3G technology or 3G+ technology they try to schelp.Then, they simply didn't do the investment (or couldn't get approval) for the right physical presence sites to operate the various spectrum they bought at auction/from the Cingular acquisition. They had their old TDMA stations they migrated to GSM and later to 3G, but the physical design of a voice-centric TDMA network (e.g. the spacing/needs/density of physical sites) is MARKEDLY different from a GSM network, let alone a network evolving into being very data (packet) centric.Then, from what under-built physical network they did deploy, they didn't build in a very good backhaul infrastructure.ATT isn't stupid, neither is it poor. But, they do have some massive leadership issues, some difficult legacy/technology/real estate/heritage/acquisition issues, etc that are all exacerbated more on the focus more on marketing &amp; sounding good than walking the walk.This HSPA+ thing is a great example. de Vega and team are putting Fancy Feast on a plate and calling it fine Foie Gras. They want to win this &quot;4G&quot; war in words &amp; labels when they really should be focused on winning the &quot;customer experience&quot; war. They're *lying* (and they know it, how can de Vega go up there and call HSPA+ 4G? He's got no ethics). HSPA+ is NOT 4G. It's sexed up 3G.It's not a question of whether they can do it, the technology exists, or even if the capital exists - it's a question of willingness, culture, and priorities. ATT shows what theirs are everyday, and it's not the build out of a network with the best customer service. That company is called Verizon(they have their own bevy of issues, but being focused on network build-out and coverage is NOT one of them!).I definately agree with the backhaul comment.  The one thing that really stood out for me watching the ATT announcement was his comment &quot;AT&amp;T plans to have the nationwide LTE rollout complete by the end of 2013 and says that two-thirds of its mobile traffic will have access to fiber or Ethernet backhaul by the end of this year.&quot; I'm not even going to ask what he means by complete ... matching the current 3G footprint?  Matching the 3G and edge combined?  What I noticed was by the end of the year, 2/3 of the backhaul will be Ethernet or fiber.  What have they been doing? And what has (is) it running on now?  It's great to put up towers to allow more users, but I'm a backhaul first, or at least the same time kinda person.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11675553</cid>
+	<date>Jan 6, 2011, 12:35 PM</date>
+	<author>PDXoPDX</author>
+	<text>3.5G just doesn't sound as sexy as 4G</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11675582</cid>
+	<date>Jan 6, 2011, 12:40 PM</date>
+	<author>lilo777</author>
+	<text>Apple is going to be just one year late with LTE phone. It's not that bad compared to other Apple shortcomings (like BlueRay, USB 3.0 etc.)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11679848</cid>
+	<date>Jan 7, 2011, 06:07 AM</date>
+	<author>xxxTTxxx</author>
+	<text>Quote:Originally Posted byNoExpectationsWow...I guess the ITU has no backbone anymore.  Thanks.Sad really.Companies now appear able to market themselves as providing 4G when they have HSPA+. I agree .. 3.5G doesn't sound evolutionary like 4G.The real point has been explained here previously - insufficient network capability - and mostly backhaul.I've come from Australia where the backhaul network is truly fast due to $1billion+ investment (I worked for Telstra) - Here in central London I struggled with O2 signal and also found many blackspots while travelling around the UK (been living here 7 months).Most networks here appear overloaded and would require massive investment (backhaul and new site acquisitions) to cope with the surge in data packet access demand by customers.Until networks worldwide are improved to deliver good customer experience with LTE I don't expect Apple to move any time soon (we had great video calling capability in Aust but Apple waited for the rest of the world to step up network performance before adding a front-facing camera).What a difference it would make if network companies would spend some of their 4G marketing budget on network improvement instead!!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11680033</cid>
+	<date>Jan 7, 2011, 07:11 AM</date>
+	<author>bergmef</author>
+	<text>Quote:Originally Posted byNoExpectationsWow...I guess the ITU has no backbone anymore.  Thanks.I don't think it's a lack of backbone, I think they flat out blew it.  Didn't I read that they said what 4G is ... last month?  I firmly believe they should have told us last month what 5G is.  Everyone has been talking 4G for years.  They should have said what defines it years ago, especially if it's only a speed rating.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11680053</cid>
+	<date>Jan 7, 2011, 07:15 AM</date>
+	<author>bergmef</author>
+	<text>Quote:Originally Posted byxxxTTxxxSad really.Companies now appear able to market themselves as providing 4G when they have HSPA+. I agree .. 3.5G doesn't sound evolutionary like 4G.The real point has been explained here previously - insufficient network capability - and mostly backhaul.I've come from Australia where the backhaul network is truly fast due to $1billion+ investment (I worked for Telstra) - Here in central London I struggled with O2 signal and also found many blackspots while travelling around the UK (been living here 7 months).Most networks here appear overloaded and would require massive investment (backhaul and new site acquisitions) to cope with the surge in data packet access demand by customers.Until networks worldwide are improved to deliver good customer experience with LTE I don't expect Apple to move any time soon (we had great video calling capability in Aust but Apple waited for the rest of the world to step up network performance before adding a front-facing camera).What a difference it would make if network companies would spend some of their 4G marketing budget on network improvement instead!!!ATT made me take notice the other day with their '2/3 of their backhaul will be ethernet or fiber by the end of the year'.  I thought their backhaul was farther along than that.  I'd like to see where verizon stands right now.  I did catch where verizon said they are connecting LTE's backhaul with fiber only.  At least they are not just slapping it up.  Hope it continues.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11680079</cid>
+	<date>Jan 7, 2011, 07:23 AM</date>
+	<author>meatballs</author>
+	<text>Just as I suspected, 2011 will only bring a minor update to the iPhone. That's good news for everyone, especially for all those people holding out for the white one.</text>
+	<score>0</score>
+</comment>

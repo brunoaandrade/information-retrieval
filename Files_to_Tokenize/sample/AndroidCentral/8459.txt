@@ -1,0 +1,116 @@
+<article>
+	<pid>8459</pid>
+	<title>HTC Espresso AKA myTouch 2 AKA myTouch Slide Coming to T-Mobile ? | Android Central</title>
+	<url>http://www.androidcentral.com/htc-espresso-aka-mytouch-2-aka-mytouch-slide-coming-t-mobile-may</url>
+	<date>   Jan 18 2010  8:11 am   </date>
+	<author>Casey Chan</author>
+	<text>
+ Tmonews has word that three hot' news devices are headed to T-Mobile in the first half of this year. One is the HD2, another is the Garminphone, and the third would be the HTC Espresso. We've seen some slides of the Espresso UI before but haven't heard what type of form factor it'd rock on. According to tmonews, it's looking like the Espresso will be a myTouch 3G successor with a twist, er, slide. Meaning it could either be a myTouch 2 or myTouch Slide with a 'sidekick'-type keyboard or a slider keyboard.Everything is very vague right now, but they're hearing a May 17th release is possible. But it's so early in the game, that changes aren't just possible, they're likely. We should definitely know more at Mobile World Congress. </text>
+	<score>15</score>
+</article>
+<comment>
+	<cid>15952</cid>
+	<date>Jan 18 2010  10:18 am</date>
+	<author>strhessed</author>
+	<text>WHY WHY WHY do all of the GREAT devices go to the WORST carrier !?!? T Mobile must be blowing Google and HTC or something.</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>15958</cid>
+	<date>Jan 18 2010  11:15 am</date>
+	<author>icedigger#wp</author>
+	<text>Tmobile is far from the worst carrier....their phones are lacking but getting better</text>
+	<score>100</score>
+</comment>
+<comment>
+	<cid>16686</cid>
+	<date>Jan 25 2010  11:40 pm</date>
+	<author>Anonymous</author>
+	<text>Blow These, & STOP HATING!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>17398</cid>
+	<date>Feb 01 2010  11:48 am</date>
+	<author>peetee</author>
+	<text>It hasn’t been confirmed whether the device will be called the myTouch2, or myTouch Slide, but in the end, it’s really a HTC Espresso. While pricing information isn’t released yet, More features are being released.
+More details: http://bit.ly/t-mobile-mytouch2-details</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>15964</cid>
+	<date>Jan 18 2010  12:09 pm</date>
+	<author>Anonymous</author>
+	<text>@strhessed you are an idiot if you think tmo is the worst carrier i have been with them and sprint and AT@T and i have to say they are the better, yes it is true they started late on the 3g but they already have faster upload and download speeds even if it is small, so go cry a river to your company and stop whining that TMo is started to actually be better.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>15968</cid>
+	<date>Jan 18 2010  12:42 pm</date>
+	<author>chilly</author>
+	<text>I've been with T Mobile for ten years and I have had only great customer service. Way back in the early 90's they used to allow a hand set upgrade each year and once even sent me a new phone for free. I would never go to ATT or Verizon.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>15971</cid>
+	<date>Jan 18 2010  1:07 pm</date>
+	<author>flizz</author>
+	<text>I've been with T-Mo forever, never had an issue...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>15974</cid>
+	<date>Jan 18 2010  1:36 pm</date>
+	<author>Rizo</author>
+	<text>Let us not forget who was daring enough to release the FIRST phone with the Android OS... that's right T-Mobile. I am a staunch believer in T-Mobile. I've been with both Sprint and the V word and neither of them have ever come close to the customer service that T-Mobile provides. Go ahead and let ALL the other carriers nickle and dime you as you try and justify it by saying "my map is better than yours"...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>16012</cid>
+	<date>Jan 18 2010  4:35 pm</date>
+	<author>strhessed</author>
+	<text>OK, customer service is one thing, but what good does all of the customer service in the world do when you're stranded in the middle of nowhere with NO COVERAGE !?</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16017</cid>
+	<date>Jan 18 2010  5:15 pm</date>
+	<author>Rizo</author>
+	<text>Next time I'm in the middle of nowhere and don't have coverage, I'll let you know.</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>16132</cid>
+	<date>Jan 19 2010  12:30 pm</date>
+	<author>Anonymous</author>
+	<text>I just got tmobile n really liked them I would never ever go back to at&t</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16155</cid>
+	<date>Jan 19 2010  6:14 pm</date>
+	<author>franktronic</author>
+	<text>In populated areas, comparing carriers makes sense. There might be areas where AT&T has service but T-Mobile doesn't. But when you get to the "middle of nowhere", it's really GSM vs CDMA. And in those cases, CDMA usually wins.</text>
+	<score>67</score>
+</comment>
+<comment>
+	<cid>16176</cid>
+	<date>Jan 20 2010  12:01 am</date>
+	<author>Anonymous</author>
+	<text>I just switched from Sprint to T-mobile because of the Nexus One and so far I am very pleased, both with the phone and the service . I had Verizon about 5 years ago and I would never go back to them EVER !!! T-Mobile seems to be very customer freindly and there coverage in my area of NY seems to be right on par with Sprint and others , and when in a 3g area it seems far faster than Sprint was , so far so good , and the money I am saving makes this even better . I also LOVE the phones this company is coming out with , the best selection by far !!!</text>
+	<score>33</score>
+</comment>
+<comment>
+	<cid>17266</cid>
+	<date>Jan 30 2010  3:28 pm</date>
+	<author>big user</author>
+	<text>I use 11,000 minutes a month (that's not a typo) on average both in they city (NY) and "in the middle of nowhere." I use tmo and wouldn't even consider another carrier. How's that for data. I have tmo going on 8 years.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>30231</cid>
+	<date>Apr 30 2010  11:55 am</date>
+	<author>kansascityshuffle13</author>
+	<text>I am a Employee of T-Mobile and have been for a little over a year. I have also been employed by Verizon, AT&T, and Sprint. By far T-Mobile offers the best service for the best prices hands down. And customer service is outstanding.I have to call tech support every day when I am on the job and they are very easy to work with. I currently have a plan with both Verizon and T-Mobile and am waiting for my contract to end so I can drop Verizon on its face. A have a MyTouch 2 on order and it should arrive in a week or two hopefully.</text>
+	<score>100</score>
+</comment>

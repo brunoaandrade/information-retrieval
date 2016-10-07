@@ -1,0 +1,1375 @@
+<article>
+	<pid>16</pid>
+	<title>Mac App Store Reportedly Set to Launch at Noon Eastern Time Tomorrow - Mac Rumors</title>
+	<url>http://www.macrumors.com/2011/01/05/mac-app-store-reportedly-set-to-launch-at-noon-eastern-time-tomorrow/</url>
+	<date>Wednesday January 5, 2011 9:31 am PST</date>
+	<author>Eric Slivka</author>
+	<text>According toThe Loop, Apple is apparently planning toopen the Mac App Storeat noon Eastern Time tomorrow, bringing a variation of the company's integrated application purchasing system for iOS to the Mac OS X platform.The Mac App Store will officially launch on January 6, but nobody has been able to nail down a time when the service will be publicly available.According to my sources, the Mac App Store will be available at 12:00 pm (noon) ET on Thursday. That puts it at about 9:00 am PT where Apple is headquartered in Cupertino, Calif.The Loop's Jim Dalrymple is a veteran Apple-focused journalist who early last monthaccurately claimedthat the Mac App Store would launch in January, despite several rumors circulating at the time claiming that Apple would open the store before the holidays.Just yesterday,we notedthat several high-profile iOS developers are bringing Mac versions of their applications to the Mac App Store in the initial wave, generally opting to price their offering inline with the corresponding iOS versions.</text>
+	<score>197</score>
+</article>
+<comment>
+	<cid>11669040</cid>
+	<date>Jan 5, 2011, 12:42 PM</date>
+	<author>rhinosrcool</author>
+	<text>Can't wait to see how this works out.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669051</cid>
+	<date>Jan 5, 2011, 12:43 PM</date>
+	<author>k2director</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Hope there's a new version of iWork.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669052</cid>
+	<date>Jan 5, 2011, 12:43 PM</date>
+	<author>swagi</author>
+	<text>Sounds right to me......otherwise tomorrow's news will be filled with all the stuff announced at CES - and none of it will be Apple related.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669060</cid>
+	<date>Jan 5, 2011, 12:44 PM</date>
+	<author>ShiftyPig</author>
+	<text>If there's no Angry Birds, I'm uninstalling it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669069</cid>
+	<date>Jan 5, 2011, 12:45 PM</date>
+	<author>petvas</author>
+	<text>Quote:Originally Posted byShiftyPigIf there's no Angry Birds, I'm uninstalling it.I guess you are joking.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669091</cid>
+	<date>Jan 5, 2011, 12:48 PM</date>
+	<author>mike31mets</author>
+	<text>is that also the time that they plan on releasing 10.6.6 tomorrow as well?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669094</cid>
+	<date>Jan 5, 2011, 12:48 PM</date>
+	<author>sasza</author>
+	<text>Go Apple!Bring also retail version of iWork 11</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669096</cid>
+	<date>Jan 5, 2011, 12:48 PM</date>
+	<author>dscuber9000</author>
+	<text>I can't wait! I always thought installing things on Mac was unnecessarily complex.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669117</cid>
+	<date>Jan 5, 2011, 12:51 PM</date>
+	<author>hayesk</author>
+	<text>Quote:Originally Posted bydscuber9000I can't wait! I always thought installing things on Mac was unnecessarily complex.Yeah, dragging an icon into an Applications folder was so difficult.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669118</cid>
+	<date>Jan 5, 2011, 12:51 PM</date>
+	<author>felt.</author>
+	<text>Quote:Originally Posted bydscuber9000I can't wait! I always thought installing things on Mac was unnecessarily complex.For sure, I always forget if I'm supposed to drag the app to my app folder to install it or shoot myself in the face.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669132</cid>
+	<date>Jan 5, 2011, 12:53 PM</date>
+	<author>0815</author>
+	<text>Finally the wait is over ... this is exciting news and can't wait to see who is on board.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669134</cid>
+	<date>Jan 5, 2011, 12:53 PM</date>
+	<author>rwilliams</author>
+	<text>Quote:Originally Posted byk2directorWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Hope there's a new version of iWork.That would be nice, so that I can update Keynote without also having to pay for Pages and Numbers.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669136</cid>
+	<date>Jan 5, 2011, 12:54 PM</date>
+	<author>ten-oak-druid</author>
+	<text>Quote:Originally Posted byswagiSounds right to me......otherwise tomorrow's news will be filled with all the stuff announced at CES - and none of it will be Apple related.Actually it seems like a lot of that conference is devoted to Apple related products.  Funny considering Apple isn't there.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669143</cid>
+	<date>Jan 5, 2011, 12:54 PM</date>
+	<author>HahaHaha321</author>
+	<text>Quote:Originally Posted byhayeskYeah, dragging an icon into an Applications folder was so difficult.I would say that uninstalling is more difficult than installing.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669144</cid>
+	<date>Jan 5, 2011, 12:54 PM</date>
+	<author>res1233</author>
+	<text>Quote:Originally Posted byfelt.For sure, I always forget if I'm supposed to drag the app to my app folder to install it or shoot myself in the face.I'm pretty sure shooting yourself in the face will install the app, but I could be wrong. Dragging the app to the app folder is too easy, can't have any of that.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669146</cid>
+	<date>Jan 5, 2011, 12:55 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted bydscuber9000I can't wait! I always thought installing things on Mac was unnecessarily complex.Hope this was meant as a joke ....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669158</cid>
+	<date>Jan 5, 2011, 12:55 PM</date>
+	<author>res1233</author>
+	<text>Quote:Originally Posted bymike31metsis that also the time that they plan on releasing 10.6.6 tomorrow as well?I imagine that the App store will have some OS integration, which will necessitate the update, so, yes.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669159</cid>
+	<date>Jan 5, 2011, 12:55 PM</date>
+	<author>logandzwon</author>
+	<text>Quote:Originally Posted byfelt.For sure, I always forget if I'm supposed to drag the app to my app folder to install it or shoot myself in the face.Come on, atlest 100 years ago before the 1st App Store people would need read magazines, talk to friends and colleges, google search, etc... to even find applications.  Then they would have to find the part of the site that says, &quot;ON SALE, BUY NOW!!!!&quot; in hard to find, large, bright colors.  ONLY THEN would they user be stuck with trying to figure out if they should drag the application to the shortcut to Applications that is labeled &quot;drag here&quot; or shoot themselves in the face.  Now all a user has to do is open App Store an search for a topic!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669162</cid>
+	<date>Jan 5, 2011, 12:56 PM</date>
+	<author>snberk103</author>
+	<text>Wouldn't surprise me if the roll-out is staggered tomorrow, different times for different countries. I suspect there will be a lot of traffic, and they may want to have time to monitor the servers as they come up to speed.Did I miss an article somewhere - but is Apple's new server farm in South Carolina hosting this new App Store?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669167</cid>
+	<date>Jan 5, 2011, 12:56 PM</date>
+	<author>x13gamer</author>
+	<text>(A faint bugle in the background is playing taps as a 21 gun salute reports.)No more Pirating/sharing apple software.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669176</cid>
+	<date>Jan 5, 2011, 12:57 PM</date>
+	<author>slicecom</author>
+	<text>Quote:Originally Posted bydscuber9000I can't wait! I always thought installing things on Mac was unnecessarily complex.LMAO!!!Youarejoking right?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669177</cid>
+	<date>Jan 5, 2011, 12:57 PM</date>
+	<author>johnnymg</author>
+	<text>Quote:Originally Posted byk2directorWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Hope there's a new version of iWork.That's pretty much guaranteed!I'm going to purchase Numbers for sure.cheers to the longsJohnG</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669179</cid>
+	<date>Jan 5, 2011, 12:58 PM</date>
+	<author>Cameront9</author>
+	<text>Quote:Originally Posted byfelt.For sure, I always forget if I'm supposed to drag the app to my app folder to install it or shoot myself in the face.To be fair, if you're coming from Windows and are used to installers, mounting a disc image and dragging the app to your app folder is confusing, as is the fact that after you install you have to dismount the disk image AND throw the image away.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669182</cid>
+	<date>Jan 5, 2011, 12:58 PM</date>
+	<author>x13gamer</author>
+	<text>i hope this will go down as apples biggest flops</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669187</cid>
+	<date>Jan 5, 2011, 12:58 PM</date>
+	<author>markcres</author>
+	<text>Quote:Originally Posted byrhinosrcoolCan't wait to see how this works out.Yeah!The sheer excitement of a more efficient means of getting the hipster drones to fill Apple's pockets with even more money!!I assume they will take their percentage for every licence sold - whilst being the moral arbiter of what we can and cannot download!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669188</cid>
+	<date>Jan 5, 2011, 12:58 PM</date>
+	<author>rwilliams</author>
+	<text>Quote:Originally Posted byx13gamer(A faint bugle in the background is playing taps as a 21 gun salute reports.)No more Pirating/sharing apple software.There will still be other ways of obtaining software than buying it from the Mac App Store.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669191</cid>
+	<date>Jan 5, 2011, 12:59 PM</date>
+	<author>redgaz26</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Can't wait for doodle jump. But my iMac is pretty big right enough.  !!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669197</cid>
+	<date>Jan 5, 2011, 01:00 PM</date>
+	<author>jhpadilla</author>
+	<text>Apple should start download of the Mac Apps Store (or 10.6.6 if it's in there) right now..... Or else they will overwhelm their servers with all the downloads for it AND the apps...Even if it's just Mac Apps (meaning not as a many downloads as with iOS apps) and with a new data farm -or whatever it's called- I don't think it's prudent.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669200</cid>
+	<date>Jan 5, 2011, 01:01 PM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted byx13gamerNo more Pirating/sharing apple software.Uh ?  How is the Mac Store going to stop piracy ?  The Mac isn't a locked down platform that requires all its apps be installed through the App Store, and even if it were, seeing how iOS has piracy on it, what makes you think it would even begin to stop it ?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669201</cid>
+	<date>Jan 5, 2011, 01:01 PM</date>
+	<author>zedsdead</author>
+	<text>I also am hoping for a new iWork.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669204</cid>
+	<date>Jan 5, 2011, 01:01 PM</date>
+	<author>x13gamer</author>
+	<text>Quote:Originally Posted byrwilliamsThere will still be other ways of obtaining software than buying it from the Mac App Store.Whose to say that the Mac app store is not a &quot;lil snitch&quot;</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669206</cid>
+	<date>Jan 5, 2011, 01:02 PM</date>
+	<author>rwilliams</author>
+	<text>Quote:Originally Posted byjhpadillaApple should start download of the Mac Apps Store (or 10.6.6 if it's in there) right now..... Or else they will overwhelm their servers with all the downloads for it AND the apps...Fond memories of June 15, 2009 spring to mind.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669209</cid>
+	<date>Jan 5, 2011, 01:02 PM</date>
+	<author>x13gamer</author>
+	<text>Quote:Originally Posted byKnightWRXUh ?  How is the Mac Store going to stop piracy ?  The Mac isn't a locked down platform that requires all its apps be installed through the App Store, and even if it were, seeing how iOS has piracy on it, what makes you think it would even begin to stop it ?The limit of 5 authorized computers?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669213</cid>
+	<date>Jan 5, 2011, 01:03 PM</date>
+	<author>Merthyrboy</author>
+	<text>I'm a bit excited now. Can't wait to see what apps are in the store already. Hopefully some nice apps there already.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669214</cid>
+	<date>Jan 5, 2011, 01:03 PM</date>
+	<author>jhpadilla</author>
+	<text>Quote:Originally Posted byrwilliamsFond memories of June 15, 2009 spring to mind.Exactly !!!!!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669228</cid>
+	<date>Jan 5, 2011, 01:06 PM</date>
+	<author>gorjan</author>
+	<text>Quote:Originally Posted byx13gameri hope this will go down as apples biggest flopsWhy?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669231</cid>
+	<date>Jan 5, 2011, 01:06 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted bymarkcresYeah!The sheer excitement of a more efficient means of getting the hipster drones to fill Apple's pockets with even more money!!I assume they will take their percentage for every licence sold - whilst being the moral arbiter of what we can and cannot download!And you thing other ways of distribution come for free ?????Big companies have maybe the infrastructure - but not the small indie developer.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669238</cid>
+	<date>Jan 5, 2011, 01:08 PM</date>
+	<author>Small White Car</author>
+	<text>Quote:Originally Posted byhayeskYeah, dragging an icon into an Applications folder was so difficult.He's probably talking about stupid, stuipd DMG files.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669241</cid>
+	<date>Jan 5, 2011, 01:09 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted byx13gameri hope this will go down as apples biggest flopsWhats your problem? Pretty dumb comment.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669245</cid>
+	<date>Jan 5, 2011, 01:09 PM</date>
+	<author>rwilliams</author>
+	<text>Installing Mac apps has always been easy.  It's uninstalling that's a pain.  I started using AppCleaner to make sure that all the program files are deleted along with the executable.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669246</cid>
+	<date>Jan 5, 2011, 01:09 PM</date>
+	<author>bommai</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5)All this is automated in many instances.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669250</cid>
+	<date>Jan 5, 2011, 01:10 PM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted byx13gamerThe limit of 5 authorized computers?When has any form of copy protection/DRM stopped piracy ?The notion that this in any way/shape/form will have an impact on piracy is sheer delusion.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669255</cid>
+	<date>Jan 5, 2011, 01:12 PM</date>
+	<author>ShiftyPig</author>
+	<text>Quote:Originally Posted bypetvasI guess you are joking.No I need something to do in class.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669260</cid>
+	<date>Jan 5, 2011, 01:12 PM</date>
+	<author>bommai</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5)What iOS piracy are u talking about?  FairPlay has not been broken yet?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669267</cid>
+	<date>Jan 5, 2011, 01:13 PM</date>
+	<author>zorinlynx</author>
+	<text>I hope app developers continue to release &quot;stand-alone&quot; versions of Apps in addition to using the app store.Reason: lab and corporate environments.In a lab environment you might have 50 machines, all using the same OS install image and logged into by different users. In order to install the same software on all of them, there can't be any DRM that ties an installation to a specific serial number.As neat as it would be to see something like Adium in the app store, this will break installing it on large numbers of computers.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669271</cid>
+	<date>Jan 5, 2011, 01:14 PM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted bybommaiWhat iOS piracy are u talking about?  FairPlay has not been broken yet?Jailbroken phones can install App Store apps free of charge, after downloading them from elsewhere on the Internet.  It's no big secret that there is piracy on iOS, piracy of App Store games/apps.App Stores, even curated ones, don't prevent piracy at all.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669273</cid>
+	<date>Jan 5, 2011, 01:14 PM</date>
+	<author>spice weasel</author>
+	<text>Quote:Originally Posted byx13gameri hope this will go down as apples biggest flopsWhy?  Are you not a fan of convenience?  I can see someone saying that this might be a flop, but I can't see why anyone would wish it so.  That just makes no sense.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669277</cid>
+	<date>Jan 5, 2011, 01:15 PM</date>
+	<author>mrblack927</author>
+	<text>And not long before we start seeing &quot;universal mac app store&quot; cracks. And if that's not bad enough, we'll have the influx of new users on here asking for help with their cracked applications.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669282</cid>
+	<date>Jan 5, 2011, 01:15 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted bymarkcresYeah!The sheer excitement of a more efficient means of getting the hipster drones to fill Apple's pockets with even more money!!I assume they will take their percentage for every licence sold - whilst being the moral arbiter of what we can and cannot download!Yikes!Amazing how some people think.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669298</cid>
+	<date>Jan 5, 2011, 01:17 PM</date>
+	<author>Popeye206</author>
+	<text>Quote:Originally Posted bymrblack927And not long before we start seeing &quot;universal mac app store&quot; cracks. And if that's not bad enough, we'll have the influx of new users on here asking for help with their cracked applications.Just like we do with iTunes or the iOS store now???? I think you're making some big assumptions.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669308</cid>
+	<date>Jan 5, 2011, 01:19 PM</date>
+	<author>kas23</author>
+	<text>Cool, can't wait.  I'm prolly just going to be sitting on the sidelines eating popcorn.  Here's hoping that this app store doesn't get filled-up with fart apps and silly games.  I dunno, going by Apple's list of restrictions, I doubt the MAS is going to sell any applications that interests me (or that I don't already own).  Besides, if I really needed a specific program, wouldn't I have just downloaded it days to months ago (or owned it already)?  It's not like this is a completely new platform.  Hasn't the stuff that's going to be offered tomorrow already been available from days to years?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669327</cid>
+	<date>Jan 5, 2011, 01:22 PM</date>
+	<author>guzhogi</author>
+	<text>Quote:Originally Posted byspice weaselWhy?  Are you not a fan of convenience?  I can see someone saying that this might be a flop, but I can't see why anyone would wish it so.  That just makes no sense.Maybe he's afraid the Mac App Store will become theonlyplace to Mac apps.  If that's the case, lots of people who use professional apps (like Adobe apps) will be out of luck.  While I can see the possibility of Apple only doing this, it's just that: aPOSSIBILITY.Or, maybe he just doesn't like the app store for no particular reason.  Whatever.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669328</cid>
+	<date>Jan 5, 2011, 01:22 PM</date>
+	<author>Arch Stanton</author>
+	<text>The Mac App Store requires 10.6.6 doesn't it?At least that's what I thought.  Can't remember a OS update in the morning, gotta be this afternoon. I'm sure they want those apps selling asap tomorrow!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669330</cid>
+	<date>Jan 5, 2011, 01:22 PM</date>
+	<author>0racle</author>
+	<text>Quote:Originally Posted byfelt.For sure, I always forget if I'm supposed to drag the app to my app folder to install it or shoot myself in the face.How often have you been wrong?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669336</cid>
+	<date>Jan 5, 2011, 01:23 PM</date>
+	<author>gorjan</author>
+	<text>Quote:Originally Posted byrwilliamsInstalling Mac apps has always been easy.  It's uninstalling that's a pain.  I started using AppCleaner to make sure that all the program files are deleted along with the executable.I find it irritating that all apps leave pref-files and folders after being uninstalled. It's also bad that some apps can be uninstalled by dragging to the trash while others have uninstallers.There are some bad things with Windows, but the add/remove programs uninstaller isn't one of them. :P</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669339</cid>
+	<date>Jan 5, 2011, 01:23 PM</date>
+	<author>Chase R</author>
+	<text>My guess is that tomorrow will be the 10.6.6 update that includes the Mac App Store. I don't think it will be 10.6.6 + App Store, that just doesn't make any sense.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669353</cid>
+	<date>Jan 5, 2011, 01:26 PM</date>
+	<author>kas23</author>
+	<text>Just curious, anyone on here going to buy applications thru the MAS that they already own and have installed on their Mac???</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669359</cid>
+	<date>Jan 5, 2011, 01:27 PM</date>
+	<author>coachingguy</author>
+	<text>I think this is going to be amazingly convenient! For iLife, all I want is iPhoto and iMovie, done for $20.  For iWork, can't wait for an update to Pages.  Done $10.  Think about all the software we'd like to try, but don't know where to look or compare or see what other's have said.  I'm a huge fan of the evals in iTunes.iWork better be updated though! This will be hugely successful!Also, for the Greenies in the group, much better for the environment, less packaging, paper etc...Coachingguy</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669360</cid>
+	<date>Jan 5, 2011, 01:27 PM</date>
+	<author>rezatayebi</author>
+	<text>This is going to be great for developers.App store is going to stop many people, including myself, from downloading cracked apps via pirate websitesBye bye Piratebay</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669367</cid>
+	<date>Jan 5, 2011, 01:28 PM</date>
+	<author>goobot</author>
+	<text>Quote:Originally Posted byx13gamer(A faint bugle in the background is playing taps as a 21 gun salute reports.)No more Pirating/sharing apple software.LOL, if anything this will make it bigger.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669376</cid>
+	<date>Jan 5, 2011, 01:28 PM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted byrezatayebiThis is going to be great for developers.App store is going to stop many people from downloading cracked apps via pirate websites, including myselfBye bye PiratebayAnd why were you downloading cracked apps with the lack of an app store ?  The fact is, most people don't want to pay for the applications they pirate.  This isn't going to change the fact you need to pay.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669383</cid>
+	<date>Jan 5, 2011, 01:29 PM</date>
+	<author>HLdan</author>
+	<text>Exciting tech day tomorrow. The Mac App Store and CES.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669389</cid>
+	<date>Jan 5, 2011, 01:31 PM</date>
+	<author>Arch Stanton</author>
+	<text>Quote:Originally Posted byChase RMy guess is that tomorrow will be the 10.6.6 update that includes the Mac App Store. I don't think it will be 10.6.6 + App Store, that just doesn't make any sense.Hmmm...didn't realize the App Store to be an actual app itself like iTunes is.  Is that what you're saying.  Just figured 10.6.6 would be needed to allow access to it.  Is it an app that accesses an online market place separate from iTunes?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669403</cid>
+	<date>Jan 5, 2011, 01:32 PM</date>
+	<author>mrblack927</author>
+	<text>Quote:Originally Posted byPopeye206Quote:Originally Posted bymrblack927And not long before we start seeing &quot;universal mac app store&quot; cracks. And if that's not bad enough, we'll have the influx of new users on here asking for help with their cracked applications.Just like we do with iTunes or the iOS store now???? I think you're making some big assumptions.Uh, yes? I don't see what your point is? I see a lot of people who just want help jailbreaking their iOS devices for the sake of piracy. They come here begging for someone to hold their hand, despite the fact that it's explicitly against the forum rules.You think it's a big assumption that the same will happen for the mac app store? I don't see how it's a stretch.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669406</cid>
+	<date>Jan 5, 2011, 01:33 PM</date>
+	<author>9secondadidas</author>
+	<text>Quote:Originally Posted byx13gamer(A faint bugle in the background is playing taps as a 21 gun salute reports.)No more Pirating/sharing apple software.Stopping piracy is that easy huh?LMAO</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669415</cid>
+	<date>Jan 5, 2011, 01:34 PM</date>
+	<author>tdmac</author>
+	<text>Quote:Originally Posted byx13gameri hope this will go down as apples biggest flopsOn the contrary, I can see this as another success story. The app store is what propelled the iPhone and the the iPad successes. The Mac line has always languished. Yes year over year they increase market share but not to the degree of the portable devices. One holdback has always been the limited variety of software (especially business Apps) not to mention where to find it. This now makes it easier for those looking to switch or jump on the mac bandwagon. It is beneficial to those past Mac users in that the development pool should increase as well.I see a nice gain in Mac sales this year. I would think when Lion is released that will propel this even more.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669423</cid>
+	<date>Jan 5, 2011, 01:35 PM</date>
+	<author>Mal</author>
+	<text>For all those scoffing at the idea of Mac Apps being difficult to install now, let's just review the possible options:1. Download the DMG, double-click to mount (if not auto-mounted).  Drag app to Applications folder (sometimes via a provided alias, but usually not), then unmount Disk Image and delete DMG file.  Ease of use: Good.  Intuitiveness: Not so good (especially for users coming from Windows).  I can't even count the number of times I've seen someone running Skype or Firefox from the disk image every time, and then they trash the dmg file at some point thinking it's just a useless extra, and suddenly their app doesn't work any more.  It's not a bad method, but it doesn't make sense unless there's good instructions in the download (some developers do a good job here, many don't).2. Download the DMG, double-click to mount (if not auto-mounted).  Double-click installer, follow directions.  Ease of use: Good.  Intuitiveness: Good.  I think this is the best option currently, though of course the argument is that an installer is overkill for most apps.3. Download a zip file, double-click to decompress, then drag resulting app to the Applications folder.  Ease of use: Good.  Intuitiveness: Fair.  While this doesn't have the issues of the similar DMG method, it still doesn't automatically result in the app being installed correctly into the users Applications folder.  Doesn't affect all apps, but it's still good practice for them to be there.4.  Purchase on disk, bring home, place in disk drive, run installer.  Ease of use: Fair (only because of inconvenience of going to the store to purchase actual disk).  Intuitiveness: Varies, but usually good.  Adobe's apps get a poor rating in this regard, however, as their installer is a layer or two deep into the disk.So while none of these are exceptionally difficult, the array of options (and I'm sure I missed a few) makes it a confusing process for users who are not tech-savvy, which is by far the majority of the population, and also the target market for this sort of product.  The Mac App Store simplifies all of these steps into a simple click to install.jW</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669437</cid>
+	<date>Jan 5, 2011, 01:36 PM</date>
+	<author>Sankersizzle</author>
+	<text>Quote:Originally Posted bykas23Cool, can't wait.  I'm prolly just going to be sitting on the sidelines eating popcorn.  Here's hoping that this app store doesn't get filled-up with fart apps and silly games.  I dunno, going by Apple's list of restrictions, I doubt the MAS is going to sell any applications that interests me (or that I don't already own).  Besides, if I really needed a specific program, wouldn't I have just downloaded it days to months ago (or owned it already)?  It's not like this is a completely new platform.  Hasn't the stuff that's going to be offered tomorrow already been available from days to years?Hit the nail right on the head. I think the same type of people who will get the most use out of this are the same people who bought the 13&quot; MBP simply because it said &quot;Pro&quot; instead of the regular Macbook (every hipster ever).I think it's cool and everything, but every serious user has already got a source for those things. I'm excited just live everyone else because of the potential, but in practicality I feel like this will have absolutely 0 effect on the way I go about my business. I do know one thing though, I'm not looking forward to answering questions about where Pages citation manager is.As for the people who are saying this is the end to piracy, let me just say that I have never met anyone at my university who pays for software, and I'm a 4th year computing student who volunteers at the campus computing repair store. I've never even seen anyone buy software. However, everyone I know has Office/iWork etc. This will do nothing to stop piracy, if people don't want to pay, they're not going to pay.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669439</cid>
+	<date>Jan 5, 2011, 01:36 PM</date>
+	<author>Lochias</author>
+	<text>Quote:Originally Posted byHLdanExciting tech day tomorrow. The Mac App Store and CES.Who is CES?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669445</cid>
+	<date>Jan 5, 2011, 01:37 PM</date>
+	<author>Cougarcat</author>
+	<text>Quote:Originally Posted byCameront9To be fair, if you're coming from Windows and are used to installers, mounting a disc image and dragging the app to your app folder is confusing, as is the fact that after you install you have to dismount the disk image AND throw the image away.This. Try explaining to a novice Mac user what a &quot;virtual volume&quot; is. Not all apps contained in DMGs tell you to drag it to the App folder, and will act wonky/not work if launched from within the DMG. Some apps are smart and can tell if they're in the DMG, offering to move itself to the App folder for you. Unfortunately this is a rare feature.Not to mention, doing all of that is just plain cumbersome. The faster DMGs die the better.Quote:Originally Posted byx13gamerThe limit of 5 authorized computers?There is no such limit. It's all the Macs that you own. But I'd argue that the DRM will actually make iteasierto pirate mac software for the sole reason that everything on the Mac store will be using the same DRM. If you crack one, you can crack them all. In fact, it'salready been cracked.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669465</cid>
+	<date>Jan 5, 2011, 01:39 PM</date>
+	<author>Mal</author>
+	<text>Quote:Originally Posted byCougarcatThere is no such limit. It's all the Macs that you own. But I'd argue that the DRM will actually make iteasierto pirate mac software for the sole reason that everything on the Mac store will be using the same DRM. If you crack one, you can crack them all. In fact, it'salready been cracked.Pretty sure it's all the Macs authorized with your Apple ID (via iTunes, or the Mac Store App, will probably carry over between the two).  Currently, that's limited to 5 computers.  So unless they change something, it's only on up to 5 computers.jW</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669468</cid>
+	<date>Jan 5, 2011, 01:40 PM</date>
+	<author>Chase R</author>
+	<text>Quote:Originally Posted byArch StantonHmmm...didn't realize the App Store to be an actual app itself like iTunes is.  Is that what you're saying.  Just figured 10.6.6 would be needed to allow access to it.  Is it an app that accesses an online market place separate from iTunes?The Mac App Store is a separate app from iTunes.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669476</cid>
+	<date>Jan 5, 2011, 01:41 PM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted byMalThe Mac App Store simplifies all of these steps into a simple click to install.This is only for self-contained apps though, apps you could already just &quot;drag to Applications&quot;.  Any apps that required an installer/mpkg will still need to be purchased/downloaded elsewhere because those apps will not be available on the Mac App Store.This greatly limits the scope of complexity of apps you can find on it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669513</cid>
+	<date>Jan 5, 2011, 01:47 PM</date>
+	<author>Mal</author>
+	<text>Quote:Originally Posted byKnightWRXThis is only for self-contained apps though, apps you could already just &quot;drag to Applications&quot;.  Any apps that required an installer/mpkg will still need to be purchased/downloaded elsewhere because those apps will not be available on the Mac App Store.This greatly limits the scope of complexity of apps you can find on it.Fair enough, but I'd bet many people won't bother with any of those other apps.  It still simplifies the process, by whichever means you attribute it to.  I personally will continue to download and purchase software via whatever method I need to in order to get the right tool for me, whether that's through the Mac App Store or elsewhere, but for the novice user, this is a godsend.jW</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669519</cid>
+	<date>Jan 5, 2011, 01:48 PM</date>
+	<author>Icaras</author>
+	<text>Quote:Originally Posted byx13gameri hope this will go down as apples biggest flopsI so hope you're wrong.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669523</cid>
+	<date>Jan 5, 2011, 01:48 PM</date>
+	<author>mrblack927</author>
+	<text>Quote:Originally Posted byKnightWRXThis is only for self-contained apps though, apps you could already just &quot;drag to Applications&quot;.  Any apps that required an installer/mpkg will still need to be purchased/downloaded elsewhere because those apps will not be available on the Mac App Store.This greatly limits the scope of complexity of apps you can find on it.That's a good point. The app store still has it's uses (consolidated payments, licensing, search, etc) but as far as ease-of-installation goes, we're not really gaining anything.On the other hand, maybe this will entice creators of these &quot;non-consolidated apps&quot; to start packaging them differently so that they can make it into the app store.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669530</cid>
+	<date>Jan 5, 2011, 01:49 PM</date>
+	<author>Arch Stanton</author>
+	<text>Quote:Originally Posted byChase RThe Mac App Store is a separate app from iTunes.Well Thank God for that.  At least they didn't try to make it a part of iTunes, that sucker is bloated enough.Guess if I would have taken a sec to look at the pic I would have seen the App Store icon in the dock.This should be interesting to see what people come up with to bitch about.I'm sure it will be well received.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669564</cid>
+	<date>Jan 5, 2011, 01:56 PM</date>
+	<author>shervieux</author>
+	<text>Why?1. The reviews like the apps in the itunes store for iOS.  I use them heavily to determine if an app is worth buying.  Especially since the many versions of like apps.2. Will be able to buy piece meal. I need home and business version of Word, Excel (no use for powerpoint nor outlook [especially since outlook no longer syncs with your iOS devices].  Keynote is good but I am actually thinking of using ProPresenter - due to the availability of bibles, etc). I need Pages 11, but have no use for Numbers.  I need the new iMovie; the rest in iLife 09 suits me fine.3. A number of rumors point to iOS developers porting their apps over to the mac.  would be really nice if some of the ipad apps I have come to the mac and have ease of syncing data (USB, itunes) rather than using wifi.  wifi is ok if you have small amounts of data; but moving 12gb of OneNote notebooks to mobilenoter over wifi took about 10 hrs.  Some of the iOS apps I have, I would really love on my mac...Don't tell me about dropbox.  Already have it and use it - but it really does nothing for apps with specialized data structure that can't just be imported...4. Looking forward to the updates.  Auto-install like iOS apps, and more frequent updates that add features.5. Hopes for easier un-install of apps, that do not leave fragments of itself around.7. No more googling for hours just to find something I hope is available for a specific need.  Now, just hit the apps store and see what's new, hot, noteworthy.Unlike the current iOS app store, I hope they have better keyword searching.  Amazing how I type in web editor, get a bunch of results - only to find more website editing apps when searching for something else (because web or editor was not in the name).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669585</cid>
+	<date>Jan 5, 2011, 01:58 PM</date>
+	<author>carmenodie</author>
+	<text>Now watch that clown Ballmer  copy this.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669589</cid>
+	<date>Jan 5, 2011, 01:59 PM</date>
+	<author>e-coli</author>
+	<text>Quote:Originally Posted bymarkcresYeah!The sheer excitement of a more efficient means of getting the hipster drones to fill Apple's pockets with even more money!!I assume they will take their percentage for every licence sold - whilst being the moral arbiter of what we can and cannot download!I'm assuming you're not a shareholderAnd you certainly are negative. If you don't like it, don't use it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669596</cid>
+	<date>Jan 5, 2011, 02:00 PM</date>
+	<author>hayesk</author>
+	<text>Quote:Originally Posted byguzhogiMaybe he's afraid the Mac App Store will become theonlyplace to Mac apps.  If that's the case, lots of people who use professional apps (like Adobe apps) will be out of luck.  While I can see the possibility of Apple only doing this, it's just that: aPOSSIBILITY.Then he has needless paranoia. There's absolutely no reason to believe Apple will move to an App store-only model. None.There is every reason Apple did it to make buying and selling Mac software easier.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669598</cid>
+	<date>Jan 5, 2011, 02:00 PM</date>
+	<author>hayesk</author>
+	<text>Quote:Originally Posted byx13gamerWhose to say that the Mac app store is not a &quot;lil snitch&quot;Well, you can install and run Li'l Snitch and see for yourself.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669611</cid>
+	<date>Jan 5, 2011, 02:02 PM</date>
+	<author>iphone1105</author>
+	<text>Will iTunes card be accepted as payment in the Mac app store? I have $125.79 in credit in my account just sitting there....</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669618</cid>
+	<date>Jan 5, 2011, 02:04 PM</date>
+	<author>DrRadon</author>
+	<text>Quote:Originally Posted byKnightWRXWhen has any form of copy protection/DRM stopped piracy ?Playstation 3 managed to do it for four years. I think the Wii Ware an/or DSi Ware have not been breached either. They are obviusly more restricted than a PC but the dark side is making progress while Indy Developers show that you can sell without spending Millions on DRM ********.Quote:Originally Posted byhayeskThen he has needless paranoia. There's absolutely no reason to believe Apple will move to an App store-only model. None.There is every reason Apple did it to make buying and selling Mac software easier.MacBook Air... every Notebook without a batterie to remove... i´ed not be surprised if optical drives would die in the next 10 years. The only reason to have one right now is BluRay, everything elth works fine as a Download. And since Apple dos not do BluRay...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669622</cid>
+	<date>Jan 5, 2011, 02:04 PM</date>
+	<author>cav23j</author>
+	<text>Quote:Originally Posted byChase RMy guess is that tomorrow will be the 10.6.6 update that includes the Mac App Store. I don't think it will be 10.6.6 + App Store, that just doesn't make any sense.they are separate</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669639</cid>
+	<date>Jan 5, 2011, 02:07 PM</date>
+	<author>cav23j</author>
+	<text>Quote:Originally Posted byiphone1105Will iTunes card be accepted as payment in the Mac app store? I have $125.79 in credit in my account just sitting there....wondering the same thingi think it would be stupid for them to take only Mac App Store Gift Cards</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669641</cid>
+	<date>Jan 5, 2011, 02:07 PM</date>
+	<author>mrblack927</author>
+	<text>Quote:Originally Posted byshervieux2. Will be able to buy piece meal. I need home and business version of Word, Excel (no use for powerpoint nor outlook [especially since outlook no longer syncs with your iOS devices].  Keynote is good but I am actually thinking of using ProPresenter - due to the availability of bibles, etc). I need Pages 11, but have no use for Numbers.  I need the new iMovie; the rest in iLife 09 suits me fine.Unfortunately, Microsoft will most likely keep selling Office as-is. That is, they will keep selling it as a package installer (with all office apps) through their own retail channels.The reasons are simple:A) They don't need the distribution, people who need office already know where to get itB) They won't need to rewrite any of their code to comply with Apple's mac app store guidelinesC) And of course,the biggie, they won't need to give apple a commissionThe same goes for Adobe and their suite of products. Unfortunately for us consumers, the &quot;software giants&quot; will continue doing their own thing, at least for now.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669654</cid>
+	<date>Jan 5, 2011, 02:09 PM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted byDrRadonPlaystation 3 managed to do it for four years.Only because the cracking community didn't have much incentive to do it before Sony removed the &quot;Install Other OS...&quot; option.  Then how long did it take ?The Mac App Store brings nothing to the table as far as piracy is concerned.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669672</cid>
+	<date>Jan 5, 2011, 02:11 PM</date>
+	<author>Michaelgtrusa</author>
+	<text>Great news!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669675</cid>
+	<date>Jan 5, 2011, 02:11 PM</date>
+	<author>bobdard</author>
+	<text>My greatest hope for the Mac App Store is that iWork '11 launches with it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669676</cid>
+	<date>Jan 5, 2011, 02:12 PM</date>
+	<author>pinchez</author>
+	<text>Quote:Originally Posted bydscuber9000I can't wait! I always thought installing things on Mac was unnecessarily complex.LOLThat reminds me, When I got my first MacBook it confused me by how easy it was to install apps. I spent 10 mins looking for Autorun and Setup!!!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669677</cid>
+	<date>Jan 5, 2011, 02:12 PM</date>
+	<author>PatrickCocoa</author>
+	<text>Quote:Originally Posted bymarkcresYeah!The sheer excitement of a more efficient means of getting the hipster drones to fill Apple's pockets with even more money!!You are aware that our money is better than your money, right?By the way, Hipster Drone would be a good name for a new-wave bagpipe band.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669679</cid>
+	<date>Jan 5, 2011, 02:12 PM</date>
+	<author>Billy Boo Bob</author>
+	<text>Quote:Originally Posted byx13gameri hope this will go down as apples biggest flopsI think that honor is still held by this...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669690</cid>
+	<date>Jan 5, 2011, 02:13 PM</date>
+	<author>snberk103</author>
+	<text>Quote:Originally Posted byMalFor all those scoffing at the idea of Mac Apps being difficult to install now, let's just review the possible options:1. Download the DMG, double-click to mount (if not auto-mounted).  Drag app to Applications folder (sometimes via a provided alias, but usually not), then unmount Disk Image and delete DMG file.  Ease of use: Good.  Intuitiveness: Not so good (especially for users coming from Windows).  I can't even count the number of times I've seen someone running Skype or Firefox from the disk image every time, and then they trash the dmg file at some point thinking it's just a useless extra, and suddenly their app doesn't work any more.  It's not a bad method, but it doesn't make sense unless there's good instructions in the download (some developers do a good job here, many don't).2. Download the DMG, double-click to mount (if not auto-mounted).  Double-click installer, follow directions.  Ease of use: Good.  Intuitiveness: Good.  I think this is the best option currently, though of course the argument is that an installer is overkill for most apps.3. Download a zip file, double-click to decompress, then drag resulting app to the Applications folder.  Ease of use: Good.  Intuitiveness: Fair.  While this doesn't have the issues of the similar DMG method, it still doesn't automatically result in the app being installed correctly into the users Applications folder.  Doesn't affect all apps, but it's still good practice for them to be there.4.  Purchase on disk, bring home, place in disk drive, run installer.  Ease of use: Fair (only because of inconvenience of going to the store to purchase actual disk).  Intuitiveness: Varies, but usually good.  Adobe's apps get a poor rating in this regard, however, as their installer is a layer or two deep into the disk.So while none of these are exceptionally difficult, the array of options (and I'm sure I missed a few) makes it a confusing process for users who are not tech-savvy, which is by far the majority of the population, and also the target market for this sort of product.  The Mac App Store simplifies all of these steps into a simple click to install.jWThis is a good summary.  Nicely done.My measure of how easy something is on the Mac is whether I can talk my wife through the process, and then whether the process has 'stuck' so that she can do it again on her own.  Applications installations rank as &quot;moderately difficult&quot; on this scale.She is no dummy, and she's not afraid of technology.... she doesn't like it for it's own sake.  It's not fun, to her.  There are several different ways (as listed above) and unless there is good instructions (rare) you need toknowwhich method to use, and then what you need to do to clean up afterwards.The MAS should make things a lot easier.  I'll post back when I've found an application for my wife to install.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669691</cid>
+	<date>Jan 5, 2011, 02:14 PM</date>
+	<author>Sankersizzle</author>
+	<text>Quote:Originally Posted byBilly Boo BobI think that honor is still held by this...What the heck is that thing? Did Apple make a gaming console?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669692</cid>
+	<date>Jan 5, 2011, 02:14 PM</date>
+	<author>BaldiMac</author>
+	<text>Quote:Originally Posted bymrblack927Unfortunately, Microsoft will most likely keep selling Office as-is. That is, they will keep selling it as a package installer (with all office apps) through their own retail channels.The reasons are simple:A) They don't need the distribution, people who need office already know where to get itB) They won't need to rewrite any of their code to comply with Apple's mac app store guidelinesC) And of course,the biggie, they won't need to give apple a commissionThe same goes for Adobe and their suite of products. Unfortunately for us consumers, the &quot;software giants&quot; will continue doing their own thing, at least for now.A &amp; B aside, C is the least of Microsoft's concerns.  30% is extremely low cost for retail distribution.  I'm sure Microsoft pays more to distribute Office through Apple's brick and mortar stores.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669697</cid>
+	<date>Jan 5, 2011, 02:14 PM</date>
+	<author>DrRadon</author>
+	<text>Quote:Originally Posted byKnightWRXOnly because the cracking community didn't have much incentive to do it before Sony removed the &quot;Install Other OS...&quot; option.  Then how long did it take ?The Mac App Store brings nothing to the table as far as piracy is concerned.Still 3/4 of a year. And i highly doubt no one has tried before. (actualy the rumore was they removed it because people tryed to use other OSes to be able to pirate PS3 stuff)I think the 5 Computer restriction is stupid. As long as it works as harmles as in iTunes MP3s we won´t even notice, but the point is, once you notice DRM is something terrible because the illegal version would have worked smother.Quote:Originally Posted byBaldiMacA &amp; B aside, C is the least of Microsoft's concerns.  30% is extremely low cost for retail distribution.  I'm sure Microsoft pays more to distribute Office through Apple's brick and mortar stores.+ Apple sells MS Software in their Online and Offline Stores.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669716</cid>
+	<date>Jan 5, 2011, 02:17 PM</date>
+	<author>jeznav</author>
+	<text>No more serial numbers to take care of.No more multiple licenses to take care of.Purchase once, install on multiple computers.No more &quot;whats that site called again&quot; or &quot;whats that funky app called even when the name has nothing correlating to what it does&quot;.No more nagging updates when it can auto update itself.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669721</cid>
+	<date>Jan 5, 2011, 02:18 PM</date>
+	<author>Tyler23</author>
+	<text>Pretty excited for this. It'll be interesting to see how it all works and what all is on there. And if it's missing some stuff I want/need, there's always Macupdate, etc.Bring it on</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669733</cid>
+	<date>Jan 5, 2011, 02:19 PM</date>
+	<author>Tyler23</author>
+	<text>Quote:Originally Posted byArch StantonHmmm...didn't realize the App Store to be an actual app itself like iTunes is.  Is that what you're saying.  Just figured 10.6.6 would be needed to allow access to it.  Is it an app that accesses an online market place separate from iTunes?It is separate from itunes. It is its own application. Like iTunes (and other apps) it will be it's own separate icon on the dock/in the applications folder.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669738</cid>
+	<date>Jan 5, 2011, 02:20 PM</date>
+	<author>kas23</author>
+	<text>Quote:Originally Posted bycarmenodieNow watch that clown Ballmer  copy this.I actually think you have it backwards, and this was years before Apple.  Like most Apple products, they did not innovate or invent it, just made it much more intuituve and fun to use.http://www.neowin.net/news/microsoft...-for-windows-8</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669741</cid>
+	<date>Jan 5, 2011, 02:20 PM</date>
+	<author>Billy Boo Bob</author>
+	<text>Quote:Originally Posted bySankersizzleWhat the heck is that thing? Did Apple make a gaming console?The caption with it...Quote:1996 -- Apple PippinWith all of Apple's recent home runs, it's sometimes easy to forget that the company isn't infallible -- everyone have their fair share of embarrassing flops, after all. And Pippin was one of Apple's.For some inexplicable reason, Apple looked to enter the video game market in 1996, launching a collaboration with toy-maker Bandai that could play games and was also an inexpensive network computer. It was a device stuck in two minds, and as such did nothing particularly well. It was no surprise when consumers ignored Apple's device for the Nintendo 64 and the Sony PlayStation.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669748</cid>
+	<date>Jan 5, 2011, 02:21 PM</date>
+	<author>zim</author>
+	<text>Does anyone know if app licenses from the Mac store will be similar to the iOS? Would be great if it worked the same way.. buy one copy for all your devices, e.g. Desktop and laptop.. I doubt it will happen this way.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669749</cid>
+	<date>Jan 5, 2011, 02:21 PM</date>
+	<author>DrRadon</author>
+	<text>Quote:Originally Posted byBilly Boo BobThe caption with it...Sufferd from not having Mr. Jobs in the Company.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669753</cid>
+	<date>Jan 5, 2011, 02:22 PM</date>
+	<author>Arch Stanton</author>
+	<text>Quote:Originally Posted byBilly Boo BobI think that honor is still held by this...Really?  I thought it was Vista.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669759</cid>
+	<date>Jan 5, 2011, 02:23 PM</date>
+	<author>Tom8</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Quote:Originally Posted bykas23Quote:Originally Posted bycarmenodieNow watch that clown Ballmer  copy this.I actually think you have it backwards, and this was years before Apple.  Like most Apple products, they did not innovate or invent it, just made it much more intuituve and fun to use.http://www.neowin.net/news/microsoft...-for-windows-82 years after Apple did this:http://techcrunch.com/2008/07/09/apple-notifies-developers-iphone-app-store-to-launch-thursday-morning/</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669781</cid>
+	<date>Jan 5, 2011, 02:25 PM</date>
+	<author>cheesemonster24</author>
+	<text>Since they are seperate applications any itunes gift card I have will not work on the MAS?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669783</cid>
+	<date>Jan 5, 2011, 02:25 PM</date>
+	<author>HLdan</author>
+	<text>Quote:Originally Posted bygorjanI find it irritating that all apps leave pref-files and folders after being uninstalled. It's also bad that some apps can be uninstalled by dragging to the trash while others have uninstallers.There are some bad things with Windows, but the add/remove programs uninstaller isn't one of them. :PI have to wholeheartedly disagree. The Add/Remove programs is one of the things wrong with Windows. See, it doesn't matter on the Mac OS if preference files are left behind, it doesn't affect performance. On Windows, add/remove programs leaves files on the system and the Registry ends up getting clogged up with errors as usual and the system gets highly affected leaving the user no alternative but to use Registry cleaning software which is PITA. No matter which way you look at it, installing/uninstalling apps has always been much easier than anything on Windows, and Windows 7 didn't make it any better.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669788</cid>
+	<date>Jan 5, 2011, 02:26 PM</date>
+	<author>shervieux</author>
+	<text>Quote:Originally Posted bymrblack927Unfortunately, Microsoft will most likely keep selling Office as-is. That is, they will keep selling it as a package installer (with all office apps) through their own retail channels.The reasons are simple:A) They don't need the distribution, people who need office already know where to get itB) They won't need to rewrite any of their code to comply with Apple's mac app store guidelinesC) And of course,the biggie, they won't need to give apple a commissionThe same goes for Adobe and their suite of products. Unfortunately for us consumers, the &quot;software giants&quot; will continue doing their own thing, at least for now.I know what your saying, but they may make more money doing it the piece meal way...  I know many hold-outs not using the mac versions, due to not being able to buy separately.  The cost is the main factor.  In the Windows world, I can pick up the office apps I need separately - and not have to pay over $500 for the Office Professional Plus (used to be ultimate).  The most it would cost me is $200-$300.  I think on the mac world, they could sell Word for $79 and Excel for $79 and still sell more copies of those individually than they are getting for the whole suite.  Most people cannot justify the cost of a legal copy of Windows OS only for 1 or 2 applications.  I still have XP just because of OneNote.  And yes MS prices are bloated - especially when you can buy professional versions of the OS, and office for $10 at most colleges (provided you work there or are a student - or know someone who is either).People would buy it that way more - ie no wasted disk space for apps they were not using.  $158 for the apps I would use, verses $199 (or more) for a whole bunch of apps I would not use is easier on my wallet.  If I want to comply with licensing terms, I can't use Home and Student - due to my free lance, non-profit/church work, or when I take work home to get a project finished...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669794</cid>
+	<date>Jan 5, 2011, 02:27 PM</date>
+	<author>kas23</author>
+	<text>Quote:Originally Posted byshervieuxWhy?2. Will be able to buy piece meal. I need home and business version of Word, Excel (no use for powerpoint nor outlook [especially since outlook no longer syncs with your iOS devices]...Sorry, in its current state, Microsoft Office and its individual components do not comply with Apple's Mac App Store approval guidelines.  I think people are going to a little surprised the restrictive offerings of the MAS (minus the games, of course).</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669798</cid>
+	<date>Jan 5, 2011, 02:27 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted bycheesemonster24Since they are seperate applications any itunes gift card I have will not work on the MAS?I'm pretty sure you can use your iTunes/Apple account and therefore also the gift cards.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669801</cid>
+	<date>Jan 5, 2011, 02:28 PM</date>
+	<author>Eidorian</author>
+	<text>Steam cleaned out my wallet already. I also don't remember the last time I bought a Mac application...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669823</cid>
+	<date>Jan 5, 2011, 02:30 PM</date>
+	<author>Aaron from KY</author>
+	<text>Quote:Originally Posted byzimDoes anyone know if app licenses from the Mac store will be similar to the iOS? Would be great if it worked the same way.. buy one copy for all your devices, e.g. Desktop and laptop.. I doubt it will happen this way.I don't know for certain, but it should be tied to your AppleID, and I would think it might work similarly to Steam, in that your purchase is tied to your account, not just your system.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669824</cid>
+	<date>Jan 5, 2011, 02:30 PM</date>
+	<author>guzhogi</author>
+	<text>Quote:Originally Posted byhayeskThen he has needless paranoia. There's absolutely no reason to believe Apple will move to an App store-only model. None.There is every reason Apple did it to make buying and selling Mac software easier.One reason Apple may go app-store only is that they'll get a 30% of every sale.  However, this will be a bad business move as it will alienate the more professional users, IMO.  Especially considering even xCode wouldn't meet the requirements, which is required to make the programs that go in the app store.  Plus, I'm sure enough of the people who actually write those apps would be so turned off by this move, they'd leave the Mac platform and only fart apps &amp; simple will be left.Quote:Originally Posted bySankersizzleWhat the heck is that thing? Did Apple make a gaming console?An Apple Pippin.http://en.wikipedia.org/wiki/Apple_Bandai_Pippin</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669834</cid>
+	<date>Jan 5, 2011, 02:32 PM</date>
+	<author>dethmaShine</author>
+	<text>Quote:Originally Posted byfelt.For sure, I always forget if I'm supposed to drag the app to my app folder to install it or shoot myself in the face.Lol.Actually it doesn't matter. You can drag it anywhere. All it does it gets the preferences from Library and keeps your data intact. The only difference however could be with file/app permissions with respect to ACL's. That's all.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669867</cid>
+	<date>Jan 5, 2011, 02:37 PM</date>
+	<author>Billy Boo Bob</author>
+	<text>Quote:Originally Posted byArch StantonReally?  I thought it was Vista.The OP spoke of &quot;Apple's biggest flop&quot;.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11669966</cid>
+	<date>Jan 5, 2011, 02:56 PM</date>
+	<author>-=XX=-Nephilim</author>
+	<text>Looking forward to this oneOne of the rare positive news from the Apple as of lately...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670014</cid>
+	<date>Jan 5, 2011, 03:03 PM</date>
+	<author>chaseerry</author>
+	<text>Quote:Originally Posted byhayeskYeah, dragging an icon into an Applications folder was so difficult.Agreed.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670107</cid>
+	<date>Jan 5, 2011, 03:24 PM</date>
+	<author>swagi</author>
+	<text>Quote:Originally Posted byten-oak-druidActually it seems like a lot of that conference is devoted to Apple related products.  Funny considering Apple isn't there.Could you please pass me some of that herb you're smokin?You obviously have no clue what CES is all about. And you obviously haven't followed the news today.The nVidia announcement looks very interesting...and the Samsung 9 Series laptop sure sounds nice. Maybe get your newscheck herebut beware - little to no Apple news here.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670110</cid>
+	<date>Jan 5, 2011, 03:24 PM</date>
+	<author>Tower-Union</author>
+	<text>Quote:Originally Posted bydscuber9000I can't wait! I always thought installing things on Mac was unnecessarily complex.This is the most successful troll I have seen in a LONG time.  5 pages of people flipping out, and one guy who wrote 1-2 pages (double spaced in a word processor) explaining how to install apps on a Mac.  Priceless.You sir/ma'am are amazing.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670120</cid>
+	<date>Jan 5, 2011, 03:25 PM</date>
+	<author>HLdan</author>
+	<text>Quote:Originally Posted byLochiasWho is CES?LOL, good one.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670247</cid>
+	<date>Jan 5, 2011, 03:44 PM</date>
+	<author>Stanners</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Will I be able to use iTunes cards with the Mac App store?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670304</cid>
+	<date>Jan 5, 2011, 03:54 PM</date>
+	<author>FasterQuieter</author>
+	<text>For those of us who know how our computer works, installing an app is very simple. My mother, on the other hand, simply cannot grasp what a 'disc image' is supposed to be. Every time I go round there her desktop is littered with the things. She is too scared to delete them. As Apple have always tried to cater to the clueless, this move is a good one for people like her.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670638</cid>
+	<date>Jan 5, 2011, 04:47 PM</date>
+	<author>Bregalad</author>
+	<text>Quote:Originally Posted byKnightWRXAnd why were you downloading cracked apps with the lack of an app store ?  The fact is, most people don't want to pay for the applications they pirate.  This isn't going to change the fact you need to pay.Agreed, but price is always a barrier. Early indications are that the Mac App Store will offer generally lower prices.As others have mentioned the store will also offer the choice of purchasing just one app from a suite. That's akin to selling individual songs instead of just selling albums, something that has worked very well from the consumer perspective.Another factor driving piracy is the receipt of files from other computer users, particularly those on Windows who assume everyone has whatever software they used to create the content.Almost all the support calls I get from my parents are about email attachments or links that they can't view: Word docs, photos packaged as PowerPoint presentations, attachments that require Silverlight, photos in Picassa that require a Google ID, etc.An easy to use, relatively safe and inexpensive place to get software would allow many people to solve their compatibility problems without resorting to piracy.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670688</cid>
+	<date>Jan 5, 2011, 04:55 PM</date>
+	<author>Bregalad</author>
+	<text>Quote:Originally Posted byshervieuxIf I want to comply with licensing terms, I can't use Home and Student - due to my free lance, non-profit/church work, or when I take work home to get a project finished...You've actually read a software licensing agreement?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670700</cid>
+	<date>Jan 5, 2011, 04:57 PM</date>
+	<author>Cougarcat</author>
+	<text>Quote:Originally Posted byStannersWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Will I be able to use iTunes cards with the Mac App store?Yes.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11670912</cid>
+	<date>Jan 5, 2011, 05:39 PM</date>
+	<author>pmasters</author>
+	<text>I could honestly care less for an app store but would much rather Apple finally roll out a way to purchase ebooks (ibooks) on computers instead of forcing me to own a mobile device in order to get ibooks.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671040</cid>
+	<date>Jan 5, 2011, 06:06 PM</date>
+	<author>Jodles</author>
+	<text>Quote:Originally Posted byMalFor all those scoffing at the idea of Mac Apps being difficult to install now, let's just review the possible options:1. Download the DMG, double-click to mount (if not auto-mounted).  Drag app to Applications folder (sometimes via a provided alias, but usually not), then unmount Disk Image and delete DMG file.  Ease of use: Good.  Intuitiveness: Not so good (especially for users coming from Windows).  I can't even count the number of times I've seen someone running Skype or Firefox from the disk image every time, and then they trash the dmg file at some point thinking it's just a useless extra, and suddenly their app doesn't work any more.  It's not a bad method, but it doesn't make sense unless there's good instructions in the download (some developers do a good job here, many don't).jWI like those that ask upon launch if it should move itself to the Applications folder. More devs should implement that!:-)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671165</cid>
+	<date>Jan 5, 2011, 06:34 PM</date>
+	<author>KeithJenner</author>
+	<text>Quote:Originally Posted bypmastersI could honestly care less for an app store but would much rather Apple finally roll out a way to purchase ebooks (ibooks) on computers instead of forcing me to own a mobile device in order to get ibooks.I think it's quite likely that we will get a OS version of iBooks fairly soon. Just the sort of thing to put in the App Store.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671275</cid>
+	<date>Jan 5, 2011, 07:00 PM</date>
+	<author>mytakeontech</author>
+	<text>May be it's just me but I find Mac App store not so exciting...there is already an open App Store for Windows/Mac...download.com</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671326</cid>
+	<date>Jan 5, 2011, 07:12 PM</date>
+	<author>reticulate</author>
+	<text>I find the idea of a unified application update/management interface to be the best part about all this - package managers are brilliant under Linux for exactly this reason.For a good majority of Mac users who aren't using professional software this could end up being the only place they get apps.  It might also sell a few more copies of iWork, especially since they're selling it piecemeal and a fair bit cheaper than Office.Interesting times ahead, at any rate.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671339</cid>
+	<date>Jan 5, 2011, 07:15 PM</date>
+	<author>Fraaaa</author>
+	<text>Quote:1996 -- Apple PippinWith all of Apple's recent home runs, it's sometimes easy to forget that the company isn't infallible -- everyone have their fair share of embarrassing flops, after all. And Pippin was one of Apple's.For some inexplicable reason, Apple looked to enter the video game market in 1996, launching a collaboration with toy-maker Bandai that could play games and was also an inexpensive network computer. It was a device stuck in two minds, and as such did nothing particularly well. It was no surprise when consumers ignored Apple's device for the Nintendo 64 and the Sony PlayStation.Quote:After losing a power struggle with the board of directors in 1984, Jobs resigned from Apple and founded NeXT, a computer platform development company specializing in the higher education and business markets. Apple's subsequent 1996 buyout of NeXT brought Jobs back to the company he co-founded, and he has served as its CEO since 1997.1983 - Lisa (as far as I know Jobs was ahead of Macintosh program and not Lisa)1984 - Jobs resigned1993 - Newton1996 - Pippin1997 - Jobs is back as Apple CEO</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671398</cid>
+	<date>Jan 5, 2011, 07:31 PM</date>
+	<author>ten-oak-druid</author>
+	<text>Quote:Originally Posted byswagiCould you please pass me some of that herb you're smokin?You obviously have no clue what CES is all about. And you obviously haven't followed the news today.Sure</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671405</cid>
+	<date>Jan 5, 2011, 07:32 PM</date>
+	<author>zim</author>
+	<text>Quote:Originally Posted byjeznavNo more serial numbers to take care of.No more multiple licenses to take care of.Purchase once, install on multiple computers.No more &quot;whats that site called again&quot; or &quot;whats that funky app called even when the name has nothing correlating to what it does&quot;.No more nagging updates when it can auto update itself.Exactly what I am looking forward to!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671477</cid>
+	<date>Jan 5, 2011, 07:47 PM</date>
+	<author>jhiner</author>
+	<text>Isn't there some requirement for an OS X 10.6 upgrade for this? Like 10.6.6?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671520</cid>
+	<date>Jan 5, 2011, 07:54 PM</date>
+	<author>Tyler23</author>
+	<text>Quote:Originally Posted byjhinerIsn't there some requirement for an OS X 10.6 upgrade for this? Like 10.6.6?We should be seeing that sometime tomorrow before the app store is officially released.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671624</cid>
+	<date>Jan 5, 2011, 08:13 PM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted byBregaladAgreed, but price is always a barrier. Early indications are that the Mac App Store will offer generally lower prices.No, early indication is that some iOS devs will retain their iOS App Store pricing for their ports to the Mac in the Mac App Store.  You're not suddenly getting 4.99$ Office 2011 (which does not even qualify for the Mac App Store because of the policies in place) or 0.99$ iLife apps.This is also indicative of the abundant spam that is about to hit the Mac App Store.  Let's face it, most iOS paid apps could have been made as a website.  Some are just information catalogs, something the web has been able to produce for years.If the same thing hits the Mac App Store, it's going to seriously suck trying to find the good stuff.  We don't need self contained apps that are trying to replace a website.  Macs are full fledged computers with decent screen real-estate and a full browser.  Just make a website.Quote:Originally Posted byjeznavNo more &quot;whats that site called again&quot; or &quot;whats that funky app called even when the name has nothing correlating to what it does&quot;..How does the Mac App Store solve this one ?  I can still create a video player, I can still call it VLC and I can still use a Cone as an icon of all things.There is no policy on the Mac App Store that forces an app to have a meaningful icon or name.  And &quot;What's that site called again ?&quot; was solved around 15 years ago when browsers implemented bookmarks.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671658</cid>
+	<date>Jan 5, 2011, 08:22 PM</date>
+	<author>iBug2</author>
+	<text>Quote:Originally Posted byKnightWRXHow does the Mac App Store solve this one ?  I can still create a video player, I can still call it VLC and I can still use a Cone as an icon of all things.There is no policy on the Mac App Store that forces an app to have a meaningful icon or name.  And &quot;What's that site called again ?&quot; was solved around 15 years ago when browsers implemented bookmarks.This is true but the bookmark thing does not solve it, app store does. I don't think most people are creating bookmarks for the websites of every single app they are using. Sure, the option is there, but they don't do it. App store solves it by making it possible to keep track of apps without keeping bookmarks for them.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671719</cid>
+	<date>Jan 5, 2011, 08:37 PM</date>
+	<author>swagi</author>
+	<text>Quote:Originally Posted byten-oak-druidSureGeee....thx. Good stuff dude!Beginning to like that stupid music in the MS CES-stream...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671765</cid>
+	<date>Jan 5, 2011, 08:51 PM</date>
+	<author>KALLT</author>
+	<text>Quote:Originally Posted byKnightWRXNo, early indication is that some iOS devs will retain their iOS App Store pricing for their ports to the Mac in the Mac App Store.  You're not suddenly getting 4.99$ Office 2011 (which does not even qualify for the Mac App Store because of the policies in place) or 0.99$ iLife apps.This is also indicative of the abundant spam that is about to hit the Mac App Store.  Let's face it, most iOS paid apps could have been made as a website.  Some are just information catalogs, something the web has been able to produce for years.If the same thing hits the Mac App Store, it's going to seriously suck trying to find the good stuff.  We don't need self contained apps that are trying to replace a website.  Macs are full fledged computers with decent screen real-estate and a full browser.  Just make a website.Well, one developer so far,RealMac, seems to take this opportunity to lower prices of several applications either temporarily or permanently. I also expect that other developers will reduce their pricing, considering the more customers they may get through the App Store and the competition that may derive from it. However, I do not think that we will get to see many big applications with low prices &ndash; but who would honestly expect that?I also do not agree with your view on many iOS apps. I actually enjoy your so called 'information catalogues' for the simple reason that they are often quicker and more efficient, in my opinion. But do you really expect to see many of those kind of applications on the Mac? I seriously doubt it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671818</cid>
+	<date>Jan 5, 2011, 09:04 PM</date>
+	<author>wovel</author>
+	<text>Quote:Originally Posted bymrblack927Unfortunately, Microsoft will most likely keep selling Office as-is. That is, they will keep selling it as a package installer (with all office apps) through their own retail channels.The reasons are simple:A) They don't need the distribution, people who need office already know where to get itB) They won't need to rewrite any of their code to comply with Apple's mac app store guidelinesC) And of course,the biggie, they won't need to give apple a commissionThe same goes for Adobe and their suite of products. Unfortunately for us consumers, the &quot;software giants&quot; will continue doing their own thing, at least for now.Pretty sure most retail markups on Office are at least 30%...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671891</cid>
+	<date>Jan 5, 2011, 09:22 PM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted byiBug2This is true but the bookmark thing does not solve it, app store does. I don't think most people are creating bookmarks for the websites of every single app they are using. Sure, the option is there, but they don't do it. App store solves it by making it possible to keep track of adds without keeping bookmarks for them.And if they can't remember a site, they're supposed to remember a generic icon/name more ?  The cone is the video player ?The App Store doesn't solve that particular problem, it just shoves it elsewhere.Quote:Originally Posted byKALLTI also do not agree with your view on many iOS apps. I actually enjoy your so called 'information catalogues' for the simple reason that they are often quicker and more efficient, in my opinion.For the cell phone format, since screen real-estate is limited and full websites are not all that easy to view/navigate on the smaller touch screen.For the Mac ?  Useless junk to fill up the Application folder.  Just use bookmarks in your browser instead or better yet, Google the information.  I don't need an app to give me drink recipes or an app to find a Tim Horton's location or an app to browse items on Amazon, I can just go to the websites and do it and with a Mac, the experience will probably be better.Quote:Originally Posted byKALLTBut do you really expect to see many of those kind of applications on the Mac? I seriously doubt it.I hope not, but the initial article we got yesterday seemed to hint that some iOS devs are seeing a gold rush coming.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11671906</cid>
+	<date>Jan 5, 2011, 09:26 PM</date>
+	<author>KnightWRX</author>
+	<text>double.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672069</cid>
+	<date>Jan 5, 2011, 10:09 PM</date>
+	<author>lilcosco08</author>
+	<text>After Steve announces the mac app store, he announces new MBPs with no optical drive and sandy bridge.And then I wake up.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672165</cid>
+	<date>Jan 5, 2011, 10:35 PM</date>
+	<author>paulypants</author>
+	<text>Quote:Originally Posted byx13gameri hope this will go down as apples biggest flopsYea I'm so sure it will</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672605</cid>
+	<date>Jan 6, 2011, 01:01 AM</date>
+	<author>iBug2</author>
+	<text>Quote:Originally Posted byKnightWRXAnd if they can't remember a site, they're supposed to remember a generic icon/name more ?  The cone is the video player ?The App Store doesn't solve that particular problem, it just shoves it elsewhere.Of course it does. You are not supposed to remember anything, any updates are already apparent on the app store app, so nobody needs to keep track of updates anymore. Do you check one by one updates for your iphone apps? No. iTunes says &quot;N amount of updates available&quot;. Remembering what icon/name is for which app is only relevant for specific purposes, checking updates is one of the main reasons to remember.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672681</cid>
+	<date>Jan 6, 2011, 01:34 AM</date>
+	<author>&#x17D;algiris</author>
+	<text>Quote:Originally Posted byiBug2Of course it does. You are not supposed to remember anything, any updates are already apparent on the app store app, so nobody needs to keep track of updates anymore. Do you check one by one updates for your iphone apps? No. iTunes says &quot;N amount of updates available&quot;. Remembering what icon/name is for which app is only relevant for specific purposes, checking updates is one of the main reasons to remember.+1. All in one place, an integrated app on Mac OS X you can use to look for apps. Updates just like for iOS apps and no need to keep those pesky serial numbers. If RealMac is going App Store ...</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672760</cid>
+	<date>Jan 6, 2011, 02:17 AM</date>
+	<author>Trakker</author>
+	<text>Quote:Originally Posted bylilcosco08After Steve announces the mac app store, he announces new MBPs with no optical drive and sandy bridge.And then I wake up.No, you aren't dreaming, accept the Mac App Store is announced &amp; a MacBook Pro without a Optical Drive is already on the market - it's called the 13&quot; MacBook Air.The 'Pro' moniker will not work if the Laptop cannot fully adopt 'Professional' use for any job.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11672995</cid>
+	<date>Jan 6, 2011, 04:18 AM</date>
+	<author>Sankersizzle</author>
+	<text>Quote:Originally Posted byStannersWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5)Will I be able to use iTunes cards with the Mac App store?Quote:Originally Posted byCougarcatYes.Not that I don't believe Cougarcat, but has this been confirmed in writing somewhere? I have some Best Buy gift cards that I'm going to go redeem for iTunes gift cards if that is indeed the case, so I can download apps from the new store.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673096</cid>
+	<date>Jan 6, 2011, 05:06 AM</date>
+	<author>miniroll32</author>
+	<text>Quote:Originally Posted bypmastersI could honestly care less for an app store but would much rather Apple finally roll out a way to purchase ebooks (ibooks) on computers instead of forcing me to own a mobile device in order to get ibooks.I would certainly bet on Apple including some sort of 'iBook' app in OX LionAmazon already have a Kindle app, though its admittedly very simple, so theirs nothing stopping Apple. Would be a nice feature!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673104</cid>
+	<date>Jan 6, 2011, 05:11 AM</date>
+	<author>Juo100</author>
+	<text>Quote:Originally Posted bykas23I actually think you have it backwards, and this was years before Apple.  Like most Apple products, they did not innovate or invent it, just made it much more intuituve and fun to use.http://www.neowin.net/news/microsoft...-for-windows-8Yeah package management has been around for years, im actually surprised it has taken this long for Apple and Microsoft to create a store on their platforms, its such a no brainer.Quote:Originally Posted bypmastersI could honestly care less for an app store but would much rather Apple finally roll out a way to purchase ebooks (ibooks) on computers instead of forcing me to own a mobile device in order to get ibooks.What about this?http://www.amazon.com/gp/feature.htm...Id=1000464931?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673111</cid>
+	<date>Jan 6, 2011, 05:17 AM</date>
+	<author>KeithJenner</author>
+	<text>Quote:Originally Posted byJuo100What about this?http://www.amazon.com/gp/feature.htm...Id=1000464931?That link doesn't seem to work, but the reference was to iBooks. I assume your link was to do with Kindle.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673217</cid>
+	<date>Jan 6, 2011, 06:10 AM</date>
+	<author>miniroll32</author>
+	<text>Whens the Mac App Store opening U.K time?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673233</cid>
+	<date>Jan 6, 2011, 06:13 AM</date>
+	<author>Alchemist</author>
+	<text>I'm interested to see how this plays out. Just really hope it's not the start of an autocratic operating system that constrains the user in terms of flexibility. I wrote an article about the implications here:http://www.cogitations.co.uk/files/mac_app_store.html</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673239</cid>
+	<date>Jan 6, 2011, 06:16 AM</date>
+	<author>knightlie</author>
+	<text>Quote:Originally Posted bymarkcresYeah!The sheer excitement of a more efficient means of getting the hipster drones to fill Apple's pockets with even more money!!I assume they will take their percentage for every licence sold - whilst being the moral arbiter of what we can and cannot download!Can't you people* just shut up?Apple should just put a simple IQ filter onto the App Store, so the trolls can't even get in.* I.E. the ones touting the same old tired arguments over and over again.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673242</cid>
+	<date>Jan 6, 2011, 06:17 AM</date>
+	<author>Warbrain</author>
+	<text>Quote:Originally Posted byminiroll32Whens the Mac App Store opening U.K time?Same time as in the U.S. That would be 5 PM for you, right?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673249</cid>
+	<date>Jan 6, 2011, 06:20 AM</date>
+	<author>Tonsko</author>
+	<text>Quote:Originally Posted byminiroll32Whens the Mac App Store opening U.K time?9.00 am Cupertino + 8 hours I imagine.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673252</cid>
+	<date>Jan 6, 2011, 06:20 AM</date>
+	<author>Tonsko</author>
+	<text>Too quick!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673273</cid>
+	<date>Jan 6, 2011, 06:29 AM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted byiBug2Remembering what icon/name is for which app is only relevant for specific purposes, checking updates is one of the main reasons to remember.I'd say using the App is one of the main reasons to remember the icon/name and apps check for their own updates on Mac, but whatever, you weren't the guy I was replying to originally so you might not understand what this discussion was really about.  Go re-read my original response and the post I was responding to.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673275</cid>
+	<date>Jan 6, 2011, 06:29 AM</date>
+	<author>Compile 'em all</author>
+	<text>http://macappstore.in/</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673361</cid>
+	<date>Jan 6, 2011, 07:02 AM</date>
+	<author>iBug2</author>
+	<text>Quote:Originally Posted byKnightWRXI'd say using the App is one of the main reasons to remember the icon/name and apps check for their own updates on Mac, but whatever, you weren't the guy I was replying to originally so you might not understand what this discussion was really about.  Go re-read my original response and the post I was responding to.Apps only check for updates when you open them (some of them), and not all of them do a great job on that. So if you want to get all your apps up to date, say, after returning from a vacation, it's much simpler to look at App Store application and see if you are up to date or not, instead of opening hundreds of apps one by one and checking if anyone pops up a &quot;update me&quot; window.I hope it's clear now why App Store is a major convenience for keeping apps to date.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673428</cid>
+	<date>Jan 6, 2011, 07:24 AM</date>
+	<author>mixel</author>
+	<text>I use Appfresh to tell me what needs updating and it generally does a very good job of it. It will be nice having the App Store do it all for me though.I wonder if Apple will ever do a thing where you can activate your non AS bought app on the AS, like Steam do with some games? (UT3, the humble bundles etc).. I bet they don't but it would be v nice!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673464</cid>
+	<date>Jan 6, 2011, 07:36 AM</date>
+	<author>Tyler23</author>
+	<text>10.6.6 Software Update is out!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673466</cid>
+	<date>Jan 6, 2011, 07:37 AM</date>
+	<author>Surfheart</author>
+	<text>The update seems to be out.  114Mb.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673485</cid>
+	<date>Jan 6, 2011, 07:44 AM</date>
+	<author>Tyler23</author>
+	<text>Has anyone downloaded it yet?I'm on the app store right now! It's got Angry Birds!!!  SWEEET. and Flight Control HD!hahaha. I'm excited.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673503</cid>
+	<date>Jan 6, 2011, 07:48 AM</date>
+	<author>talkingfuture</author>
+	<text>Engadget are saying it is live now. I've got to wait 4 hours until I get home to try it out</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673504</cid>
+	<date>Jan 6, 2011, 07:49 AM</date>
+	<author>jace88</author>
+	<text>It just appeared on my Software Update list- 114.8mb!Downloading now</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673506</cid>
+	<date>Jan 6, 2011, 07:49 AM</date>
+	<author>Tyler23</author>
+	<text>It is live. I'm using it now..although it's saying there's an error with the store when I try to download something..booo.Getting this when I try to get an app:&quot;We could not complete your App Store request. An unknown error occurred (100). There was an error in the App Store. Please try again later.&quot;</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673520</cid>
+	<date>Jan 6, 2011, 07:53 AM</date>
+	<author>0815</author>
+	<text>downloading now ... very excited!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673532</cid>
+	<date>Jan 6, 2011, 07:56 AM</date>
+	<author>iBug2</author>
+	<text>Aperture is 79.99$?Down from 199.99$?Wth?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673534</cid>
+	<date>Jan 6, 2011, 07:56 AM</date>
+	<author>EarthDawn</author>
+	<text>Downloaded it and it looks great ...Quick update too</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673535</cid>
+	<date>Jan 6, 2011, 07:56 AM</date>
+	<author>jace88</author>
+	<text>Hmm the apps seem a bit pricey (e.g. Angry Birds at 50% off is $5.99aud vs. $1.19 for the iPhone version) considering it's the exact same game as before just for a Mac rather than iPhone. And yes I'm an Angry Birds fan but from the developer's description, without further elaboration or an independent review, I think I can live without the &quot;unique enhancements, not available in the mobile version&quot;.I did download Solitaire Greatest Hits for my Mum. It'll be good to get some good/decent/cheap/free games in an easy/convenient manner. And yay it lets me use iTunes money (which you can get on sale at a discount anyway).For those who are wondering, downloaded apps go straight to your dock... hmm... it's going to get cluttered!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673544</cid>
+	<date>Jan 6, 2011, 07:59 AM</date>
+	<author>gorjan</author>
+	<text>Quote:Originally Posted byjace88For those who are wondering, downloaded apps go straight to your dock... hmm... it's going to get cluttered!You can't have them in the Applications folder? I'm still downloading.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673552</cid>
+	<date>Jan 6, 2011, 08:01 AM</date>
+	<author>Surfheart</author>
+	<text>So the iOS style app launcher/overlay isn't part of 10.6.6? Boo. Or am I missing something?Edit stuff seems to go into the Applications folder and still no seamless way to remove/uninstall apps.  Still have to drag the app to the trash.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673554</cid>
+	<date>Jan 6, 2011, 08:02 AM</date>
+	<author>iBug2</author>
+	<text>Quote:Originally Posted bySurfheartSo the iOS style app launcher/overlay isn't part of 10.6.6? Boo. Or am I missing something?That's 10.7.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673564</cid>
+	<date>Jan 6, 2011, 08:04 AM</date>
+	<author>aristobrat</author>
+	<text>Quote:Originally Posted byjace88Hmm the apps seem a bit pricey (e.g. Angry Birds at 50% off is $5.99aud vs. $1.19 for the iPhone version) considering it's the exact same game as before just for a Mac rather than iPhone.Hmm, Aperture is $79.99 instead of $199.99.  That's a lot less pricey?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673568</cid>
+	<date>Jan 6, 2011, 08:05 AM</date>
+	<author>steveing64</author>
+	<text>Well app store is working for me in the uk  just download a couple of free apps so far so good</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673571</cid>
+	<date>Jan 6, 2011, 08:05 AM</date>
+	<author>talkingfuture</author>
+	<text>Fantastic deal on aperture, if this is the future for software I'm going to be buying a lot more.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673572</cid>
+	<date>Jan 6, 2011, 08:05 AM</date>
+	<author>jace88</author>
+	<text>Quote:Originally Posted bygorjanYou can't have them in the Applications folder? I'm still downloading.Just need to uncheck the Keep in Dock menu option. I guess it makes sense to put it in your Dock straight away otherwise you could forget where they're meant to be but I'm surprised there isn't just another folder for App Store apps/recently installed apps in the Dock.Fingers crossed my Macbook doesn't become overloaded with free/cheap apps like my iPhone does whenever there's a sale on. That being said, if you go to &quot;top free games&quot;, there's only one option (Solitaire)! We'll have to wait and see if this kicks off over time!Here's a poor cameraphone screenshot:(note: I do know how to take screenshots in Mac, but for my less informed friends on Facebook, I prefer to take a photo with my phone showing the Macbook itself)</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673574</cid>
+	<date>Jan 6, 2011, 08:05 AM</date>
+	<author>balamw</author>
+	<text>Just a few quick reactions:Looks great! Nice to see a lot of apps I use regularly on the app store and look forward to finding new ones.I thought there were not supposed to be any &quot;lite/trial&quot; versions of apps in the store, yet I ran into this:http://itunes.apple.com/us/app/booxt...06421537?mt=12andhttp://itunes.apple.com/us/app/booxt...05398062?mt=12, what are the rules Apple?The most exciting part of it for me is the licensing model tied to the account not the computer which makes software cheaper for multi-Mac households.EDIT: Works out great for iLife. $45 for the three updated apps instead of $79 for the family pack. Awesome. Plus Aperture for $79.99?B</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673575</cid>
+	<date>Jan 6, 2011, 08:05 AM</date>
+	<author>johneaston</author>
+	<text>Wirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5)Quote:Originally Posted byFasterQuieterFor those of us who know how our computer works, installing an app is very simple. My mother, on the other hand, simply cannot grasp what a 'disc image' is supposed to be. Every time I go round there her desktop is littered with the things. She is too scared to delete them. As Apple have always tried to cater to the clueless, this move is a good one for people like her.Could someone actually explain the whole disk image thing? I actually agree with the comment that installing apps is unnecessarily complex.Although I've had a Mac for around 5 yrs I still don't get why I have to download a file, unzip it, double click it, drag it into my Applications folder, drag that to the dock, quit the disk image, and then delete the disk image.So please1. What exactly is the difference between the disk image and the app2. Why can't the app just be downloaded directly and automatically into a target folder (ie</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673579</cid>
+	<date>Jan 6, 2011, 08:06 AM</date>
+	<author>yayitsezekiel</author>
+	<text>Quote:Originally Posted bygorjanYou can't have them in the Applications folder? I'm still downloading.Can someone confirm if apps are downloaded to the applications folder please?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673580</cid>
+	<date>Jan 6, 2011, 08:06 AM</date>
+	<author>bigjnyc</author>
+	<text>Quote:Originally Posted byjace88Hmm the apps seem a bit pricey (e.g. Angry Birds at 50% off is $5.99aud vs. $1.19 for the iPhone version) considering it's the exact same game as before just for a Mac rather than iPhone. And yes I'm an Angry Birds fan but from the developer's description, without further elaboration or an independent review, I think I can live without the &quot;unique enhancements, not available in the mobile version&quot;.I did download Solitaire Greatest Hits for my Mum. It'll be good to get some good/decent/cheap/free games in an easy/convenient manner. And yay it lets me use iTunes money (which you can get on sale at a discount anyway).For those who are wondering, downloaded apps go straight to your dock... hmm...it's going to get cluttered!Can't you just drag them into your applications folder, or simply drag them off the dock?</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673581</cid>
+	<date>Jan 6, 2011, 08:06 AM</date>
+	<author>smiddlehurst</author>
+	<text>Quote:Originally Posted byjace88Hmm the apps seem a bit pricey (e.g. Angry Birds at 50% off is $5.99aud vs. $1.19 for the iPhone version) considering it's the exact same game as before just for a Mac rather than iPhone. And yes I'm an Angry Birds fan but from the developer's description, without further elaboration or an independent review, I think I can live without the &quot;unique enhancements, not available in the mobile version&quot;.And how much, pray, is theiPadversion? That's what you need to be focusing on, not the iPhone prices which, frankly, got dragged into a race to the bottom which is great for the consumer but terrible for the developer. Sure everyone will be looking to avoid that situation with their apps if they possibly can.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673586</cid>
+	<date>Jan 6, 2011, 08:07 AM</date>
+	<author>jace88</author>
+	<text>Quote:Originally Posted byaristobratHmm, Aperture is $79.99 instead of $199.99.  That's a lot less pricey?Good point. I'm really only comparing it with things which I know whereas I have no idea about pricing for applications like Aperture. It makes sense that the download-model should be cheaper than buying in a store or whatever the previous option was.I know I'm cheap, but I hope there are more cheap/low priced apps in the future. That's the marvel of the App Store on the iPhone! Less than the cost of a can of Coca Cola... may as well download!Quote:Originally Posted bysmiddlehurstAnd how much, pray, is theiPadversion? That's what you need to be focusing on, not the iPhone prices which, frankly, got dragged into a race to the bottom which is great for the consumer but terrible for the developer. Sure everyone will be looking to avoid that situation with their apps if they possibly can.Again good point. I guess I should compare there as it's probably a fairer/more realistic comparison- but as a non-iPad owner, I've never really had a need to or considered looking at the iPad prices. I'm calling this debate based on a simple end-user's perspective. I'm a new(ish) Mac fan, love my iPhone and my apps, bought the Macbook, downloaded this new App Store, but am amazed at how different the prices are.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673592</cid>
+	<date>Jan 6, 2011, 08:09 AM</date>
+	<author>jace88</author>
+	<text>Quote:Originally Posted byjohneastonWirelessly posted (Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5)Could someone actually explain the whole disk image thing? I actually agree with the comment that installing apps is unnecessarily complex.Although I've had a Mac for around 5 yrs I still don't get why I have to download a file, unzip it, double click it, drag it into my Applications folder, drag that to the dock, quit the disk image, and then delete the disk image.So please1. What exactly is the difference between the disk image and the app2. Why can't the app just be downloaded directly and automatically into a target folder (ieI always figured it's the same as why we download zip files- it's a way of ensuring that there are checksums/etc to prevent any data corruption occurring whilst downloading the file. Surely there would be ways of doing this within the program itself I guess. The only other rationale is it forces the user to think before they 'install' the application rather than allowing things to install themselves on their own without the user realising that stuff is filling up their hard drives *shrugs*</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673605</cid>
+	<date>Jan 6, 2011, 08:13 AM</date>
+	<author>balamw</author>
+	<text>Quote:Originally Posted bysmiddlehurstAnd how much, pray, is theiPadversion? That's what you need to be focusing on, not the iPhone prices which, frankly, got dragged into a race to the bottom which is great for the consumer but terrible for the developer. Sure everyone will be looking to avoid that situation with their apps if they possibly can.Given the reasonable prices and lenient licensing for the more polished apps (like the ones from Apple), and the reaction that may iPhone apps are more expensive, I hope this ends up being a renormalization to the middle. Fewer &gt; $100 apps, but also fewer $0.99 apps.B</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673616</cid>
+	<date>Jan 6, 2011, 08:15 AM</date>
+	<author>balamw</author>
+	<text>Quote:Originally Posted byjace88I always figured it's the same as why we download zip files- it's a way of ensuring that there are checksums/etc to prevent any data corruption occurring whilst downloading the file.The .app bundle is really a folder, so it does need some sort of container or it would just be a bunch of separate files. Right click on an app and show package contents just for fun.B</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673667</cid>
+	<date>Jan 6, 2011, 08:21 AM</date>
+	<author>slicecom</author>
+	<text>Quote:Originally Posted bybigjnycCan't you just drag them into your applications folder, or simply drag them off the dock?They automatically go to the Applications folder, and an Alias is added to the Dock.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11673713</cid>
+	<date>Jan 6, 2011, 08:28 AM</date>
+	<author>gorjan</author>
+	<text>The store seems pretty good! This is guaranteed to drive sales!Knapsack 2 look like a great way to organise trips! But USD 40?!? They must be out of their minds...I'll stick with TripIt and Word, thank you.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11674629</cid>
+	<date>Jan 6, 2011, 10:35 AM</date>
+	<author>Aatos.1</author>
+	<text>Quote:Originally Posted byjeznavNo more serial numbers to take care of.No more multiple licenses to take care of.Purchase once, install on multiple computers.No more &quot;whats that site called again&quot; or &quot;whats that funky app called even when the name has nothing correlating to what it does&quot;.No more nagging updates when it can auto update itself.No need to think for oneself or take responsibilty to further ones knowledge.No more midnight ambulance rides to the trauma center, because a software install went wrong.Everyone will become a pro at playing games while enjoying the exquisite sounds of fart apps.How thrilling. I'll get to watch &amp; laugh as my stock bought at just $24.19 per share continues to climb &amp; climb &amp; climb.Brilliant indeed. Go Apple!</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11676245</cid>
+	<date>Jan 6, 2011, 02:12 PM</date>
+	<author>0815</author>
+	<text>Quote:Originally Posted byyayitsezekielCan someone confirm if apps are downloaded to the applications folder please?They are downloaded to the application folder. The Dock is just a 'link' to the application in the Application folder. You can remove the link from the dock at any time (by just dragging it out of the dock) and still have the application in the application folder.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11677228</cid>
+	<date>Jan 6, 2011, 04:45 PM</date>
+	<author>KnightWRX</author>
+	<text>Quote:Originally Posted byiBug2I hope it's clear now why App Store is a major convenience for keeping apps to date.And again, that point had nothing to do with my original post or the post I was replying to thank you very much.Next time you interject in a conversation, make sure to follow the actual conversation.  The original post I was replying to said the Mac App Store solved the problem about remembering what an app is called.  It doesn't, you still need to remember the icon/app name in order to USE it.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11677441</cid>
+	<date>Jan 6, 2011, 05:24 PM</date>
+	<author>Michaelgtrusa</author>
+	<text>Sneeky Apple, 8 am.</text>
+	<score>0</score>
+</comment>
+<comment>
+	<cid>11677473</cid>
+	<date>Jan 6, 2011, 05:30 PM</date>
+	<author>jace88</author>
+	<text>Quote:Originally Posted bybalamwThe .app bundle is really a folder, so it does need some sort of container or it would just be a bunch of separate files. Right click on an app and show package contents just for fun.BBut isn't the question why the app needs to be bundled inside another container (i.e. the disk image)?</text>
+	<score>0</score>
+</comment>
+<comment>

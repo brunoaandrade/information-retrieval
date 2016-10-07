@@ -1,0 +1,1052 @@
+<article>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#article09_05_27_0111259</id>
+	<title>Rates Lowered For Streamed Music In the UK</title>
+	<author>kdawson</author>
+	<datestamp>1243426440000</datestamp>
+	<htmltext>An anonymous reader tips the news that the UK's music collection society, PRS, has <a href="http://news.bbc.co.uk/1/hi/technology/8068154.stm">announced a new pricing plan</a> it hopes may entice YouTube and Pandora back to the UK market. Pandora pulled out at the start of 2008, and YouTube began removing content from the view of UK users last March. <i>"From 1 July 2009, firms will have to pay 0.085p for each track streamed, down from the previous rate of 0.22p. [The] head of the music streaming service We7 told BBC News he welcomed the new charges. 'It's brilliant. Not so much the rates but the realization by the PRS that things have to change in the digital world. Till now it's felt like they were not listening,' he said. ... 'They [the PRS] are getting in touch with the reality of the digital world.' [The PRS's managing director said] 'We've laid our stall out and listened to everyone who would engage with us. We've consulted with the 25 firms that represent 97\% of our revenue over the past six months and have been given opinions from many others. We need to ensure the music artists are paid for their work, but we also wanted to make sure that the framework was in place to enable the digital market to grow.'"</i></htmltext>
+<tokenext>An anonymous reader tips the news that the UK 's music collection society , PRS , has announced a new pricing plan it hopes may entice YouTube and Pandora back to the UK market .
+Pandora pulled out at the start of 2008 , and YouTube began removing content from the view of UK users last March .
+" From 1 July 2009 , firms will have to pay 0.085p for each track streamed , down from the previous rate of 0.22p .
+[ The ] head of the music streaming service We7 told BBC News he welcomed the new charges .
+'It 's brilliant .
+Not so much the rates but the realization by the PRS that things have to change in the digital world .
+Till now it 's felt like they were not listening, ' he said .
+... 'They [ the PRS ] are getting in touch with the reality of the digital world .
+' [ The PRS 's managing director said ] 'We 've laid our stall out and listened to everyone who would engage with us .
+We 've consulted with the 25 firms that represent 97 \ % of our revenue over the past six months and have been given opinions from many others .
+We need to ensure the music artists are paid for their work , but we also wanted to make sure that the framework was in place to enable the digital market to grow .
+' "</tokentext>
+<sentencetext>An anonymous reader tips the news that the UK's music collection society, PRS, has announced a new pricing plan it hopes may entice YouTube and Pandora back to the UK market.
+Pandora pulled out at the start of 2008, and YouTube began removing content from the view of UK users last March.
+"From 1 July 2009, firms will have to pay 0.085p for each track streamed, down from the previous rate of 0.22p.
+[The] head of the music streaming service We7 told BBC News he welcomed the new charges.
+'It's brilliant.
+Not so much the rates but the realization by the PRS that things have to change in the digital world.
+Till now it's felt like they were not listening,' he said.
+... 'They [the PRS] are getting in touch with the reality of the digital world.
+' [The PRS's managing director said] 'We've laid our stall out and listened to everyone who would engage with us.
+We've consulted with the 25 firms that represent 97\% of our revenue over the past six months and have been given opinions from many others.
+We need to ensure the music artists are paid for their work, but we also wanted to make sure that the framework was in place to enable the digital market to grow.
+'"</sentencetext>
+</article>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111221</id>
+	<title>Re:Spotify</title>
+	<author>rod\_vdb</author>
+	<datestamp>1243445580000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>According to this story: <a href="http://www.theregister.co.uk/2009/05/18/spotify/" title="theregister.co.uk" rel="nofollow">http://www.theregister.co.uk/2009/05/18/spotify/</a> [theregister.co.uk]
+
+Spotify is largely owned by the music industry 30\%+ and the suggestion is from the article that it is not there to make money. Having used it I cannot really understand how they intend to make money from it as the free service works well and the advertising is very unobtrusive, to the point which you wonder about its value to generate revenue....
+Will be interesting to see if and how this changes with the new rates...</htmltext>
+<tokenext>According to this story : http : //www.theregister.co.uk/2009/05/18/spotify/ [ theregister.co.uk ] Spotify is largely owned by the music industry 30 \ % + and the suggestion is from the article that it is not there to make money .
+Having used it I can not really understand how they intend to make money from it as the free service works well and the advertising is very unobtrusive , to the point which you wonder about its value to generate revenue... . Will be interesting to see if and how this changes with the new rates.. .</tokentext>
+<sentencetext>According to this story: http://www.theregister.co.uk/2009/05/18/spotify/ [theregister.co.uk]
+
+Spotify is largely owned by the music industry 30\%+ and the suggestion is from the article that it is not there to make money.
+Having used it I cannot really understand how they intend to make money from it as the free service works well and the advertising is very unobtrusive, to the point which you wonder about its value to generate revenue....
+Will be interesting to see if and how this changes with the new rates...</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108615</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108165</id>
+	<title>Anonymous Coward.</title>
+	<author>Anonymous</author>
+	<datestamp>1243431720000</datestamp>
+	<modclass>Offtopic</modclass>
+	<modscore>-1</modscore>
+	<htmltext><p>The power of Pandora will be back to your ears<nobr> <wbr></nobr>:)</p></htmltext>
+<tokenext>The power of Pandora will be back to your ears : )</tokentext>
+<sentencetext>The power of Pandora will be back to your ears :)</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108787</id>
+	<title>Re:How much do the Artists get?</title>
+	<author>Anonymous</author>
+	<datestamp>1243435200000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>This is just the typical dance between buyers and sellers. I'll find the wholeslae fish market more interesting where the prices are negotiated in minutes rather than months.</p></htmltext>
+<tokenext>This is just the typical dance between buyers and sellers .
+I 'll find the wholeslae fish market more interesting where the prices are negotiated in minutes rather than months .</tokentext>
+<sentencetext>This is just the typical dance between buyers and sellers.
+I'll find the wholeslae fish market more interesting where the prices are negotiated in minutes rather than months.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111615</id>
+	<title>Re:How much do the Artists get?</title>
+	<author>dontmakemethink</author>
+	<datestamp>1243447020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>They CANNOT afford to let people realize that going without isn't such a bad option.</p><p>People are addicted to their lifestyles in that they are very reluctant to change.  But when they see that some change might not be so bad, that endagers what the music industry has come to rely on.</p></div><p>Don't mistake the RIAA for "the music industry".  Not every musical act is a marketing scam, as you seem to depict here.  We can certainly get by without manufactured acts like Brittany Spears and Justin Timberlake, but without the indie scene no new genuine talent develops.</p><p>[bias warning - I'm an indie musician on tour about 2000mi from home]</p></div>
+	</htmltext>
+<tokenext>They CAN NOT afford to let people realize that going without is n't such a bad option.People are addicted to their lifestyles in that they are very reluctant to change .
+But when they see that some change might not be so bad , that endagers what the music industry has come to rely on.Do n't mistake the RIAA for " the music industry " .
+Not every musical act is a marketing scam , as you seem to depict here .
+We can certainly get by without manufactured acts like Brittany Spears and Justin Timberlake , but without the indie scene no new genuine talent develops .
+[ bias warning - I 'm an indie musician on tour about 2000mi from home ]</tokentext>
+<sentencetext>They CANNOT afford to let people realize that going without isn't such a bad option.People are addicted to their lifestyles in that they are very reluctant to change.
+But when they see that some change might not be so bad, that endagers what the music industry has come to rely on.Don't mistake the RIAA for "the music industry".
+Not every musical act is a marketing scam, as you seem to depict here.
+We can certainly get by without manufactured acts like Brittany Spears and Justin Timberlake, but without the indie scene no new genuine talent develops.
+[bias warning - I'm an indie musician on tour about 2000mi from home]
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108059</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108615</id>
+	<title>Spotify</title>
+	<author>Anonymous</author>
+	<datestamp>1243434180000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>
+Spotify works well for me in the UK.  I was sceptical until I tried it.
+</p><p>
+I have used Pandora a while back, and it was kind-of impressive, but didn't rock my world, and had many limitations.
+</p><p>
+With Spotify, you have to know what you want to listen to, but that's not so difficult really.
+</p><p>
+I'm assuming Spotify has direct licensing deals with the labels and shows a middle finger to the PRS!</p></htmltext>
+<tokenext>Spotify works well for me in the UK .
+I was sceptical until I tried it .
+I have used Pandora a while back , and it was kind-of impressive , but did n't rock my world , and had many limitations .
+With Spotify , you have to know what you want to listen to , but that 's not so difficult really .
+I 'm assuming Spotify has direct licensing deals with the labels and shows a middle finger to the PRS !</tokentext>
+<sentencetext>
+Spotify works well for me in the UK.
+I was sceptical until I tried it.
+I have used Pandora a while back, and it was kind-of impressive, but didn't rock my world, and had many limitations.
+With Spotify, you have to know what you want to listen to, but that's not so difficult really.
+I'm assuming Spotify has direct licensing deals with the labels and shows a middle finger to the PRS!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108339</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108763</id>
+	<title>Re:are they insane?</title>
+	<author>Dorkmaster Flek</author>
+	<datestamp>1243435080000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I've need exactly that on various YouTube videos.  Not sure if that's only on "official" videos from a bands channel or something, but they had iTunes and Amazon links I think.
+
+To answer your original question, no.  They're not insane, they're just greedy.</htmltext>
+<tokenext>I 've need exactly that on various YouTube videos .
+Not sure if that 's only on " official " videos from a bands channel or something , but they had iTunes and Amazon links I think .
+To answer your original question , no .
+They 're not insane , they 're just greedy .</tokentext>
+<sentencetext>I've need exactly that on various YouTube videos.
+Not sure if that's only on "official" videos from a bands channel or something, but they had iTunes and Amazon links I think.
+To answer your original question, no.
+They're not insane, they're just greedy.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108507</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28113797</id>
+	<title>Next up, cheaper bacon?</title>
+	<author>Anonymous</author>
+	<datestamp>1243455960000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p>When I go into my local butchers, sometimes the radio is on.  The butchers have to buy a license from the PRS - there's a letter on the wall certifying that they have, in fact, paid for the license to play radio in public.  If people were going "Oh, I don't really want any bacon today<nobr> <wbr></nobr>... hmmm, I do really dig the music at the butchers, though!  Lets go anyhow<nobr> <wbr></nobr>..." then perhaps it would be a *little* understandable (though not necessarily reasonable) that PRS wanted a share of the profits.  But I really really don't think people are going to the butcher to listen to music and party amongst the cold meats.  In any case I can already listen to the same stuff on my own radio!</p><p>Perhaps whilst they're reducing their rates the PRS could relax some of their more ridiculous rules about public listening and then I can afford (marginally) more bacon.  Om nom nom nom.</p></htmltext>
+<tokenext>When I go into my local butchers , sometimes the radio is on .
+The butchers have to buy a license from the PRS - there 's a letter on the wall certifying that they have , in fact , paid for the license to play radio in public .
+If people were going " Oh , I do n't really want any bacon today ... hmmm , I do really dig the music at the butchers , though !
+Lets go anyhow ... " then perhaps it would be a * little * understandable ( though not necessarily reasonable ) that PRS wanted a share of the profits .
+But I really really do n't think people are going to the butcher to listen to music and party amongst the cold meats .
+In any case I can already listen to the same stuff on my own radio ! Perhaps whilst they 're reducing their rates the PRS could relax some of their more ridiculous rules about public listening and then I can afford ( marginally ) more bacon .
+Om nom nom nom .</tokentext>
+<sentencetext>When I go into my local butchers, sometimes the radio is on.
+The butchers have to buy a license from the PRS - there's a letter on the wall certifying that they have, in fact, paid for the license to play radio in public.
+If people were going "Oh, I don't really want any bacon today ... hmmm, I do really dig the music at the butchers, though!
+Lets go anyhow ..." then perhaps it would be a *little* understandable (though not necessarily reasonable) that PRS wanted a share of the profits.
+But I really really don't think people are going to the butcher to listen to music and party amongst the cold meats.
+In any case I can already listen to the same stuff on my own radio!Perhaps whilst they're reducing their rates the PRS could relax some of their more ridiculous rules about public listening and then I can afford (marginally) more bacon.
+Om nom nom nom.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28112229</id>
+	<title>Re:Pandora back in the UK?</title>
+	<author>jonbryce</author>
+	<datestamp>1243449300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>PRS don't care about that because the CD money goes to MCPS.</p></htmltext>
+<tokenext>PRS do n't care about that because the CD money goes to MCPS .</tokentext>
+<sentencetext>PRS don't care about that because the CD money goes to MCPS.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108339</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111551</id>
+	<title>"Religious Difference"</title>
+	<author>theridersofrohan</author>
+	<datestamp>1243446840000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><a href="http://www.ft.com/cms/s/0/16254098-4a1c-11de-8e7e-00144feabdc0.html" title="ft.com">Mr Shaw said PRS had a 'religious difference' with YouTube over the</a> [ft.com]<br>video site&#226;(TM)s continuing efforts to push for a flat-fee model.</p><p>What a dinosaur!</p></htmltext>
+<tokenext>Mr Shaw said PRS had a 'religious difference ' with YouTube over the [ ft.com ] video site Ã ¢ ( TM ) s continuing efforts to push for a flat-fee model.What a dinosaur !</tokentext>
+<sentencetext>Mr Shaw said PRS had a 'religious difference' with YouTube over the [ft.com]video siteÃ¢(TM)s continuing efforts to push for a flat-fee model.What a dinosaur!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108203</id>
+	<title>Re:Dual Standards</title>
+	<author>Richard W.M. Jones</author>
+	<datestamp>1243431900000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>2</modscore>
+	<htmltext><p> <i>What I don't understand is that PRS asks for 3-5\% of your Net Broadcasting Revenue yet if you're an online radio they ask for 6-8\% of your total revenue.</i> </p><p>
+Because they're a monopoly, backed by the power of the government, so they will define
+each market as they please and set their
+prices in each market based on maximizing the amount they can get away.  Literally they'll
+do this until
+companies run away and exit the business, as apparently happened with YouTube.
+</p><p>
+If they wanted 20\% from people wearing green clothes, they could demand it, because the
+people with green clothes would have no other choice other than to not play music in
+their shops and offices.
+</p><p>Rich.</p></htmltext>
+<tokenext>What I do n't understand is that PRS asks for 3-5 \ % of your Net Broadcasting Revenue yet if you 're an online radio they ask for 6-8 \ % of your total revenue .
+Because they 're a monopoly , backed by the power of the government , so they will define each market as they please and set their prices in each market based on maximizing the amount they can get away .
+Literally they 'll do this until companies run away and exit the business , as apparently happened with YouTube .
+If they wanted 20 \ % from people wearing green clothes , they could demand it , because the people with green clothes would have no other choice other than to not play music in their shops and offices .
+Rich .</tokentext>
+<sentencetext> What I don't understand is that PRS asks for 3-5\% of your Net Broadcasting Revenue yet if you're an online radio they ask for 6-8\% of your total revenue.
+Because they're a monopoly, backed by the power of the government, so they will define
+each market as they please and set their
+prices in each market based on maximizing the amount they can get away.
+Literally they'll
+do this until
+companies run away and exit the business, as apparently happened with YouTube.
+If they wanted 20\% from people wearing green clothes, they could demand it, because the
+people with green clothes would have no other choice other than to not play music in
+their shops and offices.
+Rich.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107979</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111299</id>
+	<title>Re:How much do the Artists get?</title>
+	<author>Kris Thalamus</author>
+	<datestamp>1243445820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Just as copyright law restricts people's right to copy, performance rights restrict people's right to perform.</p></htmltext>
+<tokenext>Just as copyright law restricts people 's right to copy , performance rights restrict people 's right to perform .</tokentext>
+<sentencetext>Just as copyright law restricts people's right to copy, performance rights restrict people's right to perform.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108643</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108507</id>
+	<title>are they insane?</title>
+	<author>spyrochaete</author>
+	<datestamp>1243433700000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>I can't be the only one to notice that 5\% of comments on just about every single Youtube video ask the question "what song is this?"</p><p>This is free guerrilla marketing by a genuinely enthusiastic public, with real live potential customers clamouring, publicly, to know what they're hearing and where they can get it.  You can't buy marketing like that.  If the music industry was smart they'd provide a free Youtube service that identifies a video's soundtrack and includes a "buy now" link to iTunes or maybe a first-party store.</p></htmltext>
+<tokenext>I ca n't be the only one to notice that 5 \ % of comments on just about every single Youtube video ask the question " what song is this ?
+" This is free guerrilla marketing by a genuinely enthusiastic public , with real live potential customers clamouring , publicly , to know what they 're hearing and where they can get it .
+You ca n't buy marketing like that .
+If the music industry was smart they 'd provide a free Youtube service that identifies a video 's soundtrack and includes a " buy now " link to iTunes or maybe a first-party store .</tokentext>
+<sentencetext>I can't be the only one to notice that 5\% of comments on just about every single Youtube video ask the question "what song is this?
+"This is free guerrilla marketing by a genuinely enthusiastic public, with real live potential customers clamouring, publicly, to know what they're hearing and where they can get it.
+You can't buy marketing like that.
+If the music industry was smart they'd provide a free Youtube service that identifies a video's soundtrack and includes a "buy now" link to iTunes or maybe a first-party store.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108339</id>
+	<title>Pandora back in the UK?</title>
+	<author>Anonymous</author>
+	<datestamp>1243432740000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>3</modscore>
+	<htmltext>As a former user of Pandora in the UK I'm waiting for them to make a statement about this. The death of Pandora here was a real blow to me as a music lover. While the rate reduction isn't exactly mind-blowing in size I'm keeping my fingers crossed that it'll be enough for it to return to the UK without me having to resort to unreliable proxies or VPNs.<br> <br>
+
+I've bought a couple of CDs of bands that I'd only discovered through Pandora in the past - I'll bet that the PRS don't factor those new sales into their bleeding heart stories about how streaming music is forcing songwriters to live in cardboard boxes. Hyperbole I know, but they took my Pandora away dammit!</htmltext>
+<tokenext>As a former user of Pandora in the UK I 'm waiting for them to make a statement about this .
+The death of Pandora here was a real blow to me as a music lover .
+While the rate reduction is n't exactly mind-blowing in size I 'm keeping my fingers crossed that it 'll be enough for it to return to the UK without me having to resort to unreliable proxies or VPNs .
+I 've bought a couple of CDs of bands that I 'd only discovered through Pandora in the past - I 'll bet that the PRS do n't factor those new sales into their bleeding heart stories about how streaming music is forcing songwriters to live in cardboard boxes .
+Hyperbole I know , but they took my Pandora away dammit !</tokentext>
+<sentencetext>As a former user of Pandora in the UK I'm waiting for them to make a statement about this.
+The death of Pandora here was a real blow to me as a music lover.
+While the rate reduction isn't exactly mind-blowing in size I'm keeping my fingers crossed that it'll be enough for it to return to the UK without me having to resort to unreliable proxies or VPNs.
+I've bought a couple of CDs of bands that I'd only discovered through Pandora in the past - I'll bet that the PRS don't factor those new sales into their bleeding heart stories about how streaming music is forcing songwriters to live in cardboard boxes.
+Hyperbole I know, but they took my Pandora away dammit!</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109031</id>
+	<title>The obligatory ??? Profit post</title>
+	<author>Andy\_R</author>
+	<datestamp>1243436400000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>1. Make own song, 1 minute long (must be original, but quality not important).<br>2. Put it on youtube<br>3. Join PRS<br>4. Write a script to hit the page every minute<br>5. Profit! but not much... 0.085p x 1224 minutes per day = &pound;1.04, minus PRS joining free of &pound;10 and their 12.5\% commission.</p></htmltext>
+<tokenext>1 .
+Make own song , 1 minute long ( must be original , but quality not important ) .2 .
+Put it on youtube3 .
+Join PRS4 .
+Write a script to hit the page every minute5 .
+Profit ! but not much... 0.085p x 1224 minutes per day = Â £ 1.04 , minus PRS joining free of Â £ 10 and their 12.5 \ % commission .</tokentext>
+<sentencetext>1.
+Make own song, 1 minute long (must be original, but quality not important).2.
+Put it on youtube3.
+Join PRS4.
+Write a script to hit the page every minute5.
+Profit! but not much... 0.085p x 1224 minutes per day = Â£1.04, minus PRS joining free of Â£10 and their 12.5\% commission.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108153</id>
+	<title>Re:How much do the Artists get?</title>
+	<author>Anonymous</author>
+	<datestamp>1243431600000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>4</modscore>
+	<htmltext><p><div class="quote"><p>I don't see how much the Artists get from the "0.085p for each track streamed".</p><p>I bet it's extremely low.</p></div><p>Bear in mind the PRS represents songwriters. So the performer gets nothing from this, unless they're also the songwriter.</p><p>As such a fair proportion of what's collected should go to the songwriter - since the PRS is not in itself a profit making institution, and this money doesn't go towards record company expenses such as marketing.</p></div>
+	</htmltext>
+<tokenext>I do n't see how much the Artists get from the " 0.085p for each track streamed " .I bet it 's extremely low.Bear in mind the PRS represents songwriters .
+So the performer gets nothing from this , unless they 're also the songwriter.As such a fair proportion of what 's collected should go to the songwriter - since the PRS is not in itself a profit making institution , and this money does n't go towards record company expenses such as marketing .</tokentext>
+<sentencetext>I don't see how much the Artists get from the "0.085p for each track streamed".I bet it's extremely low.Bear in mind the PRS represents songwriters.
+So the performer gets nothing from this, unless they're also the songwriter.As such a fair proportion of what's collected should go to the songwriter - since the PRS is not in itself a profit making institution, and this money doesn't go towards record company expenses such as marketing.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28112997</id>
+	<title>Extortionists</title>
+	<author>The Mgt</author>
+	<datestamp>1243452480000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Given that the PRS are the reason I can't listen to the radio at work anymore, I hope YouTube and Pandora tell them to get lost.</p></htmltext>
+<tokenext>Given that the PRS are the reason I ca n't listen to the radio at work anymore , I hope YouTube and Pandora tell them to get lost .</tokentext>
+<sentencetext>Given that the PRS are the reason I can't listen to the radio at work anymore, I hope YouTube and Pandora tell them to get lost.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109771</id>
+	<title>Re:How much do the Artists get?</title>
+	<author>shark72</author>
+	<datestamp>1243439880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I'm not sure what you mean by "next to nothing." PRS represents the creative folks behind the music -- the lyricists, composers, and publishers. They get the bulk of the money (something like 80\%+) with the PRS taking a bit off of the top.</p><p>If by "next to nothing" you mean that the royalty <i>per track</i> is low, you're right -- but this is what will give online radio a better chance of success, including a possible return of Pandora to the UK market. It's a tiny bit per track but it adds up. The economics of streaming radio preclude paying the artist a Euro per stream, but the royalty does add up quickly. If my math is right, the lyriist/composer earn about one Euro for 1,000 streaming plays. A thousand might not seem like much but when you look at how popular Internet radio is becoming in the UK, making a decent income from streaming becomes a possibility. And -- best of all -- <i>it's money that the record label doesn't get to touch</i>.</p><p>If by "next to nothing" you mean that artists who don't get much airplay don't get much money, and that the bulk of the money will go to the popular artists that, sadly, streaming radio listeners want to hear the most -- you're unfortunately correct. Popularity in the music world isn't necessarily based on talent. That's true for music sales and it's sadly true for airplay as well.</p></htmltext>
+<tokenext>I 'm not sure what you mean by " next to nothing .
+" PRS represents the creative folks behind the music -- the lyricists , composers , and publishers .
+They get the bulk of the money ( something like 80 \ % + ) with the PRS taking a bit off of the top.If by " next to nothing " you mean that the royalty per track is low , you 're right -- but this is what will give online radio a better chance of success , including a possible return of Pandora to the UK market .
+It 's a tiny bit per track but it adds up .
+The economics of streaming radio preclude paying the artist a Euro per stream , but the royalty does add up quickly .
+If my math is right , the lyriist/composer earn about one Euro for 1,000 streaming plays .
+A thousand might not seem like much but when you look at how popular Internet radio is becoming in the UK , making a decent income from streaming becomes a possibility .
+And -- best of all -- it 's money that the record label does n't get to touch.If by " next to nothing " you mean that artists who do n't get much airplay do n't get much money , and that the bulk of the money will go to the popular artists that , sadly , streaming radio listeners want to hear the most -- you 're unfortunately correct .
+Popularity in the music world is n't necessarily based on talent .
+That 's true for music sales and it 's sadly true for airplay as well .</tokentext>
+<sentencetext>I'm not sure what you mean by "next to nothing.
+" PRS represents the creative folks behind the music -- the lyricists, composers, and publishers.
+They get the bulk of the money (something like 80\%+) with the PRS taking a bit off of the top.If by "next to nothing" you mean that the royalty per track is low, you're right -- but this is what will give online radio a better chance of success, including a possible return of Pandora to the UK market.
+It's a tiny bit per track but it adds up.
+The economics of streaming radio preclude paying the artist a Euro per stream, but the royalty does add up quickly.
+If my math is right, the lyriist/composer earn about one Euro for 1,000 streaming plays.
+A thousand might not seem like much but when you look at how popular Internet radio is becoming in the UK, making a decent income from streaming becomes a possibility.
+And -- best of all -- it's money that the record label doesn't get to touch.If by "next to nothing" you mean that artists who don't get much airplay don't get much money, and that the bulk of the money will go to the popular artists that, sadly, streaming radio listeners want to hear the most -- you're unfortunately correct.
+Popularity in the music world isn't necessarily based on talent.
+That's true for music sales and it's sadly true for airplay as well.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108059</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108827</id>
+	<title>Re:How much do the Artists get?</title>
+	<author>Andy\_R</author>
+	<datestamp>1243435500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>According to their <a href="http://www.prsformusic.com/membership/MCPSroyalties/MCPScommissionrates/Pages/MCPScommissionrates.aspx" title="prsformusic.com">commission rates</a> [prsformusic.com], I guess this would come under 'broadcast blanket licensing' so the PRS gets 12.5\% and the songwriter gets 87.5\%. The PRS also takes a 1-off joining fee of &pound;10, deductible from royalties.</p></htmltext>
+<tokenext>According to their commission rates [ prsformusic.com ] , I guess this would come under 'broadcast blanket licensing ' so the PRS gets 12.5 \ % and the songwriter gets 87.5 \ % .
+The PRS also takes a 1-off joining fee of Â £ 10 , deductible from royalties .</tokentext>
+<sentencetext>According to their commission rates [prsformusic.com], I guess this would come under 'broadcast blanket licensing' so the PRS gets 12.5\% and the songwriter gets 87.5\%.
+The PRS also takes a 1-off joining fee of Â£10, deductible from royalties.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108153</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108099</id>
+	<title>We're coming closer to the real value</title>
+	<author>Anonymous</author>
+	<datestamp>1243431240000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>3</modscore>
+	<htmltext><p>Wake me up when we're at 0.00.</p></htmltext>
+<tokenext>Wake me up when we 're at 0.00 .</tokentext>
+<sentencetext>Wake me up when we're at 0.00.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28110169</id>
+	<title>Re:Anyone know what the story with...</title>
+	<author>Anonymous</author>
+	<datestamp>1243441500000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>Pandora  works in Canada on the iphone/ipod touch!</p><p>also, if you have a server in the use you can build a vpn using openvpn and set the 'redirect-gateway' flag to turn your vpn server into a nat router that gives you a us ip address. This is great for radio. If you're trying to stream tv through a vpn, you'll probably need to use tweakmaster to optimize the receive window on your tcp stack to compensate for latency.</p></htmltext>
+<tokenext>Pandora works in Canada on the iphone/ipod touch ! also , if you have a server in the use you can build a vpn using openvpn and set the 'redirect-gateway ' flag to turn your vpn server into a nat router that gives you a us ip address .
+This is great for radio .
+If you 're trying to stream tv through a vpn , you 'll probably need to use tweakmaster to optimize the receive window on your tcp stack to compensate for latency .</tokentext>
+<sentencetext>Pandora  works in Canada on the iphone/ipod touch!also, if you have a server in the use you can build a vpn using openvpn and set the 'redirect-gateway' flag to turn your vpn server into a nat router that gives you a us ip address.
+This is great for radio.
+If you're trying to stream tv through a vpn, you'll probably need to use tweakmaster to optimize the receive window on your tcp stack to compensate for latency.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108309</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111869</id>
+	<title>Lowering wont do it</title>
+	<author>nurb432</author>
+	<datestamp>1243447920000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Eliminating will.</p></htmltext>
+<tokenext>Eliminating will .</tokentext>
+<sentencetext>Eliminating will.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108161</id>
+	<title>Re:How much do the Artists get?</title>
+	<author>91degrees</author>
+	<datestamp>1243431660000</datestamp>
+	<modclass>Redundant</modclass>
+	<modscore>0</modscore>
+	<htmltext>AFAIK, none whatsoever.  This is the organisation that collects royalties for the composers and songwriters.</htmltext>
+<tokenext>AFAIK , none whatsoever .
+This is the organisation that collects royalties for the composers and songwriters .</tokentext>
+<sentencetext>AFAIK, none whatsoever.
+This is the organisation that collects royalties for the composers and songwriters.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28113957</id>
+	<title>Artists DO get paid for their work</title>
+	<author>serutan</author>
+	<datestamp>1243456680000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><i>"We need to ensure the music artists are paid for their work..."</i></p><p>A little clarification: Musicians, even the ones with recording contracts, get paid to Perform, like they have for thousands of years. Very few musicians ever get actual money from record sales, because in a standard recording contract all the expenses of producing a record -- from recording to manufacturing to advertising and distribution -- are deducted from the musician's royalties, which in practice means musicians almost never receive a dime no matter how many records they sell. If the companies really wanted to "ensure the music artists are paid for their work," they could try actually paying royalties instead of making them disappear through bookkeeping.</p><p>What musicians do get out of recording is publicity and exposure, which gets them bigger gigs and higher ticket prices, which is where they make a living. Exposure is exposure, whether it comes from people buying a record, listening to it on the radio or at a friends house, downloading an mp3 for free or shoplifting a copy from WalMart. In no way does the method of acquiring the copy hurt the musician.</p><p>This endless "protecting the artists" refrain on the part of record companies is complete nonsense. Music "piracy" hurts them and them alone. If record companies suddenly ceased to exist, most musicians would be completely unaffected because they don't have recording contracts. The other<nobr> <wbr></nobr>.01\% (a number I pulled out of my ass, but let's just say a tiny fraction) would have to get exposure in a different way, say for example by posting their songs for downloading, or by having wardrobe malfunctions onstage, hanging out with Paris Hilton, or going in and out of rehab a lot.</p></htmltext>
+<tokenext>" We need to ensure the music artists are paid for their work... " A little clarification : Musicians , even the ones with recording contracts , get paid to Perform , like they have for thousands of years .
+Very few musicians ever get actual money from record sales , because in a standard recording contract all the expenses of producing a record -- from recording to manufacturing to advertising and distribution -- are deducted from the musician 's royalties , which in practice means musicians almost never receive a dime no matter how many records they sell .
+If the companies really wanted to " ensure the music artists are paid for their work , " they could try actually paying royalties instead of making them disappear through bookkeeping.What musicians do get out of recording is publicity and exposure , which gets them bigger gigs and higher ticket prices , which is where they make a living .
+Exposure is exposure , whether it comes from people buying a record , listening to it on the radio or at a friends house , downloading an mp3 for free or shoplifting a copy from WalMart .
+In no way does the method of acquiring the copy hurt the musician.This endless " protecting the artists " refrain on the part of record companies is complete nonsense .
+Music " piracy " hurts them and them alone .
+If record companies suddenly ceased to exist , most musicians would be completely unaffected because they do n't have recording contracts .
+The other .01 \ % ( a number I pulled out of my ass , but let 's just say a tiny fraction ) would have to get exposure in a different way , say for example by posting their songs for downloading , or by having wardrobe malfunctions onstage , hanging out with Paris Hilton , or going in and out of rehab a lot .</tokentext>
+<sentencetext>"We need to ensure the music artists are paid for their work..."A little clarification: Musicians, even the ones with recording contracts, get paid to Perform, like they have for thousands of years.
+Very few musicians ever get actual money from record sales, because in a standard recording contract all the expenses of producing a record -- from recording to manufacturing to advertising and distribution -- are deducted from the musician's royalties, which in practice means musicians almost never receive a dime no matter how many records they sell.
+If the companies really wanted to "ensure the music artists are paid for their work," they could try actually paying royalties instead of making them disappear through bookkeeping.What musicians do get out of recording is publicity and exposure, which gets them bigger gigs and higher ticket prices, which is where they make a living.
+Exposure is exposure, whether it comes from people buying a record, listening to it on the radio or at a friends house, downloading an mp3 for free or shoplifting a copy from WalMart.
+In no way does the method of acquiring the copy hurt the musician.This endless "protecting the artists" refrain on the part of record companies is complete nonsense.
+Music "piracy" hurts them and them alone.
+If record companies suddenly ceased to exist, most musicians would be completely unaffected because they don't have recording contracts.
+The other .01\% (a number I pulled out of my ass, but let's just say a tiny fraction) would have to get exposure in a different way, say for example by posting their songs for downloading, or by having wardrobe malfunctions onstage, hanging out with Paris Hilton, or going in and out of rehab a lot.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28110435</id>
+	<title>Re:We're coming closer to the real value</title>
+	<author>Twinbee</author>
+	<datestamp>1243442640000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>So how do you propose the artists get paid? Now that high quality video/sound is coming into play, there's less incentive for consumers to buy the original. Some music isn't sold through CD, nor is it performed (example synthesizer stuff), so they can't make money off gigs etc.</p></htmltext>
+<tokenext>So how do you propose the artists get paid ?
+Now that high quality video/sound is coming into play , there 's less incentive for consumers to buy the original .
+Some music is n't sold through CD , nor is it performed ( example synthesizer stuff ) , so they ca n't make money off gigs etc .</tokentext>
+<sentencetext>So how do you propose the artists get paid?
+Now that high quality video/sound is coming into play, there's less incentive for consumers to buy the original.
+Some music isn't sold through CD, nor is it performed (example synthesizer stuff), so they can't make money off gigs etc.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108099</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108719</id>
+	<title>Re:How much do the Artists get?</title>
+	<author>fastest fascist</author>
+	<datestamp>1243434780000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>Performing rights, not performers' rights.</htmltext>
+<tokenext>Performing rights , not performers ' rights .</tokentext>
+<sentencetext>Performing rights, not performers' rights.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108643</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108255</id>
+	<title>Re:Dual Standards</title>
+	<author>Spad</author>
+	<datestamp>1243432260000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>2</modscore>
+	<htmltext><p><div class="quote"><p>What I don't understand is that <a href="http://www.prsformusic.com/playingbroadcastingonline/Radio/commercial\_radio/Pages/commercialradio.aspx" title="prsformusic.com">PRS asks for 3-5\% of your Net Broadcasting Revenue</a> [prsformusic.com] yet if you're an online radio they ask for <a href="http://www.prsformusic.com/playingbroadcastingonline/onlinemobile/MusicServices/JOL/Pages/JOL.aspx" title="prsformusic.com">6-8\% of your total revenue</a> [prsformusic.com].  Why aren't these figures closer?</p></div><p>Simple. While most web-based "radio" services have revenue, the majority don't make a profit and if they do it's generally a fairly small profit, so taxing their net revenue wouldn't make the PRS much, if any, money.</p><p>Comparitively, most over the air radio services have to make a profit to keep operating if they're commercial and if they're non- or not-for-profit such as student or hospital radio then they tend to come under fixed-rate tarrifs that are independent of their revenues.</p></div>
+	</htmltext>
+<tokenext>What I do n't understand is that PRS asks for 3-5 \ % of your Net Broadcasting Revenue [ prsformusic.com ] yet if you 're an online radio they ask for 6-8 \ % of your total revenue [ prsformusic.com ] .
+Why are n't these figures closer ? Simple .
+While most web-based " radio " services have revenue , the majority do n't make a profit and if they do it 's generally a fairly small profit , so taxing their net revenue would n't make the PRS much , if any , money.Comparitively , most over the air radio services have to make a profit to keep operating if they 're commercial and if they 're non- or not-for-profit such as student or hospital radio then they tend to come under fixed-rate tarrifs that are independent of their revenues .</tokentext>
+<sentencetext>What I don't understand is that PRS asks for 3-5\% of your Net Broadcasting Revenue [prsformusic.com] yet if you're an online radio they ask for 6-8\% of your total revenue [prsformusic.com].
+Why aren't these figures closer?Simple.
+While most web-based "radio" services have revenue, the majority don't make a profit and if they do it's generally a fairly small profit, so taxing their net revenue wouldn't make the PRS much, if any, money.Comparitively, most over the air radio services have to make a profit to keep operating if they're commercial and if they're non- or not-for-profit such as student or hospital radio then they tend to come under fixed-rate tarrifs that are independent of their revenues.
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107979</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28113299</id>
+	<title>Re:Pandora back in the UK?</title>
+	<author>Famous Moose</author>
+	<datestamp>1243453680000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>In the UK we also have <a href="http://www.we7.com/" title="we7.com" rel="nofollow">http://www.we7.com/</a> [we7.com] who do web based streaming using an ad supported model.</p><p>Moose</p></htmltext>
+<tokenext>In the UK we also have http : //www.we7.com/ [ we7.com ] who do web based streaming using an ad supported model.Moose</tokentext>
+<sentencetext>In the UK we also have http://www.we7.com/ [we7.com] who do web based streaming using an ad supported model.Moose</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108339</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108059</id>
+	<title>Re:How much do the Artists get?</title>
+	<author>erroneus</author>
+	<datestamp>1243430940000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext><p>As usual, artists get next to nothing.  It's not a big difference.  What they are facing is the realization that, especially in hard economic times, having a stranglehold on entertainment does not mean they can make people pay whatever they dictate.  When faced with 0.22p being rejected and given 0.00p, they saw that people were more willing to go without than to pay too much.  They CANNOT afford to let people realize that going without isn't such a bad option.</p><p>People are addicted to their lifestyles in that they are very reluctant to change.  But when they see that some change might not be so bad, that endagers what the music industry has come to rely on.</p></htmltext>
+<tokenext>As usual , artists get next to nothing .
+It 's not a big difference .
+What they are facing is the realization that , especially in hard economic times , having a stranglehold on entertainment does not mean they can make people pay whatever they dictate .
+When faced with 0.22p being rejected and given 0.00p , they saw that people were more willing to go without than to pay too much .
+They CAN NOT afford to let people realize that going without is n't such a bad option.People are addicted to their lifestyles in that they are very reluctant to change .
+But when they see that some change might not be so bad , that endagers what the music industry has come to rely on .</tokentext>
+<sentencetext>As usual, artists get next to nothing.
+It's not a big difference.
+What they are facing is the realization that, especially in hard economic times, having a stranglehold on entertainment does not mean they can make people pay whatever they dictate.
+When faced with 0.22p being rejected and given 0.00p, they saw that people were more willing to go without than to pay too much.
+They CANNOT afford to let people realize that going without isn't such a bad option.People are addicted to their lifestyles in that they are very reluctant to change.
+But when they see that some change might not be so bad, that endagers what the music industry has come to rely on.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108309</id>
+	<title>Anyone know what the story with...</title>
+	<author>Morphine007</author>
+	<datestamp>1243432560000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>... Pandora and Canada is? We used to get Pandora here in the socialist republic of Canuckistan. However, that stopped some time ago (2 years?). Which sucked massively, since (at the time), the service was incredibly awesome.<p>I wish we could get it back, but I don't even know why it left to begin with...</p></htmltext>
+<tokenext>... Pandora and Canada is ?
+We used to get Pandora here in the socialist republic of Canuckistan .
+However , that stopped some time ago ( 2 years ? ) .
+Which sucked massively , since ( at the time ) , the service was incredibly awesome.I wish we could get it back , but I do n't even know why it left to begin with.. .</tokentext>
+<sentencetext>... Pandora and Canada is?
+We used to get Pandora here in the socialist republic of Canuckistan.
+However, that stopped some time ago (2 years?).
+Which sucked massively, since (at the time), the service was incredibly awesome.I wish we could get it back, but I don't even know why it left to begin with...</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28113325</id>
+	<title>Re:The thing that amused me about TFA...</title>
+	<author>Homburg</author>
+	<datestamp>1243453740000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>When radio stations pay the PRS, they're not paying for things they've already paid royalties for. The PRS is the organization that <em>collects</em> the royalities. The 117 million pounds collected by the PRS wasn't "for doing nothing"; it's paid to the songwriters for, you know, writing songs.</p></htmltext>
+<tokenext>When radio stations pay the PRS , they 're not paying for things they 've already paid royalties for .
+The PRS is the organization that collects the royalities .
+The 117 million pounds collected by the PRS was n't " for doing nothing " ; it 's paid to the songwriters for , you know , writing songs .</tokentext>
+<sentencetext>When radio stations pay the PRS, they're not paying for things they've already paid royalties for.
+The PRS is the organization that collects the royalities.
+The 117 million pounds collected by the PRS wasn't "for doing nothing"; it's paid to the songwriters for, you know, writing songs.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109255</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111393</id>
+	<title>Re:Anyone know what the story with...</title>
+	<author>innocent\_white\_lamb</author>
+	<datestamp>1243446240000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Use AOL Radio.  It works great in Canada and there is something for every musical taste.</p><p>I, too, mourned the loss of Pandora but I discovered AOL Radio, it doesn't really matter.</p></htmltext>
+<tokenext>Use AOL Radio .
+It works great in Canada and there is something for every musical taste.I , too , mourned the loss of Pandora but I discovered AOL Radio , it does n't really matter .</tokentext>
+<sentencetext>Use AOL Radio.
+It works great in Canada and there is something for every musical taste.I, too, mourned the loss of Pandora but I discovered AOL Radio, it doesn't really matter.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108309</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109255</id>
+	<title>The thing that amused me about TFA...</title>
+	<author>Xest</author>
+	<datestamp>1243437420000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>...is how they mentioned the PRS is a non-profit organisation.</p><p>A non-profit organisation netting &pound;117 million in just the first 3 months of this year, during the depth of a recession? Either their staff are rather overpaid or someone's making a profit even if it isn't the PRS itself. No guesses as to who exactly might be making that profit! &pound;117 million for effectively doing nothing, for charging people to listen to the music they've already paid for, to play the radio the radio station has already paid royalties for. Most businesses in the world could only dream of making &pound;117 million in a year, let alone for doing pretty much nothing other than sending out a few invoices. No wonder they're willing to drop the price to 0.085p, they're already making &pound;117 million for doing nothing, why not make another few 10s of millions of pounds for charging the likes of YouTube and Pandora to do your job of advertising for you?</p><p>As usual the music cartel is hiding behind shell companies/organisations like the RIAA, the IFPI and the PRS, to try and sheild their companies from the bad reputation they know full well their extortion branches would otherwise give them if they were to do everything direct.</p><p>The problem is people fall for it and it works, I've seen many people defend stuff like the PS3 or Sony's Bluray offerings like James Bond releases whilst simultaneous ranting about how much they hate the RIAA/IFPI or whatever. The same goes for the likes of the other music companies. People need to either learn to boycott all their companies and organisations or accept that they're supporting them - there's no point refusing to buy say Sony music CDs for example and then going out and giving them money by spending it on their Bluray offerings or TVs instead. If you really want to make a difference and sting the people behind these organisations then simply boycotting one product in their large range isn't enough.</p><p>I'm not saying they shouldn't make money from their offerings when Google and Pandora profit from ad revenue and such, but to make it sound like they're doing a favour that they're dropping it this low when they already net hundreds of millions of pounds a year even during periods of recession for doing nothing? Are we supposed to be grateful or something?</p></htmltext>
+<tokenext>...is how they mentioned the PRS is a non-profit organisation.A non-profit organisation netting Â £ 117 million in just the first 3 months of this year , during the depth of a recession ?
+Either their staff are rather overpaid or someone 's making a profit even if it is n't the PRS itself .
+No guesses as to who exactly might be making that profit !
+Â £ 117 million for effectively doing nothing , for charging people to listen to the music they 've already paid for , to play the radio the radio station has already paid royalties for .
+Most businesses in the world could only dream of making Â £ 117 million in a year , let alone for doing pretty much nothing other than sending out a few invoices .
+No wonder they 're willing to drop the price to 0.085p , they 're already making Â £ 117 million for doing nothing , why not make another few 10s of millions of pounds for charging the likes of YouTube and Pandora to do your job of advertising for you ? As usual the music cartel is hiding behind shell companies/organisations like the RIAA , the IFPI and the PRS , to try and sheild their companies from the bad reputation they know full well their extortion branches would otherwise give them if they were to do everything direct.The problem is people fall for it and it works , I 've seen many people defend stuff like the PS3 or Sony 's Bluray offerings like James Bond releases whilst simultaneous ranting about how much they hate the RIAA/IFPI or whatever .
+The same goes for the likes of the other music companies .
+People need to either learn to boycott all their companies and organisations or accept that they 're supporting them - there 's no point refusing to buy say Sony music CDs for example and then going out and giving them money by spending it on their Bluray offerings or TVs instead .
+If you really want to make a difference and sting the people behind these organisations then simply boycotting one product in their large range is n't enough.I 'm not saying they should n't make money from their offerings when Google and Pandora profit from ad revenue and such , but to make it sound like they 're doing a favour that they 're dropping it this low when they already net hundreds of millions of pounds a year even during periods of recession for doing nothing ?
+Are we supposed to be grateful or something ?</tokentext>
+<sentencetext>...is how they mentioned the PRS is a non-profit organisation.A non-profit organisation netting Â£117 million in just the first 3 months of this year, during the depth of a recession?
+Either their staff are rather overpaid or someone's making a profit even if it isn't the PRS itself.
+No guesses as to who exactly might be making that profit!
+Â£117 million for effectively doing nothing, for charging people to listen to the music they've already paid for, to play the radio the radio station has already paid royalties for.
+Most businesses in the world could only dream of making Â£117 million in a year, let alone for doing pretty much nothing other than sending out a few invoices.
+No wonder they're willing to drop the price to 0.085p, they're already making Â£117 million for doing nothing, why not make another few 10s of millions of pounds for charging the likes of YouTube and Pandora to do your job of advertising for you?As usual the music cartel is hiding behind shell companies/organisations like the RIAA, the IFPI and the PRS, to try and sheild their companies from the bad reputation they know full well their extortion branches would otherwise give them if they were to do everything direct.The problem is people fall for it and it works, I've seen many people defend stuff like the PS3 or Sony's Bluray offerings like James Bond releases whilst simultaneous ranting about how much they hate the RIAA/IFPI or whatever.
+The same goes for the likes of the other music companies.
+People need to either learn to boycott all their companies and organisations or accept that they're supporting them - there's no point refusing to buy say Sony music CDs for example and then going out and giving them money by spending it on their Bluray offerings or TVs instead.
+If you really want to make a difference and sting the people behind these organisations then simply boycotting one product in their large range isn't enough.I'm not saying they shouldn't make money from their offerings when Google and Pandora profit from ad revenue and such, but to make it sound like they're doing a favour that they're dropping it this low when they already net hundreds of millions of pounds a year even during periods of recession for doing nothing?
+Are we supposed to be grateful or something?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109153</id>
+	<title>Artists should pay</title>
+	<author>visible.frylock</author>
+	<datestamp>1243437060000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p> <tt>Pandora pulled out at the start of 2008</tt></p></div> </blockquote><p>Artists should pay to be on Pandora, and cut out their damn middlemen. I've bought 3 cds and 1 download as a direct consequence of Pandora, that I wouldn't have bought otherwise. That I couldn't have bought or even pirated otherwise, because I didn't know it existed. And I really don't buy that much music.</p><p>Pandora + Allofmp3 = gold farm</p></div>
+	</htmltext>
+<tokenext>Pandora pulled out at the start of 2008 Artists should pay to be on Pandora , and cut out their damn middlemen .
+I 've bought 3 cds and 1 download as a direct consequence of Pandora , that I would n't have bought otherwise .
+That I could n't have bought or even pirated otherwise , because I did n't know it existed .
+And I really do n't buy that much music.Pandora + Allofmp3 = gold farm</tokentext>
+<sentencetext> Pandora pulled out at the start of 2008 Artists should pay to be on Pandora, and cut out their damn middlemen.
+I've bought 3 cds and 1 download as a direct consequence of Pandora, that I wouldn't have bought otherwise.
+That I couldn't have bought or even pirated otherwise, because I didn't know it existed.
+And I really don't buy that much music.Pandora + Allofmp3 = gold farm
+	</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28110315</id>
+	<title>Re:are they insane?</title>
+	<author>Anonymous</author>
+	<datestamp>1243442160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>But, exactly how many of them would then go and buy the CD compared to those who simply wanted the name so they could go and illegally download it..</p></htmltext>
+<tokenext>But , exactly how many of them would then go and buy the CD compared to those who simply wanted the name so they could go and illegally download it. .</tokentext>
+<sentencetext>But, exactly how many of them would then go and buy the CD compared to those who simply wanted the name so they could go and illegally download it..</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108507</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28112123</id>
+	<title>Re:How much do the Artists get?</title>
+	<author>jonbryce</author>
+	<datestamp>1243448880000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Performing Right Society.  Apparently the distinction is important.</p></htmltext>
+<tokenext>Performing Right Society .
+Apparently the distinction is important .</tokentext>
+<sentencetext>Performing Right Society.
+Apparently the distinction is important.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108643</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108391</id>
+	<title>Re:We're coming closer to the real value</title>
+	<author>Anonymous</author>
+	<datestamp>1243432980000</datestamp>
+	<modclass>Interestin</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Not so funny.  We are talking about Radio here.  Radio has always been free in America, why?  Because it HELPS the song writers AND performers simultaneously, so much more so than any fee on Radio could possibly bring.  Please see the <a href="http://www.noperformancetax.org/" title="noperformancetax.org" rel="nofollow">fight against the current movement in American politics</a> [noperformancetax.org] to introduce radio fees like they have in the UK and Europe.  It's simply a plee by the FOREIGN artists to get paid here like they do at home, nothing more because the artists here want radio (and especially internet radio) to be free.  The government has no business telling private industry how they should be run!  "Oh, you HAVE to charge for YOUR service!"  Shenanigans I say!</p></htmltext>
+<tokenext>Not so funny .
+We are talking about Radio here .
+Radio has always been free in America , why ?
+Because it HELPS the song writers AND performers simultaneously , so much more so than any fee on Radio could possibly bring .
+Please see the fight against the current movement in American politics [ noperformancetax.org ] to introduce radio fees like they have in the UK and Europe .
+It 's simply a plee by the FOREIGN artists to get paid here like they do at home , nothing more because the artists here want radio ( and especially internet radio ) to be free .
+The government has no business telling private industry how they should be run !
+" Oh , you HAVE to charge for YOUR service !
+" Shenanigans I say !</tokentext>
+<sentencetext>Not so funny.
+We are talking about Radio here.
+Radio has always been free in America, why?
+Because it HELPS the song writers AND performers simultaneously, so much more so than any fee on Radio could possibly bring.
+Please see the fight against the current movement in American politics [noperformancetax.org] to introduce radio fees like they have in the UK and Europe.
+It's simply a plee by the FOREIGN artists to get paid here like they do at home, nothing more because the artists here want radio (and especially internet radio) to be free.
+The government has no business telling private industry how they should be run!
+"Oh, you HAVE to charge for YOUR service!
+"  Shenanigans I say!</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108099</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107979</id>
+	<title>Dual Standards</title>
+	<author>eldavojohn</author>
+	<datestamp>1243430580000</datestamp>
+	<modclass>Informativ</modclass>
+	<modscore>5</modscore>
+	<htmltext>What I don't understand is that <a href="http://www.prsformusic.com/playingbroadcastingonline/Radio/commercial\_radio/Pages/commercialradio.aspx" title="prsformusic.com" rel="nofollow">PRS asks for 3-5\% of your Net Broadcasting Revenue</a> [prsformusic.com] yet if you're an online radio they ask for <a href="http://www.prsformusic.com/playingbroadcastingonline/onlinemobile/MusicServices/JOL/Pages/JOL.aspx" title="prsformusic.com" rel="nofollow">6-8\% of your total revenue</a> [prsformusic.com].  Why aren't these figures closer?  <br> <br>
+
+Also confusing to me is that I thought <a href="http://www.paidcontent.co.uk/entry/419-youtube-reaches-deal-with-uk-music-society-on-royalties/" title="paidcontent.co.uk" rel="nofollow">YouTube reached a deal with these guys</a> [paidcontent.co.uk] back in 2007?  Did that just fall apart?</htmltext>
+<tokenext>What I do n't understand is that PRS asks for 3-5 \ % of your Net Broadcasting Revenue [ prsformusic.com ] yet if you 're an online radio they ask for 6-8 \ % of your total revenue [ prsformusic.com ] .
+Why are n't these figures closer ?
+Also confusing to me is that I thought YouTube reached a deal with these guys [ paidcontent.co.uk ] back in 2007 ?
+Did that just fall apart ?</tokentext>
+<sentencetext>What I don't understand is that PRS asks for 3-5\% of your Net Broadcasting Revenue [prsformusic.com] yet if you're an online radio they ask for 6-8\% of your total revenue [prsformusic.com].
+Why aren't these figures closer?
+Also confusing to me is that I thought YouTube reached a deal with these guys [paidcontent.co.uk] back in 2007?
+Did that just fall apart?</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28115799</id>
+	<title>Re:How much do the Artists get?</title>
+	<author>serutan</author>
+	<datestamp>1243421160000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>Assuming they actually get paid real money, it's more than they get when somebody buys a CD with that same track on it [see my other comment in this thread]. Standard recording contracts deduct all production expenses from the artists royalties. So usually the artist ends up getting zero, unless they're Madonna or somebody with equal clout who can negotiate better contract terms. If these theoretical streaming royalties are somehow covered by the recording contract, then the musicians are still getting nothing. The whole recording industry rant about protecting musicians from getting ripped off by the public has always been a load of crap.</p></htmltext>
+<tokenext>Assuming they actually get paid real money , it 's more than they get when somebody buys a CD with that same track on it [ see my other comment in this thread ] .
+Standard recording contracts deduct all production expenses from the artists royalties .
+So usually the artist ends up getting zero , unless they 're Madonna or somebody with equal clout who can negotiate better contract terms .
+If these theoretical streaming royalties are somehow covered by the recording contract , then the musicians are still getting nothing .
+The whole recording industry rant about protecting musicians from getting ripped off by the public has always been a load of crap .</tokentext>
+<sentencetext>Assuming they actually get paid real money, it's more than they get when somebody buys a CD with that same track on it [see my other comment in this thread].
+Standard recording contracts deduct all production expenses from the artists royalties.
+So usually the artist ends up getting zero, unless they're Madonna or somebody with equal clout who can negotiate better contract terms.
+If these theoretical streaming royalties are somehow covered by the recording contract, then the musicians are still getting nothing.
+The whole recording industry rant about protecting musicians from getting ripped off by the public has always been a load of crap.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109687</id>
+	<title>Re:How much do the Artists get?</title>
+	<author>N1AK</author>
+	<datestamp>1243439460000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><blockquote><div><p>I don't see how much the Artists get from the "0.085p for each track streamed".
+<br>
+I bet it's extremely low.</p></div>
+</blockquote><p>Given that this is for songwriters not performers I'd bet they'll get nothing at all. However, if this charge didn't exist Artists and Songwriters would be getting nothing anyway, so what exactly is your point?</p></div>
+	</htmltext>
+<tokenext>I do n't see how much the Artists get from the " 0.085p for each track streamed " .
+I bet it 's extremely low .
+Given that this is for songwriters not performers I 'd bet they 'll get nothing at all .
+However , if this charge did n't exist Artists and Songwriters would be getting nothing anyway , so what exactly is your point ?</tokentext>
+<sentencetext>I don't see how much the Artists get from the "0.085p for each track streamed".
+I bet it's extremely low.
+Given that this is for songwriters not performers I'd bet they'll get nothing at all.
+However, if this charge didn't exist Artists and Songwriters would be getting nothing anyway, so what exactly is your point?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949</id>
+	<title>How much do the Artists get?</title>
+	<author>Krneki</author>
+	<datestamp>1243430340000</datestamp>
+	<modclass>Insightful</modclass>
+	<modscore>4</modscore>
+	<htmltext>I don't see how much the Artists get from the "0.085p for each track streamed".<br><br>I bet it's extremely low.</htmltext>
+<tokenext>I do n't see how much the Artists get from the " 0.085p for each track streamed " .I bet it 's extremely low .</tokentext>
+<sentencetext>I don't see how much the Artists get from the "0.085p for each track streamed".I bet it's extremely low.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28112571</id>
+	<title>Re:The thing that amused me about TFA...</title>
+	<author>91degrees</author>
+	<datestamp>1243450800000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><i>A non-profit organisation netting &pound;117 million in just the first 3 months of this year, </i> <br> <br>
+They only make &pound;14 million or so from that and they do have staffing costs.  Not just the heavies with baseball bats either.</htmltext>
+<tokenext>A non-profit organisation netting Â £ 117 million in just the first 3 months of this year , They only make Â £ 14 million or so from that and they do have staffing costs .
+Not just the heavies with baseball bats either .</tokentext>
+<sentencetext>A non-profit organisation netting Â£117 million in just the first 3 months of this year,   
+They only make Â£14 million or so from that and they do have staffing costs.
+Not just the heavies with baseball bats either.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109255</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108643</id>
+	<title>Re:How much do the Artists get?</title>
+	<author>OolimPhon</author>
+	<datestamp>1243434300000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p><div class="quote"><p>Bear in mind the PRS represents songwriters. So the performer gets nothing from this, unless they're also the songwriter.</p></div><p>Er, <b>P</b>erforming <b>R</b>ights <b>S</b>ociety?</p></div>
+	</htmltext>
+<tokenext>Bear in mind the PRS represents songwriters .
+So the performer gets nothing from this , unless they 're also the songwriter.Er , Performing Rights Society ?</tokentext>
+<sentencetext>Bear in mind the PRS represents songwriters.
+So the performer gets nothing from this, unless they're also the songwriter.Er, Performing Rights Society?
+	</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108153</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28122295</id>
+	<title>Spin</title>
+	<author>dugeen</author>
+	<datestamp>1243519020000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext>I saw this on the BBC website, it's just a press release really, trying to make the PRS sound like they're offering a solution rather than constituting the problem.</htmltext>
+<tokenext>I saw this on the BBC website , it 's just a press release really , trying to make the PRS sound like they 're offering a solution rather than constituting the problem .</tokentext>
+<sentencetext>I saw this on the BBC website, it's just a press release really, trying to make the PRS sound like they're offering a solution rather than constituting the problem.</sentencetext>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28110275</id>
+	<title>Re:We're coming closer to the real value</title>
+	<author>cliffski</author>
+	<datestamp>1243441920000</datestamp>
+	<modclass>Troll</modclass>
+	<modscore>0</modscore>
+	<htmltext><p>why bother?<br>if music has no value to you, why give a fuck when its free?<br>Or are you so bored that your time is absolutely totally and utterly worthless?</p><p>Wake me up when musicians rent is free.</p></htmltext>
+<tokenext>why bother ? if music has no value to you , why give a fuck when its free ? Or are you so bored that your time is absolutely totally and utterly worthless ? Wake me up when musicians rent is free .</tokentext>
+<sentencetext>why bother?if music has no value to you, why give a fuck when its free?Or are you so bored that your time is absolutely totally and utterly worthless?Wake me up when musicians rent is free.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108099</parent>
+</comment>
+<comment>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108521</id>
+	<title>Re:Pandora back in the UK?</title>
+	<author>D-Cypell</author>
+	<datestamp>1243433820000</datestamp>
+	<modclass>None</modclass>
+	<modscore>1</modscore>
+	<htmltext><p>I have been using <a href="http://www.jango.com/" title="jango.com">Jango</a> [jango.com] for the past few months and find it very good. I am out in India currently so I have no idea how it works in the UK, but it is great here, probably worth a look.</p><p>For the record, I am not affiliated with them beyond being a regular user.</p></htmltext>
+<tokenext>I have been using Jango [ jango.com ] for the past few months and find it very good .
+I am out in India currently so I have no idea how it works in the UK , but it is great here , probably worth a look.For the record , I am not affiliated with them beyond being a regular user .</tokentext>
+<sentencetext>I have been using Jango [jango.com] for the past few months and find it very good.
+I am out in India currently so I have no idea how it works in the UK, but it is great here, probably worth a look.For the record, I am not affiliated with them beyond being a regular user.</sentencetext>
+	<parent>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108339</parent>
+</comment>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_9</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108203
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107979
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_11</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28112571
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109255
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_15</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108787
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_13</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108827
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108153
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_12</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108521
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108339
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_17</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28110435
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108099
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_16</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28112229
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108339
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108719
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108643
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108153
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_10</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111393
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108309
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_22</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28115799
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108763
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108507
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_14</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28112123
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108643
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108153
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111299
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108643
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108153
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_20</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28110275
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108099
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_23</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28113299
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108339
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_18</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111221
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108615
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108339
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28110315
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108507
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109771
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108059
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109687
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_24</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111615
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108059
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28113325
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109255
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_21</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108255
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107979
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28110169
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108309
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_19</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108391
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108099
+</commentlist>
+</thread>
+<thread>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#thread_09_05_27_0111259_5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108161
+http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949
+</commentlist>
+</thread>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0111259.4</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108507
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28110315
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108763
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0111259.2</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109255
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28113325
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28112571
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0111259.5</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107949
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109687
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108161
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108153
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108643
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108719
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111299
+---http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28112123
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108827
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108059
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109771
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111615
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108787
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28115799
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0111259.3</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108339
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28112229
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108615
+--http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111221
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108521
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28113299
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0111259.0</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28109031
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0111259.1</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108309
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28111393
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28110169
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0111259.8</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28113797
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0111259.6</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28107979
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108203
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108255
+</commentlist>
+</conversation>
+<conversation>
+	<id>http://www.semanticweb.org/ontologies/ConversationInstances.owl#conversation09_05_27_0111259.7</id>
+	<commentlist>http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108099
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28110275
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28110435
+-http://www.semanticweb.org/ontologies/ConversationInstances.owl#comment09_05_27_0111259.28108391
+</commentlist>
+</conversation>

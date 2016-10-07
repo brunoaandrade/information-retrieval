@@ -1,0 +1,27 @@
+<article>
+	<pid>380021</pid>
+	<title>
+	Durant, Westbrook to play in game for Lucas' foundation
+</title>
+	<url>http://www.tsn.ca/nhl/story/?id=380021</url>
+	<date>11/9/2011 1:22:30 PM</date>
+	<author>Associated Press</author>
+	<text>HOUSTON --Kevin&nbsp;Durant,Russell&nbsp;WestbrookandRashard&nbsp;Lewisare expected to headline a charity basketball game that will benefitJohn&nbsp;Lucas's foundation that provides substance-abuse counselling for athletes.The game will be held Nov. 20 at Delmar Fieldhouse in northwest Houston, once the home of the Houston Cougars' basketball team. The arena has 5,000 seats.KRIV-TV first reported the event was scheduled.Lucas, who played in the NBA from 1976-90, spoke about the game as NBA players and owners gathered to discuss whether to accept the league's latest proposal to end the lockout. Commissioner David Stern set a Wednesday deadline for the union to take the deal. The two sides are still divided over changes to the salary cap system, as well as the revenue split.</text>
+	<score>617</score>
+</article>
+<comment>
+	<cid>2698762</cid>
+	<date>11/9/2011 1:37:51 PM</date>
+	<author>CanadaFan7</author>
+	<text>KD seems to be a truly great human. He has done nothing but charity events, events with kids, going to high schools, since the lockout began. Where are the rest of these chumps? One guy is out there maker the world a better place, while the rest of these greedy fools are arguing over money. Kevin seems to understand what life is really about! Way to go KD!</text>
+	<score>6</score>
+	<parent>0</parent>
+</comment>
+<comment>
+	<cid>2705621</cid>
+	<date>11/10/2011 11:24:24 PM</date>
+	<author>Cal5</author>
+	<text>Great actions by the three of them. KD and Westbroook can help save face for some of the players. Others have done things but unfortunately, some of the people who just plain hate on people don"t see it. For example, Lebron has been in a few charity games, as well as Wade, but since they are that "super" team, people find other reasons to crap on them. Rashard Lewis is doing something good too. Yes, he has a brutal contract that"s one of the reasons we are locked out today, but it wasn"t his fault that he was given the contract what"s he going to say, no?. He also said that he would allow his last years the biggest parts of his contract be void in order to get a deal that"s good for everyone we are really talking about Amnesty now, maybe in relation to his comments?. I side with the players here but eventually they are going to have to give in with the greedier owners.</text>
+	<score>-1</score>
+	<parent>0</parent>
+</comment>
